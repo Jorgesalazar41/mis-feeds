@@ -4,6 +4,7 @@ Feeds RSS personalizado para NetNewsWire
 ## Feeds
 
 - Noticias: `https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml`
+- Vídeos de Claude (menos de 15 min): `https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml`
 
 ## Canales de YouTube (feeds directos)
 

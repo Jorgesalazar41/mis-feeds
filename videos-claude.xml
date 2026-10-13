@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Vídeos de Claude</title>
+<link>https://www.youtube.com/@claude/videos</link>
+<atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
+<description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
+<language>es-es</language>
+<lastBuildDate>Tue, 13 Oct 2026 13:52:29 +0200</lastBuildDate>
+
+<item>
+<title>Getting started with Claude Code Projects (4:33)</title>
+<link>https://www.youtube.com/watch?v=omihvjf0A2k</link>
+<guid isPermaLink="false">yt-omihvjf0A2k</guid>
+<pubDate>Fri, 09 Oct 2026 21:49:09 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omihvjf0A2k" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=omihvjf0A2k"><img src="https://i.ytimg.com/vi/omihvjf0A2k/hqdefault.jpg" alt="Miniatura"/></a></p><p>Cómo funcionan los proyectos de Claude Code: una conversación continua en la que Claude reparte el trabajo en hilos que avanzan en paralelo. Enseña a crear un proyecto, dirigir los hilos, revisar pull requests y programar tareas.</p><p>Duración: 4:33 · <a href="https://www.youtube.com/watch?v=omihvjf0A2k">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Introducing Claude Dashboards and Claude Motion (1:22)</title>
+<link>https://www.youtube.com/watch?v=en0GuyhieQk</link>
+<guid isPermaLink="false">yt-en0GuyhieQk</guid>
+<pubDate>Thu, 08 Oct 2026 20:52:44 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/en0GuyhieQk" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=en0GuyhieQk"><img src="https://i.ytimg.com/vi/en0GuyhieQk/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de dos novedades en beta: Claude Dashboards, que convierte tus datos en paneles que se actualizan solos, y Claude Motion, que crea vídeos explicativos animados a partir de una idea.</p><p>Duración: 1:22 · <a href="https://www.youtube.com/watch?v=en0GuyhieQk">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Inside Shopify's AI strategy with CTO Mikhail Parakhin (12:19)</title>
+<link>https://www.youtube.com/watch?v=9GtcbnmldcY</link>
+<guid isPermaLink="false">yt-9GtcbnmldcY</guid>
+<pubDate>Thu, 08 Oct 2026 18:30:45 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9GtcbnmldcY" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=9GtcbnmldcY"><img src="https://i.ytimg.com/vi/9GtcbnmldcY/hqdefault.jpg" alt="Miniatura"/></a></p><p>Entrevista al CTO de Shopify sobre cómo usa la empresa a Claude: tokens sin límite para toda la plantilla, siempre el modelo más grande y un "gemelo digital" de la compañía.</p><p>Duración: 12:19 · <a href="https://www.youtube.com/watch?v=9GtcbnmldcY">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>What's new in Claude: September recap (2:38)</title>
+<link>https://www.youtube.com/watch?v=ICGS7LlRfpI</link>
+<guid isPermaLink="false">yt-ICGS7LlRfpI</guid>
+<pubDate>Wed, 07 Oct 2026 17:41:05 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ICGS7LlRfpI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=ICGS7LlRfpI"><img src="https://i.ytimg.com/vi/ICGS7LlRfpI/hqdefault.jpg" alt="Miniatura"/></a></p><p>Resumen de las novedades de septiembre: el chat y Cowork pasan a ser un solo Claude, llegan documentos, presentaciones y diseños dentro de la conversación, el trabajo sigue en la nube con el portátil cerrado y salen los modelos 5.5.</p><p>Duración: 2:38 · <a href="https://www.youtube.com/watch?v=ICGS7LlRfpI">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Claude for Google Workspace™ (1:00)</title>
+<link>https://www.youtube.com/watch?v=idJQMJwHtyM</link>
+<guid isPermaLink="false">yt-idJQMJwHtyM</guid>
+<pubDate>Tue, 06 Oct 2026 19:02:37 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/idJQMJwHtyM" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=idJQMJwHtyM"><img src="https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg" alt="Miniatura"/></a></p><p>Claude dentro de Google Docs, Sheets y Slides con una sola instalación: lee el archivo que tienes abierto y lo edita directamente. En beta para planes de pago.</p><p>Duración: 1:00 · <a href="https://www.youtube.com/watch?v=idJQMJwHtyM">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Mods in Claude Code: change how Claude Code works (3:21)</title>
+<link>https://www.youtube.com/watch?v=yUuFvL1lK4k</link>
+<guid isPermaLink="false">yt-yUuFvL1lK4k</guid>
+<pubDate>Mon, 05 Oct 2026 21:18:43 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yUuFvL1lK4k" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=yUuFvL1lK4k"><img src="https://i.ytimg.com/vi/yUuFvL1lK4k/hqdefault.jpg" alt="Miniatura"/></a></p><p>Los mods de Claude Code permiten cambiar lo que muestra, lo que entra en el prompt y las herramientas que usa. Una ingeniera de Anthropic enseña tres que ha hecho y construye uno en directo.</p><p>Duración: 3:21 · <a href="https://www.youtube.com/watch?v=yUuFvL1lK4k">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Build an App With Claude Design (1:43)</title>
+<link>https://www.youtube.com/watch?v=COJAZQM1aeQ</link>
+<guid isPermaLink="false">yt-COJAZQM1aeQ</guid>
+<pubDate>Fri, 02 Oct 2026 21:44:06 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/COJAZQM1aeQ" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=COJAZQM1aeQ"><img src="https://i.ytimg.com/vi/COJAZQM1aeQ/hqdefault.jpg" alt="Miniatura"/></a></p><p>Un diseñador de Anthropic usa Claude Design dentro de Claude Code para pasar el onboarding de su proyecto personal de idea a prototipo funcional, comentando las propuestas y retocando detalles a mano.</p><p>Duración: 1:43 · <a href="https://www.youtube.com/watch?v=COJAZQM1aeQ">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>How an Anthropic designer uses Claude Slides (1:45)</title>
+<link>https://www.youtube.com/watch?v=bVXiNb9RyyI</link>
+<guid isPermaLink="false">yt-bVXiNb9RyyI</guid>
+<pubDate>Thu, 01 Oct 2026 20:07:41 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bVXiNb9RyyI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=bVXiNb9RyyI"><img src="https://i.ytimg.com/vi/bVXiNb9RyyI/hqdefault.jpg" alt="Miniatura"/></a></p><p>De nota de voz a presentación: un diseñador de Anthropic graba sus ideas paseando y luego las convierte en diapositivas con Claude Slides.</p><p>Duración: 1:45 · <a href="https://www.youtube.com/watch?v=bVXiNb9RyyI">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Getting started with Claude Tag (3:00)</title>
+<link>https://www.youtube.com/watch?v=_f_rtbW_uFM</link>
+<guid isPermaLink="false">yt-_f_rtbW_uFM</guid>
+<pubDate>Tue, 29 Sep 2026 22:07:36 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_f_rtbW_uFM" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=_f_rtbW_uFM"><img src="https://i.ytimg.com/vi/_f_rtbW_uFM/hqdefault.jpg" alt="Miniatura"/></a></p><p>Primeros pasos con Claude Tag: añades a Claude a un canal de Slack y sigue la conversación del equipo en tiempo real, sin copiar y pegar contexto.</p><p>Duración: 3:00 · <a href="https://www.youtube.com/watch?v=_f_rtbW_uFM">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Introducing Claude Sonnet 5.5 (0:14)</title>
+<link>https://www.youtube.com/watch?v=s5nkj-L2vAw</link>
+<guid isPermaLink="false">yt-s5nkj-L2vAw</guid>
+<pubDate>Mon, 28 Sep 2026 20:04:19 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5nkj-L2vAw" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=s5nkj-L2vAw"><img src="https://i.ytimg.com/vi/s5nkj-L2vAw/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de Sonnet 5.5: más de un 30% más rápido que Sonnet 5 y con mejor redacción, pensado para tareas cotidianas bien acotadas.</p><p>Duración: 0:14 · <a href="https://www.youtube.com/watch?v=s5nkj-L2vAw">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Building verification loops in Claude Code (3:08)</title>
+<link>https://www.youtube.com/watch?v=mQZB0l-rhxE</link>
+<guid isPermaLink="false">yt-mQZB0l-rhxE</guid>
+<pubDate>Sat, 26 Sep 2026 01:13:15 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mQZB0l-rhxE" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=mQZB0l-rhxE"><img src="https://i.ytimg.com/vi/mQZB0l-rhxE/hqdefault.jpg" alt="Miniatura"/></a></p><p>Cómo dar a Claude Code más formas de comprobar su propio trabajo, además de tests y linters, para que avance más solo y haga falta menos ida y vuelta.</p><p>Duración: 3:08 · <a href="https://www.youtube.com/watch?v=mQZB0l-rhxE">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Using AI in humanitarian work (2:55)</title>
+<link>https://www.youtube.com/watch?v=oZgcAsfvS_g</link>
+<guid isPermaLink="false">yt-oZgcAsfvS_g</guid>
+<pubDate>Thu, 24 Sep 2026 19:03:13 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oZgcAsfvS_g" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=oZgcAsfvS_g"><img src="https://i.ytimg.com/vi/oZgcAsfvS_g/hqdefault.jpg" alt="Miniatura"/></a></p><p>Reportaje sobre el trabajo del International Rescue Committee contra la desnutrición infantil en Nigeria y cómo podría ayudar Claude.</p><p>Duración: 2:55 · <a href="https://www.youtube.com/watch?v=oZgcAsfvS_g">Ver en YouTube</a></p>]]></description>
+</item>
+
+<item>
+<title>Using Claude Opus 5.5 as your daily driver (3:33)</title>
+<link>https://www.youtube.com/watch?v=jKRl_CSVxyI</link>
+<guid isPermaLink="false">yt-jKRl_CSVxyI</guid>
+<pubDate>Wed, 23 Sep 2026 18:41:37 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jKRl_CSVxyI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=jKRl_CSVxyI"><img src="https://i.ytimg.com/vi/jKRl_CSVxyI/hqdefault.jpg" alt="Miniatura"/></a></p><p>Opus 5.5 en el día a día de Claude Code: más rápido que Opus 5, explica mejor lo que ha hecho y es un 20% más barato por token. Compara el mismo bug resuelto por ambos modelos.</p><p>Duración: 3:33 · <a href="https://www.youtube.com/watch?v=jKRl_CSVxyI">Ver en YouTube</a></p>]]></description>
+</item>
+
+</channel>
+</rss>
