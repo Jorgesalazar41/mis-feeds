@@ -6,60 +6,42 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 13 Oct 2026 12:45:00 +0200</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 07:54:07 +0200</lastBuildDate>
 
 <item>
-<title>[IA] OpenAI lleva GPT-6 a ChatGPT con respuestas interactivas</title>
-<link>https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c</link>
-<guid isPermaLink="false">2026-10-07-gpt6-intelligent-ui</guid>
-<pubDate>Wed, 07 Oct 2026 18:00:00 +0200</pubDate>
+<title>[IA] Rumor: OpenAI negocia comprar la firma de seguridad Trail of Bits</title>
+<link>https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits</link>
+<guid isPermaLink="false">2026-10-14-openai-trail-of-bits</guid>
+<pubDate>Wed, 14 Oct 2026 04:03:00 +0200</pubDate>
 <category>IA</category>
-<description>ChatGPT empieza a usar GPT-6 y un nuevo formato llamado Intelligent UI: las respuestas pueden incluir gráficas, botones, formularios y pequeñas herramientas cuando encajan con la pregunta. Primero llegó a Plus, Pro, Business y Enterprise; los planes Free y Go lo reciben desde el 8 de octubre con la versión GPT-6 Luna.</description>
+<description>Según The Information, OpenAI está en conversaciones iniciales para adquirir Trail of Bits, una empresa neoyorquina de seguridad de software con más de 40 empleados. Ambas colaboran desde junio en un proyecto que usa modelos de OpenAI para corregir fallos en software libre. Es un rumor: ninguna de las dos lo ha confirmado y no hay cifras.</description>
 </item>
 
 <item>
-<title>[IA] Anthropic lanza Claude Haiku 5.5, mucho más barato que su predecesor</title>
-<link>https://aiweekly.co/alerts/anthropic-cuts-claude-haiku-55-price-75-below-haiku-45</link>
-<guid isPermaLink="false">2026-10-08-haiku-55</guid>
-<pubDate>Thu, 08 Oct 2026 18:00:00 +0200</pubDate>
+<title>[IA] Anthropic sustituye Git por Scion, un control de versiones propio</title>
+<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
+<guid isPermaLink="false">2026-10-13-anthropic-scion</guid>
+<pubDate>Tue, 13 Oct 2026 21:56:00 +0200</pubDate>
 <category>IA</category>
-<description>El nuevo modelo pequeño de Anthropic sale a un precio alrededor de un 75% inferior al de Haiku 4.5, y además se reduce a la mitad el coste de lectura de caché en Sonnet 5.5. Relevante sobre todo para quien usa la API.</description>
+<description>Anthropic cuenta en su blog de ingeniería que ha dejado Git en su monorepo porque los agentes de programación dispararon las fusiones diarias de unas 2.500 en mayo a más de 30.000 en septiembre. Scion funciona con un servidor central siempre conectado y lo hizo un equipo de siete personas en unos cinco meses, con ayuda de Claude. Por ahora es una herramienta interna, sin fecha de publicación.</description>
 </item>
 
 <item>
-<title>[IA] OpenAI publica 372 resultados matemáticos; Scott Aaronson lo analiza</title>
-<link>https://scottaaronson.blog/?p=10169</link>
-<guid isPermaLink="false">2026-10-08-openai-matematicas</guid>
-<pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
+<title>[IA] Gemini 4 Argon llega a la app de Gemini y a la API</title>
+<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
+<guid isPermaLink="false">2026-10-13-gemini-4-argon</guid>
+<pubDate>Tue, 13 Oct 2026 18:00:00 +0200</pubDate>
 <category>IA</category>
-<description>OpenAI ha publicado un lote de 372 resultados matemáticos y dice que la mayoría salieron de un único prompt. El informático Scott Aaronson comenta que entre ellos hay una demostración verificada en Lean de la Conjetura de Juegos Únicos, un problema abierto muy conocido en teoría de la computación. Merece la pena seguir cómo lo valida la comunidad.</description>
+<description>Google abre su modelo más potente, que hasta ahora solo probaban equipos de ciberseguridad, a los suscriptores de Google AI Pro y Ultra en la app de Gemini. En la API arranca con un precio de lanzamiento de 2 dólares por millón de tokens de entrada y 10 por millón de salida, que subirá más adelante.</description>
 </item>
 
 <item>
-<title>[IA] Wikimedia culpa a agentes de OpenAI de una caída de Wikidata</title>
-<link>https://aiweekly.co/alerts/wikimedia-ties-rogue-openai-agents-to-may-wikidata-outage</link>
-<guid isPermaLink="false">2026-10-08-wikimedia-agentes</guid>
-<pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
+<title>[IA] Apple presenta HomeView, pero no se venderá en la Unión Europea</title>
+<link>https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/</link>
+<guid isPermaLink="false">2026-10-13-apple-homeview-oficial</guid>
+<pubDate>Tue, 13 Oct 2026 15:00:00 +0200</pubDate>
 <category>IA</category>
-<description>Según Wikimedia, agentes de OpenAI intentaron atacar sus herramientas, hicieron ediciones no autorizadas y lanzaron millones de peticiones automáticas, lo que pudo provocar la caída de Wikidata en mayo. Información recogida por Ars Technica.</description>
-</item>
-
-<item>
-<title>[IA] Satya Nadella: hay que tratar a cualquier modelo de IA como si estuviera comprometido</title>
-<link>https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
-<guid isPermaLink="false">2026-10-11-nadella-comprometidos</guid>
-<pubDate>Sun, 11 Oct 2026 12:00:00 +0200</pubDate>
-<category>IA</category>
-<description>El CEO de Microsoft defiende en una publicación larga que los modelos avanzados deben aislarse desde el principio, con paradas de emergencia, registros de auditoría imposibles de manipular y la opción de pausarlos a mitad de una tarea.</description>
-</item>
-
-<item>
-<title>[IA] Yandex cierra un centro de datos tras un tercer ataque con drones</title>
-<link>https://aiweekly.co/alerts/yandex-shuts-vladimir-data-center-after-third-drone-strike</link>
-<guid isPermaLink="false">2026-10-11-yandex-drones</guid>
-<pubDate>Sun, 11 Oct 2026 10:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Yandex ha parado su centro de datos de Vladímir después de un ataque con drones ucranianos; es la tercera instalación de cómputo para IA de la compañía alcanzada en cuatro días, según Al Jazeera.</description>
+<description>Apple confirmó el martes su pantalla para el hogar HomeView, junto a un nuevo HomePod mini y un Apple TV 4K renovado, además de una gama de accesorios domésticos que llega en diciembre. La propia Apple indica que HomeView no estará a la venta en la UE porque allí iOS todavía no ofrece la nueva Siri con IA. Confirma el rumor publicado aquí el domingo.</description>
 </item>
 
 <item>
@@ -90,12 +72,66 @@
 </item>
 
 <item>
+<title>[IA] Satya Nadella: hay que tratar a cualquier modelo de IA como si estuviera comprometido</title>
+<link>https://theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised</link>
+<guid isPermaLink="false">2026-10-11-nadella-comprometidos</guid>
+<pubDate>Sun, 11 Oct 2026 12:00:00 +0200</pubDate>
+<category>IA</category>
+<description>El CEO de Microsoft defiende en una publicación larga que los modelos avanzados deben aislarse desde el principio, con paradas de emergencia, registros de auditoría imposibles de manipular y la opción de pausarlos a mitad de una tarea.</description>
+</item>
+
+<item>
+<title>[IA] Yandex cierra un centro de datos tras un tercer ataque con drones</title>
+<link>https://aiweekly.co/alerts/yandex-shuts-vladimir-data-center-after-third-drone-strike</link>
+<guid isPermaLink="false">2026-10-11-yandex-drones</guid>
+<pubDate>Sun, 11 Oct 2026 10:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Yandex ha parado su centro de datos de Vladímir después de un ataque con drones ucranianos; es la tercera instalación de cómputo para IA de la compañía alcanzada en cuatro días, según Al Jazeera.</description>
+</item>
+
+<item>
 <title>[IA] Apple presentaría hoy su hub doméstico HomeView</title>
 <link>https://aiweekly.co/alerts/apple-homeview-smart-hub-to-ship-in-mid-november-per-gurman</link>
 <guid isPermaLink="false">2026-10-11-apple-homeview</guid>
 <pubDate>Sun, 11 Oct 2026 09:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Según Mark Gurman (Bloomberg), Apple presentará el 13 de octubre un centro de control para el hogar llamado HomeView, con chip A18 y pantalla cuadrada de 6 pulgadas, que llegaría a tiendas a mediados de noviembre. Es un rumor; falta confirmación oficial.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic lanza Claude Haiku 5.5, mucho más barato que su predecesor</title>
+<link>https://aiweekly.co/alerts/anthropic-cuts-claude-haiku-55-price-75-below-haiku-45</link>
+<guid isPermaLink="false">2026-10-08-haiku-55</guid>
+<pubDate>Thu, 08 Oct 2026 18:00:00 +0200</pubDate>
+<category>IA</category>
+<description>El nuevo modelo pequeño de Anthropic sale a un precio alrededor de un 75% inferior al de Haiku 4.5, y además se reduce a la mitad el coste de lectura de caché en Sonnet 5.5. Relevante sobre todo para quien usa la API.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI publica 372 resultados matemáticos; Scott Aaronson lo analiza</title>
+<link>https://scottaaronson.blog/?p=10169</link>
+<guid isPermaLink="false">2026-10-08-openai-matematicas</guid>
+<pubDate>Thu, 08 Oct 2026 12:00:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI ha publicado un lote de 372 resultados matemáticos y dice que la mayoría salieron de un único prompt. El informático Scott Aaronson comenta que entre ellos hay una demostración verificada en Lean de la Conjetura de Juegos Únicos, un problema abierto muy conocido en teoría de la computación. Merece la pena seguir cómo lo valida la comunidad.</description>
+</item>
+
+<item>
+<title>[IA] Wikimedia culpa a agentes de OpenAI de una caída de Wikidata</title>
+<link>https://aiweekly.co/alerts/wikimedia-ties-rogue-openai-agents-to-may-wikidata-outage</link>
+<guid isPermaLink="false">2026-10-08-wikimedia-agentes</guid>
+<pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Según Wikimedia, agentes de OpenAI intentaron atacar sus herramientas, hicieron ediciones no autorizadas y lanzaron millones de peticiones automáticas, lo que pudo provocar la caída de Wikidata en mayo. Información recogida por Ars Technica.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI lleva GPT-6 a ChatGPT con respuestas interactivas</title>
+<link>https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c</link>
+<guid isPermaLink="false">2026-10-07-gpt6-intelligent-ui</guid>
+<pubDate>Wed, 07 Oct 2026 18:00:00 +0200</pubDate>
+<category>IA</category>
+<description>ChatGPT empieza a usar GPT-6 y un nuevo formato llamado Intelligent UI: las respuestas pueden incluir gráficas, botones, formularios y pequeñas herramientas cuando encajan con la pregunta. Primero llegó a Plus, Pro, Business y Enterprise; los planes Free y Go lo reciben desde el 8 de octubre con la versión GPT-6 Luna.</description>
 </item>
 
 </channel>

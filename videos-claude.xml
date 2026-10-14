@@ -6,7 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 13 Oct 2026 13:52:29 +0200</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 07:54:07 +0200</lastBuildDate>
+
+<item>
+<title>Coding on the go with Claude Code (4:02)</title>
+<link>https://www.youtube.com/watch?v=-OH1y7CjIew</link>
+<guid isPermaLink="false">yt--OH1y7CjIew</guid>
+<pubDate>Tue, 13 Oct 2026 18:00:00 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-OH1y7CjIew" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=-OH1y7CjIew"><img src="https://i.ytimg.com/vi/-OH1y7CjIew/hqdefault.jpg" alt="Miniatura"/></a></p><p>Qué son las sesiones en la nube de Claude Code: corren en su propia máquina virtual, siguen trabajando aunque no estés y puedes lanzarlas desde el móvil o tener varias a la vez. Explica cómo conectar GitHub, preparar el entorno y revisar el resultado.</p><p>Duración: 4:02 · <a href="https://www.youtube.com/watch?v=-OH1y7CjIew">Ver en YouTube</a></p>]]></description>
+</item>
 
 <item>
 <title>Getting started with Claude Code Projects (4:33)</title>
