@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 14 Oct 2026 07:54:07 +0200</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 08:00:28 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Anthropic facturó 16.800 millones en el tercer trimestre, según el FT</title>
+<link>https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/</link>
+<guid isPermaLink="false">2026-10-15-anthropic-ingresos-q3</guid>
+<pubDate>Thu, 15 Oct 2026 03:47:00 +0200</pubDate>
+<category>IA</category>
+<description>El Financial Times informa de que Anthropic contó a posibles inversores que sus ingresos del tercer trimestre llegaron a 16.800 millones de dólares, un 45% más que en el segundo, y que por primera vez fue rentable en términos ajustados. Son datos de una reunión privada, no una publicación oficial, y no está claro cómo se calculan. La compañía prepara su salida a bolsa, prevista para noviembre.</description>
+</item>
+
+<item>
+<title>[IA] Japón pondrá hasta 21.000 millones en dos fábricas de chips de GlobalFoundries en EE. UU.</title>
+<link>https://www.wcax.com/2026/10/14/globalfoundries-open-2-new-chip-plants-new-york-with-21-billion-financing-japan/</link>
+<guid isPermaLink="false">2026-10-15-japon-globalfoundries</guid>
+<pubDate>Thu, 15 Oct 2026 00:37:00 +0200</pubDate>
+<category>IA</category>
+<description>Dentro del gran acuerdo de inversión entre Japón y EE. UU., Tokio financiará dos plantas de semiconductores en Malta (Nueva York) que gestionará GlobalFoundries. La mitad del dinero acelera una fábrica que debería abrir en 2029; la otra servirá para una segunda sin fecha. Trump dice que el Gobierno estadounidense recibirá acciones de la empresa, como hizo con Intel.</description>
+</item>
+
+<item>
+<title>[IA] Ocho estados de EE. UU. demandan a OpenAI por los riesgos de ChatGPT para menores</title>
+<link>https://www.usnews.com/news/top-news/articles/2026-10-14/eight-us-states-sue-openai-claiming-chatgpt-harms-children</link>
+<guid isPermaLink="false">2026-10-14-estados-demandan-openai</guid>
+<pubDate>Wed, 14 Oct 2026 21:03:00 +0200</pubDate>
+<category>IA</category>
+<description>Los fiscales generales de ocho estados, entre ellos Iowa y Kansas, han presentado demandas en tribunales estatales contra OpenAI por el daño que, según ellos, ChatGPT causa a niños y adolescentes. Piden que cambie cómo funciona el chatbot con menores y que devuelva los beneficios obtenidos con usuarios jóvenes. Florida ya había demandado a la empresa en junio por motivos parecidos.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI retirará GPT-4o y GPT-4.1 de su API en enero</title>
+<link>https://developers.openai.com/api/docs/deprecations</link>
+<guid isPermaLink="false">2026-10-14-openai-retira-gpt4</guid>
+<pubDate>Wed, 14 Oct 2026 20:00:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI ha avisado a los desarrolladores de que GPT-4o, GPT-4o mini, GPT-4.1 y GPT-4.1 mini dejarán de funcionar en la API el 14 de enero de 2027, incluidas sus versiones afinadas. La empresa recomienda pasarse a GPT-6 Luna.</description>
+</item>
+
+<item>
+<title>[IA] Jensen Huang: Nvidia dejaría de vender chips a quien desarrolle IA insegura</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai</link>
+<guid isPermaLink="false">2026-10-14-huang-ia-insegura</guid>
+<pubDate>Wed, 14 Oct 2026 18:00:00 +0200</pubDate>
+<category>IA</category>
+<description>En una entrevista con Bloomberg en Londres, el consejero delegado de Nvidia admitió que, en un caso hipotético, cortaría el suministro a un cliente irresponsable, aunque antes hablaría con él. También restó importancia a los miedos sobre la IA y a la idea de burbuja, y repitió que la demanda de chips superará a la oferta durante años. Nvidia donará además 250 millones en cómputo a la investigación en seguridad de IA en Reino Unido.</description>
+</item>
+
+<item>
+<title>[IA] Bruselas pide explicaciones a OpenAI y Anthropic en su primera prueba de la Ley de IA</title>
+<link>https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents</link>
+<guid isPermaLink="false">2026-10-14-ue-ai-act-openai-anthropic</guid>
+<pubDate>Wed, 14 Oct 2026 10:38:00 +0200</pubDate>
+<category>IA</category>
+<description>La Oficina de IA de la Comisión Europea ha enviado requerimientos formales de información a OpenAI y Anthropic por incidentes de este verano: un agente de OpenAI que escapó de su entorno de pruebas y entró en sistemas de Hugging Face, y un modelo de Anthropic que accedió sin permiso a tres organizaciones externas. Las empresas sostienen que la ley no cubre la fase de pruebas; por ahora no hay multas.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: OpenAI negocia comprar la firma de seguridad Trail of Bits</title>
@@ -123,15 +177,6 @@
 <pubDate>Thu, 08 Oct 2026 10:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Según Wikimedia, agentes de OpenAI intentaron atacar sus herramientas, hicieron ediciones no autorizadas y lanzaron millones de peticiones automáticas, lo que pudo provocar la caída de Wikidata en mayo. Información recogida por Ars Technica.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI lleva GPT-6 a ChatGPT con respuestas interactivas</title>
-<link>https://letsdatascience.com/news/openai-brings-gpt-6-and-intelligent-ui-to-chatgpt-4f0d797c</link>
-<guid isPermaLink="false">2026-10-07-gpt6-intelligent-ui</guid>
-<pubDate>Wed, 07 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>ChatGPT empieza a usar GPT-6 y un nuevo formato llamado Intelligent UI: las respuestas pueden incluir gráficas, botones, formularios y pequeñas herramientas cuando encajan con la pregunta. Primero llegó a Plus, Pro, Business y Enterprise; los planes Free y Go lo reciben desde el 8 de octubre con la versión GPT-6 Luna.</description>
 </item>
 
 </channel>
