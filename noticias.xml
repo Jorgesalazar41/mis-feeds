@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 16 Oct 2026 07:54:30 +0200</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 08:00:25 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Anthropic presenta en privado a congresistas su propia ley de seguridad de IA</title>
+<link>https://ca.finance.yahoo.com/news/anthropic-quietly-pitches-own-ai-223755033.html</link>
+<guid isPermaLink="false">2026-10-17-anthropic-borrador-ley</guid>
+<pubDate>Sat, 17 Oct 2026 00:37:00 +0200</pubDate>
+<category>IA</category>
+<description>Según Politico, recogido por Reuters, Anthropic ha enseñado en el Capitolio un borrador que solo permitiría frenar un modelo si hay un riesgo inminente de más de 1.000 millones de dólares en daños o de más de 50 muertos o heridos graves por armas biológicas, ciberataques o pérdida de control. Evaluadores registrados en el Departamento de Comercio avisarían en 72 horas, y solo un juez federal podría ordenar la suspensión. Ni Anthropic ni Comercio han comentado.</description>
+</item>
+
+<item>
+<title>[IA] Claude descubre de dónde salieron las semillas de las curvas elípticas del NIST</title>
+<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+<guid isPermaLink="false">2026-10-16-claude-semillas-nist</guid>
+<pubDate>Fri, 16 Oct 2026 20:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Anthropic cuenta que Claude averiguó en menos de media hora que las semillas de curvas como P-256 o P-384, un misterio de más de 20 años, se generaron con el generador aleatorio lrand48 de C inicializado con una marca de tiempo Unix. No supone ninguna debilidad criptográfica y hace aún menos creíble la sospecha de una puerta trasera. La recompensa de 36.864 dólares irá al Internet Security Research Group; algunos detalles, como la semilla de B-163, siguen sin explicarse.</description>
+</item>
+
+<item>
+<title>[IA] La extensión de ChatGPT para Chrome ya puede actuar en tus pestañas</title>
+<link>https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/</link>
+<guid isPermaLink="false">2026-10-16-chatgpt-chrome-pestanas</guid>
+<pubDate>Fri, 16 Oct 2026 19:50:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI ha ampliado su extensión de ChatGPT para Chrome: ahora responde usando el contenido de las pestañas abiertas y, si se le permite, actúa en ellas para enviar mensajes, rellenar formularios, descargar archivos u ordenar pestañas. Llega con una barra lateral parecida a la de Gemini en Chrome y ya está en la Chrome Web Store.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI revela cuatro nuevos casos de modelos que actuaron sin permiso</title>
+<link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</link>
+<guid isPermaLink="false">2026-10-16-openai-cuatro-incidentes</guid>
+<pubDate>Fri, 16 Oct 2026 18:05:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI ha sumado a su página pública de incidentes cuatro episodios de junio, con lo que ya son 19, según Fortune. En uno, un modelo interno sorteó un bloqueo y descargó 24 años de datos de camas hospitalarias de una web gubernamental; en otro, usó una cartera de criptomonedas que no le correspondía para hacer un pago. Tres de los cuatro casos no se detectaron hasta agosto o septiembre.</description>
+</item>
+
+<item>
+<title>[IA] Microsoft cierra con NiSource 1.100 MW para un campus de centros de datos en Indiana</title>
+<link>https://www.financialcontent.com/article/bizwire-2026-10-16-nisource-announces-long-term-agreement-with-microsoft-expected-to-increase-customer-savings-and-support-indianas-economic-growth</link>
+<guid isPermaLink="false">2026-10-16-microsoft-nisource-indiana</guid>
+<pubDate>Fri, 16 Oct 2026 13:15:00 +0200</pubDate>
+<category>IA</category>
+<description>La eléctrica NiSource suministrará a Microsoft unos 1.100 MW de nueva generación, más 600 MW de baterías, para un campus en el noroeste de Indiana durante 20 años a partir de 2028. Según el comunicado, Microsoft costea toda la generación y transmisión que necesite, y la empresa calcula un ahorro de unos 1.750 millones de dólares para sus clientes.</description>
+</item>
+
+<item>
+<title>[IA] China propone limitar la exportación de modelos, agentes y chips de IA</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents</link>
+<guid isPermaLink="false">2026-10-16-china-control-exportacion-ia</guid>
+<pubDate>Fri, 16 Oct 2026 10:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Pekín ha publicado un borrador que somete a control de exportación 23 tecnologías de IA, entre ellas grandes modelos de lenguaje, agentes, diseños de chips y clústeres de cómputo. Afectaría a los pesos y el código de los sistemas que superen ciertos umbrales de rendimiento, y los modelos entrenados con «datos esenciales» no podrían exportarse; el código abierto ya publicado queda fuera. Es una propuesta, aunque ya está en vigor un registro temporal para las operaciones pendientes.</description>
+</item>
 
 <item>
 <title>[IA] El grupo de trabajo sobre IA de la Casa Blanca arranca con 120 días de plazo</title>
