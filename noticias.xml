@@ -6,7 +6,43 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 17 Oct 2026 08:00:25 +0200</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 08:02:29 +0200</lastBuildDate>
+
+<item>
+<title>[IA] OpenCode avisa de un robo de claves de API que afecta al 1,4% de sus usuarios</title>
+<link>https://officechai.com/ai/opencode-discloses-security-breach-says-attackers-may-have-accessed-users-openai-anthropic-and-google-api-keys/</link>
+<guid isPermaLink="false">2026-10-17-opencode-brecha-claves</guid>
+<pubDate>Sat, 17 Oct 2026 21:03:00 +0200</pubDate>
+<category>IA</category>
+<description>El agente de programación de código abierto OpenCode ha reconocido un acceso no autorizado a un sistema antiguo que estaba retirando, y las claves de OpenAI, Anthropic o Google guardadas por algunos usuarios pueden haber quedado expuestas. Lo atribuye a un ataque de destilación a gran escala, dice que ha avisado por correo a los afectados y que colabora con los tres proveedores. Quien use OpenCode Console debería revocar y sustituir esas claves y revisar su consumo reciente.</description>
+</item>
+
+<item>
+<title>[IA] Meta borra de sus nuevas condiciones la frase que le permitía entrenar IA con webs rastreadas</title>
+<link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+<guid isPermaLink="false">2026-10-17-meta-condiciones-rastreo</guid>
+<pubDate>Sat, 17 Oct 2026 17:04:00 +0200</pubDate>
+<category>IA</category>
+<description>Tras las quejas de editores de prensa como la News/Media Alliance, Meta ha reescrito la cláusula de rastreo web de sus condiciones comerciales: ya no dice que pueda usar el contenido de los dominios rastreados para entrenar sus productos, y limita el uso a publicidad, productos para empresas y seguridad. Su portavoz Andy Stone sostiene que no cambia nada en el uso de sus rastreadores. Las nuevas condiciones entran en vigor el 30 de octubre.</description>
+</item>
+
+<item>
+<title>[IA] Jack Clark (Anthropic) ve posible que el PIB de EE. UU. llegue a 44 billones en 2030</title>
+<link>https://finance.yahoo.com/economy/articles/anthropics-clark-says-ais-impact-091449774.html</link>
+<guid isPermaLink="false">2026-10-17-clark-fmi-pib</guid>
+<pubDate>Sat, 17 Oct 2026 11:14:00 +0200</pubDate>
+<category>IA</category>
+<description>En las reuniones anuales del FMI y el Banco Mundial en Bangkok, el cofundador de Anthropic presentó un modelo económico interno según el cual la economía estadounidense podría pasar de algo más de 30 a 44 billones de dólares en 2030, según Reuters. Él mismo admitió que la cifra parece exagerada y la justificó por cómo la IA acelera la ciencia. También pidió cooperación internacional para fijar normas serias sobre esta tecnología.</description>
+</item>
+
+<item>
+<title>[IA] DeepSeek actualiza V4.1-Flash y abre una API de búsqueda web</title>
+<link>https://api-docs.deepseek.com/news/news261017/</link>
+<guid isPermaLink="false">2026-10-17-deepseek-v41-flash-1017</guid>
+<pubDate>Sat, 17 Oct 2026 10:21:00 +0200</pubDate>
+<category>IA</category>
+<description>DeepSeek ha lanzado DeepSeek-V4.1-Flash-1017, una nueva versión de su modelo rápido que ya sirve por defecto en su web, su app y su API, y que según sus propias pruebas supera a Claude Opus 5 en algunas tareas de programación con agentes, aunque queda por detrás en otras. Estrena además API de búsqueda y lectura de páginas con su propio buscador, a 0,75 dólares por cada mil peticiones. Las cifras de rendimiento son de la empresa y no se han verificado de forma independiente.</description>
+</item>
 
 <item>
 <title>[IA] Anthropic presenta en privado a congresistas su propia ley de seguridad de IA</title>
