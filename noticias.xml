@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 19 Oct 2026 08:04:01 +0200</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 07:55:24 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Rumor: OpenAI busca cerrar 30.000 millones antes de que Anthropic salga a bolsa</title>
+<link>https://business-standard.com/world-news/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-s-planned-ipo-126102000192_1.html</link>
+<guid isPermaLink="false">2026-10-20-openai-ronda-30000-millones</guid>
+<pubDate>Tue, 20 Oct 2026 07:34:00 +0200</pubDate>
+<category>IA</category>
+<description>Según Reuters, que cita a personas conocedoras de las conversaciones, OpenAI quiere acelerar una ronda de unos 30.000 millones de dólares que la valoraría en más de 1,4 billones, y cerrarla antes del estreno bursátil de Anthropic previsto para mediados de noviembre. SoftBank y el fondo emiratí MGX estarían entre los interesados. Es información no confirmada: OpenAI y SoftBank no han querido comentar.</description>
+</item>
+
+<item>
+<title>[IA] Elice se desploma un 30% en su debut en el Kosdaq</title>
+<link>https://en.sedaily.com/finance/2026/10/20/elice-plunges-30-percent-in-kosdaq-trading-debut</link>
+<guid isPermaLink="false">2026-10-20-elice-debut-kosdaq</guid>
+<pubDate>Tue, 20 Oct 2026 02:56:00 +0200</pubDate>
+<category>IA</category>
+<description>La surcoreana Elice, que empezó como plataforma educativa y ahora ofrece nube con GPU y centros de datos de IA, salió a bolsa a 90.500 wones y a la media hora cotizaba en torno a 63.000. La demanda en la colocación había sido enorme, con suscripciones de casi 400 veces lo ofrecido, pero su valor de mercado bajó de cerca de un billón de wones a unos 700.000 millones. Pretende usar el dinero en nuevos centros de datos y en expandirse a EE. UU., Japón y Singapur.</description>
+</item>
+
+<item>
+<title>[IA] EE. UU. prohíbe DeepSeek en los sistemas de sus agencias civiles</title>
+<link>https://siliconangle.com/2026/10/19/trump-administration-orders-ban-on-deepseek-in-federal-agencies/</link>
+<guid isPermaLink="false">2026-10-20-dhs-prohibe-deepseek</guid>
+<pubDate>Tue, 20 Oct 2026 02:47:00 +0200</pubDate>
+<category>IA</category>
+<description>El Departamento de Seguridad Nacional ha ordenado a las agencias federales civiles retirar los productos de DeepSeek, incluidos los servicios de terceros construidos sobre sus modelos, y les prohíbe comprarlos en adelante. Se apoya en una ley de 2018 sobre seguridad en la cadena de suministro y alega que la tecnología podría dar a Pekín acceso a infraestructura del Gobierno y enviar datos sensibles a China. La orden se ha publicado en el Federal Register y DeepSeek no ha respondido de momento.</description>
+</item>
+
+<item>
+<title>[IA] Un solo atacante usó agentes de IA para entrar en más de 100 empresas</title>
+<link>https://gizmodo.com/the-fear-of-a-one-man-band-weaponizing-ai-agents-is-becoming-reality-2000827754</link>
+<guid isPermaLink="false">2026-10-19-hacker-agentes-ia-100-empresas</guid>
+<pubDate>Mon, 19 Oct 2026 20:35:00 +0200</pubDate>
+<category>IA</category>
+<description>La firma de ciberseguridad NorForge, citada por Reuters, describe a un atacante de habla china que, con el motor multiagente de código abierto Cairn y modelos de DeepSeek y Claude Code, apuntó a unas 1.200 tiendas online y logró entrar en más de un centenar desde el 25 de septiembre. Según sus estimaciones gastó unos 5.000 dólares en tokens y robó datos de clientes, tarjetas y criptomonedas con órdenes muy breves. El autor de Cairn asegura que no lo diseñó para atacar.</description>
+</item>
+
+<item>
+<title>[IA] Inception lanza Mercury 3, un modelo de difusión que supera los 1.000 tokens por segundo</title>
+<link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
+<guid isPermaLink="false">2026-10-19-inception-mercury-3</guid>
+<pubDate>Mon, 19 Oct 2026 15:04:00 +0200</pubDate>
+<category>IA</category>
+<description>Inception ha publicado Mercury 3, un modelo de lenguaje que genera texto por difusión en lugar de palabra a palabra y que, según la empresa, alcanza 1.068 tokens por segundo en GPU de Nvidia. Afirma que iguala o mejora a GPT-6 Luna y Claude Haiku 5.5, aunque son cifras propias. Tiene un contexto de un millón de tokens, cuesta 0,20 dólares por millón de tokens de entrada y 0,70 de salida, y está en su API, OpenRouter, Baseten y Vercel.</description>
+</item>
+
+<item>
+<title>[IA] Tenstorrent levanta 1.500 millones y duplica su valoración hasta 6.200 millones</title>
+<link>https://tenstorrent.com/newsroom/tenstorrent-announces-series-e</link>
+<guid isPermaLink="false">2026-10-19-tenstorrent-serie-e</guid>
+<pubDate>Mon, 19 Oct 2026 14:00:00 +0200</pubDate>
+<category>IA</category>
+<description>La empresa de chips de IA que dirige Jim Keller ha cerrado una ronda serie E de 1.500 millones de dólares, liderada por Trace Capital e Innovation X, que la valora en 6.200 millones. Dedicará el dinero a desplegar más servidores Galaxy, a dar soporte a modelos abiertos de lenguaje y vídeo y a seguir desarrollando la propiedad intelectual de CPU RISC-V y núcleos de IA que licencia a otros fabricantes.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: Samsung fabricará en TSMC a 3 nm la base de la memoria HBM a medida de Nvidia</title>
@@ -303,24 +357,6 @@
 <pubDate>Tue, 13 Oct 2026 15:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Apple confirmó el martes su pantalla para el hogar HomeView, junto a un nuevo HomePod mini y un Apple TV 4K renovado, además de una gama de accesorios domésticos que llega en diciembre. La propia Apple indica que HomeView no estará a la venta en la UE porque allí iOS todavía no ofrece la nueva Siri con IA. Confirma el rumor publicado aquí el domingo.</description>
-</item>
-
-<item>
-<title>[IA] El 81% de los responsables de ingeniería ya ha sufrido caídas por código de IA</title>
-<link>https://leaddev.com/ai/ai-code-causes-real-world-production-outages</link>
-<guid isPermaLink="false">2026-10-12-encuesta-caidas</guid>
-<pubDate>Mon, 12 Oct 2026 12:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Una encuesta de Undo a 300 directivos técnicos de EE. UU. y Reino Unido dice que el 81% tuvo en los últimos seis meses un incidente en producción ligado a herramientas de programación con IA, y que el 93% perdió tiempo buscando la causa equivocada por alucinaciones del modelo.</description>
-</item>
-
-<item>
-<title>[IA] AMD presenta Helion, un rack pensado para agentes de IA</title>
-<link>https://aiweekly.co/alerts/amd-unveils-helion-open-rack-with-32768-epyc-cores-for-agents</link>
-<guid isPermaLink="false">2026-10-12-amd-helion</guid>
-<pubDate>Mon, 12 Oct 2026 10:00:00 +0200</pubDate>
-<category>IA</category>
-<description>En el OCP Global Summit, AMD ha enseñado un diseño de rack abierto con hasta 32.768 núcleos EPYC Zen 6 y 16 GPU MI350P. Dell, HPE, Cisco y otros fabricantes ofrecerán configuraciones a partir de noviembre.</description>
 </item>
 
 </channel>
