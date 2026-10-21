@@ -5,6 +5,7 @@ Este archivo dice qué entra en cada feed. La tarea de cada mañana lo lee antes
 ## noticias.xml — Noticias
 
 - Inteligencia artificial: lanzamientos de modelos y productos, empresas del sector, investigación relevante, regulación, chips y centros de datos.
+- HCP Arquitectos (estudio de arquitectura de Málaga, hcparquitectos.com): las noticias que publique el propio estudio. Fuente: su RSS en español, https://hcparquitectos.com/es/feed/. Título con prefijo "[HCP]". Como publican poco, sus noticias se quedan 30 días en vez de 7. Si un día no hay nada nuevo, no se añade nada.
 
 ## videos-claude.xml — Vídeos de Claude
 
@@ -19,6 +20,6 @@ Este archivo dice qué entra en cada feed. La tarea de cada mañana lo lee antes
 ## Reglas
 
 - Resúmenes en español, de 2-3 frases, escritos con palabras propias y con enlace a la fuente.
-- Mantener las noticias de los últimos 7 días; quitar las más antiguas.
+- Mantener las noticias de los últimos 7 días; quitar las más antiguas (excepto las de HCP, que se quedan 30 días).
 - No repetir la misma noticia aunque la cuenten varios medios.
 - Marcar los rumores como rumores.
