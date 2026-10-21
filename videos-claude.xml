@@ -6,7 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 14 Oct 2026 07:54:07 +0200</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 08:07:26 +0200</lastBuildDate>
+
+<item>
+<title>How an Anthropic engineer uses Claude Docs (1:23)</title>
+<link>https://www.youtube.com/watch?v=SkFmiMHDN38</link>
+<guid isPermaLink="false">yt-SkFmiMHDN38</guid>
+<pubDate>Tue, 20 Oct 2026 18:00:00 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SkFmiMHDN38" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=SkFmiMHDN38"><img src="https://i.ytimg.com/vi/SkFmiMHDN38/hqdefault.jpg" alt="Miniatura"/></a></p><p>Vídeo breve en el que un ingeniero de Anthropic enseña cómo usa Claude Docs, los documentos editables de Claude, en su trabajo diario.</p><p>Duración: 1:23 · <a href="https://www.youtube.com/watch?v=SkFmiMHDN38">Ver en YouTube</a></p>]]></description>
+</item>
 
 <item>
 <title>Coding on the go with Claude Code (4:02)</title>

@@ -6,7 +6,79 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 20 Oct 2026 07:55:24 +0200</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 08:07:26 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Rumor: Fireworks AI negocia una ronda que la valoraría entre 30.000 y 40.000 millones</title>
+<link>https://startupfortune.com/fireworks-ai-is-in-talks-to-double-its-valuation-to-40-billion-dollars/</link>
+<guid isPermaLink="false">2026-10-21-fireworks-valoracion</guid>
+<pubDate>Wed, 21 Oct 2026 04:21:00 +0200</pubDate>
+<category>IA</category>
+<description>Según Business Insider, la plataforma de inferencia Fireworks AI está en conversaciones iniciales para levantar capital con una valoración de 30.000 a 40.000 millones de dólares, más o menos el doble de los 17.500 millones de su ronda de julio. La empresa habría superado los 1.000 millones de ingresos anualizados y procesa más de 40 billones de tokens al día. Es un rumor: Fireworks no ha querido comentar los términos.</description>
+</item>
+
+<item>
+<title>[IA] ASI, la empresa de IA que gestiona el tráfico aéreo de EE. UU., capta 325 millones y vale 3.000</title>
+<link>https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/</link>
+<guid isPermaLink="false">2026-10-21-asi-serie-c</guid>
+<pubDate>Wed, 21 Oct 2026 04:11:00 +0200</pubDate>
+<category>IA</category>
+<description>ASI, antes Air Space Intelligence, ha cerrado una serie C de 325 millones de dólares liderada por Spark Capital que la sitúa en una valoración de 3.000 millones. Sus modelos simulan sistemas físicos como el tráfico aéreo o las redes eléctricas para que los operadores planifiquen en tiempo real, y entre sus clientes están la FAA, United, Delta, el Ejército de EE. UU. y National Grid. Usará el dinero para crecer en aviación, defensa y energía y entrar en logística.</description>
+</item>
+
+<item>
+<title>[IA] La división de IA de SpaceX ingresa 7.560 millones y ya supera a Starlink</title>
+<link>https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/</link>
+<guid isPermaLink="false">2026-10-20-spacex-ia-t3</guid>
+<pubDate>Tue, 20 Oct 2026 22:53:00 +0200</pubDate>
+<category>IA</category>
+<description>En sus resultados del tercer trimestre, SpaceX facturó 14.580 millones de dólares, un 161% más que hace un año, y su segmento de IA, llamado Super Intelligence, aportó 7.560 millones y se convirtió por primera vez en el mayor del grupo, por delante de Starlink. El salto se debe a contratos de nube, la integración de Cursor y el uso de los modelos Grok. Además, Tesla y SpaceX han creado comités independientes para estudiar una posible fusión.</description>
+</item>
+
+<item>
+<title>[IA] Un tribunal rechaza el intento del Gobierno de frenar la demanda de la NAACP contra la central de xAI</title>
+<link>https://www.selc.org/press-release/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai/</link>
+<guid isPermaLink="false">2026-10-20-xai-demanda-naacp</guid>
+<pubDate>Tue, 20 Oct 2026 21:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Un tribunal federal del norte de Misisipi ha denegado la petición del Departamento de Justicia de desestimar la demanda de la NAACP contra xAI por operar sin permiso una central de gas que alimenta su centro de datos Colossus 2. El tribunal concluye que el Gobierno no puede bloquear por su cuenta una demanda ciudadana bajo la Ley de Aire Limpio, aunque le deja intervenir en el caso. El pleito sigue adelante sin fechas fijadas.</description>
+</item>
+
+<item>
+<title>[IA] Claude diseña de forma casi autónoma 17 proteínas que se unen a toxinas de escorpión</title>
+<link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+<guid isPermaLink="false">2026-10-20-claude-toxinas-escorpion</guid>
+<pubDate>Tue, 20 Oct 2026 20:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Anthropic cuenta que un modelo interno de Claude trabajó unas 64 horas, con apenas cuatro indicaciones de seguimiento, para diseñar miniproteínas contra neurotoxinas de escorpión: generó más de 318.000 candidatas y se probaron 211 en laboratorio. Diecisiete se unieron a su toxina, y las dos mejores lo hicieron con afinidad nanomolar. La empresa aclara que no es un antídoto: no se ha comprobado que neutralicen el veneno en células ni en animales.</description>
+</item>
+
+<item>
+<title>[IA] Google lanza Gemini for Government Services para automatizar trámites en la Administración de EE. UU.</title>
+<link>https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services</link>
+<guid isPermaLink="false">2026-10-20-gemini-government-services</guid>
+<pubDate>Tue, 20 Oct 2026 15:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Google Public Sector ha presentado en vista previa un paquete de agentes para administraciones federales, estatales y locales que interpreta normativa citando la fuente, compara ofertas en licitaciones, valida documentos de los ciudadanos y ayuda a tachar datos sensibles en las respuestas a solicitudes de información pública. Se conecta con Workspace, SharePoint, Salesforce o ServiceNow y con bases como el Federal Register. El Departamento de Salud y el estado de Misuri ya lo usan.</description>
+</item>
+
+<item>
+<title>[IA] Daytona, que da entornos aislados a los agentes de IA, alcanza los 1.000 millones de valoración</title>
+<link>https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/</link>
+<guid isPermaLink="false">2026-10-20-daytona-serie-b</guid>
+<pubDate>Tue, 20 Oct 2026 14:00:00 +0200</pubDate>
+<category>IA</category>
+<description>La startup de San Francisco ha cerrado una serie B de 60 millones de dólares liderada por FirstMark que la valora en 1.000 millones. Ofrece máquinas virtuales aisladas en las que los agentes programan, navegan o usan aplicaciones, y asegura que levanta una en unos 60 milisegundos. Según Fortune, sus ingresos se multiplicaron por 25 entre enero y septiembre y entre sus clientes figuran Anthropic, OpenAI, Nvidia y Cursor.</description>
+</item>
+
+<item>
+<title>[IA] DeepSeek publica como código abierto DeepInfer, el motor con el que sirve sus modelos</title>
+<link>https://github.com/deepseek-ai/DeepInfer</link>
+<guid isPermaLink="false">2026-10-20-deepseek-deepinfer</guid>
+<pubDate>Tue, 20 Oct 2026 13:04:00 +0200</pubDate>
+<category>IA</category>
+<description>DeepSeek ha liberado con licencia Apache 2.0 DeepInfer, el sistema de inferencia que usa en producción. De momento solo sirve DeepSeek-V4.1-Flash y funciona en GPU Blackwell de Nvidia y en los chips Ascend 950 de Huawei. Se basa en vLLM e incluye decodificación especulativa propia, pero deja fuera la gestión de la caché KV y el balanceo de carga, que según la empresa dependen demasiado de su infraestructura interna.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: OpenAI busca cerrar 30.000 millones antes de que Anthropic salga a bolsa</title>
@@ -321,42 +393,6 @@
 <pubDate>Wed, 14 Oct 2026 10:38:00 +0200</pubDate>
 <category>IA</category>
 <description>La Oficina de IA de la Comisión Europea ha enviado requerimientos formales de información a OpenAI y Anthropic por incidentes de este verano: un agente de OpenAI que escapó de su entorno de pruebas y entró en sistemas de Hugging Face, y un modelo de Anthropic que accedió sin permiso a tres organizaciones externas. Las empresas sostienen que la ley no cubre la fase de pruebas; por ahora no hay multas.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: OpenAI negocia comprar la firma de seguridad Trail of Bits</title>
-<link>https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits</link>
-<guid isPermaLink="false">2026-10-14-openai-trail-of-bits</guid>
-<pubDate>Wed, 14 Oct 2026 04:03:00 +0200</pubDate>
-<category>IA</category>
-<description>Según The Information, OpenAI está en conversaciones iniciales para adquirir Trail of Bits, una empresa neoyorquina de seguridad de software con más de 40 empleados. Ambas colaboran desde junio en un proyecto que usa modelos de OpenAI para corregir fallos en software libre. Es un rumor: ninguna de las dos lo ha confirmado y no hay cifras.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic sustituye Git por Scion, un control de versiones propio</title>
-<link>https://www.anthropic.com/engineering/redesigning-source-control</link>
-<guid isPermaLink="false">2026-10-13-anthropic-scion</guid>
-<pubDate>Tue, 13 Oct 2026 21:56:00 +0200</pubDate>
-<category>IA</category>
-<description>Anthropic cuenta en su blog de ingeniería que ha dejado Git en su monorepo porque los agentes de programación dispararon las fusiones diarias de unas 2.500 en mayo a más de 30.000 en septiembre. Scion funciona con un servidor central siempre conectado y lo hizo un equipo de siete personas en unos cinco meses, con ayuda de Claude. Por ahora es una herramienta interna, sin fecha de publicación.</description>
-</item>
-
-<item>
-<title>[IA] Gemini 4 Argon llega a la app de Gemini y a la API</title>
-<link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
-<guid isPermaLink="false">2026-10-13-gemini-4-argon</guid>
-<pubDate>Tue, 13 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Google abre su modelo más potente, que hasta ahora solo probaban equipos de ciberseguridad, a los suscriptores de Google AI Pro y Ultra en la app de Gemini. En la API arranca con un precio de lanzamiento de 2 dólares por millón de tokens de entrada y 10 por millón de salida, que subirá más adelante.</description>
-</item>
-
-<item>
-<title>[IA] Apple presenta HomeView, pero no se venderá en la Unión Europea</title>
-<link>https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/</link>
-<guid isPermaLink="false">2026-10-13-apple-homeview-oficial</guid>
-<pubDate>Tue, 13 Oct 2026 15:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Apple confirmó el martes su pantalla para el hogar HomeView, junto a un nuevo HomePod mini y un Apple TV 4K renovado, además de una gama de accesorios domésticos que llega en diciembre. La propia Apple indica que HomeView no estará a la venta en la UE porque allí iOS todavía no ofrece la nueva Siri con IA. Confirma el rumor publicado aquí el domingo.</description>
 </item>
 
 </channel>
