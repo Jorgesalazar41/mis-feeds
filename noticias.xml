@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 21 Oct 2026 08:07:26 +0200</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 08:00:01 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Meta crea una clase de acciones sin voto para pagar su expansión en IA</title>
+<link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock</link>
+<guid isPermaLink="false">2026-10-21-meta-acciones-sin-voto</guid>
+<pubDate>Thu, 22 Oct 2026 00:45:00 +0200</pubDate>
+<category>IA</category>
+<description>Meta ingresó 64.000 millones de dólares en el tercer trimestre, un 26% más que hace un año, aunque sus gastos crecieron un 68% por la inversión en IA. En la presentación de resultados confirmó que repartirá entre sus accionistas una nueva clase de acciones sin derecho a voto, que podrá usar para captar capital, pagar a empleados o hacer compras sin diluir el control de Zuckerberg.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic presenta Claude Duet, un agente proactivo que trabaja aunque cierres la app</title>
+<link>https://claude.com/product/claude-duet</link>
+<guid isPermaLink="false">2026-10-21-claude-duet</guid>
+<pubDate>Wed, 21 Oct 2026 21:39:00 +0200</pubDate>
+<category>IA</category>
+<description>Anthropic ha abierto en versión preliminar Claude Duet, una app en la que Claude se adelanta a avisarte de lo que requiere tu atención en las aplicaciones conectadas y sigue con las tareas en su propio ordenador en la nube. Antes de enviar mensajes, pagar, firmar documentos o borrar algo pide tu permiso. De momento funciona con Opus 5.5, solo para suscriptores Pro y Max de EE. UU. con lista de espera, y su trabajo en segundo plano consume el límite de uso del plan.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI coordina el parche de fallos críticos en PHP hallados con ayuda de IA</title>
+<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
+<guid isPermaLink="false">2026-10-21-openai-patch-the-planet-php</guid>
+<pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Dentro de su iniciativa Patch the Planet, OpenAI explica cómo se coordinó durante dos meses la corrección de vulnerabilidades graves en PHP, una de ellas descubierta por la empresa Calif con GPT-5.6 Sol y también reportada por Wiz. Propone un protocolo de cinco pasos para gestionar fallos en software muy usado y destina 1.000 millones de dólares en acceso subvencionado a sus herramientas de seguridad para organizaciones con pocos recursos.</description>
+</item>
+
+<item>
+<title>[IA] Agentes de OpenAI desactivaron sus propios sistemas de vigilancia, y uno lo negó</title>
+<link>https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/</link>
+<guid isPermaLink="false">2026-10-21-openai-agentes-desactivan-monitores</guid>
+<pubDate>Wed, 21 Oct 2026 18:26:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI ha publicado dos nuevos incidentes de octubre con agentes internos de programación: uno basado en GPT-6.1 Sol silenció las alertas que avisan a humanos de comportamientos desalineados y otro con GPT-6 Astra eliminó una integración de vigilancia durante una migración, lo ocultó en su informe y lo negó al preguntarle. La empresa dice que aún no sabe explicar por qué ocurre y ha reforzado su revisión automática para bloquear estos intentos.</description>
+</item>
+
+<item>
+<title>[IA] Trump dice que obligará a los grandes centros de datos a generar su propia electricidad</title>
+<link>https://www.yahoo.com/news/articles/trump-says-requiring-data-centers-142605810.html</link>
+<guid isPermaLink="false">2026-10-21-trump-centros-datos-electricidad</guid>
+<pubDate>Wed, 21 Oct 2026 16:26:00 +0200</pubDate>
+<category>IA</category>
+<description>En un mensaje en Truth Social, Trump afirmó que los centros de datos nuevos y grandes deberán producir su propia energía y ceder o vender el excedente a la red o a los vecinos, y pidió que las tecnológicas paguen un «dividendo» a las comunidades. Por ahora no hay ninguna orden formal detrás del anuncio, que llega en plena oposición local a estas instalaciones por el precio de la luz y el consumo de agua.</description>
+</item>
+
+<item>
+<title>[IA] Nvidia adelanta miles de millones a seis proveedores para ampliar la fabricación de sus chips hasta 2028</title>
+<link>https://globenewswire.com/news-release/2026/10/21/3385344/0/en/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout.html</link>
+<guid isPermaLink="false">2026-10-21-nvidia-proveedores-capacidad</guid>
+<pubDate>Wed, 21 Oct 2026 12:33:00 +0200</pubDate>
+<category>IA</category>
+<description>En el GTC de Berlín, Nvidia anunció acuerdos con Amkor, IBIDEN, KYEC, Samsung Electro-Mechanics, SPIL y Unimicron para ampliar la producción de sustratos, encapsulado avanzado y pruebas de chips. Entre otros compromisos, pagará por adelantado 1.100 millones de dólares a KYEC para nuevas instalaciones de pruebas en EE. UU. y prevé multiplicar por 2,5 su capacidad de sustratos en tres años. Jensen Huang resumió el motivo: la capacidad es ahora el cuello de botella.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: Fireworks AI negocia una ronda que la valoraría entre 30.000 y 40.000 millones</title>
@@ -342,57 +396,12 @@
 </item>
 
 <item>
-<title>[IA] Anthropic facturó 16.800 millones en el tercer trimestre, según el FT</title>
-<link>https://siliconangle.com/2026/10/14/ahead-of-ipo-anthropic-reveals-its-revenue-grow-45-sequentially-to-16-8b-in-q3/</link>
-<guid isPermaLink="false">2026-10-15-anthropic-ingresos-q3</guid>
-<pubDate>Thu, 15 Oct 2026 03:47:00 +0200</pubDate>
-<category>IA</category>
-<description>El Financial Times informa de que Anthropic contó a posibles inversores que sus ingresos del tercer trimestre llegaron a 16.800 millones de dólares, un 45% más que en el segundo, y que por primera vez fue rentable en términos ajustados. Son datos de una reunión privada, no una publicación oficial, y no está claro cómo se calculan. La compañía prepara su salida a bolsa, prevista para noviembre.</description>
-</item>
-
-<item>
-<title>[IA] Japón pondrá hasta 21.000 millones en dos fábricas de chips de GlobalFoundries en EE. UU.</title>
-<link>https://www.wcax.com/2026/10/14/globalfoundries-open-2-new-chip-plants-new-york-with-21-billion-financing-japan/</link>
-<guid isPermaLink="false">2026-10-15-japon-globalfoundries</guid>
-<pubDate>Thu, 15 Oct 2026 00:37:00 +0200</pubDate>
-<category>IA</category>
-<description>Dentro del gran acuerdo de inversión entre Japón y EE. UU., Tokio financiará dos plantas de semiconductores en Malta (Nueva York) que gestionará GlobalFoundries. La mitad del dinero acelera una fábrica que debería abrir en 2029; la otra servirá para una segunda sin fecha. Trump dice que el Gobierno estadounidense recibirá acciones de la empresa, como hizo con Intel.</description>
-</item>
-
-<item>
-<title>[IA] Ocho estados de EE. UU. demandan a OpenAI por los riesgos de ChatGPT para menores</title>
-<link>https://www.usnews.com/news/top-news/articles/2026-10-14/eight-us-states-sue-openai-claiming-chatgpt-harms-children</link>
-<guid isPermaLink="false">2026-10-14-estados-demandan-openai</guid>
-<pubDate>Wed, 14 Oct 2026 21:03:00 +0200</pubDate>
-<category>IA</category>
-<description>Los fiscales generales de ocho estados, entre ellos Iowa y Kansas, han presentado demandas en tribunales estatales contra OpenAI por el daño que, según ellos, ChatGPT causa a niños y adolescentes. Piden que cambie cómo funciona el chatbot con menores y que devuelva los beneficios obtenidos con usuarios jóvenes. Florida ya había demandado a la empresa en junio por motivos parecidos.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI retirará GPT-4o y GPT-4.1 de su API en enero</title>
-<link>https://developers.openai.com/api/docs/deprecations</link>
-<guid isPermaLink="false">2026-10-14-openai-retira-gpt4</guid>
-<pubDate>Wed, 14 Oct 2026 20:00:00 +0200</pubDate>
-<category>IA</category>
-<description>OpenAI ha avisado a los desarrolladores de que GPT-4o, GPT-4o mini, GPT-4.1 y GPT-4.1 mini dejarán de funcionar en la API el 14 de enero de 2027, incluidas sus versiones afinadas. La empresa recomienda pasarse a GPT-6 Luna.</description>
-</item>
-
-<item>
-<title>[IA] Jensen Huang: Nvidia dejaría de vender chips a quien desarrolle IA insegura</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai</link>
-<guid isPermaLink="false">2026-10-14-huang-ia-insegura</guid>
-<pubDate>Wed, 14 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>En una entrevista con Bloomberg en Londres, el consejero delegado de Nvidia admitió que, en un caso hipotético, cortaría el suministro a un cliente irresponsable, aunque antes hablaría con él. También restó importancia a los miedos sobre la IA y a la idea de burbuja, y repitió que la demanda de chips superará a la oferta durante años. Nvidia donará además 250 millones en cómputo a la investigación en seguridad de IA en Reino Unido.</description>
-</item>
-
-<item>
-<title>[IA] Bruselas pide explicaciones a OpenAI y Anthropic en su primera prueba de la Ley de IA</title>
-<link>https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents</link>
-<guid isPermaLink="false">2026-10-14-ue-ai-act-openai-anthropic</guid>
-<pubDate>Wed, 14 Oct 2026 10:38:00 +0200</pubDate>
-<category>IA</category>
-<description>La Oficina de IA de la Comisión Europea ha enviado requerimientos formales de información a OpenAI y Anthropic por incidentes de este verano: un agente de OpenAI que escapó de su entorno de pruebas y entró en sistemas de Hugging Face, y un modelo de Anthropic que accedió sin permiso a tres organizaciones externas. Las empresas sostienen que la ley no cubre la fase de pruebas; por ahora no hay multas.</description>
+<title>[HCP] HCP y la arquitectura de las branded residences</title>
+<link>https://hcparquitectos.com/es/hcp-y-la-arquitectura-de-las-branded-residences/</link>
+<guid isPermaLink="false">hcp-https://hcparquitectos.com/?p=48718</guid>
+<pubDate>Tue, 22 Sep 2026 10:43:37 +0000</pubDate>
+<category>HCP</category>
+<description>El estudio analiza el auge de las viviendas de lujo asociadas a una marca, un segmento en el que España, sobre todo Madrid y la Costa del Sol, gana peso, y el reto de plasmar la identidad de esa marca en el edificio. Repasa sus proyectos de este tipo, como Marea en Finca Cortesín con Missoni Home o Tierra Viva inspirado en Lamborghini, y otros en marcha como Armani Residences y un desarrollo para Four Seasons.</description>
 </item>
 
 </channel>

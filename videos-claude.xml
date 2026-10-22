@@ -6,7 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 21 Oct 2026 08:07:26 +0200</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 08:00:01 +0200</lastBuildDate>
+
+<item>
+<title>Introducing Claude Duet (1:39)</title>
+<link>https://www.youtube.com/watch?v=Fb-68zqcSVs</link>
+<guid isPermaLink="false">yt-Fb-68zqcSVs</guid>
+<pubDate>Wed, 21 Oct 2026 21:39:00 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fb-68zqcSVs" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=Fb-68zqcSVs"><img src="https://i.ytimg.com/vi/Fb-68zqcSVs/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de Claude Duet, la nueva app en versión preliminar en la que Claude actúa como agente proactivo: te avisa de lo importante, hace tareas en segundo plano y te consulta antes de actuar en tu nombre.</p><p>Duración: 1:39 · <a href="https://www.youtube.com/watch?v=Fb-68zqcSVs">Ver en YouTube</a></p>]]></description>
+</item>
 
 <item>
 <title>How an Anthropic engineer uses Claude Docs (1:23)</title>
