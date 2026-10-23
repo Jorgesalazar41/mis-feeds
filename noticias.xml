@@ -6,7 +6,7 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:01 +0200</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 07:54:34 +0200</lastBuildDate>
 
 <item>
 <title>[IA] Meta crea una clase de acciones sin voto para pagar su expansión en IA</title>
@@ -27,12 +27,39 @@
 </item>
 
 <item>
+<title>[IA] Los modelos de OpenAI y Codex llegan a Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud/</link>
+<guid isPermaLink="false">2026-10-21-openai-google-cloud</guid>
+<pubDate>Wed, 21 Oct 2026 21:23:00 +0200</pubDate>
+<category>IA</category>
+<description>OpenAI llevará sus modelos más avanzados y los flujos de trabajo de Codex al Model Garden de Google Cloud, con lo que ya estará en las tres grandes nubes de EE. UU. Las empresas podrán contratarlos a través del marketplace de Google y descontarlos de sus compromisos de gasto, y la disponibilidad general se espera en las próximas semanas.</description>
+</item>
+
+<item>
+<title>[IA] Microsoft atribuye el ataque a ConnectWise a hackers chinos que usaron agentes de IA</title>
+<link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+<guid isPermaLink="false">2026-10-21-storm-0940-artex-connectwise</guid>
+<pubDate>Wed, 21 Oct 2026 20:23:00 +0200</pubDate>
+<category>IA</category>
+<description>Microsoft vincula el compromiso del servicio de copias en la nube de ConnectWise con Storm-0940, un grupo alineado con el Estado chino que desde septiembre automatiza sus ataques con ARTEX, un marco multiagente de pruebas de intrusión de código abierto. Con él apuntó a cientos de organizaciones, intentó entrar en más de 2.250 inquilinos de la nube y en algunos casos logró acceso privilegiado en menos de tres horas.</description>
+</item>
+
+<item>
 <title>[IA] OpenAI coordina el parche de fallos críticos en PHP hallados con ayuda de IA</title>
 <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
 <guid isPermaLink="false">2026-10-21-openai-patch-the-planet-php</guid>
 <pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Dentro de su iniciativa Patch the Planet, OpenAI explica cómo se coordinó durante dos meses la corrección de vulnerabilidades graves en PHP, una de ellas descubierta por la empresa Calif con GPT-5.6 Sol y también reportada por Wiz. Propone un protocolo de cinco pasos para gestionar fallos en software muy usado y destina 1.000 millones de dólares en acceso subvencionado a sus herramientas de seguridad para organizaciones con pocos recursos.</description>
+</item>
+
+<item>
+<title>[IA] Recursive lanza Flint, un modelo abierto de programación para usar en el portátil</title>
+<link>https://x.com/Recursive_SI/status/2112947469826896151</link>
+<guid isPermaLink="false">2026-10-21-recursive-flint</guid>
+<pubDate>Wed, 21 Oct 2026 18:41:00 +0200</pubDate>
+<category>IA</category>
+<description>La startup de Richard Socher publica con licencia Apache 2.0 su primer modelo, de tipo mezcla de expertos con unos 40.000 millones de parámetros, de los que solo 2.500 millones se activan por token. Según sus propias mediciones supera los 125 tokens por segundo en un MacBook Pro, y asegura que su sistema de investigación automatizada, la Eureka Machine, hizo buena parte del desarrollo en menos de cuatro meses.</description>
 </item>
 
 <item>
@@ -45,6 +72,15 @@
 </item>
 
 <item>
+<title>[IA] Una ingeniera de Google DeepMind dimite en protesta por los contratos militares</title>
+<link>https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/</link>
+<guid isPermaLink="false">2026-10-21-deepmind-dimision-militar</guid>
+<pubDate>Wed, 21 Oct 2026 18:25:00 +0200</pubDate>
+<category>IA</category>
+<description>Sofia Liguori, ingeniera de investigación en DeepMind desde 2023, ha dejado la empresa por su rechazo a los contratos de IA con los ejércitos de EE. UU. e Israel, entre ellos Project Nimbus y un contrato clasificado con el Pentágono. Contó a The Intercept que le borraron mensajes internos críticos; Google responde que revisa estos contratos según sus principios de IA y que no tolera represalias.</description>
+</item>
+
+<item>
 <title>[IA] Trump dice que obligará a los grandes centros de datos a generar su propia electricidad</title>
 <link>https://www.yahoo.com/news/articles/trump-says-requiring-data-centers-142605810.html</link>
 <guid isPermaLink="false">2026-10-21-trump-centros-datos-electricidad</guid>
@@ -54,12 +90,57 @@
 </item>
 
 <item>
+<title>[IA] Rumor: Anthropic podría hacer pública hoy su solicitud para salir a bolsa</title>
+<link>https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html</link>
+<guid isPermaLink="false">2026-10-21-anthropic-s1-publico</guid>
+<pubDate>Wed, 21 Oct 2026 15:53:00 +0200</pubDate>
+<category>IA</category>
+<description>Según tres personas al tanto citadas por Yahoo Finance, Anthropic publicaría su folleto S-1 este mismo viernes, el paso previo a un posible debut en bolsa en noviembre; la empresa no lo ha confirmado. Ya había entregado un borrador confidencial a la SEC en junio, y en Wall Street se habla de captar hasta 100.000 millones con una valoración cercana a los 2 billones de dólares.</description>
+</item>
+
+<item>
+<title>[IA] Walmart abre su tienda a los agentes de IA mientras Amazon los bloquea</title>
+<link>https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers</link>
+<guid isPermaLink="false">2026-10-21-walmart-agent-gateway</guid>
+<pubDate>Wed, 21 Oct 2026 15:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Walmart estrena en beta Agent Gateway, una conexión basada en MCP para que agentes autorizados busquen productos y compren en nombre de los clientes en Walmart y Sam's Club. Cada agente tendrá su propio perfil dentro de la cuenta del cliente, con límites de gasto o aprobación de cada compra, y no verá los datos de la tarjeta. Amazon, en cambio, ha empezado a bloquear este tipo de compras.</description>
+</item>
+
+<item>
+<title>[IA] Flapping Airplanes capta 1.000 millones y cuadruplica su valoración en nueve meses</title>
+<link>https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/</link>
+<guid isPermaLink="false">2026-10-21-flapping-airplanes-serie-a</guid>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
+<category>IA</category>
+<description>El laboratorio de San Francisco, que aún no vende ningún producto, cierra una serie A liderada por Index Ventures y Lux Capital que lo valora en 6.000 millones de dólares, frente a 1.500 millones en su ronda semilla de enero. Investiga cómo entrenar modelos con menos datos y cómputo, y ha creado su propio software para exprimir mejor las GPU de Nvidia, aunque aún no ha demostrado públicamente sus resultados.</description>
+</item>
+
+<item>
+<title>[IA] Mistral y Nvidia se alían para llevar la IA a la ingeniería industrial</title>
+<link>https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/</link>
+<guid isPermaLink="false">2026-10-21-mistral-nvidia-ingenieria</guid>
+<pubDate>Wed, 21 Oct 2026 13:35:00 +0200</pubDate>
+<category>IA</category>
+<description>Las dos empresas combinarán Mistral Large 4 con las herramientas de simulación de Nvidia para acelerar el diseño en sectores como el aeroespacial, la automoción o los semiconductores. También publicarán bancos de pruebas y conjuntos de datos abiertos para medir agentes de IA en tareas de diseño asistido e ingeniería de chips. Mistral anuncia que liberará los pesos de Large 4 a finales de octubre.</description>
+</item>
+
+<item>
 <title>[IA] Nvidia adelanta miles de millones a seis proveedores para ampliar la fabricación de sus chips hasta 2028</title>
 <link>https://globenewswire.com/news-release/2026/10/21/3385344/0/en/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout.html</link>
 <guid isPermaLink="false">2026-10-21-nvidia-proveedores-capacidad</guid>
 <pubDate>Wed, 21 Oct 2026 12:33:00 +0200</pubDate>
 <category>IA</category>
 <description>En el GTC de Berlín, Nvidia anunció acuerdos con Amkor, IBIDEN, KYEC, Samsung Electro-Mechanics, SPIL y Unimicron para ampliar la producción de sustratos, encapsulado avanzado y pruebas de chips. Entre otros compromisos, pagará por adelantado 1.100 millones de dólares a KYEC para nuevas instalaciones de pruebas en EE. UU. y prevé multiplicar por 2,5 su capacidad de sustratos en tres años. Jensen Huang resumió el motivo: la capacidad es ahora el cuello de botella.</description>
+</item>
+
+<item>
+<title>[IA] Nvidia presenta DSX POD, centros de datos de IA en contenedores que se instalan en 14 días</title>
+<link>https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</link>
+<guid isPermaLink="false">2026-10-21-nvidia-dsx-pod</guid>
+<pubDate>Wed, 21 Oct 2026 11:34:00 +0200</pubDate>
+<category>IA</category>
+<description>En el GTC de Berlín, Nvidia mostró un diseño de referencia para montar sus sistemas Vera Rubin dentro de contenedores modulares que llegan probados de fábrica y solo hay que conectar a la luz, la refrigeración y la red. Según la empresa, el despliegue pasa de seis meses a apenas dos semanas; socios como Dell, HPE, Lenovo o Foxconn empezarán a entregarlos a principios de 2027.</description>
 </item>
 
 <item>
@@ -324,84 +405,12 @@
 </item>
 
 <item>
-<title>[IA] El grupo de trabajo sobre IA de la Casa Blanca arranca con 120 días de plazo</title>
-<link>https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work</link>
-<guid isPermaLink="false">2026-10-16-casa-blanca-grupo-ia</guid>
-<pubDate>Fri, 16 Oct 2026 02:16:00 +0200</pubDate>
-<category>IA</category>
-<description>Tras su primera reunión, el grupo que preside el director de Inteligencia Nacional, Jay Clayton, aprobó su carta fundacional y tiene 120 días para proponer cómo debe gestionar el Gobierno de EE. UU. la IA más avanzada, según Semafor. Encargará un informe de riesgos sobre ciberseguridad, bioseguridad y control de modelos, y el Pentágono preparará protocolos para que los laboratorios notifiquen brechas. No está claro cómo se hará cumplir; las restricciones a la exportación serían una opción.</description>
-</item>
-
-<item>
-<title>[IA] Meta publica Muse Spark Open, un modelo abierto de 816.000 millones de parámetros</title>
-<link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs</link>
-<guid isPermaLink="false">2026-10-15-meta-muse-spark-open</guid>
-<pubDate>Thu, 15 Oct 2026 22:04:00 +0200</pubDate>
-<category>IA</category>
-<description>Meta ha liberado los pesos de Muse Spark Open, un modelo multimodal con contexto de un millón de tokens pensado para programación y tareas de agentes, que la empresa presenta como el modelo abierto estadounidense más capaz. Puede ejecutarse en Mac con chip de Apple, aunque necesita al menos 1 TB de memoria, por lo que en la práctica requiere varios Mac Studio M5 Ultra. Según Bloomberg, Meta sigue reservándose sus modelos más avanzados.</description>
-</item>
-
-<item>
-<title>[IA] La FTC exige documentos a OpenAI y Anthropic por incidentes de seguridad</title>
-<link>https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation</link>
-<guid isPermaLink="false">2026-10-15-ftc-openai-anthropic</guid>
-<pubDate>Thu, 15 Oct 2026 19:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La Comisión Federal de Comercio de EE. UU. ha enviado a cada empresa un requerimiento de más de 50 páginas sobre incidentes de seguridad, salvaguardas, publicidad y privacidad, según adelantó Axios. Entre los casos citados están el acceso de modelos de OpenAI a servidores de Hugging Face y un modelo de Anthropic que mandó una pista falsa sobre un asesinato a la policía de Filadelfia. La FTC prevé citar a declarar a directivos y pedir datos a más firmas; ninguna de las dos empresas ha comentado.</description>
-</item>
-
-<item>
-<title>[IA] Accenture limita a 29 dólares al mes el gasto en Claude por empleado</title>
-<link>https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/</link>
-<guid isPermaLink="false">2026-10-15-accenture-limite-claude</guid>
-<pubDate>Thu, 15 Oct 2026 18:46:00 +0200</pubDate>
-<category>IA</category>
-<description>Según un aviso interno al que ha tenido acceso 404 Media, la consultora solo pagará de forma centralizada 29 dólares mensuales de uso de Claude por persona; el resto debe cargarse a un proyecto concreto. Algunos empleados gastaban hasta 1.000 dólares al mes y al menos uno ha perdido el acceso. Accenture responde que sigue poniendo la IA a disposición de toda su plantilla.</description>
-</item>
-
-<item>
-<title>[IA] Microsoft termina el preentrenamiento de MAI-Base-2, su gran modelo propio</title>
-<link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
-<guid isPermaLink="false">2026-10-15-microsoft-mai-base-2</guid>
-<pubDate>Thu, 15 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Microsoft AI ha completado el preentrenamiento de MAI-Base-2, un modelo de mezcla de expertos con 2,8 billones de parámetros (80.000 millones activos) entrenado con 50 billones de tokens en 16.000 GPU GB200 durante 38 días. La empresa asegura que es entre 4 y 12 veces más eficiente en cómputo que DeepSeek-V4-Pro-Base. Aún está en postentrenamiento y no será abierto: se ofrecerá a socios de confianza a través de Foundry, sin fecha.</description>
-</item>
-
-<item>
-<title>[IA] Nvidia lanza Nemotron 3.5 Super VL, un modelo abierto para agentes</title>
-<link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
-<guid isPermaLink="false">2026-10-15-nvidia-nemotron-35</guid>
-<pubDate>Thu, 15 Oct 2026 17:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Nvidia ha publicado con pesos, datos y recetas de entrenamiento abiertos Nemotron 3.5 Super VL, un modelo multimodal de 120.000 millones de parámetros orientado a agentes empresariales, y lo describe como el más rápido de su categoría. Llega con dos variantes ligeras, Bolt 74B-A9B, que cabe en 24 GB, y Bolt E4B, prevista para el 23 de octubre. Ya está en Hugging Face, OpenRouter y como NIM.</description>
-</item>
-
-<item>
-<title>[IA] Cohere comprará AISLE y crea una división de ciberseguridad</title>
-<link>https://betakit.com/cohere-to-acquire-czech-ai-cybersecurity-firm-aisle-set-up-new-cyber-division/</link>
-<guid isPermaLink="false">2026-10-15-cohere-aisle</guid>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La canadiense Cohere ha firmado una carta de intenciones para adquirir AISLE, una empresa con sede en Praga que usa IA para encontrar y corregir vulnerabilidades en software, fundada hace un año por el ex consejero delegado de Avast Ondřej Vlček. Sus unos 50 empleados formarán Cohere Cyber. No se ha revelado el precio y la operación aún no está cerrada.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: ByteDance negocia comprar chips de IA a medida a MediaTek</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers</link>
-<guid isPermaLink="false">2026-10-15-bytedance-mediatek</guid>
-<pubDate>Thu, 15 Oct 2026 08:30:00 +0200</pubDate>
-<category>IA</category>
-<description>Bloomberg informa de que la dueña de TikTok está en conversaciones avanzadas para adquirir chips específicos para sus centros de datos diseñados por MediaTek, lo que la convertiría en uno de sus mayores clientes de este negocio. ByteDance busca alternativas porque las restricciones de EE. UU. le impiden comprar los chips más avanzados de Nvidia. Es un rumor: el acuerdo no está cerrado y ninguna de las dos empresas lo ha confirmado.</description>
-</item>
-
-<item>
-<title>[HCP] HCP y la arquitectura de las branded residences</title>
-<link>https://hcparquitectos.com/es/hcp-y-la-arquitectura-de-las-branded-residences/</link>
-<guid isPermaLink="false">hcp-https://hcparquitectos.com/?p=48718</guid>
-<pubDate>Tue, 22 Sep 2026 10:43:37 +0000</pubDate>
+<title>[HCP] HCP diseña la primera promoción de Tu Primer Hogar en Estepona</title>
+<link>https://hcparquitectos.com/es/hcp-tu-primer-hogar-estepona/</link>
+<guid isPermaLink="false">hcp-https://hcparquitectos.com/?p=48769</guid>
+<pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
 <category>HCP</category>
-<description>El estudio analiza el auge de las viviendas de lujo asociadas a una marca, un segmento en el que España, sobre todo Madrid y la Costa del Sol, gana peso, y el reto de plasmar la identidad de esa marca en el edificio. Repasa sus proyectos de este tipo, como Marea en Finca Cortesín con Missoni Home o Tierra Viva inspirado en Lamborghini, y otros en marcha como Armani Residences y un desarrollo para Four Seasons.</description>
+<description>El estudio firma Llanos de Boladilla, en Estepona, el primer proyecto de Tu Primer Hogar, una iniciativa en la que parte de lo pagado durante un periodo de alquiler se descuenta después del precio de compra, fijado desde el principio. Son 27 viviendas de dos y tres dormitorios con piscina, trasteros y zonas comunes, y unas terrazas amplias que son el rasgo más destacado del diseño.</description>
 </item>
 
 </channel>
