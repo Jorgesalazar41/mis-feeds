@@ -6,7 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 22 Oct 2026 08:00:01 +0200</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 07:54:26 +0200</lastBuildDate>
+
+<item>
+<title>How Factory is building autonomous software with Claude (10:38)</title>
+<link>https://www.youtube.com/watch?v=N6FkmdL0Lg0</link>
+<guid isPermaLink="false">yt-N6FkmdL0Lg0</guid>
+<pubDate>Fri, 23 Oct 2026 18:00:00 +0200</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/N6FkmdL0Lg0" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=N6FkmdL0Lg0"><img src="https://i.ytimg.com/vi/N6FkmdL0Lg0/hqdefault.jpg" alt="Miniatura"/></a></p><p>Matan Grinberg, cofundador y CEO de Factory, charla con Kai Gill de Anthropic sobre cómo sus agentes Droid usan Claude para tareas largas en bases de código enormes, y sobre lo que falta para una "fábrica" de software totalmente autónoma.</p><p>Duración: 10:38 · <a href="https://www.youtube.com/watch?v=N6FkmdL0Lg0">Ver en YouTube</a></p>]]></description>
+</item>
 
 <item>
 <title>Introducing Claude Duet (1:39)</title>

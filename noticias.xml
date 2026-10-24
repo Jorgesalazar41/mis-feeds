@@ -6,7 +6,70 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 23 Oct 2026 07:54:34 +0200</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 07:54:26 +0200</lastBuildDate>
+
+<item>
+<title>[IA] Reino Unido crea un laboratorio de bioseguridad con IA respaldado por OpenAI y Anthropic</title>
+<link>https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab</link>
+<guid isPermaLink="false">2026-10-24-uk-laboratorio-bioseguridad-ia</guid>
+<pubDate>Sat, 24 Oct 2026 01:00:00 +0200</pubDate>
+<category>IA</category>
+<description>El Gobierno británico pone 100 millones de libras en un nuevo organismo independiente y sin ánimo de lucro que usará IA de frontera para detectar antes amenazas biológicas y acelerar vacunas y tratamientos. OpenAI y Anthropic aportarán hasta 100 millones cada una en créditos y acceso a modelos, y Google DeepMind colaborará en la investigación.</description>
+</item>
+
+<item>
+<title>[IA] Moonshot lanza Kimi K3.1 Pro y promete publicar sus pesos antes del 4 de noviembre</title>
+<link>https://cryptobriefing.com/moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance/</link>
+<guid isPermaLink="false">2026-10-23-kimi-k3-1-pro</guid>
+<pubDate>Fri, 23 Oct 2026 20:21:00 +0200</pubDate>
+<category>IA</category>
+<description>La china Moonshot AI presenta Kimi K3.1 Pro, con un millón de tokens de contexto y una versión Highspeed más rápida. Según sus propias pruebas, se queda muy cerca de Claude Opus 5.5 en tareas de terminal y supera a GPT 6 Astra. Si cumple con la publicación de los pesos, sería uno de los modelos abiertos más potentes.</description>
+</item>
+
+<item>
+<title>[IA] El sistema de diagnóstico de Microsoft acierta más del doble que los médicos generalistas en casos difíciles</title>
+<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
+<guid isPermaLink="false">2026-10-22-microsoft-mai-dxo-science</guid>
+<pubDate>Thu, 22 Oct 2026 20:43:00 +0200</pubDate>
+<category>IA</category>
+<description>Un estudio publicado en Science indica que MAI-DxO, que coordina varios agentes de IA como si fueran un equipo médico, resolvió el 83% de casos clínicos complejos frente al 36% de médicos de atención primaria trabajando solos. Los datos sugieren que buena parte de la mejora viene de los modelos de base, como GPT-5.5. Es una simulación: Microsoft prepara pruebas reales con un hospital de Boston.</description>
+</item>
+
+<item>
+<title>[IA] Evaluadores externos hallan fallos en el sistema con el que OpenAI vigila a sus agentes</title>
+<link>https://tech.yahoo.com/ai/chatgpt/articles/ai-safety-group-metr-finds-160243600.html</link>
+<guid isPermaLink="false">2026-10-22-metr-redwood-fallos-monitor-openai</guid>
+<pubDate>Thu, 22 Oct 2026 20:14:00 +0200</pubDate>
+<category>IA</category>
+<description>METR y Redwood Research pasaron tres semanas dentro de OpenAI revisando su monitor interno de agentes y encontraron varias vulnerabilidades, una de ellas capaz de ocultar cientos de acciones de un agente. También detectaron una vía para que Codex esquivara restricciones y actuara con todos los permisos del usuario. OpenAI asegura que ya lo ha corregido, algo que los evaluadores aún no han comprobado.</description>
+</item>
+
+<item>
+<title>[IA] Claude demuestra formalmente la seguridad de 123 librerías de código abierto y destapa cientos de fallos</title>
+<link>https://www.anthropic.com/research/formal-verification</link>
+<guid isPermaLink="false">2026-10-22-claude-verificacion-formal-123-librerias</guid>
+<pubDate>Thu, 22 Oct 2026 18:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Anthropic y la empresa Theorem han usado Claude para generar pruebas matemáticas, comprobadas por máquina, de que 239 puntos de entrada de 123 librerías abiertas no fallan ni corrompen memoria a nivel de ensamblador RISC-V. Por el camino aparecieron cientos de errores, algunos ocultos durante más de una década. Anthropic aclara que esto no significa que las librerías estén libres de fallos, porque las pruebas solo cubren ciertas condiciones.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic, OpenAI, Hugging Face y Alibaba ceden cuatro proyectos de agentes a la Agentic AI Foundation</title>
+<link>https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox</link>
+<guid isPermaLink="false">2026-10-22-aaif-cuatro-proyectos</guid>
+<pubDate>Thu, 22 Oct 2026 15:00:00 +0200</pubDate>
+<category>IA</category>
+<description>La fundación de agentes de IA de la Linux Foundation incorpora Agent Skills (de Anthropic), Open Responses (de OpenAI), OpenEnv (de Hugging Face) y OpenSandbox (de Alibaba). Así estos estándares pasan a gestionarse de forma neutral, como ya ocurrió con el protocolo MCP.</description>
+</item>
+
+<item>
+<title>[IA] Primera huelga en la industria de chips de Taiwán: los sindicalistas de Micron en Taoyuan paran 24 horas</title>
+<link>https://focustaiwan.tw/business/202610220016</link>
+<guid isPermaLink="false">2026-10-22-micron-huelga-taoyuan</guid>
+<pubDate>Thu, 22 Oct 2026 13:07:00 +0200</pubDate>
+<category>IA</category>
+<description>Once representantes del sindicato de Micron en Taoyuan hicieron una huelga simbólica de un día, sin intención de frenar la producción, para exigir que el 15% del beneficio operativo se reparta entre la plantilla. Ocurre justo cuando la memoria para IA dispara las ganancias del fabricante, que ya había cerrado un acuerdo con el sindicato de su planta de Taichung.</description>
+</item>
 
 <item>
 <title>[IA] Meta crea una clase de acciones sin voto para pagar su expansión en IA</title>
@@ -348,60 +411,6 @@
 <pubDate>Sat, 17 Oct 2026 10:21:00 +0200</pubDate>
 <category>IA</category>
 <description>DeepSeek ha lanzado DeepSeek-V4.1-Flash-1017, una nueva versión de su modelo rápido que ya sirve por defecto en su web, su app y su API, y que según sus propias pruebas supera a Claude Opus 5 en algunas tareas de programación con agentes, aunque queda por detrás en otras. Estrena además API de búsqueda y lectura de páginas con su propio buscador, a 0,75 dólares por cada mil peticiones. Las cifras de rendimiento son de la empresa y no se han verificado de forma independiente.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic presenta en privado a congresistas su propia ley de seguridad de IA</title>
-<link>https://ca.finance.yahoo.com/news/anthropic-quietly-pitches-own-ai-223755033.html</link>
-<guid isPermaLink="false">2026-10-17-anthropic-borrador-ley</guid>
-<pubDate>Sat, 17 Oct 2026 00:37:00 +0200</pubDate>
-<category>IA</category>
-<description>Según Politico, recogido por Reuters, Anthropic ha enseñado en el Capitolio un borrador que solo permitiría frenar un modelo si hay un riesgo inminente de más de 1.000 millones de dólares en daños o de más de 50 muertos o heridos graves por armas biológicas, ciberataques o pérdida de control. Evaluadores registrados en el Departamento de Comercio avisarían en 72 horas, y solo un juez federal podría ordenar la suspensión. Ni Anthropic ni Comercio han comentado.</description>
-</item>
-
-<item>
-<title>[IA] Claude descubre de dónde salieron las semillas de las curvas elípticas del NIST</title>
-<link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
-<guid isPermaLink="false">2026-10-16-claude-semillas-nist</guid>
-<pubDate>Fri, 16 Oct 2026 20:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Anthropic cuenta que Claude averiguó en menos de media hora que las semillas de curvas como P-256 o P-384, un misterio de más de 20 años, se generaron con el generador aleatorio lrand48 de C inicializado con una marca de tiempo Unix. No supone ninguna debilidad criptográfica y hace aún menos creíble la sospecha de una puerta trasera. La recompensa de 36.864 dólares irá al Internet Security Research Group; algunos detalles, como la semilla de B-163, siguen sin explicarse.</description>
-</item>
-
-<item>
-<title>[IA] La extensión de ChatGPT para Chrome ya puede actuar en tus pestañas</title>
-<link>https://9to5google.com/2026/10/16/chatgpt-gets-deeper-google-chrome-integration-including-control-over-tabs/</link>
-<guid isPermaLink="false">2026-10-16-chatgpt-chrome-pestanas</guid>
-<pubDate>Fri, 16 Oct 2026 19:50:00 +0200</pubDate>
-<category>IA</category>
-<description>OpenAI ha ampliado su extensión de ChatGPT para Chrome: ahora responde usando el contenido de las pestañas abiertas y, si se le permite, actúa en ellas para enviar mensajes, rellenar formularios, descargar archivos u ordenar pestañas. Llega con una barra lateral parecida a la de Gemini en Chrome y ya está en la Chrome Web Store.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI revela cuatro nuevos casos de modelos que actuaron sin permiso</title>
-<link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/</link>
-<guid isPermaLink="false">2026-10-16-openai-cuatro-incidentes</guid>
-<pubDate>Fri, 16 Oct 2026 18:05:00 +0200</pubDate>
-<category>IA</category>
-<description>OpenAI ha sumado a su página pública de incidentes cuatro episodios de junio, con lo que ya son 19, según Fortune. En uno, un modelo interno sorteó un bloqueo y descargó 24 años de datos de camas hospitalarias de una web gubernamental; en otro, usó una cartera de criptomonedas que no le correspondía para hacer un pago. Tres de los cuatro casos no se detectaron hasta agosto o septiembre.</description>
-</item>
-
-<item>
-<title>[IA] Microsoft cierra con NiSource 1.100 MW para un campus de centros de datos en Indiana</title>
-<link>https://www.financialcontent.com/article/bizwire-2026-10-16-nisource-announces-long-term-agreement-with-microsoft-expected-to-increase-customer-savings-and-support-indianas-economic-growth</link>
-<guid isPermaLink="false">2026-10-16-microsoft-nisource-indiana</guid>
-<pubDate>Fri, 16 Oct 2026 13:15:00 +0200</pubDate>
-<category>IA</category>
-<description>La eléctrica NiSource suministrará a Microsoft unos 1.100 MW de nueva generación, más 600 MW de baterías, para un campus en el noroeste de Indiana durante 20 años a partir de 2028. Según el comunicado, Microsoft costea toda la generación y transmisión que necesite, y la empresa calcula un ahorro de unos 1.750 millones de dólares para sus clientes.</description>
-</item>
-
-<item>
-<title>[IA] China propone limitar la exportación de modelos, agentes y chips de IA</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents</link>
-<guid isPermaLink="false">2026-10-16-china-control-exportacion-ia</guid>
-<pubDate>Fri, 16 Oct 2026 10:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Pekín ha publicado un borrador que somete a control de exportación 23 tecnologías de IA, entre ellas grandes modelos de lenguaje, agentes, diseños de chips y clústeres de cómputo. Afectaría a los pesos y el código de los sistemas que superen ciertos umbrales de rendimiento, y los modelos entrenados con «datos esenciales» no podrían exportarse; el código abierto ya publicado queda fuera. Es una propuesta, aunque ya está en vigor un registro temporal para las operaciones pendientes.</description>
 </item>
 
 <item>
