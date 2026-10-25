@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 24 Oct 2026 07:54:26 +0200</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 07:59:29 +0100</lastBuildDate>
+
+<item>
+<title>[IA] EE. UU. y China forman bloques de IA y presionan a otros países para elegir bando</title>
+<link>https://abcnews.com/Technology/wireStory/us-china-form-ai-blocs-countries-increasingly-torn-137547790</link>
+<guid isPermaLink="false">2026-10-25-bloques-ia-eeuu-china</guid>
+<pubDate>Sun, 25 Oct 2026 06:52:00 +0100</pubDate>
+<category>IA</category>
+<description>Según la agencia AP, el grupo Pax Silica liderado por Washington y la Organización Mundial de Cooperación en IA impulsada por Pekín empujan a terceros países a alinearse con uno u otro. El Departamento de Estado avisa de que no se puede ser socio fiable de Pax Silica apostando a la vez por la alternativa china. Kazajistán se ha unido a ambos, e Indonesia o Singapur también coquetean con el bloque chino.</description>
+</item>
+
+<item>
+<title>[IA] Replit traslada la mayor parte de su gasto en IA de Anthropic a OpenAI, según The Information</title>
+<link>https://www.theinformation.com/articles/anthropics-margin-openais-opportunity</link>
+<guid isPermaLink="false">2026-10-24-replit-openai-anthropic</guid>
+<pubDate>Sat, 24 Oct 2026 22:01:00 +0200</pubDate>
+<category>IA</category>
+<description>Según The Information, OpenAI ofreció a Replit más de un 30% de descuento en un contrato de más de 100 millones de dólares al año, después de que Anthropic se negara a renovar su rebaja sin un compromiso de gasto mayor. Las cifras no están confirmadas por las empresas, y Replit sigue ofreciendo modelos de Claude en su plataforma.</description>
+</item>
+
+<item>
+<title>[IA] Dos ingenieros clave de Claude Code dejan Anthropic semanas antes de su salida a bolsa</title>
+<link>https://officechai.com/ai/thariq-shihipar-anthony-morris-announce-theyre-leaving-anthropic-weeks-before-its-ipo/</link>
+<guid isPermaLink="false">2026-10-24-salidas-claude-code</guid>
+<pubDate>Sat, 24 Oct 2026 20:03:00 +0200</pubDate>
+<category>IA</category>
+<description>Thariq Shihipar, conocido por su trabajo en las skills y los flujos de agentes de Claude Code, anunció en X que se marcha tras más de un año en el equipo. Un día antes se despidió Anthony Morris, creador de la aplicación de escritorio de Claude Code. Ninguno ha explicado los motivos ni su próximo destino.</description>
+</item>
+
+<item>
+<title>[IA] La caída de las neoclouds pone a prueba el papel de Nvidia como financiadora de la IA</title>
+<link>https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html</link>
+<guid isPermaLink="false">2026-10-24-nvidia-neoclouds-riesgo</guid>
+<pubDate>Sat, 24 Oct 2026 18:00:00 +0200</pubDate>
+<category>IA</category>
+<description>CoreWeave, Nebius e IREN han perdido al menos un 30% en bolsa en octubre, y el coste de asegurar la deuda de CoreWeave se ha disparado. Según CNBC, Nvidia tiene unos 171.500 millones de dólares expuestos a estos proveedores entre inversiones directas, garantías y compromisos de compra de capacidad, así que el mercado empieza a preguntarse si tendrá que responder por ellos.</description>
+</item>
+
+<item>
+<title>[IA] Obligados a elegir, Grok recomienda votar republicano y GPT-6.1 demócrata</title>
+<link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+<guid isPermaLink="false">2026-10-24-grok-gpt-sesgo-electoral</guid>
+<pubDate>Sat, 24 Oct 2026 17:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Un estudio del laboratorio Convovo, dirigido por el profesor de Cornell Tapan Parikh, pidió a los modelos por API una recomendación de voto en casi 500 contiendas de las elecciones de mitad de mandato. Grok 4.7 eligió al republicano en el 92% de los casos y GPT-6.1 Sol al demócrata en el 97%, y apenas coincidieron en un 10% de ellas. Sin búsqueda web, Grok se negó casi siempre a elegir, lo que apunta a que su sesgo viene de las fuentes que consulta.</description>
+</item>
+
+<item>
+<title>[IA] El 63% de los votantes de EE. UU. rechaza tener un centro de datos de IA cerca de casa</title>
+<link>https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html</link>
+<guid isPermaLink="false">2026-10-24-cnbc-encuesta-centros-datos</guid>
+<pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
+<category>IA</category>
+<description>Una encuesta de CNBC a 1.000 votantes registrados, hecha entre el 14 y el 18 de octubre, muestra que solo un 13% apoyaría un centro de datos de IA a menos de 16 km de su casa. El rechazo es mayoritario entre los demócratas (80%) y también alcanza al 40% de los votantes MAGA, lo que convierte el tema en un problema para Trump antes de las elecciones de mitad de mandato.</description>
+</item>
 
 <item>
 <title>[IA] Reino Unido crea un laboratorio de bioseguridad con IA respaldado por OpenAI y Anthropic</title>
@@ -366,60 +420,6 @@
 <pubDate>Sun, 18 Oct 2026 22:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Si lo aprueban los accionistas, Anthropic cederá un 5% de su capital al Anthropic Public Benefit Fund, una sociedad de su propiedad que podrá donar a ONG o repartir dinero directamente a colectivos concretos, por ejemplo los afectados por el impacto de la IA en el empleo. El consejo podrá sumar otro 2% por cada subida del 50% en el valor de la empresa sobre una cifra de referencia que no ha detallado. Ese capital no podrá usarse para hacer lobby ni donaciones políticas, y la gobernanza se conocerá en los próximos meses.</description>
-</item>
-
-<item>
-<title>[IA] Sam Altman confirma que OpenAI construirá un robot humanoide y espera enseñarlo en 2027</title>
-<link>https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/</link>
-<guid isPermaLink="false">2026-10-18-openai-robot-humanoide</guid>
-<pubDate>Sun, 18 Oct 2026 01:45:00 +0200</pubDate>
-<category>IA</category>
-<description>En el podcast Sources, el consejero delegado de OpenAI dijo que la empresa hará un humanoide porque el mundo está pensado para personas, y en una entrevista con Fortune añadió que espera una demostración llamativa en 2027. Insistió en que lo difícil no es el cuerpo sino el modelo que lo controla, y no cree que estos robots anden por la calle hasta unos años después. OpenAI tiene abiertas 27 vacantes de robótica, pero no ha mostrado el robot ni dado precio o fecha.</description>
-</item>
-
-<item>
-<title>[IA] OpenCode avisa de un robo de claves de API que afecta al 1,4% de sus usuarios</title>
-<link>https://officechai.com/ai/opencode-discloses-security-breach-says-attackers-may-have-accessed-users-openai-anthropic-and-google-api-keys/</link>
-<guid isPermaLink="false">2026-10-17-opencode-brecha-claves</guid>
-<pubDate>Sat, 17 Oct 2026 21:03:00 +0200</pubDate>
-<category>IA</category>
-<description>El agente de programación de código abierto OpenCode ha reconocido un acceso no autorizado a un sistema antiguo que estaba retirando, y las claves de OpenAI, Anthropic o Google guardadas por algunos usuarios pueden haber quedado expuestas. Lo atribuye a un ataque de destilación a gran escala, dice que ha avisado por correo a los afectados y que colabora con los tres proveedores. Quien use OpenCode Console debería revocar y sustituir esas claves y revisar su consumo reciente.</description>
-</item>
-
-<item>
-<title>[IA] Meta borra de sus nuevas condiciones la frase que le permitía entrenar IA con webs rastreadas</title>
-<link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
-<guid isPermaLink="false">2026-10-17-meta-condiciones-rastreo</guid>
-<pubDate>Sat, 17 Oct 2026 17:04:00 +0200</pubDate>
-<category>IA</category>
-<description>Tras las quejas de editores de prensa como la News/Media Alliance, Meta ha reescrito la cláusula de rastreo web de sus condiciones comerciales: ya no dice que pueda usar el contenido de los dominios rastreados para entrenar sus productos, y limita el uso a publicidad, productos para empresas y seguridad. Su portavoz Andy Stone sostiene que no cambia nada en el uso de sus rastreadores. Las nuevas condiciones entran en vigor el 30 de octubre.</description>
-</item>
-
-<item>
-<title>[IA] Jack Clark (Anthropic) ve posible que el PIB de EE. UU. llegue a 44 billones en 2030</title>
-<link>https://finance.yahoo.com/economy/articles/anthropics-clark-says-ais-impact-091449774.html</link>
-<guid isPermaLink="false">2026-10-17-clark-fmi-pib</guid>
-<pubDate>Sat, 17 Oct 2026 11:14:00 +0200</pubDate>
-<category>IA</category>
-<description>En las reuniones anuales del FMI y el Banco Mundial en Bangkok, el cofundador de Anthropic presentó un modelo económico interno según el cual la economía estadounidense podría pasar de algo más de 30 a 44 billones de dólares en 2030, según Reuters. Él mismo admitió que la cifra parece exagerada y la justificó por cómo la IA acelera la ciencia. También pidió cooperación internacional para fijar normas serias sobre esta tecnología.</description>
-</item>
-
-<item>
-<title>[IA] DeepSeek actualiza V4.1-Flash y abre una API de búsqueda web</title>
-<link>https://api-docs.deepseek.com/news/news261017/</link>
-<guid isPermaLink="false">2026-10-17-deepseek-v41-flash-1017</guid>
-<pubDate>Sat, 17 Oct 2026 10:21:00 +0200</pubDate>
-<category>IA</category>
-<description>DeepSeek ha lanzado DeepSeek-V4.1-Flash-1017, una nueva versión de su modelo rápido que ya sirve por defecto en su web, su app y su API, y que según sus propias pruebas supera a Claude Opus 5 en algunas tareas de programación con agentes, aunque queda por detrás en otras. Estrena además API de búsqueda y lectura de páginas con su propio buscador, a 0,75 dólares por cada mil peticiones. Las cifras de rendimiento son de la empresa y no se han verificado de forma independiente.</description>
-</item>
-
-<item>
-<title>[HCP] HCP diseña la primera promoción de Tu Primer Hogar en Estepona</title>
-<link>https://hcparquitectos.com/es/hcp-tu-primer-hogar-estepona/</link>
-<guid isPermaLink="false">hcp-https://hcparquitectos.com/?p=48769</guid>
-<pubDate>Thu, 24 Sep 2026 15:00:00 +0000</pubDate>
-<category>HCP</category>
-<description>El estudio firma Llanos de Boladilla, en Estepona, el primer proyecto de Tu Primer Hogar, una iniciativa en la que parte de lo pagado durante un periodo de alquiler se descuenta después del precio de compra, fijado desde el principio. Son 27 viviendas de dos y tres dormitorios con piscina, trasteros y zonas comunes, y unas terrazas amplias que son el rasgo más destacado del diseño.</description>
 </item>
 
 </channel>
