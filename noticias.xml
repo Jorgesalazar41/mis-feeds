@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 25 Oct 2026 07:59:29 +0100</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 08:06:09 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Formic capta 50 millones para llevar robots de uso general a las fábricas</title>
+<link>https://evertiq.com/news/2026-10-26-us-startup-formic-raises-50-million-to-scale-physical-ai</link>
+<guid isPermaLink="false">2026-10-26-formic-serie-b</guid>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La estadounidense Formic, que vende automatización industrial como servicio, ha cerrado una serie B liderada por Mercato Partners, con Citi entre los inversores y deuda de S2G Investments. Quiere pasar de robots pensados para una sola tarea a máquinas de propósito general dentro de la misma plataforma, y entrar en metalurgia, aeroespacial, defensa y energía.</description>
+</item>
+
+<item>
+<title>[IA] Moonshot pide perdón por los límites de uso de Kimi K3.1 Pro y devuelve parte de la cuota a sus suscriptores</title>
+<link>https://www.thestar.com.my/tech/tech-news/2026/10/26/moonshot-resets-subscriber-quotas-after-kimi-k31-pro-launch-issues</link>
+<guid isPermaLink="false">2026-10-26-moonshot-kimi-cuotas</guid>
+<pubDate>Mon, 26 Oct 2026 02:22:00 +0100</pubDate>
+<category>IA</category>
+<description>Tras el lanzamiento de Kimi K3.1 Pro, muchos usuarios se toparon con restricciones y un consumo de cuota que no esperaban. Moonshot devolverá a todos los suscriptores un 25% de su cuota mensual, el equivalente a una semana, y ha ajustado el modelo para que lance menos subagentes y escriba respuestas más cortas. Según Reuters, la empresa ya tuvo problemas de capacidad con K3, en un contexto de escasez de cómputo en China por los controles a la exportación de chips.</description>
+</item>
+
+<item>
+<title>[IA] Rumor: SK Hynix estudia un dividendo extraordinario de unos 12.000 millones con lo ganado en Kioxia</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report</link>
+<guid isPermaLink="false">2026-10-25-sk-hynix-dividendo-kioxia</guid>
+<pubDate>Sun, 25 Oct 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según Bloomberg, que cita a la prensa coreana, el fabricante de memoria repartiría unos 16 billones de wones entre sus accionistas gracias a las plusvalías de su participación en Kioxia, y podría anunciarlo con sus resultados del 28 de octubre. SK Hynix asegura que no ha tomado ninguna decisión, aunque sus acciones subieron hasta un 3% el lunes mientras el resto del mercado caía.</description>
+</item>
+
+<item>
+<title>[IA] Musk dice que SpaceX ha cerrado 40.000 millones de deuda para comprar GPU y augura un hundimiento de las neoclouds</title>
+<link>https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248</link>
+<guid isPermaLink="false">2026-10-25-spacex-deuda-gpu-40000</guid>
+<pubDate>Sun, 25 Oct 2026 21:05:00 +0100</pubDate>
+<category>IA</category>
+<description>Elon Musk anunció en X que SpaceX ha cerrado 40.000 millones de dólares de deuda, sobre todo amortizable anticipadamente, para pagar GPU de Nvidia que llegarán en la primera mitad de 2027. Según Reuters, no está claro si los inversores ya han aceptado el precio. Musk añadió que el mercado de deuda se ha cerrado casi por completo para quien dependa solo de los centros de datos de IA, y vaticina quiebras y fusiones entre las neoclouds, aunque SpaceX no piensa comprar ninguna.</description>
+</item>
+
+<item>
+<title>[IA] El economista jefe de Apollo no ve beneficio financiero de la IA fuera de las grandes tecnológicas</title>
+<link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
+<guid isPermaLink="false">2026-10-25-apollo-slok-sin-retorno-ia</guid>
+<pubDate>Sun, 25 Oct 2026 17:57:00 +0100</pubDate>
+<category>IA</category>
+<description>Torsten Slok, de Apollo Global Management, ha analizado el S&amp;P 500 sin sus siete grandes tecnológicas y concluye que los márgenes y los ingresos por empleado siguen planos, sin rastro de mejora de productividad por la IA. Duda de que abaratar la IA se traduzca en más beneficios para empresas cuyo éxito depende del criterio, la confianza o la cultura. Otros estudios recientes han llegado a conclusiones parecidas.</description>
+</item>
+
+<item>
+<title>[IA] Los dueños de los derechos de Elvis demandan a Anthropic por entrenar a Claude con 274 canciones</title>
+<link>https://www.latimes.com/california/story/2026-10-25/elvis-rights-holder-sues-anthropic-says-songs-illegally-used-to-train-ai</link>
+<guid isPermaLink="false">2026-10-25-elvis-demanda-anthropic</guid>
+<pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Una filial de Authentic Brands Group y otras empresas con derechos sobre el catálogo de Elvis Presley han presentado una demanda en un tribunal federal de California. Acusan a Anthropic de usar sin permiso 274 temas, como «Can't Help Falling in Love», para entrenar a Claude y de que este puede generar textos demasiado parecidos. Anthropic ha dicho a Los Angeles Times que no está de acuerdo y que se defenderá.</description>
+</item>
 
 <item>
 <title>[IA] EE. UU. y China forman bloques de IA y presionan a otros países para elegir bando</title>
@@ -384,42 +438,6 @@
 <pubDate>Mon, 19 Oct 2026 14:00:00 +0200</pubDate>
 <category>IA</category>
 <description>La empresa de chips de IA que dirige Jim Keller ha cerrado una ronda serie E de 1.500 millones de dólares, liderada por Trace Capital e Innovation X, que la valora en 6.200 millones. Dedicará el dinero a desplegar más servidores Galaxy, a dar soporte a modelos abiertos de lenguaje y vídeo y a seguir desarrollando la propiedad intelectual de CPU RISC-V y núcleos de IA que licencia a otros fabricantes.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: Samsung fabricará en TSMC a 3 nm la base de la memoria HBM a medida de Nvidia</title>
-<link>https://insideai.news/news/ai-hardware-infrastructure/samsung-tsmc-3nm-nvhbm/14164/</link>
-<guid isPermaLink="false">2026-10-19-samsung-tsmc-nvhbm</guid>
-<pubDate>Mon, 19 Oct 2026 07:17:00 +0200</pubDate>
-<category>IA</category>
-<description>Según el Seoul Economic Daily, que cita una fuente anónima, Samsung encargará a TSMC el chip base de la NVHBM, la memoria de alto ancho de banda que Nvidia presentó en agosto con su propio controlador integrado. Sería la primera vez que Samsung recurre a su rival en esta parte de la HBM. Es un rumor: Samsung y TSMC no han comentado, Nvidia declinó hacerlo y no hay calendario de producción.</description>
-</item>
-
-<item>
-<title>[IA] China crece un 4,5% en el tercer trimestre gracias a las exportaciones ligadas a la IA</title>
-<link>https://en.sedaily.com/international/2026/10/19/chinas-third-quarter-gdp-grows-45-percent-beating-forecasts</link>
-<guid isPermaLink="false">2026-10-19-china-pib-t3</guid>
-<pubDate>Mon, 19 Oct 2026 04:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La Oficina Nacional de Estadística china ha publicado un crecimiento interanual del 4,5% entre julio y septiembre, una décima por encima de lo que esperaban los analistas. El empuje viene sobre todo de las ventas al exterior en plena fiebre mundial por la IA, mientras las ventas minoristas solo subieron un 1,1% en septiembre y la inversión inmobiliaria cae más de un 20% en lo que va de año. El superávit comercial hasta septiembre ronda ya los 938.000 millones de dólares.</description>
-</item>
-
-<item>
-<title>[IA] Los inversores piden a Nscale rebajar casi a la mitad su valoración para salir a bolsa</title>
-<link>https://www.pymnts.com/news/investment-tracker/ipo/2026/nscale-investors-seek-lower-ipo-target-amid-ai-related-concerns/</link>
-<guid isPermaLink="false">2026-10-18-nscale-valoracion-ipo</guid>
-<pubDate>Mon, 19 Oct 2026 01:47:00 +0200</pubDate>
-<category>IA</category>
-<description>Según Bloomberg, la británica Nscale, que alquila capacidad de cómputo para IA, aspira a una valoración de unos 30.000 millones de dólares, pero algunos inversores creen que solo encontraría compradores entre 16.000 y 19.000 millones. Pesan la retirada de Microsoft de un acuerdo de centros de datos por retrasos con la energía y el fracaso de la salida a bolsa de la australiana Firmus. La empresa aún responde a preguntas de la SEC y no ha empezado a buscar inversores formalmente.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic destinará un 5% de sus acciones a un nuevo fondo de interés público</title>
-<link>https://www.anthropic.com/news/public-benefit-fund</link>
-<guid isPermaLink="false">2026-10-18-anthropic-fondo-beneficio-publico</guid>
-<pubDate>Sun, 18 Oct 2026 22:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Si lo aprueban los accionistas, Anthropic cederá un 5% de su capital al Anthropic Public Benefit Fund, una sociedad de su propiedad que podrá donar a ONG o repartir dinero directamente a colectivos concretos, por ejemplo los afectados por el impacto de la IA en el empleo. El consejo podrá sumar otro 2% por cada subida del 50% en el valor de la empresa sobre una cifra de referencia que no ha detallado. Ese capital no podrá usarse para hacer lobby ni donaciones políticas, y la gobernanza se conocerá en los próximos meses.</description>
 </item>
 
 </channel>
