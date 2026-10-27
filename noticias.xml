@@ -6,7 +6,43 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 26 Oct 2026 08:06:09 +0100</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 07:54:12 +0100</lastBuildDate>
+
+<item>
+<title>[IA] OpenAI lanza GPT-6.1 Terra, un modelo más barato y rápido para manejar el ordenador</title>
+<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/</link>
+<guid isPermaLink="false">2026-10-26-gpt-6-1-terra</guid>
+<pubDate>Mon, 26 Oct 2026 21:46:00 +0100</pubDate>
+<category>IA</category>
+<description>El nuevo modelo está pensado para tareas de uso del ordenador, como rellenar formularios o automatizar el escritorio, y ya está en ChatGPT Work, Codex y la API. Cuesta 1 dólar por millón de tokens de entrada y 5 de salida, la mitad que sus predecesores, y según OpenAI completa tareas más de tres veces más rápido que GPT-6 Astra. Para la programación más compleja, la empresa sigue recomendando sus modelos superiores.</description>
+</item>
+
+<item>
+<title>[IA] Broadcom y cuatro gigantes financieros reúnen 63.000 millones para los chips de Anthropic</title>
+<link>https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662</link>
+<guid isPermaLink="false">2026-10-26-broadcom-63000-anthropic</guid>
+<pubDate>Mon, 26 Oct 2026 21:31:00 +0100</pubDate>
+<category>IA</category>
+<description>Bank of America, Citi, Morgan Stanley y Blackstone financiarán una sociedad creada para comprar chips de IA y equipos de red de Broadcom y alquilárselos a Anthropic, con entregas desde 2027. Según Reuters, unos 43.500 millones serán deuda preferente y Blackstone aportará el tramo subordinado, mientras Broadcom ofrece a los prestamistas una garantía sobre el valor residual del equipo. El acuerdo se conoció el mismo día en que Anthropic pidió salir a bolsa.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic presenta su solicitud de salida a bolsa: cotizará en el Nasdaq como ANT</title>
+<link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
+<guid isPermaLink="false">2026-10-26-anthropic-s1-nasdaq-ant</guid>
+<pubDate>Mon, 26 Oct 2026 15:35:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic ha hecho público su folleto S-1 ante la SEC y saldrá al Nasdaq con el código ANT. Ingresó 16.300 millones de dólares en el primer semestre de 2026, frente a 1.200 millones un año antes, y redujo su pérdida operativa a unos 690 millones; la pérdida neta de 80.700 millones se debe casi toda a ajustes contables sin salida de caja ligados a su deuda convertible. Aún no ha fijado precio ni cuánto quiere captar.</description>
+</item>
+
+<item>
+<title>[IA] Meta lanza una ampliación de capital de hasta 95.000 millones para pagar su infraestructura de IA</title>
+<link>https://finance.yahoo.com/technology/ai/articles/meta-looks-raise-95-billion-115156007.html</link>
+<guid isPermaLink="false">2026-10-26-meta-ampliacion-95000</guid>
+<pubDate>Mon, 26 Oct 2026 12:51:00 +0100</pubDate>
+<category>IA</category>
+<description>Meta ha puesto en marcha emisiones por unos 35.000 millones de dólares entre acciones ordinarias y preferentes, y prevé vender otros 60.000 millones poco a poco a precio de mercado cuando empiecen a cotizar sus nuevas acciones de clase C, previsiblemente a principios de 2027. Nvidia, AMD y Broadcom han mostrado un interés no vinculante en comprar hasta 5.000 millones cada una. La compañía calcula entre 135.000 y 145.000 millones de inversión en 2026.</description>
+</item>
 
 <item>
 <title>[IA] Formic capta 50 millones para llevar robots de uso general a las fábricas</title>
@@ -384,60 +420,6 @@
 <pubDate>Tue, 20 Oct 2026 13:04:00 +0200</pubDate>
 <category>IA</category>
 <description>DeepSeek ha liberado con licencia Apache 2.0 DeepInfer, el sistema de inferencia que usa en producción. De momento solo sirve DeepSeek-V4.1-Flash y funciona en GPU Blackwell de Nvidia y en los chips Ascend 950 de Huawei. Se basa en vLLM e incluye decodificación especulativa propia, pero deja fuera la gestión de la caché KV y el balanceo de carga, que según la empresa dependen demasiado de su infraestructura interna.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: OpenAI busca cerrar 30.000 millones antes de que Anthropic salga a bolsa</title>
-<link>https://business-standard.com/world-news/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-s-planned-ipo-126102000192_1.html</link>
-<guid isPermaLink="false">2026-10-20-openai-ronda-30000-millones</guid>
-<pubDate>Tue, 20 Oct 2026 07:34:00 +0200</pubDate>
-<category>IA</category>
-<description>Según Reuters, que cita a personas conocedoras de las conversaciones, OpenAI quiere acelerar una ronda de unos 30.000 millones de dólares que la valoraría en más de 1,4 billones, y cerrarla antes del estreno bursátil de Anthropic previsto para mediados de noviembre. SoftBank y el fondo emiratí MGX estarían entre los interesados. Es información no confirmada: OpenAI y SoftBank no han querido comentar.</description>
-</item>
-
-<item>
-<title>[IA] Elice se desploma un 30% en su debut en el Kosdaq</title>
-<link>https://en.sedaily.com/finance/2026/10/20/elice-plunges-30-percent-in-kosdaq-trading-debut</link>
-<guid isPermaLink="false">2026-10-20-elice-debut-kosdaq</guid>
-<pubDate>Tue, 20 Oct 2026 02:56:00 +0200</pubDate>
-<category>IA</category>
-<description>La surcoreana Elice, que empezó como plataforma educativa y ahora ofrece nube con GPU y centros de datos de IA, salió a bolsa a 90.500 wones y a la media hora cotizaba en torno a 63.000. La demanda en la colocación había sido enorme, con suscripciones de casi 400 veces lo ofrecido, pero su valor de mercado bajó de cerca de un billón de wones a unos 700.000 millones. Pretende usar el dinero en nuevos centros de datos y en expandirse a EE. UU., Japón y Singapur.</description>
-</item>
-
-<item>
-<title>[IA] EE. UU. prohíbe DeepSeek en los sistemas de sus agencias civiles</title>
-<link>https://siliconangle.com/2026/10/19/trump-administration-orders-ban-on-deepseek-in-federal-agencies/</link>
-<guid isPermaLink="false">2026-10-20-dhs-prohibe-deepseek</guid>
-<pubDate>Tue, 20 Oct 2026 02:47:00 +0200</pubDate>
-<category>IA</category>
-<description>El Departamento de Seguridad Nacional ha ordenado a las agencias federales civiles retirar los productos de DeepSeek, incluidos los servicios de terceros construidos sobre sus modelos, y les prohíbe comprarlos en adelante. Se apoya en una ley de 2018 sobre seguridad en la cadena de suministro y alega que la tecnología podría dar a Pekín acceso a infraestructura del Gobierno y enviar datos sensibles a China. La orden se ha publicado en el Federal Register y DeepSeek no ha respondido de momento.</description>
-</item>
-
-<item>
-<title>[IA] Un solo atacante usó agentes de IA para entrar en más de 100 empresas</title>
-<link>https://gizmodo.com/the-fear-of-a-one-man-band-weaponizing-ai-agents-is-becoming-reality-2000827754</link>
-<guid isPermaLink="false">2026-10-19-hacker-agentes-ia-100-empresas</guid>
-<pubDate>Mon, 19 Oct 2026 20:35:00 +0200</pubDate>
-<category>IA</category>
-<description>La firma de ciberseguridad NorForge, citada por Reuters, describe a un atacante de habla china que, con el motor multiagente de código abierto Cairn y modelos de DeepSeek y Claude Code, apuntó a unas 1.200 tiendas online y logró entrar en más de un centenar desde el 25 de septiembre. Según sus estimaciones gastó unos 5.000 dólares en tokens y robó datos de clientes, tarjetas y criptomonedas con órdenes muy breves. El autor de Cairn asegura que no lo diseñó para atacar.</description>
-</item>
-
-<item>
-<title>[IA] Inception lanza Mercury 3, un modelo de difusión que supera los 1.000 tokens por segundo</title>
-<link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
-<guid isPermaLink="false">2026-10-19-inception-mercury-3</guid>
-<pubDate>Mon, 19 Oct 2026 15:04:00 +0200</pubDate>
-<category>IA</category>
-<description>Inception ha publicado Mercury 3, un modelo de lenguaje que genera texto por difusión en lugar de palabra a palabra y que, según la empresa, alcanza 1.068 tokens por segundo en GPU de Nvidia. Afirma que iguala o mejora a GPT-6 Luna y Claude Haiku 5.5, aunque son cifras propias. Tiene un contexto de un millón de tokens, cuesta 0,20 dólares por millón de tokens de entrada y 0,70 de salida, y está en su API, OpenRouter, Baseten y Vercel.</description>
-</item>
-
-<item>
-<title>[IA] Tenstorrent levanta 1.500 millones y duplica su valoración hasta 6.200 millones</title>
-<link>https://tenstorrent.com/newsroom/tenstorrent-announces-series-e</link>
-<guid isPermaLink="false">2026-10-19-tenstorrent-serie-e</guid>
-<pubDate>Mon, 19 Oct 2026 14:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La empresa de chips de IA que dirige Jim Keller ha cerrado una ronda serie E de 1.500 millones de dólares, liderada por Trace Capital e Innovation X, que la valora en 6.200 millones. Dedicará el dinero a desplegar más servidores Galaxy, a dar soporte a modelos abiertos de lenguaje y vídeo y a seguir desarrollando la propiedad intelectual de CPU RISC-V y núcleos de IA que licencia a otros fabricantes.</description>
 </item>
 
 </channel>
