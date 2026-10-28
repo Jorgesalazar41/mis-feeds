@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 27 Oct 2026 07:54:12 +0100</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 07:58:02 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Rumor: OpenAI planea comprar chips TPU a Google para depender menos de Nvidia</title>
+<link>https://analyticsindiamag.com/ai-news/openai-plans-to-purchase-google-tpus-report</link>
+<guid isPermaLink="false">2026-10-27-rumor-openai-compra-tpu-google</guid>
+<pubDate>Tue, 27 Oct 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según The Information, que cita a una sola fuente anónima, OpenAI quiere comprar TPU de Google para ampliar su capacidad de cálculo; hasta ahora solo las alquilaba en Google Cloud. La empresa busca además ingenieros para adaptar sus modelos punteros a estos chips. No hay cifras ni confirmación oficial de OpenAI.</description>
+</item>
+
+<item>
+<title>[IA] Microsoft presenta MAI Image 2.7, su nuevo modelo para editar imágenes</title>
+<link>https://microsoft.ai/news/mai-image-2-7-debut/</link>
+<guid isPermaLink="false">2026-10-27-mai-image-2-7</guid>
+<pubDate>Tue, 27 Oct 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El sucesor de MAI-Image-2.6 llega en versión preliminar y por ahora solo edita imágenes; la generación a partir de texto llegará más adelante. Según Microsoft, mejora a su predecesor en todos los casos evaluados por Artificial Analysis, donde queda segundo en edición, y es tercero en la clasificación de Arena. Se puede probar en Arena, Artificial Analysis y MAI Playground, todavía sin API.</description>
+</item>
+
+<item>
+<title>[IA] Oracle será la primera gran nube ajena a Google en ofrecer sus chips TPU</title>
+<link>https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/</link>
+<guid isPermaLink="false">2026-10-27-oracle-google-tpu-oci</guid>
+<pubDate>Tue, 27 Oct 2026 17:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Oracle y Google anunciaron en Oracle AI World que los procesadores TPU de Google estarán disponibles en Oracle Cloud Infrastructure a partir de 2027, con un despliegue que se ampliará durante varios años. Oracle pondrá la energía, la refrigeración y la red de sus centros de datos. Hasta ahora, estos chips solo se podían alquilar en la propia nube de Google.</description>
+</item>
+
+<item>
+<title>[IA] Nvidia y Oracle llevan Vera Rubin a escala de varios gigavatios en la nube de Oracle</title>
+<link>https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/</link>
+<guid isPermaLink="false">2026-10-27-nvidia-oracle-vera-rubin</guid>
+<pubDate>Tue, 27 Oct 2026 16:30:00 +0100</pubDate>
+<category>IA</category>
+<description>Los sistemas Vera Rubin NVL72, con 72 GPU por rack, y las CPU Vera de Nvidia ya están disponibles de forma general en Oracle Cloud Infrastructure, y ambas empresas planean ampliar esos superclústeres hasta varios gigavatios. Las CPU Vera se presentan como pensadas para las tareas de los agentes, como ejecutar código o llamar a herramientas. Oracle recuerda que OpenAI entrenó GPT-6 Astra en su centro de Abilene con más de 100.000 GPU Blackwell.</description>
+</item>
+
+<item>
+<title>[IA] Oracle y OpenAI integran ChatGPT y Codex en las aplicaciones empresariales de Oracle</title>
+<link>https://www.oracle.com/news/announcement/ai-world-oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-2026-10-27/</link>
+<guid isPermaLink="false">2026-10-27-oracle-openai-ai-workspace</guid>
+<pubDate>Tue, 27 Oct 2026 16:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La alianza incluye Oracle AI Workspace, una interfaz que conecta los modelos de OpenAI con Fusion, NetSuite y la base de datos de Oracle, y App Composer, para que empleados sin conocimientos de programación creen aplicaciones con Codex. También habrá un servicio de seguridad que usa los modelos de ciberseguridad de OpenAI para buscar vulnerabilidades, y un paquete gratuito de entrada para pymes con 12.000 dólares anuales en créditos de nube. Oracle avisa de que fechas y precios pueden cambiar.</description>
+</item>
+
+<item>
+<title>[IA] Apple lanza iOS 27.2: Siri con IA ya habla español y recuerda conversaciones anteriores</title>
+<link>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</link>
+<guid isPermaLink="false">2026-10-27-ios-27-2-siri-ia-espanol</guid>
+<pubDate>Tue, 27 Oct 2026 14:54:00 +0100</pubDate>
+<category>IA</category>
+<description>La actualización amplía la nueva Siri con IA, todavía en beta, a cinco idiomas más: español, francés, japonés, coreano y portugués. El asistente puede ahora recordar lo hablado en conversaciones previas y tirar de datos como fotos de Mensajes, asistentes a eventos del calendario o el historial de Safari, aunque el usuario puede excluir apps de esa memoria. Mensajes también propone convertir un mensaje en recordatorio o evento.</description>
+</item>
 
 <item>
 <title>[IA] OpenAI lanza GPT-6.1 Terra, un modelo más barato y rápido para manejar el ordenador</title>
@@ -348,78 +402,6 @@
 <pubDate>Wed, 21 Oct 2026 11:34:00 +0200</pubDate>
 <category>IA</category>
 <description>En el GTC de Berlín, Nvidia mostró un diseño de referencia para montar sus sistemas Vera Rubin dentro de contenedores modulares que llegan probados de fábrica y solo hay que conectar a la luz, la refrigeración y la red. Según la empresa, el despliegue pasa de seis meses a apenas dos semanas; socios como Dell, HPE, Lenovo o Foxconn empezarán a entregarlos a principios de 2027.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: Fireworks AI negocia una ronda que la valoraría entre 30.000 y 40.000 millones</title>
-<link>https://startupfortune.com/fireworks-ai-is-in-talks-to-double-its-valuation-to-40-billion-dollars/</link>
-<guid isPermaLink="false">2026-10-21-fireworks-valoracion</guid>
-<pubDate>Wed, 21 Oct 2026 04:21:00 +0200</pubDate>
-<category>IA</category>
-<description>Según Business Insider, la plataforma de inferencia Fireworks AI está en conversaciones iniciales para levantar capital con una valoración de 30.000 a 40.000 millones de dólares, más o menos el doble de los 17.500 millones de su ronda de julio. La empresa habría superado los 1.000 millones de ingresos anualizados y procesa más de 40 billones de tokens al día. Es un rumor: Fireworks no ha querido comentar los términos.</description>
-</item>
-
-<item>
-<title>[IA] ASI, la empresa de IA que gestiona el tráfico aéreo de EE. UU., capta 325 millones y vale 3.000</title>
-<link>https://siliconangle.com/2026/10/20/ai-infrastructure-management-software-startup-asi-hits-3b-valuation-after-raising-325m-in-funding/</link>
-<guid isPermaLink="false">2026-10-21-asi-serie-c</guid>
-<pubDate>Wed, 21 Oct 2026 04:11:00 +0200</pubDate>
-<category>IA</category>
-<description>ASI, antes Air Space Intelligence, ha cerrado una serie C de 325 millones de dólares liderada por Spark Capital que la sitúa en una valoración de 3.000 millones. Sus modelos simulan sistemas físicos como el tráfico aéreo o las redes eléctricas para que los operadores planifiquen en tiempo real, y entre sus clientes están la FAA, United, Delta, el Ejército de EE. UU. y National Grid. Usará el dinero para crecer en aviación, defensa y energía y entrar en logística.</description>
-</item>
-
-<item>
-<title>[IA] La división de IA de SpaceX ingresa 7.560 millones y ya supera a Starlink</title>
-<link>https://www.teslarati.com/spacex-spcx-delivers-blockbuster-q3-results-super-intelligence-booms/</link>
-<guid isPermaLink="false">2026-10-20-spacex-ia-t3</guid>
-<pubDate>Tue, 20 Oct 2026 22:53:00 +0200</pubDate>
-<category>IA</category>
-<description>En sus resultados del tercer trimestre, SpaceX facturó 14.580 millones de dólares, un 161% más que hace un año, y su segmento de IA, llamado Super Intelligence, aportó 7.560 millones y se convirtió por primera vez en el mayor del grupo, por delante de Starlink. El salto se debe a contratos de nube, la integración de Cursor y el uso de los modelos Grok. Además, Tesla y SpaceX han creado comités independientes para estudiar una posible fusión.</description>
-</item>
-
-<item>
-<title>[IA] Un tribunal rechaza el intento del Gobierno de frenar la demanda de la NAACP contra la central de xAI</title>
-<link>https://www.selc.org/press-release/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai/</link>
-<guid isPermaLink="false">2026-10-20-xai-demanda-naacp</guid>
-<pubDate>Tue, 20 Oct 2026 21:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Un tribunal federal del norte de Misisipi ha denegado la petición del Departamento de Justicia de desestimar la demanda de la NAACP contra xAI por operar sin permiso una central de gas que alimenta su centro de datos Colossus 2. El tribunal concluye que el Gobierno no puede bloquear por su cuenta una demanda ciudadana bajo la Ley de Aire Limpio, aunque le deja intervenir en el caso. El pleito sigue adelante sin fechas fijadas.</description>
-</item>
-
-<item>
-<title>[IA] Claude diseña de forma casi autónoma 17 proteínas que se unen a toxinas de escorpión</title>
-<link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
-<guid isPermaLink="false">2026-10-20-claude-toxinas-escorpion</guid>
-<pubDate>Tue, 20 Oct 2026 20:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Anthropic cuenta que un modelo interno de Claude trabajó unas 64 horas, con apenas cuatro indicaciones de seguimiento, para diseñar miniproteínas contra neurotoxinas de escorpión: generó más de 318.000 candidatas y se probaron 211 en laboratorio. Diecisiete se unieron a su toxina, y las dos mejores lo hicieron con afinidad nanomolar. La empresa aclara que no es un antídoto: no se ha comprobado que neutralicen el veneno en células ni en animales.</description>
-</item>
-
-<item>
-<title>[IA] Google lanza Gemini for Government Services para automatizar trámites en la Administración de EE. UU.</title>
-<link>https://www.googlecloudpresscorner.com/2026-10-20-Google-Public-Sector-Launches-Gemini-for-Government-Services</link>
-<guid isPermaLink="false">2026-10-20-gemini-government-services</guid>
-<pubDate>Tue, 20 Oct 2026 15:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Google Public Sector ha presentado en vista previa un paquete de agentes para administraciones federales, estatales y locales que interpreta normativa citando la fuente, compara ofertas en licitaciones, valida documentos de los ciudadanos y ayuda a tachar datos sensibles en las respuestas a solicitudes de información pública. Se conecta con Workspace, SharePoint, Salesforce o ServiceNow y con bases como el Federal Register. El Departamento de Salud y el estado de Misuri ya lo usan.</description>
-</item>
-
-<item>
-<title>[IA] Daytona, que da entornos aislados a los agentes de IA, alcanza los 1.000 millones de valoración</title>
-<link>https://fortune.com/2026/10/20/daytona-startup-building-the-agentic-cloud-valued-at-1-billion-in-latest-funding-round/</link>
-<guid isPermaLink="false">2026-10-20-daytona-serie-b</guid>
-<pubDate>Tue, 20 Oct 2026 14:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La startup de San Francisco ha cerrado una serie B de 60 millones de dólares liderada por FirstMark que la valora en 1.000 millones. Ofrece máquinas virtuales aisladas en las que los agentes programan, navegan o usan aplicaciones, y asegura que levanta una en unos 60 milisegundos. Según Fortune, sus ingresos se multiplicaron por 25 entre enero y septiembre y entre sus clientes figuran Anthropic, OpenAI, Nvidia y Cursor.</description>
-</item>
-
-<item>
-<title>[IA] DeepSeek publica como código abierto DeepInfer, el motor con el que sirve sus modelos</title>
-<link>https://github.com/deepseek-ai/DeepInfer</link>
-<guid isPermaLink="false">2026-10-20-deepseek-deepinfer</guid>
-<pubDate>Tue, 20 Oct 2026 13:04:00 +0200</pubDate>
-<category>IA</category>
-<description>DeepSeek ha liberado con licencia Apache 2.0 DeepInfer, el sistema de inferencia que usa en producción. De momento solo sirve DeepSeek-V4.1-Flash y funciona en GPU Blackwell de Nvidia y en los chips Ascend 950 de Huawei. Se basa en vLLM e incluye decodificación especulativa propia, pero deja fuera la gestión de la caché KV y el balanceo de carga, que según la empresa dependen demasiado de su infraestructura interna.</description>
 </item>
 
 </channel>
