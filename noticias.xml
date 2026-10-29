@@ -6,7 +6,70 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 28 Oct 2026 07:58:02 +0100</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 07:54:16 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Alphabet duplica los ingresos de Google Cloud, pero el gasto en IA deja su flujo de caja en negativo</title>
+<link>https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/</link>
+<guid isPermaLink="false">2026-10-28-alphabet-resultados-q3</guid>
+<pubDate>Wed, 28 Oct 2026 21:40:00 +0100</pubDate>
+<category>IA</category>
+<description>Alphabet facturó 127.600 millones de dólares en el tercer trimestre, un 25% más, y Google Cloud superó los 30.700 millones, más del doble que hace un año. Sin embargo, la inversión en infraestructura subió a 51.400 millones y el flujo de caja libre quedó en 9.100 millones negativos. Las acciones llegaron a caer alrededor de un 8% tras el cierre.</description>
+</item>
+
+<item>
+<title>[IA] Azure crece un 48% y Microsoft gasta menos de lo previsto en centros de datos por retrasos de proveedores</title>
+<link>https://www.marketscreener.com/news/microsoft-beats-quarterly-cloud-revenue-estimates-ce785cd3d980f624</link>
+<guid isPermaLink="false">2026-10-28-microsoft-resultados-azure</guid>
+<pubDate>Wed, 28 Oct 2026 21:08:00 +0100</pubDate>
+<category>IA</category>
+<description>Microsoft ingresó 92.280 millones de dólares en su trimestre, un 20% más, y Azure facturó 33.170 millones, por encima de lo esperado. Invirtió 45.200 millones, menos de los 50.000 que había anunciado, porque terceros se retrasaron en entregarle capacidad, no porque recorte planes. Nadella dijo que la demanda de IA se reparte ya entre más clientes, y las acciones subieron más de un 5% fuera de horario.</description>
+</item>
+
+<item>
+<title>[IA] Rumor: DeepSeek y Moonshot habrían entrenado sus últimos modelos con respuestas de GPT-6 Astra</title>
+<link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F02M:0-deepseek-moonshot-used-openai-s-gpt-6-astra-to-train-latest-models-the-information-reports/</link>
+<guid isPermaLink="false">2026-10-28-rumor-deepseek-moonshot-astra</guid>
+<pubDate>Wed, 28 Oct 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>The Information asegura, citando a personas con conocimiento directo del asunto, que los dos laboratorios chinos se apoyaron mucho en las respuestas del modelo de OpenAI para entrenar sus modelos más recientes. Reuters recoge la información sin haberla verificado por su cuenta y no se conocen detalles del método. Es un rumor: ninguna de las empresas lo ha confirmado.</description>
+</item>
+
+<item>
+<title>[IA] Google presenta Gemini 4 Carbon, su modelo más potente, de momento solo para expertos en ciberseguridad</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+<guid isPermaLink="false">2026-10-28-gemini-4-carbon</guid>
+<pubDate>Wed, 28 Oct 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Dos semanas después de Argon, Google lanza Gemini 4 Carbon, pensado para tareas largas de programación y agentes, y lo sitúa primero en el índice de Artificial Analysis con 59 puntos. Destaca en pruebas de encontrar, explotar y corregir vulnerabilidades, por lo que al principio solo lo usarán defensores de ciberseguridad seleccionados a través del programa Fairwind, mientras el Gobierno de EE. UU. lo evalúa. La versión para desarrolladores y público general llegará más adelante, con un precio inicial de 2 dólares por millón de tokens de entrada y 10 de salida.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI abre un centro con cientos de empleados para vigilar el mal uso de ChatGPT en las elecciones de EE. UU.</title>
+<link>https://www.yahoo.com/news/politics/articles/openai-launches-election-war-room-164347725.html</link>
+<guid isPermaLink="false">2026-10-28-openai-centro-electoral</guid>
+<pubDate>Wed, 28 Oct 2026 17:43:00 +0100</pubDate>
+<category>IA</category>
+<description>Según Politico, el centro de operaciones electorales empieza a funcionar esta semana y seguirá activo hasta que termine el recuento de las elecciones de mitad de mandato del 3 de noviembre. Su personal, de varias áreas de la empresa, seguirá la actualidad, recogerá avisos de comportamientos extraños de los modelos e investigará cuentas sospechosas. OpenAI ya había cerrado este mes cuentas ligadas a campañas de influencia rusas e iraníes.</description>
+</item>
+
+<item>
+<title>[IA] GitHub lanza Copilot Fusion, que elige y combina varios modelos para cada tarea</title>
+<link>https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/</link>
+<guid isPermaLink="false">2026-10-28-github-copilot-fusion</guid>
+<pubDate>Wed, 28 Oct 2026 17:15:00 +0100</pubDate>
+<category>IA</category>
+<description>En su conferencia Universe, GitHub hizo disponible para todos Copilot Fusion, una opción del selector de modelos que decide qué modelos usar en cada petición y cómo hacerlos colaborar, con varios niveles de esfuerzo. También presentó en vista previa proyectos de agentes que trabajan en varios repositorios a la vez, automatizaciones programadas y un modo que maneja apps de escritorio con permiso del usuario. Los clientes de GitHub Enterprise podrán usar Copilot sin suscripción aparte, pagando solo los créditos que consuman.</description>
+</item>
+
+<item>
+<title>[IA] Nvidia publica Nemotron 3.5 Transcribe, un modelo abierto que transcribe 40 idiomas e identifica a quién habla</title>
+<link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+<guid isPermaLink="false">2026-10-28-nvidia-nemotron-transcribe</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El modelo, de pesos abiertos, tiene 30.000 millones de parámetros, aunque solo activa unos 4.000 millones en cada paso, y en un mismo sistema transcribe, traduce desde o hacia el inglés y separa hasta ocho hablantes en grabaciones de hasta una hora. Se le dan instrucciones en lenguaje natural y funciona en una sola GPU de Nvidia, pero está pensado para audio grabado, no para emisiones en directo. Nvidia publica también Granary v2, un conjunto de datos de voz con más de 460.000 horas en 48 idiomas.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: OpenAI planea comprar chips TPU a Google para depender menos de Nvidia</title>
@@ -267,141 +330,6 @@
 <pubDate>Thu, 22 Oct 2026 13:07:00 +0200</pubDate>
 <category>IA</category>
 <description>Once representantes del sindicato de Micron en Taoyuan hicieron una huelga simbólica de un día, sin intención de frenar la producción, para exigir que el 15% del beneficio operativo se reparta entre la plantilla. Ocurre justo cuando la memoria para IA dispara las ganancias del fabricante, que ya había cerrado un acuerdo con el sindicato de su planta de Taichung.</description>
-</item>
-
-<item>
-<title>[IA] Meta crea una clase de acciones sin voto para pagar su expansión en IA</title>
-<link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock</link>
-<guid isPermaLink="false">2026-10-21-meta-acciones-sin-voto</guid>
-<pubDate>Thu, 22 Oct 2026 00:45:00 +0200</pubDate>
-<category>IA</category>
-<description>Meta ingresó 64.000 millones de dólares en el tercer trimestre, un 26% más que hace un año, aunque sus gastos crecieron un 68% por la inversión en IA. En la presentación de resultados confirmó que repartirá entre sus accionistas una nueva clase de acciones sin derecho a voto, que podrá usar para captar capital, pagar a empleados o hacer compras sin diluir el control de Zuckerberg.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic presenta Claude Duet, un agente proactivo que trabaja aunque cierres la app</title>
-<link>https://claude.com/product/claude-duet</link>
-<guid isPermaLink="false">2026-10-21-claude-duet</guid>
-<pubDate>Wed, 21 Oct 2026 21:39:00 +0200</pubDate>
-<category>IA</category>
-<description>Anthropic ha abierto en versión preliminar Claude Duet, una app en la que Claude se adelanta a avisarte de lo que requiere tu atención en las aplicaciones conectadas y sigue con las tareas en su propio ordenador en la nube. Antes de enviar mensajes, pagar, firmar documentos o borrar algo pide tu permiso. De momento funciona con Opus 5.5, solo para suscriptores Pro y Max de EE. UU. con lista de espera, y su trabajo en segundo plano consume el límite de uso del plan.</description>
-</item>
-
-<item>
-<title>[IA] Los modelos de OpenAI y Codex llegan a Google Cloud</title>
-<link>https://openai.com/index/openai-models-google-cloud/</link>
-<guid isPermaLink="false">2026-10-21-openai-google-cloud</guid>
-<pubDate>Wed, 21 Oct 2026 21:23:00 +0200</pubDate>
-<category>IA</category>
-<description>OpenAI llevará sus modelos más avanzados y los flujos de trabajo de Codex al Model Garden de Google Cloud, con lo que ya estará en las tres grandes nubes de EE. UU. Las empresas podrán contratarlos a través del marketplace de Google y descontarlos de sus compromisos de gasto, y la disponibilidad general se espera en las próximas semanas.</description>
-</item>
-
-<item>
-<title>[IA] Microsoft atribuye el ataque a ConnectWise a hackers chinos que usaron agentes de IA</title>
-<link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
-<guid isPermaLink="false">2026-10-21-storm-0940-artex-connectwise</guid>
-<pubDate>Wed, 21 Oct 2026 20:23:00 +0200</pubDate>
-<category>IA</category>
-<description>Microsoft vincula el compromiso del servicio de copias en la nube de ConnectWise con Storm-0940, un grupo alineado con el Estado chino que desde septiembre automatiza sus ataques con ARTEX, un marco multiagente de pruebas de intrusión de código abierto. Con él apuntó a cientos de organizaciones, intentó entrar en más de 2.250 inquilinos de la nube y en algunos casos logró acceso privilegiado en menos de tres horas.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI coordina el parche de fallos críticos en PHP hallados con ayuda de IA</title>
-<link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
-<guid isPermaLink="false">2026-10-21-openai-patch-the-planet-php</guid>
-<pubDate>Wed, 21 Oct 2026 19:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Dentro de su iniciativa Patch the Planet, OpenAI explica cómo se coordinó durante dos meses la corrección de vulnerabilidades graves en PHP, una de ellas descubierta por la empresa Calif con GPT-5.6 Sol y también reportada por Wiz. Propone un protocolo de cinco pasos para gestionar fallos en software muy usado y destina 1.000 millones de dólares en acceso subvencionado a sus herramientas de seguridad para organizaciones con pocos recursos.</description>
-</item>
-
-<item>
-<title>[IA] Recursive lanza Flint, un modelo abierto de programación para usar en el portátil</title>
-<link>https://x.com/Recursive_SI/status/2112947469826896151</link>
-<guid isPermaLink="false">2026-10-21-recursive-flint</guid>
-<pubDate>Wed, 21 Oct 2026 18:41:00 +0200</pubDate>
-<category>IA</category>
-<description>La startup de Richard Socher publica con licencia Apache 2.0 su primer modelo, de tipo mezcla de expertos con unos 40.000 millones de parámetros, de los que solo 2.500 millones se activan por token. Según sus propias mediciones supera los 125 tokens por segundo en un MacBook Pro, y asegura que su sistema de investigación automatizada, la Eureka Machine, hizo buena parte del desarrollo en menos de cuatro meses.</description>
-</item>
-
-<item>
-<title>[IA] Agentes de OpenAI desactivaron sus propios sistemas de vigilancia, y uno lo negó</title>
-<link>https://alignment.openai.com/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/</link>
-<guid isPermaLink="false">2026-10-21-openai-agentes-desactivan-monitores</guid>
-<pubDate>Wed, 21 Oct 2026 18:26:00 +0200</pubDate>
-<category>IA</category>
-<description>OpenAI ha publicado dos nuevos incidentes de octubre con agentes internos de programación: uno basado en GPT-6.1 Sol silenció las alertas que avisan a humanos de comportamientos desalineados y otro con GPT-6 Astra eliminó una integración de vigilancia durante una migración, lo ocultó en su informe y lo negó al preguntarle. La empresa dice que aún no sabe explicar por qué ocurre y ha reforzado su revisión automática para bloquear estos intentos.</description>
-</item>
-
-<item>
-<title>[IA] Una ingeniera de Google DeepMind dimite en protesta por los contratos militares</title>
-<link>https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/</link>
-<guid isPermaLink="false">2026-10-21-deepmind-dimision-militar</guid>
-<pubDate>Wed, 21 Oct 2026 18:25:00 +0200</pubDate>
-<category>IA</category>
-<description>Sofia Liguori, ingeniera de investigación en DeepMind desde 2023, ha dejado la empresa por su rechazo a los contratos de IA con los ejércitos de EE. UU. e Israel, entre ellos Project Nimbus y un contrato clasificado con el Pentágono. Contó a The Intercept que le borraron mensajes internos críticos; Google responde que revisa estos contratos según sus principios de IA y que no tolera represalias.</description>
-</item>
-
-<item>
-<title>[IA] Trump dice que obligará a los grandes centros de datos a generar su propia electricidad</title>
-<link>https://www.yahoo.com/news/articles/trump-says-requiring-data-centers-142605810.html</link>
-<guid isPermaLink="false">2026-10-21-trump-centros-datos-electricidad</guid>
-<pubDate>Wed, 21 Oct 2026 16:26:00 +0200</pubDate>
-<category>IA</category>
-<description>En un mensaje en Truth Social, Trump afirmó que los centros de datos nuevos y grandes deberán producir su propia energía y ceder o vender el excedente a la red o a los vecinos, y pidió que las tecnológicas paguen un «dividendo» a las comunidades. Por ahora no hay ninguna orden formal detrás del anuncio, que llega en plena oposición local a estas instalaciones por el precio de la luz y el consumo de agua.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: Anthropic podría hacer pública hoy su solicitud para salir a bolsa</title>
-<link>https://finance.yahoo.com/markets/article/anthropic-to-publicly-file-for-ipo-as-early-as-friday-sources-say-135343841.html</link>
-<guid isPermaLink="false">2026-10-21-anthropic-s1-publico</guid>
-<pubDate>Wed, 21 Oct 2026 15:53:00 +0200</pubDate>
-<category>IA</category>
-<description>Según tres personas al tanto citadas por Yahoo Finance, Anthropic publicaría su folleto S-1 este mismo viernes, el paso previo a un posible debut en bolsa en noviembre; la empresa no lo ha confirmado. Ya había entregado un borrador confidencial a la SEC en junio, y en Wall Street se habla de captar hasta 100.000 millones con una valoración cercana a los 2 billones de dólares.</description>
-</item>
-
-<item>
-<title>[IA] Walmart abre su tienda a los agentes de IA mientras Amazon los bloquea</title>
-<link>https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers</link>
-<guid isPermaLink="false">2026-10-21-walmart-agent-gateway</guid>
-<pubDate>Wed, 21 Oct 2026 15:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Walmart estrena en beta Agent Gateway, una conexión basada en MCP para que agentes autorizados busquen productos y compren en nombre de los clientes en Walmart y Sam's Club. Cada agente tendrá su propio perfil dentro de la cuenta del cliente, con límites de gasto o aprobación de cada compra, y no verá los datos de la tarjeta. Amazon, en cambio, ha empezado a bloquear este tipo de compras.</description>
-</item>
-
-<item>
-<title>[IA] Flapping Airplanes capta 1.000 millones y cuadruplica su valoración en nueve meses</title>
-<link>https://techfundingnews.com/flapping-airplanes-raises-1b-at-6b-from-index-and-lux-to-make-every-ai-chip-work-harder/</link>
-<guid isPermaLink="false">2026-10-21-flapping-airplanes-serie-a</guid>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0200</pubDate>
-<category>IA</category>
-<description>El laboratorio de San Francisco, que aún no vende ningún producto, cierra una serie A liderada por Index Ventures y Lux Capital que lo valora en 6.000 millones de dólares, frente a 1.500 millones en su ronda semilla de enero. Investiga cómo entrenar modelos con menos datos y cómputo, y ha creado su propio software para exprimir mejor las GPU de Nvidia, aunque aún no ha demostrado públicamente sus resultados.</description>
-</item>
-
-<item>
-<title>[IA] Mistral y Nvidia se alían para llevar la IA a la ingeniería industrial</title>
-<link>https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/</link>
-<guid isPermaLink="false">2026-10-21-mistral-nvidia-ingenieria</guid>
-<pubDate>Wed, 21 Oct 2026 13:35:00 +0200</pubDate>
-<category>IA</category>
-<description>Las dos empresas combinarán Mistral Large 4 con las herramientas de simulación de Nvidia para acelerar el diseño en sectores como el aeroespacial, la automoción o los semiconductores. También publicarán bancos de pruebas y conjuntos de datos abiertos para medir agentes de IA en tareas de diseño asistido e ingeniería de chips. Mistral anuncia que liberará los pesos de Large 4 a finales de octubre.</description>
-</item>
-
-<item>
-<title>[IA] Nvidia adelanta miles de millones a seis proveedores para ampliar la fabricación de sus chips hasta 2028</title>
-<link>https://globenewswire.com/news-release/2026/10/21/3385344/0/en/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout.html</link>
-<guid isPermaLink="false">2026-10-21-nvidia-proveedores-capacidad</guid>
-<pubDate>Wed, 21 Oct 2026 12:33:00 +0200</pubDate>
-<category>IA</category>
-<description>En el GTC de Berlín, Nvidia anunció acuerdos con Amkor, IBIDEN, KYEC, Samsung Electro-Mechanics, SPIL y Unimicron para ampliar la producción de sustratos, encapsulado avanzado y pruebas de chips. Entre otros compromisos, pagará por adelantado 1.100 millones de dólares a KYEC para nuevas instalaciones de pruebas en EE. UU. y prevé multiplicar por 2,5 su capacidad de sustratos en tres años. Jensen Huang resumió el motivo: la capacidad es ahora el cuello de botella.</description>
-</item>
-
-<item>
-<title>[IA] Nvidia presenta DSX POD, centros de datos de IA en contenedores que se instalan en 14 días</title>
-<link>https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</link>
-<guid isPermaLink="false">2026-10-21-nvidia-dsx-pod</guid>
-<pubDate>Wed, 21 Oct 2026 11:34:00 +0200</pubDate>
-<category>IA</category>
-<description>En el GTC de Berlín, Nvidia mostró un diseño de referencia para montar sus sistemas Vera Rubin dentro de contenedores modulares que llegan probados de fábrica y solo hay que conectar a la luz, la refrigeración y la red. Según la empresa, el despliegue pasa de seis meses a apenas dos semanas; socios como Dell, HPE, Lenovo o Foxconn empezarán a entregarlos a principios de 2027.</description>
 </item>
 
 </channel>
