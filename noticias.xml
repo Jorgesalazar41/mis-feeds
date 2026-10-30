@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 29 Oct 2026 07:54:16 +0100</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 07:55:22 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Rumor: Nvidia estudia avalar miles de millones en deuda de Nscale para el centro de datos de Anthropic</title>
+<link>https://www.marketscreener.com/news/nvidia-may-guarantee-multibillion-dollar-loans-to-nscale-for-anthropic-project-the-information-ce785fdad081f32d</link>
+<guid isPermaLink="false">2026-10-30-rumor-nvidia-avala-nscale-anthropic</guid>
+<pubDate>Fri, 30 Oct 2026 06:12:00 +0100</pubDate>
+<category>IA</category>
+<description>The Information afirma, citando fuentes anónimas, que Nvidia negocia garantizar varios miles de millones en préstamos de Nscale para construir la infraestructura eléctrica y los edificios de sus centros de datos en Virginia Occidental, que usará Anthropic. Anthropic se comprometió en agosto a gastar 45.000 millones en capacidad de Nscale. Es un rumor: no hay nada firmado y ninguna de las empresas lo ha confirmado.</description>
+</item>
+
+<item>
+<title>[IA] DeepSeek cierra una ronda de casi 16.000 millones de dólares, según The Information</title>
+<link>https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round</link>
+<guid isPermaLink="false">2026-10-30-deepseek-ronda-16000-millones</guid>
+<pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El laboratorio chino habría reunido 106.000 millones de yuanes en su segunda ronda de financiación, más del doble de los 50.000 millones que buscaba al principio, según tres personas al tanto citadas por The Information. Otros medios habían hablado antes de unos 100.000 millones de yuanes con CATL y Tencent entre los inversores. DeepSeek no ha confirmado la cifra.</description>
+</item>
+
+<item>
+<title>[IA] AWS crece un 39%, su mayor ritmo en casi cinco años, pero la inversión en IA hunde el flujo de caja de Amazon</title>
+<link>https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx</link>
+<guid isPermaLink="false">2026-10-29-amazon-resultados-aws</guid>
+<pubDate>Thu, 29 Oct 2026 21:05:00 +0100</pubDate>
+<category>IA</category>
+<description>Amazon vendió 201.900 millones de dólares en el tercer trimestre, un 12% más, y su nube AWS ingresó 46.000 millones, un 39% más que hace un año. El beneficio operativo llegó a 28.100 millones, pero el flujo de caja libre de los últimos doce meses quedó en 42.400 millones negativos por el gasto en centros de datos de IA. La empresa mantiene su previsión de invertir unos 220.000 millones en 2026 y las acciones cayeron alrededor de un 6% tras el cierre.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI renuncia a recortar el plan Pro de 200 dólares y duplica el uso de Codex y ChatGPT Work</title>
+<link>https://kingy.ai/blog/openai-cancels-chatgpt-pro-usage-cut-doubles-allowances/</link>
+<guid isPermaLink="false">2026-10-29-openai-duplica-limites-pro</guid>
+<pubDate>Thu, 29 Oct 2026 19:38:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha dado marcha atrás en la reducción de uso que iba a aplicar desde el 30 de octubre a los suscriptores de Pro de 200 dólares. Además, los planes Pro de 100 y 500 dólares pasan a tener el doble de cuota para Codex y ChatGPT Work, y el cambio se aplica a los clientes actuales sin esperar a la renovación. El plan Plus se queda igual.</description>
+</item>
+
+<item>
+<title>[IA] CrowdStrike detecta a hackers chinos usando agentes de IA con DeepSeek contra más de 200 organizaciones</title>
+<link>https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/</link>
+<guid isPermaLink="false">2026-10-29-crowdstrike-vapor-panda-artex</guid>
+<pubDate>Thu, 29 Oct 2026 19:34:00 +0100</pubDate>
+<category>IA</category>
+<description>Según CrowdStrike, el grupo de espionaje VAPOR PANDA, vinculado a China, empleó el marco de agentes ARTEX, apoyado sobre todo en el modelo de DeepSeek, para atacar a más de 200 organizaciones de al menos 14 países en solo 11 días desde el 17 de octubre. La firma confirma que los atacantes llegaron a entrar en nueve de ellas, donde instalaron una puerta trasera. Es una campaña distinta de la que Microsoft atribuyó a otro grupo con la misma herramienta la semana pasada.</description>
+</item>
+
+<item>
+<title>[IA] Mistral publica los pesos de Large 4, su modelo de un billón de parámetros pensado para programación y ciberseguridad</title>
+<link>https://mistral.ai/news/mistral-large-4-oss/</link>
+<guid isPermaLink="false">2026-10-29-mistral-large-4-pesos-abiertos</guid>
+<pubDate>Thu, 29 Oct 2026 15:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La startup francesa ha liberado los pesos de Mistral Large 4, apodado «Le Chonk», que había presentado en versión preliminar a principios de mes; ya se puede descargar de Hugging Face o usar por API a 0,70 dólares por millón de tokens de entrada. Mistral asegura que rinde como el chino GLM-5.3 en tareas de programación con agentes gastando un 47% menos de tokens, aunque son cifras de la propia empresa. La licencia es abierta, pero quien lo venda como servicio necesita un permiso comercial aparte.</description>
+</item>
 
 <item>
 <title>[IA] Alphabet duplica los ingresos de Google Cloud, pero el gasto en IA deja su flujo de caja en negativo</title>
@@ -285,51 +339,6 @@
 <pubDate>Fri, 23 Oct 2026 20:21:00 +0200</pubDate>
 <category>IA</category>
 <description>La china Moonshot AI presenta Kimi K3.1 Pro, con un millón de tokens de contexto y una versión Highspeed más rápida. Según sus propias pruebas, se queda muy cerca de Claude Opus 5.5 en tareas de terminal y supera a GPT 6 Astra. Si cumple con la publicación de los pesos, sería uno de los modelos abiertos más potentes.</description>
-</item>
-
-<item>
-<title>[IA] El sistema de diagnóstico de Microsoft acierta más del doble que los médicos generalistas en casos difíciles</title>
-<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
-<guid isPermaLink="false">2026-10-22-microsoft-mai-dxo-science</guid>
-<pubDate>Thu, 22 Oct 2026 20:43:00 +0200</pubDate>
-<category>IA</category>
-<description>Un estudio publicado en Science indica que MAI-DxO, que coordina varios agentes de IA como si fueran un equipo médico, resolvió el 83% de casos clínicos complejos frente al 36% de médicos de atención primaria trabajando solos. Los datos sugieren que buena parte de la mejora viene de los modelos de base, como GPT-5.5. Es una simulación: Microsoft prepara pruebas reales con un hospital de Boston.</description>
-</item>
-
-<item>
-<title>[IA] Evaluadores externos hallan fallos en el sistema con el que OpenAI vigila a sus agentes</title>
-<link>https://tech.yahoo.com/ai/chatgpt/articles/ai-safety-group-metr-finds-160243600.html</link>
-<guid isPermaLink="false">2026-10-22-metr-redwood-fallos-monitor-openai</guid>
-<pubDate>Thu, 22 Oct 2026 20:14:00 +0200</pubDate>
-<category>IA</category>
-<description>METR y Redwood Research pasaron tres semanas dentro de OpenAI revisando su monitor interno de agentes y encontraron varias vulnerabilidades, una de ellas capaz de ocultar cientos de acciones de un agente. También detectaron una vía para que Codex esquivara restricciones y actuara con todos los permisos del usuario. OpenAI asegura que ya lo ha corregido, algo que los evaluadores aún no han comprobado.</description>
-</item>
-
-<item>
-<title>[IA] Claude demuestra formalmente la seguridad de 123 librerías de código abierto y destapa cientos de fallos</title>
-<link>https://www.anthropic.com/research/formal-verification</link>
-<guid isPermaLink="false">2026-10-22-claude-verificacion-formal-123-librerias</guid>
-<pubDate>Thu, 22 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Anthropic y la empresa Theorem han usado Claude para generar pruebas matemáticas, comprobadas por máquina, de que 239 puntos de entrada de 123 librerías abiertas no fallan ni corrompen memoria a nivel de ensamblador RISC-V. Por el camino aparecieron cientos de errores, algunos ocultos durante más de una década. Anthropic aclara que esto no significa que las librerías estén libres de fallos, porque las pruebas solo cubren ciertas condiciones.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic, OpenAI, Hugging Face y Alibaba ceden cuatro proyectos de agentes a la Agentic AI Foundation</title>
-<link>https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox</link>
-<guid isPermaLink="false">2026-10-22-aaif-cuatro-proyectos</guid>
-<pubDate>Thu, 22 Oct 2026 15:00:00 +0200</pubDate>
-<category>IA</category>
-<description>La fundación de agentes de IA de la Linux Foundation incorpora Agent Skills (de Anthropic), Open Responses (de OpenAI), OpenEnv (de Hugging Face) y OpenSandbox (de Alibaba). Así estos estándares pasan a gestionarse de forma neutral, como ya ocurrió con el protocolo MCP.</description>
-</item>
-
-<item>
-<title>[IA] Primera huelga en la industria de chips de Taiwán: los sindicalistas de Micron en Taoyuan paran 24 horas</title>
-<link>https://focustaiwan.tw/business/202610220016</link>
-<guid isPermaLink="false">2026-10-22-micron-huelga-taoyuan</guid>
-<pubDate>Thu, 22 Oct 2026 13:07:00 +0200</pubDate>
-<category>IA</category>
-<description>Once representantes del sindicato de Micron en Taoyuan hicieron una huelga simbólica de un día, sin intención de frenar la producción, para exigir que el 15% del beneficio operativo se reparta entre la plantilla. Ocurre justo cuando la memoria para IA dispara las ganancias del fabricante, que ya había cerrado un acuerdo con el sindicato de su planta de Taichung.</description>
 </item>
 
 </channel>

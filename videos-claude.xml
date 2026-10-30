@@ -6,7 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 24 Oct 2026 07:54:26 +0200</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 07:55:22 +0100</lastBuildDate>
+
+<item>
+<title>Claude's new mobile app updates are here (2:33)</title>
+<link>https://www.youtube.com/watch?v=SkpwzfR4A1E</link>
+<guid isPermaLink="false">yt-SkpwzfR4A1E</guid>
+<pubDate>Thu, 29 Oct 2026 18:00:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SkpwzfR4A1E" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=SkpwzfR4A1E"><img src="https://i.ytimg.com/vi/SkpwzfR4A1E/hqdefault.jpg" alt="Miniatura"/></a></p><p>Repaso a las novedades de las apps móviles de Claude: lo que crea Claude se abre junto al chat en iPad, se puede tener varias cuentas abiertas a la vez, el modo de voz responde antes y funciona con CarPlay, y la app llega a 33 idiomas.</p><p>Duración: 2:33 · <a href="https://www.youtube.com/watch?v=SkpwzfR4A1E">Ver en YouTube</a></p>]]></description>
+</item>
 
 <item>
 <title>How Factory is building autonomous software with Claude (10:38)</title>
