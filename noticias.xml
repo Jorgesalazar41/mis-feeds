@@ -6,7 +6,97 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 30 Oct 2026 07:55:22 +0100</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 07:53:53 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Blackstone prevé que Anthropic reciba una calificación de bono basura tras su salida a bolsa, según el FT</title>
+<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
+<guid isPermaLink="false">2026-10-30-anthropic-calificacion-basura-blackstone</guid>
+<pubDate>Fri, 30 Oct 2026 22:52:00 +0100</pubDate>
+<category>IA</category>
+<description>El Financial Times informa de que Blackstone, que financia parte de los chips de Anthropic, ha dicho a sus inversores que espera una nota en el rango doble B, por debajo del grado de inversión, cuando la empresa empiece a cotizar. Hasta ahora contaba con que lograría grado de inversión. Ni Anthropic ni las agencias de calificación lo han confirmado.</description>
+</item>
+
+<item>
+<title>[IA] Apple vuelve a superar a Nvidia como la empresa más valiosa del mundo por las dudas sobre el gasto en IA</title>
+<link>https://www.business-standard.com/world-news/apple-overtakes-nvidia-to-become-world-s-most-valuable-company-at-5-03-trn-126103100103_1.html</link>
+<guid isPermaLink="false">2026-10-30-apple-supera-nvidia-valor</guid>
+<pubDate>Fri, 30 Oct 2026 21:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Al cierre del viernes, Apple valía 5,03 billones de dólares y Nvidia 4,93 billones, tras caer esta un 4,2% en la sesión, según Bloomberg. Los inversores buscan refugio en empresas con mucha caja ante las dudas sobre la rentabilidad de la inversión en IA; el Nasdaq 100 ha perdido cerca de un 7% en octubre.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI, Google, Microsoft y Anthropic apoyan una misma señal en robots.txt para no entrenar IA con una web</title>
+<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+<guid isPermaLink="false">2026-10-30-robots-txt-usage-ai-training</guid>
+<pubDate>Fri, 30 Oct 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Las cuatro empresas respetarán la directiva __usage_ai-training en robots.txt, que permite a cualquier web pedir que su contenido no se use para entrenar modelos. Anthropic ya ha empezado a aplicarla; OpenAI lo hará en los próximos meses, Microsoft a partir de febrero de 2027 y Google durante 2027. La propuesta es un borrador individual ante el IETF, no un estándar oficial, y no afecta a lo que ya se haya usado para entrenar.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI limitará la información sobre armas para menores en ChatGPT y cortará chats con obsesión violenta</title>
+<link>https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/</link>
+<guid isPermaLink="false">2026-10-30-openai-menores-armas-chatgpt</guid>
+<pubDate>Fri, 30 Oct 2026 18:30:00 +0100</pubDate>
+<category>IA</category>
+<description>ChatGPT dejará de dar a los usuarios menores de 18 años indicaciones prácticas sobre armas y sistemas de seguridad, y cerrará de forma automática, para cualquier usuario, las conversaciones que muestren fijación por la violencia. OpenAI también publicará un informe de seguridad comunitaria cada seis meses a partir de principios de 2027.</description>
+</item>
+
+<item>
+<title>[IA] Amazon se asegura hasta 80.000 millones en préstamos de proveedores para pagar hardware de IA</title>
+<link>https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai</link>
+<guid isPermaLink="false">2026-10-30-amazon-prestamo-proveedores-80000</guid>
+<pubDate>Fri, 30 Oct 2026 18:24:00 +0100</pubDate>
+<category>IA</category>
+<description>Según su informe trimestral, Amazon ha montado una línea de financiación de hasta 80.000 millones de dólares respaldada por el propio hardware que compra para sus centros de datos. Podrá disponer de ella entre 2027 y 2028. Es otra señal de cómo las grandes tecnológicas recurren a la deuda para sostener su gasto en IA, que en el caso de Amazon ya deja su flujo de caja en negativo.</description>
+</item>
+
+<item>
+<title>[IA] Google pone en marcha su primer satélite con chips TPU y ejecuta Gemma en órbita</title>
+<link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
+<guid isPermaLink="false">2026-10-30-google-suncatcher-satelite-online</guid>
+<pubDate>Fri, 30 Oct 2026 17:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El prototipo del proyecto Suncatcher, lanzado el 1 de octubre en un Falcon 9, ya funciona y ha ejecutado el modelo abierto Gemma, que incluso escribió un pequeño poema desde el espacio. Lleva cuatro TPU, aunque por el límite de energía solo enciende una cada vez durante unos 20 minutos. Google prevé lanzar dos satélites más con chips nuevos en 2027 como paso hacia centros de datos en órbita.</description>
+</item>
+
+<item>
+<title>[IA] Nueva York propone endurecer su ley de seguridad de la IA con auditorías externas y poder para frenar modelos</title>
+<link>https://pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/</link>
+<guid isPermaLink="false">2026-10-30-nueva-york-ampliacion-raise-act</guid>
+<pubDate>Fri, 30 Oct 2026 16:43:00 +0100</pubDate>
+<category>IA</category>
+<description>Un proyecto de ley presentado por el senador estatal Andrew Gounardes y el asambleísta Jordan Wright amplía la RAISE Act aprobada hace un año. Obligaría a los laboratorios a informar cada trimestre sobre el uso de la IA para investigar en IA, a avisar en 72 horas de saltos de riesgo importantes y a pasar auditorías anuales; además, el fiscal general podría pedir a un juez que limite un modelo en el estado. Por ahora es solo una propuesta.</description>
+</item>
+
+<item>
+<title>[IA] Las grandes tecnológicas devuelven a sus accionistas la menor parte de su caja en 15 años por el gasto en IA</title>
+<link>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/</link>
+<guid isPermaLink="false">2026-10-30-big-tech-recompras-minimo-15-anos</guid>
+<pubDate>Fri, 30 Oct 2026 16:35:00 +0100</pubDate>
+<category>IA</category>
+<description>Un análisis de Reuters calcula que Microsoft, Alphabet, Amazon, Meta y Oracle destinaron a dividendos y recompras solo el 9,3% de su caja operativa en los nueve primeros meses de 2026, frente al 27,4% un año antes. El motivo es la inversión en centros de datos, que entre las cinco ronda los 557.000 millones de dólares en ese periodo.</description>
+</item>
+
+<item>
+<title>[IA] Wikimedia pide en el juicio del New York Times contra OpenAI que entrenar con textos sea uso legítimo, pero no copiarlos en las respuestas</title>
+<link>https://wikimediafoundation.org/news/2026/10/30/wikimedia-foundation-amicus-brief-new-york-times-v-open-ai-case/</link>
+<guid isPermaLink="false">2026-10-30-wikimedia-amicus-nyt-openai</guid>
+<pubDate>Fri, 30 Oct 2026 14:40:00 +0100</pubDate>
+<category>IA</category>
+<description>La fundación que gestiona Wikipedia ha presentado un escrito como parte interesada en el caso que se juzga en Nueva York. Defiende que entrenar modelos con obras protegidas puede considerarse uso legítimo (fair use), pero sostiene que los sistemas que recuperan y devuelven esas obras al usuario no deberían quedar cubiertos. Busca una posición intermedia entre las dos partes.</description>
+</item>
+
+<item>
+<title>[IA] Una versión troyanizada de la extensión de Claude Code en el marketplace de Cursor instaló puertas traseras SSH</title>
+<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
+<guid isPermaLink="false">2026-10-30-claude-code-extension-cursor-troyano</guid>
+<pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La versión 2.1.313 de la extensión de Claude Code que se distribuyó en el marketplace de Cursor el 29 de octubre era maliciosa: añadía una clave SSH del atacante y abría un túnel inverso en el equipo. Estuvo disponible unas once horas y Cursor calcula que pudo afectar a hasta 5.000 usuarios. Anthropic ha publicado la versión limpia 2.1.314 y quien la instalara debería revisar sus claves SSH.</description>
+</item>
 
 <item>
 <title>[IA] Rumor: Nvidia estudia avalar miles de millones en deuda de Nscale para el centro de datos de Anthropic</title>
@@ -321,24 +411,6 @@
 <pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
 <category>IA</category>
 <description>Una encuesta de CNBC a 1.000 votantes registrados, hecha entre el 14 y el 18 de octubre, muestra que solo un 13% apoyaría un centro de datos de IA a menos de 16 km de su casa. El rechazo es mayoritario entre los demócratas (80%) y también alcanza al 40% de los votantes MAGA, lo que convierte el tema en un problema para Trump antes de las elecciones de mitad de mandato.</description>
-</item>
-
-<item>
-<title>[IA] Reino Unido crea un laboratorio de bioseguridad con IA respaldado por OpenAI y Anthropic</title>
-<link>https://www.gov.uk/government/news/introducing-the-ai-biosecurity-lab</link>
-<guid isPermaLink="false">2026-10-24-uk-laboratorio-bioseguridad-ia</guid>
-<pubDate>Sat, 24 Oct 2026 01:00:00 +0200</pubDate>
-<category>IA</category>
-<description>El Gobierno británico pone 100 millones de libras en un nuevo organismo independiente y sin ánimo de lucro que usará IA de frontera para detectar antes amenazas biológicas y acelerar vacunas y tratamientos. OpenAI y Anthropic aportarán hasta 100 millones cada una en créditos y acceso a modelos, y Google DeepMind colaborará en la investigación.</description>
-</item>
-
-<item>
-<title>[IA] Moonshot lanza Kimi K3.1 Pro y promete publicar sus pesos antes del 4 de noviembre</title>
-<link>https://cryptobriefing.com/moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance/</link>
-<guid isPermaLink="false">2026-10-23-kimi-k3-1-pro</guid>
-<pubDate>Fri, 23 Oct 2026 20:21:00 +0200</pubDate>
-<category>IA</category>
-<description>La china Moonshot AI presenta Kimi K3.1 Pro, con un millón de tokens de contexto y una versión Highspeed más rápida. Según sus propias pruebas, se queda muy cerca de Claude Opus 5.5 en tareas de terminal y supera a GPT 6 Astra. Si cumple con la publicación de los pesos, sería uno de los modelos abiertos más potentes.</description>
 </item>
 
 </channel>
