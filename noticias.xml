@@ -6,7 +6,61 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 31 Oct 2026 07:53:53 +0100</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 07:55:26 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Corea del Sur casi duplica su gasto en IA en un presupuesto récord para 2027</title>
+<link>https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html</link>
+<guid isPermaLink="false">2026-11-02-corea-presupuesto-ia-2027</guid>
+<pubDate>Mon, 02 Nov 2026 02:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El presidente Lee Jae-myung ha defendido ante el Parlamento unas cuentas de 820,9 billones de wones para 2027, un 12,8% más que este año. La partida para IA, chips, IA física y centros de datos sube hasta unos 21,3 billones de wones (cerca de 16.000 millones de dólares), casi el doble que en 2026, con el objetivo de crear un modelo soberano puntero. La Asamblea Nacional debe aprobarlas antes de diciembre.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic renombra sus planes Max: el de 200 dólares pasa a llamarse Ultra y pierde el límite de cinco horas</title>
+<link>https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit</link>
+<guid isPermaLink="false">2026-11-01-claude-ultra-max-renombrados</guid>
+<pubDate>Sun, 01 Nov 2026 14:54:00 +0100</pubDate>
+<category>IA</category>
+<description>El plan Max 5x de 100 dólares se queda como «Max» y el Max 20x de 200 dólares se convierte en «Ultra», sin cambio de precio. Las cuentas Ultra verificadas ya no tienen la ventana de uso de cinco horas, aunque mantienen el tope semanal, y el plan incluye más créditos para la API. Las cuentas nuevas sin verificar conservan un límite temporal.</description>
+</item>
+
+<item>
+<title>[IA] Aramco cierra la compra del 49% de HUMAIN, la empresa saudí de IA del fondo soberano</title>
+<link>https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth</link>
+<guid isPermaLink="false">2026-11-01-aramco-humain-49</guid>
+<pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La petrolera aporta unos 2.600 millones de dólares en efectivo este año, además de activos de IA y capacidad de cómputo, a cambio del 49% de HUMAIN; el fondo soberano PIF conserva el 51%. HUMAIN aspira a tener 3 GW de centros de datos de IA en 2030.</description>
+</item>
+
+<item>
+<title>[IA] ChatGPT y Codex compartirán una única bolsa de uso en los planes de pago a partir de diciembre</title>
+<link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+<guid isPermaLink="false">2026-10-31-chatgpt-codex-bolsa-comun</guid>
+<pubDate>Sat, 31 Oct 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha actualizado su centro de ayuda para explicar que Plus, Pro y Business tendrán un solo saldo de tokens para Codex y el modo agente de ChatGPT; las respuestas rápidas no consumirán de él. El consumo y los reinicios se verán en Ajustes, y al agotarlo habrá que esperar, subir de plan o comprar créditos. No ha dado aún la fecha exacta ni el tamaño de cada cuota.</description>
+</item>
+
+<item>
+<title>[IA] Apple confirma que Qwen, de Alibaba, impulsará Apple Intelligence en China desde diciembre</title>
+<link>https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/</link>
+<guid isPermaLink="false">2026-10-31-apple-intelligence-china-qwen</guid>
+<pubDate>Sat, 31 Oct 2026 11:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Siri, las herramientas de escritura y la inteligencia visual usarán el modelo Qwen en la versión china de Apple Intelligence. La primera beta para desarrolladores llega el 4 de noviembre y el despliegue público será con iOS 27.3 en diciembre, en iPhone 15 Pro y modelos posteriores.</description>
+</item>
+
+<item>
+<title>[IA] DeepSeek publica en abierto Super-agent, un prototipo de agente que resuelve tareas de un repositorio de GitHub</title>
+<link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
+<guid isPermaLink="false">2026-10-31-deepseek-super-agent</guid>
+<pubDate>Sat, 31 Oct 2026 10:32:00 +0100</pubDate>
+<category>IA</category>
+<description>El agente, con licencia MIT, vigila un repositorio y abre una sesión independiente por cada petición, que puede acabar en un pull request; varias sesiones trabajan en paralelo. La propia DeepSeek lo presenta como prototipo de investigación y no como producto oficial, pero sumó miles de estrellas en su primer día.</description>
+</item>
 
 <item>
 <title>[IA] Blackstone prevé que Anthropic reciba una calificación de bono basura tras su salida a bolsa, según el FT</title>
@@ -303,114 +357,6 @@
 <pubDate>Mon, 26 Oct 2026 12:51:00 +0100</pubDate>
 <category>IA</category>
 <description>Meta ha puesto en marcha emisiones por unos 35.000 millones de dólares entre acciones ordinarias y preferentes, y prevé vender otros 60.000 millones poco a poco a precio de mercado cuando empiecen a cotizar sus nuevas acciones de clase C, previsiblemente a principios de 2027. Nvidia, AMD y Broadcom han mostrado un interés no vinculante en comprar hasta 5.000 millones cada una. La compañía calcula entre 135.000 y 145.000 millones de inversión en 2026.</description>
-</item>
-
-<item>
-<title>[IA] Formic capta 50 millones para llevar robots de uso general a las fábricas</title>
-<link>https://evertiq.com/news/2026-10-26-us-startup-formic-raises-50-million-to-scale-physical-ai</link>
-<guid isPermaLink="false">2026-10-26-formic-serie-b</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La estadounidense Formic, que vende automatización industrial como servicio, ha cerrado una serie B liderada por Mercato Partners, con Citi entre los inversores y deuda de S2G Investments. Quiere pasar de robots pensados para una sola tarea a máquinas de propósito general dentro de la misma plataforma, y entrar en metalurgia, aeroespacial, defensa y energía.</description>
-</item>
-
-<item>
-<title>[IA] Moonshot pide perdón por los límites de uso de Kimi K3.1 Pro y devuelve parte de la cuota a sus suscriptores</title>
-<link>https://www.thestar.com.my/tech/tech-news/2026/10/26/moonshot-resets-subscriber-quotas-after-kimi-k31-pro-launch-issues</link>
-<guid isPermaLink="false">2026-10-26-moonshot-kimi-cuotas</guid>
-<pubDate>Mon, 26 Oct 2026 02:22:00 +0100</pubDate>
-<category>IA</category>
-<description>Tras el lanzamiento de Kimi K3.1 Pro, muchos usuarios se toparon con restricciones y un consumo de cuota que no esperaban. Moonshot devolverá a todos los suscriptores un 25% de su cuota mensual, el equivalente a una semana, y ha ajustado el modelo para que lance menos subagentes y escriba respuestas más cortas. Según Reuters, la empresa ya tuvo problemas de capacidad con K3, en un contexto de escasez de cómputo en China por los controles a la exportación de chips.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: SK Hynix estudia un dividendo extraordinario de unos 12.000 millones con lo ganado en Kioxia</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report</link>
-<guid isPermaLink="false">2026-10-25-sk-hynix-dividendo-kioxia</guid>
-<pubDate>Sun, 25 Oct 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según Bloomberg, que cita a la prensa coreana, el fabricante de memoria repartiría unos 16 billones de wones entre sus accionistas gracias a las plusvalías de su participación en Kioxia, y podría anunciarlo con sus resultados del 28 de octubre. SK Hynix asegura que no ha tomado ninguna decisión, aunque sus acciones subieron hasta un 3% el lunes mientras el resto del mercado caía.</description>
-</item>
-
-<item>
-<title>[IA] Musk dice que SpaceX ha cerrado 40.000 millones de deuda para comprar GPU y augura un hundimiento de las neoclouds</title>
-<link>https://www.investing.com/news/stock-market-news/musk-says-spacex-raised-40-billion-in-debt-for-gpus-4971248</link>
-<guid isPermaLink="false">2026-10-25-spacex-deuda-gpu-40000</guid>
-<pubDate>Sun, 25 Oct 2026 21:05:00 +0100</pubDate>
-<category>IA</category>
-<description>Elon Musk anunció en X que SpaceX ha cerrado 40.000 millones de dólares de deuda, sobre todo amortizable anticipadamente, para pagar GPU de Nvidia que llegarán en la primera mitad de 2027. Según Reuters, no está claro si los inversores ya han aceptado el precio. Musk añadió que el mercado de deuda se ha cerrado casi por completo para quien dependa solo de los centros de datos de IA, y vaticina quiebras y fusiones entre las neoclouds, aunque SpaceX no piensa comprar ninguna.</description>
-</item>
-
-<item>
-<title>[IA] El economista jefe de Apollo no ve beneficio financiero de la IA fuera de las grandes tecnológicas</title>
-<link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
-<guid isPermaLink="false">2026-10-25-apollo-slok-sin-retorno-ia</guid>
-<pubDate>Sun, 25 Oct 2026 17:57:00 +0100</pubDate>
-<category>IA</category>
-<description>Torsten Slok, de Apollo Global Management, ha analizado el S&amp;P 500 sin sus siete grandes tecnológicas y concluye que los márgenes y los ingresos por empleado siguen planos, sin rastro de mejora de productividad por la IA. Duda de que abaratar la IA se traduzca en más beneficios para empresas cuyo éxito depende del criterio, la confianza o la cultura. Otros estudios recientes han llegado a conclusiones parecidas.</description>
-</item>
-
-<item>
-<title>[IA] Los dueños de los derechos de Elvis demandan a Anthropic por entrenar a Claude con 274 canciones</title>
-<link>https://www.latimes.com/california/story/2026-10-25/elvis-rights-holder-sues-anthropic-says-songs-illegally-used-to-train-ai</link>
-<guid isPermaLink="false">2026-10-25-elvis-demanda-anthropic</guid>
-<pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Una filial de Authentic Brands Group y otras empresas con derechos sobre el catálogo de Elvis Presley han presentado una demanda en un tribunal federal de California. Acusan a Anthropic de usar sin permiso 274 temas, como «Can't Help Falling in Love», para entrenar a Claude y de que este puede generar textos demasiado parecidos. Anthropic ha dicho a Los Angeles Times que no está de acuerdo y que se defenderá.</description>
-</item>
-
-<item>
-<title>[IA] EE. UU. y China forman bloques de IA y presionan a otros países para elegir bando</title>
-<link>https://abcnews.com/Technology/wireStory/us-china-form-ai-blocs-countries-increasingly-torn-137547790</link>
-<guid isPermaLink="false">2026-10-25-bloques-ia-eeuu-china</guid>
-<pubDate>Sun, 25 Oct 2026 06:52:00 +0100</pubDate>
-<category>IA</category>
-<description>Según la agencia AP, el grupo Pax Silica liderado por Washington y la Organización Mundial de Cooperación en IA impulsada por Pekín empujan a terceros países a alinearse con uno u otro. El Departamento de Estado avisa de que no se puede ser socio fiable de Pax Silica apostando a la vez por la alternativa china. Kazajistán se ha unido a ambos, e Indonesia o Singapur también coquetean con el bloque chino.</description>
-</item>
-
-<item>
-<title>[IA] Replit traslada la mayor parte de su gasto en IA de Anthropic a OpenAI, según The Information</title>
-<link>https://www.theinformation.com/articles/anthropics-margin-openais-opportunity</link>
-<guid isPermaLink="false">2026-10-24-replit-openai-anthropic</guid>
-<pubDate>Sat, 24 Oct 2026 22:01:00 +0200</pubDate>
-<category>IA</category>
-<description>Según The Information, OpenAI ofreció a Replit más de un 30% de descuento en un contrato de más de 100 millones de dólares al año, después de que Anthropic se negara a renovar su rebaja sin un compromiso de gasto mayor. Las cifras no están confirmadas por las empresas, y Replit sigue ofreciendo modelos de Claude en su plataforma.</description>
-</item>
-
-<item>
-<title>[IA] Dos ingenieros clave de Claude Code dejan Anthropic semanas antes de su salida a bolsa</title>
-<link>https://officechai.com/ai/thariq-shihipar-anthony-morris-announce-theyre-leaving-anthropic-weeks-before-its-ipo/</link>
-<guid isPermaLink="false">2026-10-24-salidas-claude-code</guid>
-<pubDate>Sat, 24 Oct 2026 20:03:00 +0200</pubDate>
-<category>IA</category>
-<description>Thariq Shihipar, conocido por su trabajo en las skills y los flujos de agentes de Claude Code, anunció en X que se marcha tras más de un año en el equipo. Un día antes se despidió Anthony Morris, creador de la aplicación de escritorio de Claude Code. Ninguno ha explicado los motivos ni su próximo destino.</description>
-</item>
-
-<item>
-<title>[IA] La caída de las neoclouds pone a prueba el papel de Nvidia como financiadora de la IA</title>
-<link>https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html</link>
-<guid isPermaLink="false">2026-10-24-nvidia-neoclouds-riesgo</guid>
-<pubDate>Sat, 24 Oct 2026 18:00:00 +0200</pubDate>
-<category>IA</category>
-<description>CoreWeave, Nebius e IREN han perdido al menos un 30% en bolsa en octubre, y el coste de asegurar la deuda de CoreWeave se ha disparado. Según CNBC, Nvidia tiene unos 171.500 millones de dólares expuestos a estos proveedores entre inversiones directas, garantías y compromisos de compra de capacidad, así que el mercado empieza a preguntarse si tendrá que responder por ellos.</description>
-</item>
-
-<item>
-<title>[IA] Obligados a elegir, Grok recomienda votar republicano y GPT-6.1 demócrata</title>
-<link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
-<guid isPermaLink="false">2026-10-24-grok-gpt-sesgo-electoral</guid>
-<pubDate>Sat, 24 Oct 2026 17:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Un estudio del laboratorio Convovo, dirigido por el profesor de Cornell Tapan Parikh, pidió a los modelos por API una recomendación de voto en casi 500 contiendas de las elecciones de mitad de mandato. Grok 4.7 eligió al republicano en el 92% de los casos y GPT-6.1 Sol al demócrata en el 97%, y apenas coincidieron en un 10% de ellas. Sin búsqueda web, Grok se negó casi siempre a elegir, lo que apunta a que su sesgo viene de las fuentes que consulta.</description>
-</item>
-
-<item>
-<title>[IA] El 63% de los votantes de EE. UU. rechaza tener un centro de datos de IA cerca de casa</title>
-<link>https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html</link>
-<guid isPermaLink="false">2026-10-24-cnbc-encuesta-centros-datos</guid>
-<pubDate>Sat, 24 Oct 2026 14:00:00 +0200</pubDate>
-<category>IA</category>
-<description>Una encuesta de CNBC a 1.000 votantes registrados, hecha entre el 14 y el 18 de octubre, muestra que solo un 13% apoyaría un centro de datos de IA a menos de 16 km de su casa. El rechazo es mayoritario entre los demócratas (80%) y también alcanza al 40% de los votantes MAGA, lo que convierte el tema en un problema para Trump antes de las elecciones de mitad de mandato.</description>
 </item>
 
 </channel>
