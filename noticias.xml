@@ -6,7 +6,79 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 02 Nov 2026 07:55:26 +0100</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 07:54:09 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Los inversores presionan para que Anthropic salga a bolsa valorada en 1,5-1,6 billones, no en 2, según el WSJ</title>
+<link>https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf</link>
+<guid isPermaLink="false">2026-11-02-anthropic-valoracion-ipo-wsj</guid>
+<pubDate>Mon, 02 Nov 2026 23:30:00 +0100</pubDate>
+<category>IA</category>
+<description>Según fuentes citadas por The Wall Street Journal, los grandes inversores institucionales piden a Anthropic una valoración más prudente para su estreno en el Nasdaq, previsto para noviembre: entre 1,5 y 1,6 billones de dólares, frente a los cerca de 2 billones que se manejaban. Pesan las recientes caídas de las tecnológicas y el menor ritmo de crecimiento. La empresa no lo ha confirmado.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic actualiza su folleto de salida a bolsa: 17.000 millones de ingresos en el tercer trimestre y compromisos de casi 900.000 millones</title>
+<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
+<guid isPermaLink="false">2026-11-02-anthropic-s1-enmendado-q3</guid>
+<pubDate>Mon, 02 Nov 2026 22:30:00 +0100</pubDate>
+<category>IA</category>
+<description>La versión revisada del documento que Anthropic ha enviado al regulador bursátil de EE. UU. muestra unos ingresos de unos 17.000 millones de dólares entre julio y septiembre, aunque el crecimiento trimestral se ha frenado. La pérdida neta supera los 23.000 millones, sobre todo por cambios contables en el valor de bonos convertibles y derivados; la pérdida operativa es mucho menor. También detalla compromisos de compra y alquileres por unos 895.400 millones, en su mayoría capacidad de cómputo.</description>
+</item>
+
+<item>
+<title>[IA] Goldman Sachs retira Claude Code y GitHub Copilot a sus banqueros y traders y los reserva a sus ingenieros</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools</link>
+<guid isPermaLink="false">2026-11-02-goldman-restringe-claude-code-copilot</guid>
+<pubDate>Mon, 02 Nov 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según Bloomberg, el banco ha dejado de dar acceso a estas herramientas de programación con IA al personal de banca de inversión y mercados, y ahora solo las usan sus unos 12.000 ingenieros y el equipo cuantitativo. Un portavoz explicó que las herramientas se quedan con quienes mejor pueden aprovecharlas. Goldman llevaba dos años extendiendo la IA a toda su plantilla.</description>
+</item>
+
+<item>
+<title>[IA] Oracle sale al mercado a por 20.000 millones en acciones y bonos para financiar su expansión en IA</title>
+<link>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</link>
+<guid isPermaLink="false">2026-11-02-oracle-20000-millones-acciones-bonos</guid>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Oracle ha registrado a la vez una emisión de 10.000 millones de dólares en acciones nuevas y otra de 10.000 millones en deuda para pagar centros de datos y chips. La operación diluye a los accionistas actuales y sus títulos cayeron más de un 6% en bolsa. Es otra muestra de cómo las tecnológicas recurren cada vez más a financiación externa para sostener el gasto en IA.</description>
+</item>
+
+<item>
+<title>[IA] Putin obliga a los centros de datos privados de Rusia a reservar el 10% de su capacidad para el Estado</title>
+<link>https://www.themoscowtimes.com/2026/11/02/putin-orders-private-data-centers-to-set-aside-10-of-capacity-to-support-it-infrastructure-a94159</link>
+<guid isPermaLink="false">2026-11-02-rusia-centros-datos-10-estado</guid>
+<pubDate>Mon, 02 Nov 2026 14:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Un decreto firmado por Vladímir Putin exige a los operadores privados de centros de datos guardar una décima parte de su capacidad para los sistemas informáticos del Estado, que podrá usarla en un plazo de 24 horas tras una orden del Gobierno. La medida llega después de ataques con drones ucranianos contra instalaciones de este tipo en Rusia.</description>
+</item>
+
+<item>
+<title>[IA] Marvell comprará Lumentum por 115.000 millones para reforzarse en la óptica de los centros de datos de IA</title>
+<link>https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html</link>
+<guid isPermaLink="false">2026-11-02-marvell-compra-lumentum</guid>
+<pubDate>Mon, 02 Nov 2026 13:30:00 +0100</pubDate>
+<category>IA</category>
+<description>El fabricante de chips Marvell ha acordado adquirir Lumentum, especialista en láseres y componentes ópticos que conectan los servidores de IA, en una operación pagada íntegramente con acciones. La prima es de casi el 24% sobre el cierre del 28 de octubre y los accionistas de Marvell controlarán dos tercios de la empresa resultante. El cierre se espera para la primera mitad de 2028, a falta de aprobaciones regulatorias.</description>
+</item>
+
+<item>
+<title>[IA] ADNOC será la primera petrolera en usar OpenAI Frontier, en un acuerdo con OpenAI y G42</title>
+<link>https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI</link>
+<guid isPermaLink="false">2026-11-02-adnoc-openai-frontier</guid>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La petrolera estatal de Abu Dabi ha firmado un acuerdo de varios años con OpenAI y G42 para desplegar agentes de IA de la plataforma Frontier en sus operaciones, ejecutados desde centros de datos en Emiratos. Se anunció en la feria ADIPEC junto a otros pactos del emirato con OpenAI para la administración pública y la educación. No se han revelado cifras.</description>
+</item>
+
+<item>
+<title>[IA] Meituan presenta LongCat-2.5, un modelo multimodal de 1,6 billones de parámetros para agentes</title>
+<link>https://x.com/Meituan_LongCat/status/2117264311714537633</link>
+<guid isPermaLink="false">2026-11-02-meituan-longcat-2-5</guid>
+<pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La empresa china de reparto Meituan ha lanzado en versión preliminar LongCat-2.5, un modelo que entiende imágenes y texto de forma nativa, con unos 48.000 millones de parámetros activos y un contexto de un millón de tokens. Está pensado para tareas largas de programación y manejo de navegadores, hojas de cálculo y otras aplicaciones. Ya se puede usar por chat y API, y la compañía prevé publicar los pesos.</description>
+</item>
 
 <item>
 <title>[IA] Corea del Sur casi duplica su gasto en IA en un presupuesto récord para 2027</title>
@@ -321,42 +393,6 @@
 <pubDate>Tue, 27 Oct 2026 14:54:00 +0100</pubDate>
 <category>IA</category>
 <description>La actualización amplía la nueva Siri con IA, todavía en beta, a cinco idiomas más: español, francés, japonés, coreano y portugués. El asistente puede ahora recordar lo hablado en conversaciones previas y tirar de datos como fotos de Mensajes, asistentes a eventos del calendario o el historial de Safari, aunque el usuario puede excluir apps de esa memoria. Mensajes también propone convertir un mensaje en recordatorio o evento.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI lanza GPT-6.1 Terra, un modelo más barato y rápido para manejar el ordenador</title>
-<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/</link>
-<guid isPermaLink="false">2026-10-26-gpt-6-1-terra</guid>
-<pubDate>Mon, 26 Oct 2026 21:46:00 +0100</pubDate>
-<category>IA</category>
-<description>El nuevo modelo está pensado para tareas de uso del ordenador, como rellenar formularios o automatizar el escritorio, y ya está en ChatGPT Work, Codex y la API. Cuesta 1 dólar por millón de tokens de entrada y 5 de salida, la mitad que sus predecesores, y según OpenAI completa tareas más de tres veces más rápido que GPT-6 Astra. Para la programación más compleja, la empresa sigue recomendando sus modelos superiores.</description>
-</item>
-
-<item>
-<title>[IA] Broadcom y cuatro gigantes financieros reúnen 63.000 millones para los chips de Anthropic</title>
-<link>https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662</link>
-<guid isPermaLink="false">2026-10-26-broadcom-63000-anthropic</guid>
-<pubDate>Mon, 26 Oct 2026 21:31:00 +0100</pubDate>
-<category>IA</category>
-<description>Bank of America, Citi, Morgan Stanley y Blackstone financiarán una sociedad creada para comprar chips de IA y equipos de red de Broadcom y alquilárselos a Anthropic, con entregas desde 2027. Según Reuters, unos 43.500 millones serán deuda preferente y Blackstone aportará el tramo subordinado, mientras Broadcom ofrece a los prestamistas una garantía sobre el valor residual del equipo. El acuerdo se conoció el mismo día en que Anthropic pidió salir a bolsa.</description>
-</item>
-
-<item>
-<title>[IA] Anthropic presenta su solicitud de salida a bolsa: cotizará en el Nasdaq como ANT</title>
-<link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
-<guid isPermaLink="false">2026-10-26-anthropic-s1-nasdaq-ant</guid>
-<pubDate>Mon, 26 Oct 2026 15:35:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic ha hecho público su folleto S-1 ante la SEC y saldrá al Nasdaq con el código ANT. Ingresó 16.300 millones de dólares en el primer semestre de 2026, frente a 1.200 millones un año antes, y redujo su pérdida operativa a unos 690 millones; la pérdida neta de 80.700 millones se debe casi toda a ajustes contables sin salida de caja ligados a su deuda convertible. Aún no ha fijado precio ni cuánto quiere captar.</description>
-</item>
-
-<item>
-<title>[IA] Meta lanza una ampliación de capital de hasta 95.000 millones para pagar su infraestructura de IA</title>
-<link>https://finance.yahoo.com/technology/ai/articles/meta-looks-raise-95-billion-115156007.html</link>
-<guid isPermaLink="false">2026-10-26-meta-ampliacion-95000</guid>
-<pubDate>Mon, 26 Oct 2026 12:51:00 +0100</pubDate>
-<category>IA</category>
-<description>Meta ha puesto en marcha emisiones por unos 35.000 millones de dólares entre acciones ordinarias y preferentes, y prevé vender otros 60.000 millones poco a poco a precio de mercado cuando empiecen a cotizar sus nuevas acciones de clase C, previsiblemente a principios de 2027. Nvidia, AMD y Broadcom han mostrado un interés no vinculante en comprar hasta 5.000 millones cada una. La compañía calcula entre 135.000 y 145.000 millones de inversión en 2026.</description>
 </item>
 
 </channel>
