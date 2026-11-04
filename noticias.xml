@@ -6,7 +6,79 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 03 Nov 2026 07:54:09 +0100</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 07:54:59 +0100</lastBuildDate>
+
+<item>
+<title>[IA] OpenAI contrata a Cathedral, la startup de antiguos miembros de DOGE que logró entrar en sistemas de Anthropic, para atacar sus defensas</title>
+<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/</link>
+<guid isPermaLink="false">2026-11-03-openai-cathedral-seguridad</guid>
+<pubDate>Tue, 03 Nov 2026 21:00:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha encargado a Cathedral Systems que ponga a prueba su seguridad usando los propios modelos de OpenAI, y además sube las recompensas de su programa de caza de fallos. Cathedral ya accedió a partes de los sistemas internos de Anthropic en una prueba anterior; Anthropic discrepa de cómo se hizo y asegura que ni los pesos de sus modelos ni las conversaciones de Claude se vieron afectados.</description>
+</item>
+
+<item>
+<title>[IA] Empleados de OpenAI llevaban años advirtiendo de fallos de seguridad operativa, según Reuters</title>
+<link>https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/</link>
+<guid isPermaLink="false">2026-11-03-reuters-openai-fallos-seguridad</guid>
+<pubDate>Tue, 03 Nov 2026 17:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Una investigación de Reuters basada en cinco fuentes asegura que trabajadores de OpenAI alertaron durante años de deficiencias en la protección interna de la empresa, algunas desde antes del lanzamiento de ChatGPT en 2022. OpenAI rechaza haber descuidado la seguridad.</description>
+</item>
+
+<item>
+<title>[IA] Claude Code deja de recrear videojuegos existentes tras una ola de clones hechos con IA</title>
+<link>https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games</link>
+<guid isPermaLink="false">2026-11-03-claude-code-bloquea-clones-videojuegos</guid>
+<pubDate>Tue, 03 Nov 2026 15:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic ha añadido a las instrucciones internas de Claude Code una norma que le impide reproducir juegos concretos ya existentes, después de la aparición de numerosas copias generadas con IA. Algunos desarrolladores se quejan de que la restricción también frena trabajos legítimos, como tareas de ingeniería inversa.</description>
+</item>
+
+<item>
+<title>[IA] Revolut recorta cerca de un 90% su gasto en asistentes de programación al pasar a modelos GLM en sus propios servidores</title>
+<link>https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345</link>
+<guid isPermaLink="false">2026-11-03-revolut-glm-autoalojado</guid>
+<pubDate>Tue, 03 Nov 2026 13:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El banco digital británico ha cambiado la herramienta de programación por defecto de sus ingenieros: en lugar de modelos comerciales como Claude, usa ahora modelos abiertos GLM alojados en su propia infraestructura. Dice que así el coste baja unas diez veces, aunque mantiene el acceso a modelos comerciales cuando hacen falta.</description>
+</item>
+
+<item>
+<title>[IA] Nvidia pide a sus clientes de centros de datos que limiten su negocio con empresas chinas, según el FT</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says</link>
+<guid isPermaLink="false">2026-11-03-nvidia-limite-clientes-chinos-centros-datos</guid>
+<pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según el Financial Times, Nvidia ha indicado a los operadores de centros de datos a los que suministra chips que reduzcan su exposición a clientes chinos, con un tope de alrededor del 49% de su negocio. La medida busca cerrar la vía por la que empresas chinas acceden a chips estadounidenses de IA alquilando capacidad fuera de China. Nvidia no lo ha anunciado públicamente.</description>
+</item>
+
+<item>
+<title>[IA] Drax propone un centro de datos de 20.000 millones de libras junto a su central de biomasa en Yorkshire</title>
+<link>https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237</link>
+<guid isPermaLink="false">2026-11-03-drax-centro-datos-20000-millones</guid>
+<pubDate>Tue, 03 Nov 2026 11:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La eléctrica británica plantea, con Brookfield y Radiant como socios, un campus de IA en su central de North Yorkshire que podría superar 1 gigavatio de capacidad de cómputo. El proyecto aún depende de permisos urbanísticos, aprobaciones regulatorias y de cerrar clientes.</description>
+</item>
+
+<item>
+<title>[IA] Los reguladores británicos avisan de que la ley actual ya se aplica a los agentes de IA personales</title>
+<link>https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-joint-statement-protecting-people-and-businesses-in-and-agentic-economy2.pdf</link>
+<guid isPermaLink="false">2026-11-03-reino-unido-reguladores-agentes-ia</guid>
+<pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La autoridad de competencia (CMA), el supervisor financiero (FCA), el de protección de datos (ICO) y Ofcom han firmado una declaración conjunta: que un agente actúe de forma autónoma no reduce las obligaciones de la empresa que lo ofrece. No crean normas nuevas, pero advierten de que usarán sus poderes si detectan daños a consumidores o negocios.</description>
+</item>
+
+<item>
+<title>[IA] Un alto regulador financiero chino alerta de que la inversión en IA se está concentrando en exceso</title>
+<link>https://www.reuters.com/business/finance/ai-investment-is-becoming-overly-concentrated-chinese-official-says-2026-11-03/</link>
+<guid isPermaLink="false">2026-11-03-china-regulador-inversion-ia-concentrada</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Xiao Yuanqi, vicedirector de la Administración Nacional de Regulación Financiera de China, advirtió de que el dinero que fluye hacia la IA está demasiado concentrado. Según él, esto podría encarecer el crédito para las industrias tradicionales.</description>
+</item>
 
 <item>
 <title>[IA] Los inversores presionan para que Anthropic salga a bolsa valorada en 1,5-1,6 billones, no en 2, según el WSJ</title>
@@ -339,60 +411,6 @@
 <pubDate>Wed, 28 Oct 2026 17:00:00 +0100</pubDate>
 <category>IA</category>
 <description>El modelo, de pesos abiertos, tiene 30.000 millones de parámetros, aunque solo activa unos 4.000 millones en cada paso, y en un mismo sistema transcribe, traduce desde o hacia el inglés y separa hasta ocho hablantes en grabaciones de hasta una hora. Se le dan instrucciones en lenguaje natural y funciona en una sola GPU de Nvidia, pero está pensado para audio grabado, no para emisiones en directo. Nvidia publica también Granary v2, un conjunto de datos de voz con más de 460.000 horas en 48 idiomas.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: OpenAI planea comprar chips TPU a Google para depender menos de Nvidia</title>
-<link>https://analyticsindiamag.com/ai-news/openai-plans-to-purchase-google-tpus-report</link>
-<guid isPermaLink="false">2026-10-27-rumor-openai-compra-tpu-google</guid>
-<pubDate>Tue, 27 Oct 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según The Information, que cita a una sola fuente anónima, OpenAI quiere comprar TPU de Google para ampliar su capacidad de cálculo; hasta ahora solo las alquilaba en Google Cloud. La empresa busca además ingenieros para adaptar sus modelos punteros a estos chips. No hay cifras ni confirmación oficial de OpenAI.</description>
-</item>
-
-<item>
-<title>[IA] Microsoft presenta MAI Image 2.7, su nuevo modelo para editar imágenes</title>
-<link>https://microsoft.ai/news/mai-image-2-7-debut/</link>
-<guid isPermaLink="false">2026-10-27-mai-image-2-7</guid>
-<pubDate>Tue, 27 Oct 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El sucesor de MAI-Image-2.6 llega en versión preliminar y por ahora solo edita imágenes; la generación a partir de texto llegará más adelante. Según Microsoft, mejora a su predecesor en todos los casos evaluados por Artificial Analysis, donde queda segundo en edición, y es tercero en la clasificación de Arena. Se puede probar en Arena, Artificial Analysis y MAI Playground, todavía sin API.</description>
-</item>
-
-<item>
-<title>[IA] Oracle será la primera gran nube ajena a Google en ofrecer sus chips TPU</title>
-<link>https://www.oracle.com/news/announcement/ai-world-oracle-brings-google-tpus-to-oracle-cloud-infrastructure-2026-10-27/</link>
-<guid isPermaLink="false">2026-10-27-oracle-google-tpu-oci</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Oracle y Google anunciaron en Oracle AI World que los procesadores TPU de Google estarán disponibles en Oracle Cloud Infrastructure a partir de 2027, con un despliegue que se ampliará durante varios años. Oracle pondrá la energía, la refrigeración y la red de sus centros de datos. Hasta ahora, estos chips solo se podían alquilar en la propia nube de Google.</description>
-</item>
-
-<item>
-<title>[IA] Nvidia y Oracle llevan Vera Rubin a escala de varios gigavatios en la nube de Oracle</title>
-<link>https://www.oracle.com/news/announcement/ai-world-nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-2026-10-27/</link>
-<guid isPermaLink="false">2026-10-27-nvidia-oracle-vera-rubin</guid>
-<pubDate>Tue, 27 Oct 2026 16:30:00 +0100</pubDate>
-<category>IA</category>
-<description>Los sistemas Vera Rubin NVL72, con 72 GPU por rack, y las CPU Vera de Nvidia ya están disponibles de forma general en Oracle Cloud Infrastructure, y ambas empresas planean ampliar esos superclústeres hasta varios gigavatios. Las CPU Vera se presentan como pensadas para las tareas de los agentes, como ejecutar código o llamar a herramientas. Oracle recuerda que OpenAI entrenó GPT-6 Astra en su centro de Abilene con más de 100.000 GPU Blackwell.</description>
-</item>
-
-<item>
-<title>[IA] Oracle y OpenAI integran ChatGPT y Codex en las aplicaciones empresariales de Oracle</title>
-<link>https://www.oracle.com/news/announcement/ai-world-oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-2026-10-27/</link>
-<guid isPermaLink="false">2026-10-27-oracle-openai-ai-workspace</guid>
-<pubDate>Tue, 27 Oct 2026 16:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La alianza incluye Oracle AI Workspace, una interfaz que conecta los modelos de OpenAI con Fusion, NetSuite y la base de datos de Oracle, y App Composer, para que empleados sin conocimientos de programación creen aplicaciones con Codex. También habrá un servicio de seguridad que usa los modelos de ciberseguridad de OpenAI para buscar vulnerabilidades, y un paquete gratuito de entrada para pymes con 12.000 dólares anuales en créditos de nube. Oracle avisa de que fechas y precios pueden cambiar.</description>
-</item>
-
-<item>
-<title>[IA] Apple lanza iOS 27.2: Siri con IA ya habla español y recuerda conversaciones anteriores</title>
-<link>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</link>
-<guid isPermaLink="false">2026-10-27-ios-27-2-siri-ia-espanol</guid>
-<pubDate>Tue, 27 Oct 2026 14:54:00 +0100</pubDate>
-<category>IA</category>
-<description>La actualización amplía la nueva Siri con IA, todavía en beta, a cinco idiomas más: español, francés, japonés, coreano y portugués. El asistente puede ahora recordar lo hablado en conversaciones previas y tirar de datos como fotos de Mensajes, asistentes a eventos del calendario o el historial de Safari, aunque el usuario puede excluir apps de esa memoria. Mensajes también propone convertir un mensaje en recordatorio o evento.</description>
 </item>
 
 </channel>
