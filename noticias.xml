@@ -6,7 +6,34 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 04 Nov 2026 07:54:59 +0100</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 07:55:33 +0100</lastBuildDate>
+
+<item>
+<title>[IA] Los clientes chinos de Nvidia solo recibirán por ahora un 1% de los 70.000 millones en chips RTX que han pedido, según Bloomberg</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered</link>
+<guid isPermaLink="false">2026-11-04-nvidia-china-rtx-1-por-ciento</guid>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Las grandes tecnológicas chinas han encargado unos 70.000 millones de dólares en RTX Pro 5500, la tarjeta que Nvidia puede vender en China sin incumplir las restricciones de exportación. Sin embargo, la falta de suministro hará que de momento solo reciban en torno al 1% de ese volumen, según fuentes citadas por Bloomberg.</description>
+</item>
+
+<item>
+<title>[IA] Apple advierte en su informe anual de que los agentes de IA pueden actuar de forma imprevisible</title>
+<link>https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html</link>
+<guid isPermaLink="false">2026-11-03-apple-10k-riesgo-agentes-ia</guid>
+<pubDate>Tue, 03 Nov 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Entre los factores de riesgo de su nuevo informe anual ante la SEC, Apple incluye por primera vez a los agentes autónomos: podrían comportarse de manera no prevista, ir más allá de los permisos concedidos o no seguir instrucciones. La compañía avisa de que eso podría acarrearle demandas y daños a su reputación.</description>
+</item>
+
+<item>
+<title>[IA] Anthropic presenta FlashProve, un sistema abierto para demostrar qué modelo generó cada respuesta</title>
+<link>https://www.anthropic.com/research/provable-inference</link>
+<guid isPermaLink="false">2026-11-03-anthropic-flashprove-inferencia-verificable</guid>
+<pubDate>Tue, 03 Nov 2026 21:10:00 +0100</pubDate>
+<category>IA</category>
+<description>Investigadores de Anthropic han publicado FlashProve, una propuesta de «inferencia demostrable»: cada laboratorio publicaría una huella de su modelo y cualquiera podría comprobar criptográficamente que una respuesta salió de él, sin revelar los pesos. Serviría, por ejemplo, para detectar si un proveedor cambia en secreto un modelo por otro más barato. Han liberado la especificación y el código, aunque lo presentan como un avance intermedio sin planes de desplegarlo todavía.</description>
+</item>
 
 <item>
 <title>[IA] OpenAI contrata a Cathedral, la startup de antiguos miembros de DOGE que logró entrar en sistemas de Anthropic, para atacar sus defensas</title>
@@ -15,6 +42,33 @@
 <pubDate>Tue, 03 Nov 2026 21:00:00 +0100</pubDate>
 <category>IA</category>
 <description>OpenAI ha encargado a Cathedral Systems que ponga a prueba su seguridad usando los propios modelos de OpenAI, y además sube las recompensas de su programa de caza de fallos. Cathedral ya accedió a partes de los sistemas internos de Anthropic en una prueba anterior; Anthropic discrepa de cómo se hizo y asegura que ni los pesos de sus modelos ni las conversaciones de Claude se vieron afectados.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI calcula que las búsquedas en ChatGPT ya equivalen a cerca del 20% de las de Google</title>
+<link>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</link>
+<guid isPermaLink="false">2026-11-03-chatgpt-busquedas-20-google</guid>
+<pubDate>Tue, 03 Nov 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Un directivo de OpenAI, Adam Fry, explicó a Big Technology que las consultas de tipo búsqueda en ChatGPT suman ya alrededor de una quinta parte del volumen de Google, y que el chatbot tiene unos 1.200 millones de usuarios semanales. La cifra es una estimación de la propia OpenAI y no se ha verificado de forma independiente.</description>
+</item>
+
+<item>
+<title>[IA] OpenAI cuenta que GPT-6 Astra diseñó en menos de una semana un prototipo de dispositivo para hablar con Codex</title>
+<link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
+<guid isPermaLink="false">2026-11-03-openai-astra-diseña-dispositivo-codex</guid>
+<pubDate>Tue, 03 Nov 2026 19:56:00 +0100</pubDate>
+<category>IA</category>
+<description>Dos empleados de OpenAI usaron GPT-6 Astra como proyecto paralelo y el modelo se encargó de la carcasa, la placa de circuito, la interfaz y el software del aparato. La empresa reconoce que fabricarlo exigió varias rondas de revisión, y aprovecha para mostrar cómo ChatGPT y Codex ayudan en diseño mecánico, electrónica y simulación.</description>
+</item>
+
+<item>
+<title>[IA] Cat Wu, responsable de producto de Claude Code, deja Anthropic antes de su salida a bolsa</title>
+<link>https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11</link>
+<guid isPermaLink="false">2026-11-03-cat-wu-deja-anthropic</guid>
+<pubDate>Tue, 03 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Cat Wu, una de las caras más visibles de Claude Code, ha abandonado Anthropic tras unos dos años al frente del producto, según Business Insider. No se han dado motivos públicos de su marcha, que llega en plena preparación de la salida a bolsa de la empresa.</description>
 </item>
 
 <item>
@@ -33,6 +87,15 @@
 <pubDate>Tue, 03 Nov 2026 15:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Anthropic ha añadido a las instrucciones internas de Claude Code una norma que le impide reproducir juegos concretos ya existentes, después de la aparición de numerosas copias generadas con IA. Algunos desarrolladores se quejan de que la restricción también frena trabajos legítimos, como tareas de ingeniería inversa.</description>
+</item>
+
+<item>
+<title>[IA] Empleados de Google DeepMind piden eliminar las cláusulas que les impiden criticar a la empresa de por vida</title>
+<link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
+<guid isPermaLink="false">2026-11-03-deepmind-clausulas-no-critica</guid>
+<pubDate>Tue, 03 Nov 2026 15:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según The Washington Post, parte de la plantilla de DeepMind se ha movilizado contra unas condiciones de contrato que podrían disuadirles de hablar públicamente sobre los riesgos de la IA incluso después de dejar la empresa. Google responde que no aplica restricciones tras el fin del empleo y que ha quitado esa cláusula de los contratos nuevos.</description>
 </item>
 
 <item>
@@ -348,69 +411,6 @@
 <pubDate>Thu, 29 Oct 2026 15:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La startup francesa ha liberado los pesos de Mistral Large 4, apodado «Le Chonk», que había presentado en versión preliminar a principios de mes; ya se puede descargar de Hugging Face o usar por API a 0,70 dólares por millón de tokens de entrada. Mistral asegura que rinde como el chino GLM-5.3 en tareas de programación con agentes gastando un 47% menos de tokens, aunque son cifras de la propia empresa. La licencia es abierta, pero quien lo venda como servicio necesita un permiso comercial aparte.</description>
-</item>
-
-<item>
-<title>[IA] Alphabet duplica los ingresos de Google Cloud, pero el gasto en IA deja su flujo de caja en negativo</title>
-<link>https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/</link>
-<guid isPermaLink="false">2026-10-28-alphabet-resultados-q3</guid>
-<pubDate>Wed, 28 Oct 2026 21:40:00 +0100</pubDate>
-<category>IA</category>
-<description>Alphabet facturó 127.600 millones de dólares en el tercer trimestre, un 25% más, y Google Cloud superó los 30.700 millones, más del doble que hace un año. Sin embargo, la inversión en infraestructura subió a 51.400 millones y el flujo de caja libre quedó en 9.100 millones negativos. Las acciones llegaron a caer alrededor de un 8% tras el cierre.</description>
-</item>
-
-<item>
-<title>[IA] Azure crece un 48% y Microsoft gasta menos de lo previsto en centros de datos por retrasos de proveedores</title>
-<link>https://www.marketscreener.com/news/microsoft-beats-quarterly-cloud-revenue-estimates-ce785cd3d980f624</link>
-<guid isPermaLink="false">2026-10-28-microsoft-resultados-azure</guid>
-<pubDate>Wed, 28 Oct 2026 21:08:00 +0100</pubDate>
-<category>IA</category>
-<description>Microsoft ingresó 92.280 millones de dólares en su trimestre, un 20% más, y Azure facturó 33.170 millones, por encima de lo esperado. Invirtió 45.200 millones, menos de los 50.000 que había anunciado, porque terceros se retrasaron en entregarle capacidad, no porque recorte planes. Nadella dijo que la demanda de IA se reparte ya entre más clientes, y las acciones subieron más de un 5% fuera de horario.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: DeepSeek y Moonshot habrían entrenado sus últimos modelos con respuestas de GPT-6 Astra</title>
-<link>https://www.tradingview.com/news/reuters.com,2026:newsml_L6N46F02M:0-deepseek-moonshot-used-openai-s-gpt-6-astra-to-train-latest-models-the-information-reports/</link>
-<guid isPermaLink="false">2026-10-28-rumor-deepseek-moonshot-astra</guid>
-<pubDate>Wed, 28 Oct 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>The Information asegura, citando a personas con conocimiento directo del asunto, que los dos laboratorios chinos se apoyaron mucho en las respuestas del modelo de OpenAI para entrenar sus modelos más recientes. Reuters recoge la información sin haberla verificado por su cuenta y no se conocen detalles del método. Es un rumor: ninguna de las empresas lo ha confirmado.</description>
-</item>
-
-<item>
-<title>[IA] Google presenta Gemini 4 Carbon, su modelo más potente, de momento solo para expertos en ciberseguridad</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-<guid isPermaLink="false">2026-10-28-gemini-4-carbon</guid>
-<pubDate>Wed, 28 Oct 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Dos semanas después de Argon, Google lanza Gemini 4 Carbon, pensado para tareas largas de programación y agentes, y lo sitúa primero en el índice de Artificial Analysis con 59 puntos. Destaca en pruebas de encontrar, explotar y corregir vulnerabilidades, por lo que al principio solo lo usarán defensores de ciberseguridad seleccionados a través del programa Fairwind, mientras el Gobierno de EE. UU. lo evalúa. La versión para desarrolladores y público general llegará más adelante, con un precio inicial de 2 dólares por millón de tokens de entrada y 10 de salida.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI abre un centro con cientos de empleados para vigilar el mal uso de ChatGPT en las elecciones de EE. UU.</title>
-<link>https://www.yahoo.com/news/politics/articles/openai-launches-election-war-room-164347725.html</link>
-<guid isPermaLink="false">2026-10-28-openai-centro-electoral</guid>
-<pubDate>Wed, 28 Oct 2026 17:43:00 +0100</pubDate>
-<category>IA</category>
-<description>Según Politico, el centro de operaciones electorales empieza a funcionar esta semana y seguirá activo hasta que termine el recuento de las elecciones de mitad de mandato del 3 de noviembre. Su personal, de varias áreas de la empresa, seguirá la actualidad, recogerá avisos de comportamientos extraños de los modelos e investigará cuentas sospechosas. OpenAI ya había cerrado este mes cuentas ligadas a campañas de influencia rusas e iraníes.</description>
-</item>
-
-<item>
-<title>[IA] GitHub lanza Copilot Fusion, que elige y combina varios modelos para cada tarea</title>
-<link>https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/</link>
-<guid isPermaLink="false">2026-10-28-github-copilot-fusion</guid>
-<pubDate>Wed, 28 Oct 2026 17:15:00 +0100</pubDate>
-<category>IA</category>
-<description>En su conferencia Universe, GitHub hizo disponible para todos Copilot Fusion, una opción del selector de modelos que decide qué modelos usar en cada petición y cómo hacerlos colaborar, con varios niveles de esfuerzo. También presentó en vista previa proyectos de agentes que trabajan en varios repositorios a la vez, automatizaciones programadas y un modo que maneja apps de escritorio con permiso del usuario. Los clientes de GitHub Enterprise podrán usar Copilot sin suscripción aparte, pagando solo los créditos que consuman.</description>
-</item>
-
-<item>
-<title>[IA] Nvidia publica Nemotron 3.5 Transcribe, un modelo abierto que transcribe 40 idiomas e identifica a quién habla</title>
-<link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-<guid isPermaLink="false">2026-10-28-nvidia-nemotron-transcribe</guid>
-<pubDate>Wed, 28 Oct 2026 17:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El modelo, de pesos abiertos, tiene 30.000 millones de parámetros, aunque solo activa unos 4.000 millones en cada paso, y en un mismo sistema transcribe, traduce desde o hacia el inglés y separa hasta ocho hablantes en grabaciones de hasta una hora. Se le dan instrucciones en lenguaje natural y funciona en una sola GPU de Nvidia, pero está pensado para audio grabado, no para emisiones en directo. Nvidia publica también Granary v2, un conjunto de datos de voz con más de 460.000 horas en 48 idiomas.</description>
 </item>
 
 </channel>
