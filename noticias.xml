@@ -6,8 +6,80 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 05 Nov 2026 07:55:33 +0100</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 07:58:05 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Google invertirá 17.000 millones en su primer centro de datos en Wyoming, alimentado con pilas de combustible y captura de carbono</title>
+<link>https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html</link>
+<guid isPermaLink="false">2026-11-05-google-wyoming-17000-millones</guid>
+<pubDate>Thu, 05 Nov 2026 21:45:00 +0100</pubDate>
+<category>IA</category>
+<description>Google ha anunciado un campus de centros de datos de 17.000 millones de dólares en el condado de Laramie, el primero que tendrá en Wyoming. La energía vendrá en buena parte de una planta de pilas de combustible de Bloom Energy con captura de carbono, y la empresa asegura que pagará su electricidad y las mejoras de la red. Llega justo cuando crecen en EE. UU. las amenazas de poner límites a estas instalaciones.</description>
+</item>
+<item>
+<title>[IA] Unos 600.000 chips H200 de Nvidia se acumulan en Hong Kong porque Pekín no autoriza su entrada, según Reuters</title>
+<link>https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/</link>
+<guid isPermaLink="false">2026-11-05-nvidia-h200-hong-kong-pekin</guid>
+<pubDate>Thu, 05 Nov 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Aunque Washington permite vender el H200 a clientes chinos aprobados, Pekín no ha dado el visto bueno para importarlos a gran escala y unos 600.000 están almacenados en Hong Kong, según dos fuentes citadas por Reuters. ByteDance y Tencent solo habrían recibido unos 10.000 cada una, y los reguladores han pedido a las empresas que dejen la mayor parte allí. Mientras, el precio de un servidor H200 en China se ha triplicado en un año.</description>
+</item>
+<item>
+<title>[IA] Anthropic lanza Personal Finance: Claude podrá consultar tus cuentas bancarias en modo solo lectura</title>
+<link>https://claude.com/resources/articles/introducing-personal-finance-in-claude</link>
+<guid isPermaLink="false">2026-11-05-claude-personal-finance</guid>
+<pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic ha abierto en beta una sección de finanzas personales en Claude que se conecta a bancos y tarjetas a través de Plaid para explicar gastos, recibos y saldos. El acceso es solo de lectura: Claude ve saldos, límites y hasta dos años de movimientos, pero no puede mover ni invertir dinero, y esas conversaciones no se usan para entrenar. De momento llega poco a poco a los planes Pro, Max y Ultra en Estados Unidos.</description>
+</item>
+<item>
+<title>[IA] OpenAI presenta GPT-6 Cyber, un modelo para investigar vulnerabilidades reservado a equipos de seguridad aprobados</title>
+<link>https://openai.com/index/introducing-gpt-6-cyber/</link>
+<guid isPermaLink="false">2026-11-05-openai-gpt-6-cyber</guid>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha lanzado GPT-6 Cyber, una variante de GPT-6 Astra para buscar y explotar fallos de software que solo podrán usar los miembros de su programa Daybreak Red. Según la empresa, en sus pruebas encontró 81 vulnerabilidades graves desconocidas en Firefox y creó exploits funcionales para 948 fallos del núcleo de Linux, ya comunicados a sus responsables. OpenAI lo clasifica con riesgo «crítico» en su marco de preparación y dice que casi nunca se sale del objetivo autorizado.</description>
+</item>
+<item>
+<title>[IA] Los chips de IA se desploman en bolsa por el miedo a una regulación más dura tras las elecciones en EE. UU.</title>
+<link>https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/</link>
+<guid isPermaLink="false">2026-11-05-chips-ia-caida-bolsa-midterms</guid>
+<pubDate>Thu, 05 Nov 2026 16:46:00 +0100</pubDate>
+<category>IA</category>
+<description>AMD llegó a caer un 13%, Intel un 8%, Nvidia un 7% y Broadcom un 6% en las primeras horas de la sesión del jueves. Los inversores temen que el nuevo Congreso, con mayoría demócrata en ambas cámaras, endurezca las normas sobre la IA y frene la construcción de centros de datos. La caída llegó pese a que AMD acababa de presentar los mejores resultados trimestrales de su historia.</description>
+</item>
+<item>
+<title>[IA] OpenAI promete pagar toda la electricidad de sus centros de datos y dejar de pedir confidencialidad a los cargos públicos</title>
+<link>https://www.androidheadlines.com/2026/11/openai-data-center-policy-community-compact.html</link>
+<guid isPermaLink="false">2026-11-05-openai-community-compact-centros-datos</guid>
+<pubDate>Thu, 05 Nov 2026 16:35:00 +0100</pubDate>
+<category>IA</category>
+<description>Tras el rechazo a los centros de datos en varias votaciones locales de las elecciones de esta semana, OpenAI ha publicado un «pacto comunitario» nacional. Se compromete a cubrir el coste completo de la energía y de las mejoras de red de las instalaciones que gestione, para que no lo paguen los vecinos, y a no firmar más acuerdos de confidencialidad con alcaldes y concejales que revisan los proyectos.</description>
+</item>
+<item>
+<title>[IA] Anthropic firma con Associated Press su primer acuerdo de licencia con un medio, según Adweek</title>
+<link>https://dataconomy.com/2026/11/05/anthropic-signs-first-content-licensing-deal-with/</link>
+<guid isPermaLink="false">2026-11-05-anthropic-acuerdo-associated-press</guid>
+<pubDate>Thu, 05 Nov 2026 11:37:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic habría cerrado poco antes de las elecciones de mitad de mandato un acuerdo para usar datos y noticias de AP, lo que explica que Claude mostrara resultados electorales atribuidos a la agencia. Es la primera licencia de este tipo para Anthropic, mientras OpenAI ya tiene más de una docena. La información procede de fuentes anónimas; ninguna de las dos empresas lo ha confirmado ni se conocen las condiciones.</description>
+</item>
+<item>
+<title>[IA] Microsoft renuncia a duplicar su contrato con Nscale para un centro de datos en Texas</title>
+<link>https://www.spokesman.com/stories/2026/nov/04/microsoft-declines-option-to-expand-texas-data-cen/</link>
+<guid isPermaLink="false">2026-11-04-microsoft-nscale-texas</guid>
+<pubDate>Wed, 04 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Microsoft no ejercerá la opción de ampliar a más del doble su acuerdo con Nscale en Texas, una extensión de decenas de miles de millones, según adelantó el FT y confirmó Reuters con una fuente. La decisión se habría tomado hace meses y el contrato actual sigue en pie, pero llega mientras Nscale prepara una salida a bolsa de unos 35.000 millones.</description>
+</item>
+<item>
+<title>[IA] OpenAI comprará Pierre Computer para reforzar la infraestructura de código de Codex</title>
+<link>https://www.axios.com/2026/11/04/openai-pierre-computer-github</link>
+<guid isPermaLink="false">2026-11-04-openai-compra-pierre-computer</guid>
+<pubDate>Wed, 04 Nov 2026 13:20:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha acordado adquirir Pierre Computer, una empresa de herramientas para desarrolladores conocida por Code Storage, un sistema para alojar repositorios a gran escala. La idea es integrarlo en Codex, cuyos agentes necesitan leer y escribir código en paralelo en muchos repositorios. No se han revelado las condiciones.</description>
+</item>
 <item>
 <title>[IA] Los clientes chinos de Nvidia solo recibirán por ahora un 1% de los 70.000 millones en chips RTX que han pedido, según Bloomberg</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered</link>
@@ -16,7 +88,6 @@
 <category>IA</category>
 <description>Las grandes tecnológicas chinas han encargado unos 70.000 millones de dólares en RTX Pro 5500, la tarjeta que Nvidia puede vender en China sin incumplir las restricciones de exportación. Sin embargo, la falta de suministro hará que de momento solo reciban en torno al 1% de ese volumen, según fuentes citadas por Bloomberg.</description>
 </item>
-
 <item>
 <title>[IA] Apple advierte en su informe anual de que los agentes de IA pueden actuar de forma imprevisible</title>
 <link>https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html</link>
@@ -25,7 +96,6 @@
 <category>IA</category>
 <description>Entre los factores de riesgo de su nuevo informe anual ante la SEC, Apple incluye por primera vez a los agentes autónomos: podrían comportarse de manera no prevista, ir más allá de los permisos concedidos o no seguir instrucciones. La compañía avisa de que eso podría acarrearle demandas y daños a su reputación.</description>
 </item>
-
 <item>
 <title>[IA] Anthropic presenta FlashProve, un sistema abierto para demostrar qué modelo generó cada respuesta</title>
 <link>https://www.anthropic.com/research/provable-inference</link>
@@ -34,7 +104,6 @@
 <category>IA</category>
 <description>Investigadores de Anthropic han publicado FlashProve, una propuesta de «inferencia demostrable»: cada laboratorio publicaría una huella de su modelo y cualquiera podría comprobar criptográficamente que una respuesta salió de él, sin revelar los pesos. Serviría, por ejemplo, para detectar si un proveedor cambia en secreto un modelo por otro más barato. Han liberado la especificación y el código, aunque lo presentan como un avance intermedio sin planes de desplegarlo todavía.</description>
 </item>
-
 <item>
 <title>[IA] OpenAI contrata a Cathedral, la startup de antiguos miembros de DOGE que logró entrar en sistemas de Anthropic, para atacar sus defensas</title>
 <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/</link>
@@ -43,7 +112,6 @@
 <category>IA</category>
 <description>OpenAI ha encargado a Cathedral Systems que ponga a prueba su seguridad usando los propios modelos de OpenAI, y además sube las recompensas de su programa de caza de fallos. Cathedral ya accedió a partes de los sistemas internos de Anthropic en una prueba anterior; Anthropic discrepa de cómo se hizo y asegura que ni los pesos de sus modelos ni las conversaciones de Claude se vieron afectados.</description>
 </item>
-
 <item>
 <title>[IA] OpenAI calcula que las búsquedas en ChatGPT ya equivalen a cerca del 20% de las de Google</title>
 <link>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</link>
@@ -52,7 +120,6 @@
 <category>IA</category>
 <description>Un directivo de OpenAI, Adam Fry, explicó a Big Technology que las consultas de tipo búsqueda en ChatGPT suman ya alrededor de una quinta parte del volumen de Google, y que el chatbot tiene unos 1.200 millones de usuarios semanales. La cifra es una estimación de la propia OpenAI y no se ha verificado de forma independiente.</description>
 </item>
-
 <item>
 <title>[IA] OpenAI cuenta que GPT-6 Astra diseñó en menos de una semana un prototipo de dispositivo para hablar con Codex</title>
 <link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
@@ -61,7 +128,6 @@
 <category>IA</category>
 <description>Dos empleados de OpenAI usaron GPT-6 Astra como proyecto paralelo y el modelo se encargó de la carcasa, la placa de circuito, la interfaz y el software del aparato. La empresa reconoce que fabricarlo exigió varias rondas de revisión, y aprovecha para mostrar cómo ChatGPT y Codex ayudan en diseño mecánico, electrónica y simulación.</description>
 </item>
-
 <item>
 <title>[IA] Cat Wu, responsable de producto de Claude Code, deja Anthropic antes de su salida a bolsa</title>
 <link>https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11</link>
@@ -70,7 +136,6 @@
 <category>IA</category>
 <description>Cat Wu, una de las caras más visibles de Claude Code, ha abandonado Anthropic tras unos dos años al frente del producto, según Business Insider. No se han dado motivos públicos de su marcha, que llega en plena preparación de la salida a bolsa de la empresa.</description>
 </item>
-
 <item>
 <title>[IA] Empleados de OpenAI llevaban años advirtiendo de fallos de seguridad operativa, según Reuters</title>
 <link>https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/</link>
@@ -79,7 +144,6 @@
 <category>IA</category>
 <description>Una investigación de Reuters basada en cinco fuentes asegura que trabajadores de OpenAI alertaron durante años de deficiencias en la protección interna de la empresa, algunas desde antes del lanzamiento de ChatGPT en 2022. OpenAI rechaza haber descuidado la seguridad.</description>
 </item>
-
 <item>
 <title>[IA] Claude Code deja de recrear videojuegos existentes tras una ola de clones hechos con IA</title>
 <link>https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games</link>
@@ -88,7 +152,6 @@
 <category>IA</category>
 <description>Anthropic ha añadido a las instrucciones internas de Claude Code una norma que le impide reproducir juegos concretos ya existentes, después de la aparición de numerosas copias generadas con IA. Algunos desarrolladores se quejan de que la restricción también frena trabajos legítimos, como tareas de ingeniería inversa.</description>
 </item>
-
 <item>
 <title>[IA] Empleados de Google DeepMind piden eliminar las cláusulas que les impiden criticar a la empresa de por vida</title>
 <link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
@@ -97,7 +160,6 @@
 <category>IA</category>
 <description>Según The Washington Post, parte de la plantilla de DeepMind se ha movilizado contra unas condiciones de contrato que podrían disuadirles de hablar públicamente sobre los riesgos de la IA incluso después de dejar la empresa. Google responde que no aplica restricciones tras el fin del empleo y que ha quitado esa cláusula de los contratos nuevos.</description>
 </item>
-
 <item>
 <title>[IA] Revolut recorta cerca de un 90% su gasto en asistentes de programación al pasar a modelos GLM en sus propios servidores</title>
 <link>https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345</link>
@@ -106,7 +168,6 @@
 <category>IA</category>
 <description>El banco digital británico ha cambiado la herramienta de programación por defecto de sus ingenieros: en lugar de modelos comerciales como Claude, usa ahora modelos abiertos GLM alojados en su propia infraestructura. Dice que así el coste baja unas diez veces, aunque mantiene el acceso a modelos comerciales cuando hacen falta.</description>
 </item>
-
 <item>
 <title>[IA] Nvidia pide a sus clientes de centros de datos que limiten su negocio con empresas chinas, según el FT</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says</link>
@@ -115,7 +176,6 @@
 <category>IA</category>
 <description>Según el Financial Times, Nvidia ha indicado a los operadores de centros de datos a los que suministra chips que reduzcan su exposición a clientes chinos, con un tope de alrededor del 49% de su negocio. La medida busca cerrar la vía por la que empresas chinas acceden a chips estadounidenses de IA alquilando capacidad fuera de China. Nvidia no lo ha anunciado públicamente.</description>
 </item>
-
 <item>
 <title>[IA] Drax propone un centro de datos de 20.000 millones de libras junto a su central de biomasa en Yorkshire</title>
 <link>https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237</link>
@@ -124,7 +184,6 @@
 <category>IA</category>
 <description>La eléctrica británica plantea, con Brookfield y Radiant como socios, un campus de IA en su central de North Yorkshire que podría superar 1 gigavatio de capacidad de cómputo. El proyecto aún depende de permisos urbanísticos, aprobaciones regulatorias y de cerrar clientes.</description>
 </item>
-
 <item>
 <title>[IA] Los reguladores británicos avisan de que la ley actual ya se aplica a los agentes de IA personales</title>
 <link>https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-joint-statement-protecting-people-and-businesses-in-and-agentic-economy2.pdf</link>
@@ -133,7 +192,6 @@
 <category>IA</category>
 <description>La autoridad de competencia (CMA), el supervisor financiero (FCA), el de protección de datos (ICO) y Ofcom han firmado una declaración conjunta: que un agente actúe de forma autónoma no reduce las obligaciones de la empresa que lo ofrece. No crean normas nuevas, pero advierten de que usarán sus poderes si detectan daños a consumidores o negocios.</description>
 </item>
-
 <item>
 <title>[IA] Un alto regulador financiero chino alerta de que la inversión en IA se está concentrando en exceso</title>
 <link>https://www.reuters.com/business/finance/ai-investment-is-becoming-overly-concentrated-chinese-official-says-2026-11-03/</link>
@@ -142,7 +200,6 @@
 <category>IA</category>
 <description>Xiao Yuanqi, vicedirector de la Administración Nacional de Regulación Financiera de China, advirtió de que el dinero que fluye hacia la IA está demasiado concentrado. Según él, esto podría encarecer el crédito para las industrias tradicionales.</description>
 </item>
-
 <item>
 <title>[IA] Los inversores presionan para que Anthropic salga a bolsa valorada en 1,5-1,6 billones, no en 2, según el WSJ</title>
 <link>https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf</link>
@@ -151,7 +208,6 @@
 <category>IA</category>
 <description>Según fuentes citadas por The Wall Street Journal, los grandes inversores institucionales piden a Anthropic una valoración más prudente para su estreno en el Nasdaq, previsto para noviembre: entre 1,5 y 1,6 billones de dólares, frente a los cerca de 2 billones que se manejaban. Pesan las recientes caídas de las tecnológicas y el menor ritmo de crecimiento. La empresa no lo ha confirmado.</description>
 </item>
-
 <item>
 <title>[IA] Anthropic actualiza su folleto de salida a bolsa: 17.000 millones de ingresos en el tercer trimestre y compromisos de casi 900.000 millones</title>
 <link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
@@ -160,7 +216,6 @@
 <category>IA</category>
 <description>La versión revisada del documento que Anthropic ha enviado al regulador bursátil de EE. UU. muestra unos ingresos de unos 17.000 millones de dólares entre julio y septiembre, aunque el crecimiento trimestral se ha frenado. La pérdida neta supera los 23.000 millones, sobre todo por cambios contables en el valor de bonos convertibles y derivados; la pérdida operativa es mucho menor. También detalla compromisos de compra y alquileres por unos 895.400 millones, en su mayoría capacidad de cómputo.</description>
 </item>
-
 <item>
 <title>[IA] Goldman Sachs retira Claude Code y GitHub Copilot a sus banqueros y traders y los reserva a sus ingenieros</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools</link>
@@ -169,7 +224,6 @@
 <category>IA</category>
 <description>Según Bloomberg, el banco ha dejado de dar acceso a estas herramientas de programación con IA al personal de banca de inversión y mercados, y ahora solo las usan sus unos 12.000 ingenieros y el equipo cuantitativo. Un portavoz explicó que las herramientas se quedan con quienes mejor pueden aprovecharlas. Goldman llevaba dos años extendiendo la IA a toda su plantilla.</description>
 </item>
-
 <item>
 <title>[IA] Oracle sale al mercado a por 20.000 millones en acciones y bonos para financiar su expansión en IA</title>
 <link>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</link>
@@ -178,7 +232,6 @@
 <category>IA</category>
 <description>Oracle ha registrado a la vez una emisión de 10.000 millones de dólares en acciones nuevas y otra de 10.000 millones en deuda para pagar centros de datos y chips. La operación diluye a los accionistas actuales y sus títulos cayeron más de un 6% en bolsa. Es otra muestra de cómo las tecnológicas recurren cada vez más a financiación externa para sostener el gasto en IA.</description>
 </item>
-
 <item>
 <title>[IA] Putin obliga a los centros de datos privados de Rusia a reservar el 10% de su capacidad para el Estado</title>
 <link>https://www.themoscowtimes.com/2026/11/02/putin-orders-private-data-centers-to-set-aside-10-of-capacity-to-support-it-infrastructure-a94159</link>
@@ -187,7 +240,6 @@
 <category>IA</category>
 <description>Un decreto firmado por Vladímir Putin exige a los operadores privados de centros de datos guardar una décima parte de su capacidad para los sistemas informáticos del Estado, que podrá usarla en un plazo de 24 horas tras una orden del Gobierno. La medida llega después de ataques con drones ucranianos contra instalaciones de este tipo en Rusia.</description>
 </item>
-
 <item>
 <title>[IA] Marvell comprará Lumentum por 115.000 millones para reforzarse en la óptica de los centros de datos de IA</title>
 <link>https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html</link>
@@ -196,7 +248,6 @@
 <category>IA</category>
 <description>El fabricante de chips Marvell ha acordado adquirir Lumentum, especialista en láseres y componentes ópticos que conectan los servidores de IA, en una operación pagada íntegramente con acciones. La prima es de casi el 24% sobre el cierre del 28 de octubre y los accionistas de Marvell controlarán dos tercios de la empresa resultante. El cierre se espera para la primera mitad de 2028, a falta de aprobaciones regulatorias.</description>
 </item>
-
 <item>
 <title>[IA] ADNOC será la primera petrolera en usar OpenAI Frontier, en un acuerdo con OpenAI y G42</title>
 <link>https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI</link>
@@ -205,7 +256,6 @@
 <category>IA</category>
 <description>La petrolera estatal de Abu Dabi ha firmado un acuerdo de varios años con OpenAI y G42 para desplegar agentes de IA de la plataforma Frontier en sus operaciones, ejecutados desde centros de datos en Emiratos. Se anunció en la feria ADIPEC junto a otros pactos del emirato con OpenAI para la administración pública y la educación. No se han revelado cifras.</description>
 </item>
-
 <item>
 <title>[IA] Meituan presenta LongCat-2.5, un modelo multimodal de 1,6 billones de parámetros para agentes</title>
 <link>https://x.com/Meituan_LongCat/status/2117264311714537633</link>
@@ -214,7 +264,6 @@
 <category>IA</category>
 <description>La empresa china de reparto Meituan ha lanzado en versión preliminar LongCat-2.5, un modelo que entiende imágenes y texto de forma nativa, con unos 48.000 millones de parámetros activos y un contexto de un millón de tokens. Está pensado para tareas largas de programación y manejo de navegadores, hojas de cálculo y otras aplicaciones. Ya se puede usar por chat y API, y la compañía prevé publicar los pesos.</description>
 </item>
-
 <item>
 <title>[IA] Corea del Sur casi duplica su gasto en IA en un presupuesto récord para 2027</title>
 <link>https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html</link>
@@ -223,7 +272,6 @@
 <category>IA</category>
 <description>El presidente Lee Jae-myung ha defendido ante el Parlamento unas cuentas de 820,9 billones de wones para 2027, un 12,8% más que este año. La partida para IA, chips, IA física y centros de datos sube hasta unos 21,3 billones de wones (cerca de 16.000 millones de dólares), casi el doble que en 2026, con el objetivo de crear un modelo soberano puntero. La Asamblea Nacional debe aprobarlas antes de diciembre.</description>
 </item>
-
 <item>
 <title>[IA] Anthropic renombra sus planes Max: el de 200 dólares pasa a llamarse Ultra y pierde el límite de cinco horas</title>
 <link>https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit</link>
@@ -232,7 +280,6 @@
 <category>IA</category>
 <description>El plan Max 5x de 100 dólares se queda como «Max» y el Max 20x de 200 dólares se convierte en «Ultra», sin cambio de precio. Las cuentas Ultra verificadas ya no tienen la ventana de uso de cinco horas, aunque mantienen el tope semanal, y el plan incluye más créditos para la API. Las cuentas nuevas sin verificar conservan un límite temporal.</description>
 </item>
-
 <item>
 <title>[IA] Aramco cierra la compra del 49% de HUMAIN, la empresa saudí de IA del fondo soberano</title>
 <link>https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth</link>
@@ -241,7 +288,6 @@
 <category>IA</category>
 <description>La petrolera aporta unos 2.600 millones de dólares en efectivo este año, además de activos de IA y capacidad de cómputo, a cambio del 49% de HUMAIN; el fondo soberano PIF conserva el 51%. HUMAIN aspira a tener 3 GW de centros de datos de IA en 2030.</description>
 </item>
-
 <item>
 <title>[IA] ChatGPT y Codex compartirán una única bolsa de uso en los planes de pago a partir de diciembre</title>
 <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
@@ -250,7 +296,6 @@
 <category>IA</category>
 <description>OpenAI ha actualizado su centro de ayuda para explicar que Plus, Pro y Business tendrán un solo saldo de tokens para Codex y el modo agente de ChatGPT; las respuestas rápidas no consumirán de él. El consumo y los reinicios se verán en Ajustes, y al agotarlo habrá que esperar, subir de plan o comprar créditos. No ha dado aún la fecha exacta ni el tamaño de cada cuota.</description>
 </item>
-
 <item>
 <title>[IA] Apple confirma que Qwen, de Alibaba, impulsará Apple Intelligence en China desde diciembre</title>
 <link>https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/</link>
@@ -259,7 +304,6 @@
 <category>IA</category>
 <description>Siri, las herramientas de escritura y la inteligencia visual usarán el modelo Qwen en la versión china de Apple Intelligence. La primera beta para desarrolladores llega el 4 de noviembre y el despliegue público será con iOS 27.3 en diciembre, en iPhone 15 Pro y modelos posteriores.</description>
 </item>
-
 <item>
 <title>[IA] DeepSeek publica en abierto Super-agent, un prototipo de agente que resuelve tareas de un repositorio de GitHub</title>
 <link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
@@ -268,7 +312,6 @@
 <category>IA</category>
 <description>El agente, con licencia MIT, vigila un repositorio y abre una sesión independiente por cada petición, que puede acabar en un pull request; varias sesiones trabajan en paralelo. La propia DeepSeek lo presenta como prototipo de investigación y no como producto oficial, pero sumó miles de estrellas en su primer día.</description>
 </item>
-
 <item>
 <title>[IA] Blackstone prevé que Anthropic reciba una calificación de bono basura tras su salida a bolsa, según el FT</title>
 <link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
@@ -277,7 +320,6 @@
 <category>IA</category>
 <description>El Financial Times informa de que Blackstone, que financia parte de los chips de Anthropic, ha dicho a sus inversores que espera una nota en el rango doble B, por debajo del grado de inversión, cuando la empresa empiece a cotizar. Hasta ahora contaba con que lograría grado de inversión. Ni Anthropic ni las agencias de calificación lo han confirmado.</description>
 </item>
-
 <item>
 <title>[IA] Apple vuelve a superar a Nvidia como la empresa más valiosa del mundo por las dudas sobre el gasto en IA</title>
 <link>https://www.business-standard.com/world-news/apple-overtakes-nvidia-to-become-world-s-most-valuable-company-at-5-03-trn-126103100103_1.html</link>
@@ -286,7 +328,6 @@
 <category>IA</category>
 <description>Al cierre del viernes, Apple valía 5,03 billones de dólares y Nvidia 4,93 billones, tras caer esta un 4,2% en la sesión, según Bloomberg. Los inversores buscan refugio en empresas con mucha caja ante las dudas sobre la rentabilidad de la inversión en IA; el Nasdaq 100 ha perdido cerca de un 7% en octubre.</description>
 </item>
-
 <item>
 <title>[IA] OpenAI, Google, Microsoft y Anthropic apoyan una misma señal en robots.txt para no entrenar IA con una web</title>
 <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
@@ -295,7 +336,6 @@
 <category>IA</category>
 <description>Las cuatro empresas respetarán la directiva __usage_ai-training en robots.txt, que permite a cualquier web pedir que su contenido no se use para entrenar modelos. Anthropic ya ha empezado a aplicarla; OpenAI lo hará en los próximos meses, Microsoft a partir de febrero de 2027 y Google durante 2027. La propuesta es un borrador individual ante el IETF, no un estándar oficial, y no afecta a lo que ya se haya usado para entrenar.</description>
 </item>
-
 <item>
 <title>[IA] OpenAI limitará la información sobre armas para menores en ChatGPT y cortará chats con obsesión violenta</title>
 <link>https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/</link>
@@ -304,7 +344,6 @@
 <category>IA</category>
 <description>ChatGPT dejará de dar a los usuarios menores de 18 años indicaciones prácticas sobre armas y sistemas de seguridad, y cerrará de forma automática, para cualquier usuario, las conversaciones que muestren fijación por la violencia. OpenAI también publicará un informe de seguridad comunitaria cada seis meses a partir de principios de 2027.</description>
 </item>
-
 <item>
 <title>[IA] Amazon se asegura hasta 80.000 millones en préstamos de proveedores para pagar hardware de IA</title>
 <link>https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai</link>
@@ -313,7 +352,6 @@
 <category>IA</category>
 <description>Según su informe trimestral, Amazon ha montado una línea de financiación de hasta 80.000 millones de dólares respaldada por el propio hardware que compra para sus centros de datos. Podrá disponer de ella entre 2027 y 2028. Es otra señal de cómo las grandes tecnológicas recurren a la deuda para sostener su gasto en IA, que en el caso de Amazon ya deja su flujo de caja en negativo.</description>
 </item>
-
 <item>
 <title>[IA] Google pone en marcha su primer satélite con chips TPU y ejecuta Gemma en órbita</title>
 <link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
@@ -322,7 +360,6 @@
 <category>IA</category>
 <description>El prototipo del proyecto Suncatcher, lanzado el 1 de octubre en un Falcon 9, ya funciona y ha ejecutado el modelo abierto Gemma, que incluso escribió un pequeño poema desde el espacio. Lleva cuatro TPU, aunque por el límite de energía solo enciende una cada vez durante unos 20 minutos. Google prevé lanzar dos satélites más con chips nuevos en 2027 como paso hacia centros de datos en órbita.</description>
 </item>
-
 <item>
 <title>[IA] Nueva York propone endurecer su ley de seguridad de la IA con auditorías externas y poder para frenar modelos</title>
 <link>https://pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/</link>
@@ -331,7 +368,6 @@
 <category>IA</category>
 <description>Un proyecto de ley presentado por el senador estatal Andrew Gounardes y el asambleísta Jordan Wright amplía la RAISE Act aprobada hace un año. Obligaría a los laboratorios a informar cada trimestre sobre el uso de la IA para investigar en IA, a avisar en 72 horas de saltos de riesgo importantes y a pasar auditorías anuales; además, el fiscal general podría pedir a un juez que limite un modelo en el estado. Por ahora es solo una propuesta.</description>
 </item>
-
 <item>
 <title>[IA] Las grandes tecnológicas devuelven a sus accionistas la menor parte de su caja en 15 años por el gasto en IA</title>
 <link>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/</link>
@@ -340,7 +376,6 @@
 <category>IA</category>
 <description>Un análisis de Reuters calcula que Microsoft, Alphabet, Amazon, Meta y Oracle destinaron a dividendos y recompras solo el 9,3% de su caja operativa en los nueve primeros meses de 2026, frente al 27,4% un año antes. El motivo es la inversión en centros de datos, que entre las cinco ronda los 557.000 millones de dólares en ese periodo.</description>
 </item>
-
 <item>
 <title>[IA] Wikimedia pide en el juicio del New York Times contra OpenAI que entrenar con textos sea uso legítimo, pero no copiarlos en las respuestas</title>
 <link>https://wikimediafoundation.org/news/2026/10/30/wikimedia-foundation-amicus-brief-new-york-times-v-open-ai-case/</link>
@@ -349,7 +384,6 @@
 <category>IA</category>
 <description>La fundación que gestiona Wikipedia ha presentado un escrito como parte interesada en el caso que se juzga en Nueva York. Defiende que entrenar modelos con obras protegidas puede considerarse uso legítimo (fair use), pero sostiene que los sistemas que recuperan y devuelven esas obras al usuario no deberían quedar cubiertos. Busca una posición intermedia entre las dos partes.</description>
 </item>
-
 <item>
 <title>[IA] Una versión troyanizada de la extensión de Claude Code en el marketplace de Cursor instaló puertas traseras SSH</title>
 <link>https://cursor.com/blog/claude-code-extension-security-notice</link>
@@ -357,60 +391,6 @@
 <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La versión 2.1.313 de la extensión de Claude Code que se distribuyó en el marketplace de Cursor el 29 de octubre era maliciosa: añadía una clave SSH del atacante y abría un túnel inverso en el equipo. Estuvo disponible unas once horas y Cursor calcula que pudo afectar a hasta 5.000 usuarios. Anthropic ha publicado la versión limpia 2.1.314 y quien la instalara debería revisar sus claves SSH.</description>
-</item>
-
-<item>
-<title>[IA] Rumor: Nvidia estudia avalar miles de millones en deuda de Nscale para el centro de datos de Anthropic</title>
-<link>https://www.marketscreener.com/news/nvidia-may-guarantee-multibillion-dollar-loans-to-nscale-for-anthropic-project-the-information-ce785fdad081f32d</link>
-<guid isPermaLink="false">2026-10-30-rumor-nvidia-avala-nscale-anthropic</guid>
-<pubDate>Fri, 30 Oct 2026 06:12:00 +0100</pubDate>
-<category>IA</category>
-<description>The Information afirma, citando fuentes anónimas, que Nvidia negocia garantizar varios miles de millones en préstamos de Nscale para construir la infraestructura eléctrica y los edificios de sus centros de datos en Virginia Occidental, que usará Anthropic. Anthropic se comprometió en agosto a gastar 45.000 millones en capacidad de Nscale. Es un rumor: no hay nada firmado y ninguna de las empresas lo ha confirmado.</description>
-</item>
-
-<item>
-<title>[IA] DeepSeek cierra una ronda de casi 16.000 millones de dólares, según The Information</title>
-<link>https://www.theinformation.com/briefings/deepseek-raises-nearly-16-billion-second-funding-round</link>
-<guid isPermaLink="false">2026-10-30-deepseek-ronda-16000-millones</guid>
-<pubDate>Fri, 30 Oct 2026 06:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El laboratorio chino habría reunido 106.000 millones de yuanes en su segunda ronda de financiación, más del doble de los 50.000 millones que buscaba al principio, según tres personas al tanto citadas por The Information. Otros medios habían hablado antes de unos 100.000 millones de yuanes con CATL y Tencent entre los inversores. DeepSeek no ha confirmado la cifra.</description>
-</item>
-
-<item>
-<title>[IA] AWS crece un 39%, su mayor ritmo en casi cinco años, pero la inversión en IA hunde el flujo de caja de Amazon</title>
-<link>https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx</link>
-<guid isPermaLink="false">2026-10-29-amazon-resultados-aws</guid>
-<pubDate>Thu, 29 Oct 2026 21:05:00 +0100</pubDate>
-<category>IA</category>
-<description>Amazon vendió 201.900 millones de dólares en el tercer trimestre, un 12% más, y su nube AWS ingresó 46.000 millones, un 39% más que hace un año. El beneficio operativo llegó a 28.100 millones, pero el flujo de caja libre de los últimos doce meses quedó en 42.400 millones negativos por el gasto en centros de datos de IA. La empresa mantiene su previsión de invertir unos 220.000 millones en 2026 y las acciones cayeron alrededor de un 6% tras el cierre.</description>
-</item>
-
-<item>
-<title>[IA] OpenAI renuncia a recortar el plan Pro de 200 dólares y duplica el uso de Codex y ChatGPT Work</title>
-<link>https://kingy.ai/blog/openai-cancels-chatgpt-pro-usage-cut-doubles-allowances/</link>
-<guid isPermaLink="false">2026-10-29-openai-duplica-limites-pro</guid>
-<pubDate>Thu, 29 Oct 2026 19:38:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha dado marcha atrás en la reducción de uso que iba a aplicar desde el 30 de octubre a los suscriptores de Pro de 200 dólares. Además, los planes Pro de 100 y 500 dólares pasan a tener el doble de cuota para Codex y ChatGPT Work, y el cambio se aplica a los clientes actuales sin esperar a la renovación. El plan Plus se queda igual.</description>
-</item>
-
-<item>
-<title>[IA] CrowdStrike detecta a hackers chinos usando agentes de IA con DeepSeek contra más de 200 organizaciones</title>
-<link>https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/</link>
-<guid isPermaLink="false">2026-10-29-crowdstrike-vapor-panda-artex</guid>
-<pubDate>Thu, 29 Oct 2026 19:34:00 +0100</pubDate>
-<category>IA</category>
-<description>Según CrowdStrike, el grupo de espionaje VAPOR PANDA, vinculado a China, empleó el marco de agentes ARTEX, apoyado sobre todo en el modelo de DeepSeek, para atacar a más de 200 organizaciones de al menos 14 países en solo 11 días desde el 17 de octubre. La firma confirma que los atacantes llegaron a entrar en nueve de ellas, donde instalaron una puerta trasera. Es una campaña distinta de la que Microsoft atribuyó a otro grupo con la misma herramienta la semana pasada.</description>
-</item>
-
-<item>
-<title>[IA] Mistral publica los pesos de Large 4, su modelo de un billón de parámetros pensado para programación y ciberseguridad</title>
-<link>https://mistral.ai/news/mistral-large-4-oss/</link>
-<guid isPermaLink="false">2026-10-29-mistral-large-4-pesos-abiertos</guid>
-<pubDate>Thu, 29 Oct 2026 15:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La startup francesa ha liberado los pesos de Mistral Large 4, apodado «Le Chonk», que había presentado en versión preliminar a principios de mes; ya se puede descargar de Hugging Face o usar por API a 0,70 dólares por millón de tokens de entrada. Mistral asegura que rinde como el chino GLM-5.3 en tareas de programación con agentes gastando un 47% menos de tokens, aunque son cifras de la propia empresa. La licencia es abierta, pero quien lo venda como servicio necesita un permiso comercial aparte.</description>
 </item>
 
 </channel>
