@@ -6,8 +6,56 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 06 Nov 2026 07:58:05 +0100</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 07:53:52 +0100</lastBuildDate>
 
+<item>
+<title>[IA] El Departamento de Justicia de EE. UU. crea un grupo especial contra el mal uso de la IA avanzada</title>
+<link>https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/</link>
+<guid isPermaLink="false">2026-11-06-doj-super-intelligence-task-force</guid>
+<pubDate>Fri, 06 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El fiscal general Todd Blanche ha anunciado la Super Intelligence Task Force, que perseguirá a Estados extranjeros, redes criminales y empresas que usen la IA avanzada de forma indebida. Absorbe la sección de litigios sobre IA que ya existía y el departamento pide a las compañías que mantengan salvaguardas contra el abuso de sus modelos.</description>
+</item>
+<item>
+<title>[IA] Mistral convierte Studio en una plataforma de agentes gestionados para empresas</title>
+<link>https://x.com/MistralAI/status/2118370229466153299</link>
+<guid isPermaLink="false">2026-11-06-mistral-studio-agentes-gestionados</guid>
+<pubDate>Fri, 06 Nov 2026 15:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La empresa francesa abre en vista previa pública los agentes gestionados de Mistral Studio, con un SDK de agentes, un editor visual de flujos de trabajo y una herramienta de línea de comandos para apps. Los agentes se conectan a los sistemas de la empresa y se pueden supervisar; las versiones para nube privada e instalación local llegarán a finales de noviembre.</description>
+</item>
+<item>
+<title>[IA] Baidu publica en abierto ERNIE 5.5 Flash Base, un modelo de 280.000 millones de parámetros</title>
+<link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
+<guid isPermaLink="false">2026-11-06-baidu-ernie-5-5-flash-base</guid>
+<pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Baidu ha liberado los pesos de ERNIE 5.5 Flash Base, un modelo de mezcla de expertos con 280.000 millones de parámetros y unos 14.000 millones activos por token. Es la versión base, sin ajuste para seguir instrucciones, para que los desarrolladores la adapten a sus necesidades.</description>
+</item>
+<item>
+<title>[IA] Perplexity presenta Teammates, agentes que trabajan de forma continua en tareas de empresa</title>
+<link>https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/</link>
+<guid isPermaLink="false">2026-11-06-perplexity-teammates</guid>
+<pubDate>Fri, 06 Nov 2026 01:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Perplexity estrena Teammates, agentes siempre activos que pueden llevar varios encargos a la vez, vigilar cambios y colaborar entre sí usando los proyectos y permisos de Perplexity Computer. El usuario puede revisar lo que hacen y reconducirlos. De momento solo están en la web para el plan Max, de 200 dólares al mes.</description>
+</item>
+<item>
+<title>[IA] Airbnb lanzará un agente de viajes con IA en el primer semestre de 2027</title>
+<link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+<guid isPermaLink="false">2026-11-05-airbnb-agente-viajes-ia-2027</guid>
+<pubDate>Thu, 05 Nov 2026 23:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Brian Chesky ha anunciado al presentar resultados que Airbnb tendrá un agente de IA que, en lugar de limitarse a responder por chat, montará mapas, fotos y comparativas a partir de lo que pida el usuario. También servirá para cambiar reservas o resolver problemas durante la estancia.</description>
+</item>
+<item>
+<title>[IA] METR calcula que Anthropic avanza en IA al doble de ritmo que antes, pero tacha casi todas sus pruebas</title>
+<link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
+<guid isPermaLink="false">2026-11-05-metr-anthropic-ritmo-doble</guid>
+<pubDate>Thu, 05 Nov 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El evaluador independiente METR ha publicado un informe tras revisar datos internos de Anthropic entre agosto y finales de octubre, y estima que la compañía progresa aproximadamente el doble de rápido que antes, en buena parte porque sus propias herramientas de IA ayudan a programar y analizar experimentos. La mayor parte de las pruebas que METR consideraba más reveladoras aparecen censuradas; Anthropic lo justifica para no dar pistas a la competencia.</description>
+</item>
 <item>
 <title>[IA] Google invertirá 17.000 millones en su primer centro de datos en Wyoming, alimentado con pilas de combustible y captura de carbono</title>
 <link>https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html</link>
@@ -33,12 +81,28 @@
 <description>Anthropic ha abierto en beta una sección de finanzas personales en Claude que se conecta a bancos y tarjetas a través de Plaid para explicar gastos, recibos y saldos. El acceso es solo de lectura: Claude ve saldos, límites y hasta dos años de movimientos, pero no puede mover ni invertir dinero, y esas conversaciones no se usan para entrenar. De momento llega poco a poco a los planes Pro, Max y Ultra en Estados Unidos.</description>
 </item>
 <item>
+<title>[IA] Thinking Machines lanza Inkling 2 Small, un modelo de 594.000 millones de parámetros pensado para agentes</title>
+<link>https://thinkingmachines.ai/news/inkling-2-small/</link>
+<guid isPermaLink="false">2026-11-05-thinking-machines-inkling-2-small</guid>
+<pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El laboratorio de Mira Murati presenta Inkling 2 Small, un modelo de mezcla de expertos con 594.000 millones de parámetros, de los que solo unos 17.000 millones se activan en cada petición, orientado a programación, tareas visuales y trabajo autónomo. Por ahora solo se puede usar a través de su plataforma Tinker; los pesos descargables llegarán cuando terminen más pruebas de seguridad.</description>
+</item>
+<item>
 <title>[IA] OpenAI presenta GPT-6 Cyber, un modelo para investigar vulnerabilidades reservado a equipos de seguridad aprobados</title>
 <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
 <guid isPermaLink="false">2026-11-05-openai-gpt-6-cyber</guid>
 <pubDate>Thu, 05 Nov 2026 18:00:00 +0100</pubDate>
 <category>IA</category>
 <description>OpenAI ha lanzado GPT-6 Cyber, una variante de GPT-6 Astra para buscar y explotar fallos de software que solo podrán usar los miembros de su programa Daybreak Red. Según la empresa, en sus pruebas encontró 81 vulnerabilidades graves desconocidas en Firefox y creó exploits funcionales para 948 fallos del núcleo de Linux, ya comunicados a sus responsables. OpenAI lo clasifica con riesgo «crítico» en su marco de preparación y dice que casi nunca se sale del objetivo autorizado.</description>
+</item>
+<item>
+<title>[IA] Google lanza Gemini Omni 1.2 Flash: vídeos de hasta 15 segundos y un 30% más baratos</title>
+<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+<guid isPermaLink="false">2026-11-05-gemini-omni-1-2-flash</guid>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La nueva versión del modelo de vídeo de Google alarga los clips de 10 a 15 segundos y permite retocarlos con instrucciones sucesivas. También mejora la coherencia de personajes e imágenes de referencia y rebaja el precio un 30%, hasta 0,07 dólares por segundo de vídeo en 720p.</description>
 </item>
 <item>
 <title>[IA] Los chips de IA se desploman en bolsa por el miedo a una regulación más dura tras las elecciones en EE. UU.</title>
@@ -311,86 +375,6 @@
 <pubDate>Sat, 31 Oct 2026 10:32:00 +0100</pubDate>
 <category>IA</category>
 <description>El agente, con licencia MIT, vigila un repositorio y abre una sesión independiente por cada petición, que puede acabar en un pull request; varias sesiones trabajan en paralelo. La propia DeepSeek lo presenta como prototipo de investigación y no como producto oficial, pero sumó miles de estrellas en su primer día.</description>
-</item>
-<item>
-<title>[IA] Blackstone prevé que Anthropic reciba una calificación de bono basura tras su salida a bolsa, según el FT</title>
-<link>https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</link>
-<guid isPermaLink="false">2026-10-30-anthropic-calificacion-basura-blackstone</guid>
-<pubDate>Fri, 30 Oct 2026 22:52:00 +0100</pubDate>
-<category>IA</category>
-<description>El Financial Times informa de que Blackstone, que financia parte de los chips de Anthropic, ha dicho a sus inversores que espera una nota en el rango doble B, por debajo del grado de inversión, cuando la empresa empiece a cotizar. Hasta ahora contaba con que lograría grado de inversión. Ni Anthropic ni las agencias de calificación lo han confirmado.</description>
-</item>
-<item>
-<title>[IA] Apple vuelve a superar a Nvidia como la empresa más valiosa del mundo por las dudas sobre el gasto en IA</title>
-<link>https://www.business-standard.com/world-news/apple-overtakes-nvidia-to-become-world-s-most-valuable-company-at-5-03-trn-126103100103_1.html</link>
-<guid isPermaLink="false">2026-10-30-apple-supera-nvidia-valor</guid>
-<pubDate>Fri, 30 Oct 2026 21:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Al cierre del viernes, Apple valía 5,03 billones de dólares y Nvidia 4,93 billones, tras caer esta un 4,2% en la sesión, según Bloomberg. Los inversores buscan refugio en empresas con mucha caja ante las dudas sobre la rentabilidad de la inversión en IA; el Nasdaq 100 ha perdido cerca de un 7% en octubre.</description>
-</item>
-<item>
-<title>[IA] OpenAI, Google, Microsoft y Anthropic apoyan una misma señal en robots.txt para no entrenar IA con una web</title>
-<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
-<guid isPermaLink="false">2026-10-30-robots-txt-usage-ai-training</guid>
-<pubDate>Fri, 30 Oct 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Las cuatro empresas respetarán la directiva __usage_ai-training en robots.txt, que permite a cualquier web pedir que su contenido no se use para entrenar modelos. Anthropic ya ha empezado a aplicarla; OpenAI lo hará en los próximos meses, Microsoft a partir de febrero de 2027 y Google durante 2027. La propuesta es un borrador individual ante el IETF, no un estándar oficial, y no afecta a lo que ya se haya usado para entrenar.</description>
-</item>
-<item>
-<title>[IA] OpenAI limitará la información sobre armas para menores en ChatGPT y cortará chats con obsesión violenta</title>
-<link>https://www.reuters.com/business/media-telecom/openai-limit-weapons-information-teens-chatgpt-violence-prevention-push-2026-10-30/</link>
-<guid isPermaLink="false">2026-10-30-openai-menores-armas-chatgpt</guid>
-<pubDate>Fri, 30 Oct 2026 18:30:00 +0100</pubDate>
-<category>IA</category>
-<description>ChatGPT dejará de dar a los usuarios menores de 18 años indicaciones prácticas sobre armas y sistemas de seguridad, y cerrará de forma automática, para cualquier usuario, las conversaciones que muestren fijación por la violencia. OpenAI también publicará un informe de seguridad comunitaria cada seis meses a partir de principios de 2027.</description>
-</item>
-<item>
-<title>[IA] Amazon se asegura hasta 80.000 millones en préstamos de proveedores para pagar hardware de IA</title>
-<link>https://www.bloomberg.com/news/articles/2026-10-30/amazon-taps-80-billion-supplier-loan-facility-to-help-fund-ai</link>
-<guid isPermaLink="false">2026-10-30-amazon-prestamo-proveedores-80000</guid>
-<pubDate>Fri, 30 Oct 2026 18:24:00 +0100</pubDate>
-<category>IA</category>
-<description>Según su informe trimestral, Amazon ha montado una línea de financiación de hasta 80.000 millones de dólares respaldada por el propio hardware que compra para sus centros de datos. Podrá disponer de ella entre 2027 y 2028. Es otra señal de cómo las grandes tecnológicas recurren a la deuda para sostener su gasto en IA, que en el caso de Amazon ya deja su flujo de caja en negativo.</description>
-</item>
-<item>
-<title>[IA] Google pone en marcha su primer satélite con chips TPU y ejecuta Gemma en órbita</title>
-<link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/</link>
-<guid isPermaLink="false">2026-10-30-google-suncatcher-satelite-online</guid>
-<pubDate>Fri, 30 Oct 2026 17:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El prototipo del proyecto Suncatcher, lanzado el 1 de octubre en un Falcon 9, ya funciona y ha ejecutado el modelo abierto Gemma, que incluso escribió un pequeño poema desde el espacio. Lleva cuatro TPU, aunque por el límite de energía solo enciende una cada vez durante unos 20 minutos. Google prevé lanzar dos satélites más con chips nuevos en 2027 como paso hacia centros de datos en órbita.</description>
-</item>
-<item>
-<title>[IA] Nueva York propone endurecer su ley de seguridad de la IA con auditorías externas y poder para frenar modelos</title>
-<link>https://pymnts.com/news/artificial-intelligence/2026/new-york-bill-would-raise-ai-safety-regulations/</link>
-<guid isPermaLink="false">2026-10-30-nueva-york-ampliacion-raise-act</guid>
-<pubDate>Fri, 30 Oct 2026 16:43:00 +0100</pubDate>
-<category>IA</category>
-<description>Un proyecto de ley presentado por el senador estatal Andrew Gounardes y el asambleísta Jordan Wright amplía la RAISE Act aprobada hace un año. Obligaría a los laboratorios a informar cada trimestre sobre el uso de la IA para investigar en IA, a avisar en 72 horas de saltos de riesgo importantes y a pasar auditorías anuales; además, el fiscal general podría pedir a un juez que limite un modelo en el estado. Por ahora es solo una propuesta.</description>
-</item>
-<item>
-<title>[IA] Las grandes tecnológicas devuelven a sus accionistas la menor parte de su caja en 15 años por el gasto en IA</title>
-<link>https://www.reuters.com/legal/transactional/big-tech-returns-smallest-share-cash-shareholders-15-years-given-ai-spending-2026-10-30/</link>
-<guid isPermaLink="false">2026-10-30-big-tech-recompras-minimo-15-anos</guid>
-<pubDate>Fri, 30 Oct 2026 16:35:00 +0100</pubDate>
-<category>IA</category>
-<description>Un análisis de Reuters calcula que Microsoft, Alphabet, Amazon, Meta y Oracle destinaron a dividendos y recompras solo el 9,3% de su caja operativa en los nueve primeros meses de 2026, frente al 27,4% un año antes. El motivo es la inversión en centros de datos, que entre las cinco ronda los 557.000 millones de dólares en ese periodo.</description>
-</item>
-<item>
-<title>[IA] Wikimedia pide en el juicio del New York Times contra OpenAI que entrenar con textos sea uso legítimo, pero no copiarlos en las respuestas</title>
-<link>https://wikimediafoundation.org/news/2026/10/30/wikimedia-foundation-amicus-brief-new-york-times-v-open-ai-case/</link>
-<guid isPermaLink="false">2026-10-30-wikimedia-amicus-nyt-openai</guid>
-<pubDate>Fri, 30 Oct 2026 14:40:00 +0100</pubDate>
-<category>IA</category>
-<description>La fundación que gestiona Wikipedia ha presentado un escrito como parte interesada en el caso que se juzga en Nueva York. Defiende que entrenar modelos con obras protegidas puede considerarse uso legítimo (fair use), pero sostiene que los sistemas que recuperan y devuelven esas obras al usuario no deberían quedar cubiertos. Busca una posición intermedia entre las dos partes.</description>
-</item>
-<item>
-<title>[IA] Una versión troyanizada de la extensión de Claude Code en el marketplace de Cursor instaló puertas traseras SSH</title>
-<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
-<guid isPermaLink="false">2026-10-30-claude-code-extension-cursor-troyano</guid>
-<pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La versión 2.1.313 de la extensión de Claude Code que se distribuyó en el marketplace de Cursor el 29 de octubre era maliciosa: añadía una clave SSH del atacante y abría un túnel inverso en el equipo. Estuvo disponible unas once horas y Cursor calcula que pudo afectar a hasta 5.000 usuarios. Anthropic ha publicado la versión limpia 2.1.314 y quien la instalara debería revisar sus claves SSH.</description>
 </item>
 
 </channel>
