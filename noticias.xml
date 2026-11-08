@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 07 Nov 2026 07:53:52 +0100</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 07:55:00 +0100</lastBuildDate>
 
+<item>
+<title>[IA] EE. UU. dio licencias para chips H200 de Nvidia a empresas chinas con oficinas vacías, según The New York Times</title>
+<link>https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</link>
+<guid isPermaLink="false">2026-11-07-nyt-h200-empresas-oficinas-vacias</guid>
+<pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Una investigación de The New York Times revela que varias de las empresas chinas a las que el Departamento de Comercio autorizó a recibir chips H200 tienen oficinas sin actividad o vínculos con compañías vetadas por Washington, como New Matrix en Pekín. El reportaje ha llevado a legisladores de ambos partidos a pedir que se revise cómo se conceden estas licencias.</description>
+</item>
+<item>
+<title>[IA] Microchip avisa de que los clientes de IA están acaparando la capacidad de encapsulado y prueba de chips</title>
+<link>https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/</link>
+<guid isPermaLink="false">2026-11-07-microchip-ia-acapara-encapsulado</guid>
+<pubDate>Sat, 07 Nov 2026 10:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El consejero delegado de Microchip, Steve Sanghi, explicó que la demanda de IA está ocupando las fábricas externas de montaje y prueba de chips, lo que retrasa los pedidos de otros clientes y alarga mucho los plazos de entrega. Las acciones de la empresa cayeron en torno a un 10% tras sus comentarios.</description>
+</item>
+<item>
+<title>[IA] Los dueños de la música de Elvis y la editorial de Eminem demandan a Suno por clonar voces con IA</title>
+<link>https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/</link>
+<guid isPermaLink="false">2026-11-06-suno-demanda-elvis-eminem</guid>
+<pubDate>Fri, 06 Nov 2026 21:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Los titulares de los derechos de Elvis Presley y la editorial musical de Eminem han presentado demandas en un tribunal federal de California contra el generador de canciones Suno. Le acusan de imitar las voces y las obras de los artistas sin permiso; la demanda de Presley se apoya además en la ley ELVIS de Tennessee, que protege la voz frente a la clonación.</description>
+</item>
+<item>
+<title>[IA] Google DeepMind usa agentes de IA para encontrar dos debilidades en el cifrado RSA de 1024 bits</title>
+<link>https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible/</link>
+<guid isPermaLink="false">2026-11-06-deepmind-agentes-rsa-1024</guid>
+<pubDate>Fri, 06 Nov 2026 19:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Trabajando con los criptógrafos Nadia Heninger y Emmanuel Thomé, los agentes de DeepMind hallaron dos formas de atacar con mucho menos coste el RSA de 1024 bits, un estándar antiguo que todavía sigue en uso en algunos sistemas. Según la compañía, el RSA de 2048 bits no se ve afectado, y el trabajo sirve para mostrar cómo la IA puede acelerar las pruebas de resistencia de la criptografía.</description>
+</item>
 <item>
 <title>[IA] El Departamento de Justicia de EE. UU. crea un grupo especial contra el mal uso de la IA avanzada</title>
 <link>https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/</link>
@@ -17,12 +49,36 @@
 <description>El fiscal general Todd Blanche ha anunciado la Super Intelligence Task Force, que perseguirá a Estados extranjeros, redes criminales y empresas que usen la IA avanzada de forma indebida. Absorbe la sección de litigios sobre IA que ya existía y el departamento pide a las compañías que mantengan salvaguardas contra el abuso de sus modelos.</description>
 </item>
 <item>
+<title>[IA] OpenAI seguirá construyendo centros de datos en EE. UU. pese al rechazo en las elecciones de mitad de mandato</title>
+<link>https://www.reuters.com/business/retail-consumer/openai-press-ahead-data-center-expansion-despite-midterm-sweep-cfo-tells-cnbc-2026-11-06/</link>
+<guid isPermaLink="false">2026-11-06-openai-friar-centros-datos-midterms</guid>
+<pubDate>Fri, 06 Nov 2026 17:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La directora financiera de OpenAI, Sarah Friar, dijo en CNBC que la empresa mantendrá su plan de centros de datos en EE. UU. aunque los votantes hayan respaldado límites a estas instalaciones en muchas consultas locales. También negó que OpenAI busque apoyo del Gobierno para financiar su infraestructura y aseguró que dejará de firmar acuerdos de confidencialidad con autoridades locales al elegir ubicaciones.</description>
+</item>
+<item>
 <title>[IA] Mistral convierte Studio en una plataforma de agentes gestionados para empresas</title>
 <link>https://x.com/MistralAI/status/2118370229466153299</link>
 <guid isPermaLink="false">2026-11-06-mistral-studio-agentes-gestionados</guid>
 <pubDate>Fri, 06 Nov 2026 15:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La empresa francesa abre en vista previa pública los agentes gestionados de Mistral Studio, con un SDK de agentes, un editor visual de flujos de trabajo y una herramienta de línea de comandos para apps. Los agentes se conectan a los sistemas de la empresa y se pueden supervisar; las versiones para nube privada e instalación local llegarán a finales de noviembre.</description>
+</item>
+<item>
+<title>[IA] Más de un centenar de activistas irrumpen en la obra de un centro de datos de Microsoft en Ámsterdam</title>
+<link>https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam</link>
+<guid isPermaLink="false">2026-11-06-microsoft-amsterdam-protesta-centro-datos</guid>
+<pubDate>Fri, 06 Nov 2026 14:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Los manifestantes entraron en el solar donde Microsoft construye un centro de datos en la zona de Sloterdijk, dentro de una jornada de protestas coordinadas en varios países europeos contra el consumo de agua y energía de estas instalaciones. La policía neerlandesa detuvo a numerosos participantes; las cifras varían según la fuente.</description>
+</item>
+<item>
+<title>[IA] Northampton (Massachusetts) aprueba por unanimidad una moratoria de un año a los centros de datos de IA</title>
+<link>https://gazettenet.com/2026/11/06/northampton-city-council-unanimously-approves-yearlong-moratorium-on-ai-data-centers/</link>
+<guid isPermaLink="false">2026-11-06-northampton-moratoria-centros-datos</guid>
+<pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El consejo municipal votó sin ningún voto en contra frenar durante un año los nuevos centros de datos de IA y de servidores, y rechazó una excepción para instalaciones pequeñas. Es una más de las limitaciones locales que se están multiplicando en EE. UU. tras las elecciones de esta semana.</description>
 </item>
 <item>
 <title>[IA] Baidu publica en abierto ERNIE 5.5 Flash Base, un modelo de 280.000 millones de parámetros</title>
@@ -351,30 +407,6 @@
 <pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La petrolera aporta unos 2.600 millones de dólares en efectivo este año, además de activos de IA y capacidad de cómputo, a cambio del 49% de HUMAIN; el fondo soberano PIF conserva el 51%. HUMAIN aspira a tener 3 GW de centros de datos de IA en 2030.</description>
-</item>
-<item>
-<title>[IA] ChatGPT y Codex compartirán una única bolsa de uso en los planes de pago a partir de diciembre</title>
-<link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
-<guid isPermaLink="false">2026-10-31-chatgpt-codex-bolsa-comun</guid>
-<pubDate>Sat, 31 Oct 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha actualizado su centro de ayuda para explicar que Plus, Pro y Business tendrán un solo saldo de tokens para Codex y el modo agente de ChatGPT; las respuestas rápidas no consumirán de él. El consumo y los reinicios se verán en Ajustes, y al agotarlo habrá que esperar, subir de plan o comprar créditos. No ha dado aún la fecha exacta ni el tamaño de cada cuota.</description>
-</item>
-<item>
-<title>[IA] Apple confirma que Qwen, de Alibaba, impulsará Apple Intelligence en China desde diciembre</title>
-<link>https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/</link>
-<guid isPermaLink="false">2026-10-31-apple-intelligence-china-qwen</guid>
-<pubDate>Sat, 31 Oct 2026 11:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Siri, las herramientas de escritura y la inteligencia visual usarán el modelo Qwen en la versión china de Apple Intelligence. La primera beta para desarrolladores llega el 4 de noviembre y el despliegue público será con iOS 27.3 en diciembre, en iPhone 15 Pro y modelos posteriores.</description>
-</item>
-<item>
-<title>[IA] DeepSeek publica en abierto Super-agent, un prototipo de agente que resuelve tareas de un repositorio de GitHub</title>
-<link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
-<guid isPermaLink="false">2026-10-31-deepseek-super-agent</guid>
-<pubDate>Sat, 31 Oct 2026 10:32:00 +0100</pubDate>
-<category>IA</category>
-<description>El agente, con licencia MIT, vigila un repositorio y abre una sesión independiente por cada petición, que puede acabar en un pull request; varias sesiones trabajan en paralelo. La propia DeepSeek lo presenta como prototipo de investigación y no como producto oficial, pero sumó miles de estrellas en su primer día.</description>
 </item>
 
 </channel>
