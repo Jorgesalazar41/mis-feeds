@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 08 Nov 2026 07:55:00 +0100</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 07:51:04 +0100</lastBuildDate>
 
+<item>
+<title>[IA] La junta de Nvidia abre una investigación independiente tras admitir Jensen Huang una relación extramatrimonial</title>
+<link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+<guid isPermaLink="false">2026-11-08-nvidia-junta-investiga-huang</guid>
+<pubDate>Sun, 08 Nov 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Jensen Huang reconoció en una carta a la plantilla que fue infiel a su mujer, después de que se publicara que la inteligencia de EE. UU. cree que tuvo una relación con una exdirectiva de Megaspeed presuntamente captada por el espionaje chino; esa parte sigue sin confirmarse. Un comité de consejeros independientes, con abogados externos, revisará el caso, y la junta dice que no tiene motivos para pensar que se hayan filtrado secretos de Nvidia ni de seguridad nacional.</description>
+</item>
+<item>
+<title>[IA] Anthropic, a punto de salir a bolsa, sigue adelante con la presentación a inversores aunque tenga que aceptar una valoración menor, según el FT</title>
+<link>https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road</link>
+<guid isPermaLink="false">2026-11-08-anthropic-roadshow-ipo-ft</guid>
+<pubDate>Sun, 08 Nov 2026 17:50:00 +0100</pubDate>
+<category>IA</category>
+<description>Según el Financial Times, Anthropic mantiene esta semana el inicio de su ronda de presentaciones a inversores pese a la caída de las tecnológicas, con la idea de debutar antes de Acción de Gracias y captar entre 80.000 y 100.000 millones de dólares. La horquilla de valoración que se maneja va de 1,25 a 1,75 billones, lejos de los 2 billones que se esperaban hace un mes.</description>
+</item>
+<item>
+<title>[IA] Anthropic se asegura generadores de gas por 3.400 millones de dólares para alimentar sus centros de datos, según el FT</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says</link>
+<guid isPermaLink="false">2026-11-08-anthropic-generadores-gas-3400-millones</guid>
+<pubDate>Sun, 08 Nov 2026 13:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic ha cerrado un acuerdo de unos 3.400 millones de dólares para hacerse con 1,7 GW de generadores de gas de Caterpillar, aprovechando el turno de entrega que tenía reservado OnePWR, según adelantó el Financial Times. La compra refleja la carrera de las empresas de IA por conseguir electricidad propia en sus centros de datos sin esperar a la red.</description>
+</item>
+<item>
+<title>[IA] Amazon forma un nuevo equipo de robots domésticos en torno a Sprout, el humanoide de Fauna</title>
+<link>https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html</link>
+<guid isPermaLink="false">2026-11-08-amazon-robot-domestico-sprout</guid>
+<pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Cinco años después de Astro, que apenas llegó a unos miles de hogares, Amazon está contratando para un grupo de robótica personal construido alrededor de Sprout, el pequeño humanoide de Fauna Robotics, empresa que compró en marzo. La compañía no ha dado detalles del producto ni fechas, según CNBC.</description>
+</item>
+<item>
+<title>[IA] Rumor: Apple quiere que Siri funcione como un agente de IA autónomo a partir de 2027</title>
+<link>https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/</link>
+<guid isPermaLink="false">2026-11-08-rumor-siri-agente-2027</guid>
+<pubDate>Sun, 08 Nov 2026 11:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Es un rumor: según Mark Gurman, de Bloomberg, John Ternus impulsa dentro de Apple una Siri capaz de encargarse de tareas completas por su cuenta, que podría llegar ya el año que viene. Apple no ha confirmado nada.</description>
+</item>
 <item>
 <title>[IA] EE. UU. dio licencias para chips H200 de Nvidia a empresas chinas con oficinas vacías, según The New York Times</title>
 <link>https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</link>
@@ -383,30 +423,6 @@
 <pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La empresa china de reparto Meituan ha lanzado en versión preliminar LongCat-2.5, un modelo que entiende imágenes y texto de forma nativa, con unos 48.000 millones de parámetros activos y un contexto de un millón de tokens. Está pensado para tareas largas de programación y manejo de navegadores, hojas de cálculo y otras aplicaciones. Ya se puede usar por chat y API, y la compañía prevé publicar los pesos.</description>
-</item>
-<item>
-<title>[IA] Corea del Sur casi duplica su gasto en IA en un presupuesto récord para 2027</title>
-<link>https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html</link>
-<guid isPermaLink="false">2026-11-02-corea-presupuesto-ia-2027</guid>
-<pubDate>Mon, 02 Nov 2026 02:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El presidente Lee Jae-myung ha defendido ante el Parlamento unas cuentas de 820,9 billones de wones para 2027, un 12,8% más que este año. La partida para IA, chips, IA física y centros de datos sube hasta unos 21,3 billones de wones (cerca de 16.000 millones de dólares), casi el doble que en 2026, con el objetivo de crear un modelo soberano puntero. La Asamblea Nacional debe aprobarlas antes de diciembre.</description>
-</item>
-<item>
-<title>[IA] Anthropic renombra sus planes Max: el de 200 dólares pasa a llamarse Ultra y pierde el límite de cinco horas</title>
-<link>https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit</link>
-<guid isPermaLink="false">2026-11-01-claude-ultra-max-renombrados</guid>
-<pubDate>Sun, 01 Nov 2026 14:54:00 +0100</pubDate>
-<category>IA</category>
-<description>El plan Max 5x de 100 dólares se queda como «Max» y el Max 20x de 200 dólares se convierte en «Ultra», sin cambio de precio. Las cuentas Ultra verificadas ya no tienen la ventana de uso de cinco horas, aunque mantienen el tope semanal, y el plan incluye más créditos para la API. Las cuentas nuevas sin verificar conservan un límite temporal.</description>
-</item>
-<item>
-<title>[IA] Aramco cierra la compra del 49% de HUMAIN, la empresa saudí de IA del fondo soberano</title>
-<link>https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth</link>
-<guid isPermaLink="false">2026-11-01-aramco-humain-49</guid>
-<pubDate>Sun, 01 Nov 2026 09:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La petrolera aporta unos 2.600 millones de dólares en efectivo este año, además de activos de IA y capacidad de cómputo, a cambio del 49% de HUMAIN; el fondo soberano PIF conserva el 51%. HUMAIN aspira a tener 3 GW de centros de datos de IA en 2030.</description>
 </item>
 
 </channel>
