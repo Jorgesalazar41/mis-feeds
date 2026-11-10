@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 09 Nov 2026 07:51:04 +0100</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:56:32 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Anthropic retira el rango de precios de su salida a bolsa que había enviado a los bancos, según Reuters</title>
+<link>https://cyprus-mail.com/2026/11/10/anthropic-retracts-70-billion-ipo-details</link>
+<guid isPermaLink="false">2026-11-10-anthropic-retira-rango-precio-ipo</guid>
+<pubDate>Tue, 10 Nov 2026 07:12:00 +0100</pubDate>
+<category>IA</category>
+<description>Un documento enviado a los bancos colocadores fijaba entre 70 y 80 dólares el precio de unos 867 millones de acciones, lo que habría supuesto captar hasta 69.300 millones, pero Anthropic avisó después de que esos datos eran incorrectos y que mandaría otros. La copia retirada incluía además 26.000 millones en colocaciones privadas de Alphabet, Nvidia, AMD, Microsoft y TSMC, entre otros. Reuters espera que la ronda con inversores empiece este martes y que el precio se fije la semana que viene; Anthropic no ha querido comentar.</description>
+</item>
+<item>
+<title>[IA] Anthropic lanza Claude Fable 5.2 y Claude Mythos 5.2 y abarata Fable antes de salir a bolsa</title>
+<link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+<guid isPermaLink="false">2026-11-09-anthropic-fable-mythos-5-2</guid>
+<pubDate>Mon, 09 Nov 2026 20:24:00 +0100</pubDate>
+<category>IA</category>
+<description>Anthropic ha publicado dos modelos nuevos: Fable 5.2, orientado a los trabajos técnicos más ambiciosos y ya disponible en los planes Pro, Max, Team y Enterprise, y Mythos 5.2. Según TechCrunch, Fable baja de 10 a 8 dólares por millón de tokens de entrada y responde en torno a un 30% más rápido. El lanzamiento llega en plena discusión sobre si la IA ya está acelerando la propia investigación de Anthropic, tras el informe de METR de la semana pasada.</description>
+</item>
+<item>
+<title>[IA] Meta presenta Muse Ember, su modelo más pequeño y barato, pensado para agentes</title>
+<link>https://research.meta.ai/blog/muse-ember</link>
+<guid isPermaLink="false">2026-11-09-meta-muse-ember</guid>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Meta Superintelligence Labs ha lanzado Muse Ember, el modelo más pequeño de su familia Muse, con un contexto de hasta un millón de tokens y un precio de 0,10 dólares por millón de tokens de entrada y 0,50 por millón de salida. Meta lo presenta como rival de Claude Haiku 5.5 y GPT-6 Luna para tareas de agentes de gran volumen, aunque las comparativas de rendimiento que publica son suyas.</description>
+</item>
+<item>
+<title>[IA] Nvidia, SK Telecom y Rebellions acuerdan combinar chips coreanos y GPU de Nvidia en los centros de datos</title>
+<link>https://en.sedaily.com/finance/2026/11/09/nvidia-to-run-korean-ai-chips-alongside-its-gpus-in-data</link>
+<guid isPermaLink="false">2026-11-09-nvidia-skt-rebellions-npu</guid>
+<pubDate>Mon, 09 Nov 2026 08:54:00 +0100</pubDate>
+<category>IA</category>
+<description>Las tres compañías firmaron en Seúl un memorando para que los procesadores neuronales R200 de la surcoreana Rebellions funcionen junto a las GPU de Nvidia, conectados mediante NVLink Fusion y montados en racks con el estándar MGX. El objetivo es tener el sistema en uso comercial en 2028. Que Samsung o SK hynix suministren la memoria del nuevo chip es por ahora solo un rumor del sector.</description>
+</item>
 <item>
 <title>[IA] La junta de Nvidia abre una investigación independiente tras admitir Jensen Huang una relación extramatrimonial</title>
 <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
@@ -359,70 +391,6 @@
 <pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Xiao Yuanqi, vicedirector de la Administración Nacional de Regulación Financiera de China, advirtió de que el dinero que fluye hacia la IA está demasiado concentrado. Según él, esto podría encarecer el crédito para las industrias tradicionales.</description>
-</item>
-<item>
-<title>[IA] Los inversores presionan para que Anthropic salga a bolsa valorada en 1,5-1,6 billones, no en 2, según el WSJ</title>
-<link>https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf</link>
-<guid isPermaLink="false">2026-11-02-anthropic-valoracion-ipo-wsj</guid>
-<pubDate>Mon, 02 Nov 2026 23:30:00 +0100</pubDate>
-<category>IA</category>
-<description>Según fuentes citadas por The Wall Street Journal, los grandes inversores institucionales piden a Anthropic una valoración más prudente para su estreno en el Nasdaq, previsto para noviembre: entre 1,5 y 1,6 billones de dólares, frente a los cerca de 2 billones que se manejaban. Pesan las recientes caídas de las tecnológicas y el menor ritmo de crecimiento. La empresa no lo ha confirmado.</description>
-</item>
-<item>
-<title>[IA] Anthropic actualiza su folleto de salida a bolsa: 17.000 millones de ingresos en el tercer trimestre y compromisos de casi 900.000 millones</title>
-<link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
-<guid isPermaLink="false">2026-11-02-anthropic-s1-enmendado-q3</guid>
-<pubDate>Mon, 02 Nov 2026 22:30:00 +0100</pubDate>
-<category>IA</category>
-<description>La versión revisada del documento que Anthropic ha enviado al regulador bursátil de EE. UU. muestra unos ingresos de unos 17.000 millones de dólares entre julio y septiembre, aunque el crecimiento trimestral se ha frenado. La pérdida neta supera los 23.000 millones, sobre todo por cambios contables en el valor de bonos convertibles y derivados; la pérdida operativa es mucho menor. También detalla compromisos de compra y alquileres por unos 895.400 millones, en su mayoría capacidad de cómputo.</description>
-</item>
-<item>
-<title>[IA] Goldman Sachs retira Claude Code y GitHub Copilot a sus banqueros y traders y los reserva a sus ingenieros</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools</link>
-<guid isPermaLink="false">2026-11-02-goldman-restringe-claude-code-copilot</guid>
-<pubDate>Mon, 02 Nov 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según Bloomberg, el banco ha dejado de dar acceso a estas herramientas de programación con IA al personal de banca de inversión y mercados, y ahora solo las usan sus unos 12.000 ingenieros y el equipo cuantitativo. Un portavoz explicó que las herramientas se quedan con quienes mejor pueden aprovecharlas. Goldman llevaba dos años extendiendo la IA a toda su plantilla.</description>
-</item>
-<item>
-<title>[IA] Oracle sale al mercado a por 20.000 millones en acciones y bonos para financiar su expansión en IA</title>
-<link>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</link>
-<guid isPermaLink="false">2026-11-02-oracle-20000-millones-acciones-bonos</guid>
-<pubDate>Mon, 02 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Oracle ha registrado a la vez una emisión de 10.000 millones de dólares en acciones nuevas y otra de 10.000 millones en deuda para pagar centros de datos y chips. La operación diluye a los accionistas actuales y sus títulos cayeron más de un 6% en bolsa. Es otra muestra de cómo las tecnológicas recurren cada vez más a financiación externa para sostener el gasto en IA.</description>
-</item>
-<item>
-<title>[IA] Putin obliga a los centros de datos privados de Rusia a reservar el 10% de su capacidad para el Estado</title>
-<link>https://www.themoscowtimes.com/2026/11/02/putin-orders-private-data-centers-to-set-aside-10-of-capacity-to-support-it-infrastructure-a94159</link>
-<guid isPermaLink="false">2026-11-02-rusia-centros-datos-10-estado</guid>
-<pubDate>Mon, 02 Nov 2026 14:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Un decreto firmado por Vladímir Putin exige a los operadores privados de centros de datos guardar una décima parte de su capacidad para los sistemas informáticos del Estado, que podrá usarla en un plazo de 24 horas tras una orden del Gobierno. La medida llega después de ataques con drones ucranianos contra instalaciones de este tipo en Rusia.</description>
-</item>
-<item>
-<title>[IA] Marvell comprará Lumentum por 115.000 millones para reforzarse en la óptica de los centros de datos de IA</title>
-<link>https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html</link>
-<guid isPermaLink="false">2026-11-02-marvell-compra-lumentum</guid>
-<pubDate>Mon, 02 Nov 2026 13:30:00 +0100</pubDate>
-<category>IA</category>
-<description>El fabricante de chips Marvell ha acordado adquirir Lumentum, especialista en láseres y componentes ópticos que conectan los servidores de IA, en una operación pagada íntegramente con acciones. La prima es de casi el 24% sobre el cierre del 28 de octubre y los accionistas de Marvell controlarán dos tercios de la empresa resultante. El cierre se espera para la primera mitad de 2028, a falta de aprobaciones regulatorias.</description>
-</item>
-<item>
-<title>[IA] ADNOC será la primera petrolera en usar OpenAI Frontier, en un acuerdo con OpenAI y G42</title>
-<link>https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI</link>
-<guid isPermaLink="false">2026-11-02-adnoc-openai-frontier</guid>
-<pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La petrolera estatal de Abu Dabi ha firmado un acuerdo de varios años con OpenAI y G42 para desplegar agentes de IA de la plataforma Frontier en sus operaciones, ejecutados desde centros de datos en Emiratos. Se anunció en la feria ADIPEC junto a otros pactos del emirato con OpenAI para la administración pública y la educación. No se han revelado cifras.</description>
-</item>
-<item>
-<title>[IA] Meituan presenta LongCat-2.5, un modelo multimodal de 1,6 billones de parámetros para agentes</title>
-<link>https://x.com/Meituan_LongCat/status/2117264311714537633</link>
-<guid isPermaLink="false">2026-11-02-meituan-longcat-2-5</guid>
-<pubDate>Mon, 02 Nov 2026 09:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La empresa china de reparto Meituan ha lanzado en versión preliminar LongCat-2.5, un modelo que entiende imágenes y texto de forma nativa, con unos 48.000 millones de parámetros activos y un contexto de un millón de tokens. Está pensado para tareas largas de programación y manejo de navegadores, hojas de cálculo y otras aplicaciones. Ya se puede usar por chat y API, y la compañía prevé publicar los pesos.</description>
 </item>
 
 </channel>

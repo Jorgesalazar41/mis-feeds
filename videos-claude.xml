@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 06 Nov 2026 07:58:05 +0100</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 07:56:32 +0100</lastBuildDate>
 
+<item>
+<title>Claude Fable 5.2 designs a working voice-assistant hub (0:48)</title>
+<link>https://www.youtube.com/watch?v=vdYynH177h0</link>
+<guid isPermaLink="false">yt-vdYynH177h0</guid>
+<pubDate>Mon, 09 Nov 2026 18:02:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vdYynH177h0" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=vdYynH177h0"><img src="https://i.ytimg.com/vi/vdYynH177h0/hqdefault.jpg" alt="Miniatura"/></a></p><p>A partir de un párrafo de instrucciones, Claude Fable 5.2 diseña la placa, la carcasa en CAD y el firmware de un asistente de voz, y Diode Computers fabrica la placa con esos archivos. Es un prototipo temprano y uno de tres aparatos diseñados por Claude para el proyecto.</p><p>Duración: 0:48 · <a href="https://www.youtube.com/watch?v=vdYynH177h0">Ver en YouTube</a></p>]]></description>
+</item>
+<item>
+<title>Claude Mythos 5.2 predicts the structure of a therapy capsid (0:57)</title>
+<link>https://www.youtube.com/watch?v=FMbXUxn_nBw</link>
+<guid isPermaLink="false">yt-FMbXUxn_nBw</guid>
+<pubDate>Mon, 09 Nov 2026 18:01:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FMbXUxn_nBw" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=FMbXUxn_nBw"><img src="https://i.ytimg.com/vi/FMbXUxn_nBw/hqdefault.jpg" alt="Miniatura"/></a></p><p>Claude Mythos 5.2 escribe código que pliega por grupos las 60 copias de proteína de una cápside de AAV, la cubierta que se usa en terapia génica, y las une aprovechando su simetría. El resultado queda a una distancia de aproximadamente un átomo de la estructura medida en laboratorio.</p><p>Duración: 0:57 · <a href="https://www.youtube.com/watch?v=FMbXUxn_nBw">Ver en YouTube</a></p>]]></description>
+</item>
+<item>
+<title>Introducing Claude Fable 5.2 (0:19)</title>
+<link>https://www.youtube.com/watch?v=6a1QSJlsYpU</link>
+<guid isPermaLink="false">yt-6a1QSJlsYpU</guid>
+<pubDate>Mon, 09 Nov 2026 18:00:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6a1QSJlsYpU" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=6a1QSJlsYpU"><img src="https://i.ytimg.com/vi/6a1QSJlsYpU/hqdefault.jpg" alt="Miniatura"/></a></p><p>Anuncio breve de Fable 5.2, el modelo de Anthropic para los proyectos técnicos más ambiciosos, con mejoras en programación, razonamiento y visión. Ya está disponible en los planes Pro, Max, Team y Enterprise.</p><p>Duración: 0:19 · <a href="https://www.youtube.com/watch?v=6a1QSJlsYpU">Ver en YouTube</a></p>]]></description>
+</item>
 <item>
 <title>Introducing Personal Finance in Claude (1:31)</title>
 <link>https://www.youtube.com/watch?v=UTubvRLX2j4</link>
@@ -143,30 +167,6 @@
 <pubDate>Mon, 28 Sep 2026 20:04:19 +0200</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5nkj-L2vAw" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=s5nkj-L2vAw"><img src="https://i.ytimg.com/vi/s5nkj-L2vAw/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de Sonnet 5.5: más de un 30% más rápido que Sonnet 5 y con mejor redacción, pensado para tareas cotidianas bien acotadas.</p><p>Duración: 0:14 · <a href="https://www.youtube.com/watch?v=s5nkj-L2vAw">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Building verification loops in Claude Code (3:08)</title>
-<link>https://www.youtube.com/watch?v=mQZB0l-rhxE</link>
-<guid isPermaLink="false">yt-mQZB0l-rhxE</guid>
-<pubDate>Sat, 26 Sep 2026 01:13:15 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mQZB0l-rhxE" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=mQZB0l-rhxE"><img src="https://i.ytimg.com/vi/mQZB0l-rhxE/hqdefault.jpg" alt="Miniatura"/></a></p><p>Cómo dar a Claude Code más formas de comprobar su propio trabajo, además de tests y linters, para que avance más solo y haga falta menos ida y vuelta.</p><p>Duración: 3:08 · <a href="https://www.youtube.com/watch?v=mQZB0l-rhxE">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Using AI in humanitarian work (2:55)</title>
-<link>https://www.youtube.com/watch?v=oZgcAsfvS_g</link>
-<guid isPermaLink="false">yt-oZgcAsfvS_g</guid>
-<pubDate>Thu, 24 Sep 2026 19:03:13 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oZgcAsfvS_g" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=oZgcAsfvS_g"><img src="https://i.ytimg.com/vi/oZgcAsfvS_g/hqdefault.jpg" alt="Miniatura"/></a></p><p>Reportaje sobre el trabajo del International Rescue Committee contra la desnutrición infantil en Nigeria y cómo podría ayudar Claude.</p><p>Duración: 2:55 · <a href="https://www.youtube.com/watch?v=oZgcAsfvS_g">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Using Claude Opus 5.5 as your daily driver (3:33)</title>
-<link>https://www.youtube.com/watch?v=jKRl_CSVxyI</link>
-<guid isPermaLink="false">yt-jKRl_CSVxyI</guid>
-<pubDate>Wed, 23 Sep 2026 18:41:37 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jKRl_CSVxyI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=jKRl_CSVxyI"><img src="https://i.ytimg.com/vi/jKRl_CSVxyI/hqdefault.jpg" alt="Miniatura"/></a></p><p>Opus 5.5 en el día a día de Claude Code: más rápido que Opus 5, explica mejor lo que ha hecho y es un 20% más barato por token. Compara el mismo bug resuelto por ambos modelos.</p><p>Duración: 3:33 · <a href="https://www.youtube.com/watch?v=jKRl_CSVxyI">Ver en YouTube</a></p>]]></description>
 </item>
 
 </channel>
