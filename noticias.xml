@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 10 Nov 2026 07:56:32 +0100</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 07:56:23 +0100</lastBuildDate>
 
+<item>
+<title>[IA] El folleto corregido de Anthropic revela que su contrato de 35.000 millones con Lambda ya se puede cancelar</title>
+<link>https://mlq.ai/news/anthropics-amended-s-1-says-its-35-billion-lambda-compute-deal-can-now-be-cancelled-and-raises-its-microsoft-commitment/</link>
+<guid isPermaLink="false">2026-11-10-anthropic-s1a-lambda-cancelable</guid>
+<pubDate>Tue, 10 Nov 2026 23:30:00 +0100</pubDate>
+<category>IA</category>
+<description>En la versión modificada de su documento de salida a bolsa, Anthropic explica que Lambda no cumplió un plazo del arrendamiento del campus de Beacon Point (Texas), por lo que cualquiera de las dos partes puede poner fin al acuerdo de computación. Anthropic asegura que no tiene intención de abandonarlo. El documento también recoge un aumento de lo que se compromete a gastar en la nube de Microsoft.</description>
+</item>
+<item>
+<title>[IA] OpenAI lanza Businesses in ChatGPT: perfiles verificados de empresas y agentes que atienden a los clientes</title>
+<link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
+<guid isPermaLink="false">2026-11-10-openai-businesses-in-chatgpt</guid>
+<pubDate>Tue, 10 Nov 2026 22:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Las empresas podrán tener un perfil verificado dentro de ChatGPT, consultar estadísticas desde un Business Hub y poner un agente que responda preguntas sobre sus productos. De momento está en beta y limitado a comercios electrónicos y servicios en línea de EE. UU., con conexión a Shopify. Es un paso más de OpenAI para que ChatGPT funcione como escaparate entre marcas y usuarios.</description>
+</item>
+<item>
+<title>[IA] Google abre Gemini 4 Carbon en su API de pago con un precio de lanzamiento rebajado</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+<guid isPermaLink="false">2026-11-10-gemini-4-carbon-disponible</guid>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Gemini 4 Carbon, el modelo de Google orientado a agentes y ciberseguridad, ya se puede usar desde la API de pago y en el plan AI Ultra tras un despliegue por fases. Hasta el 30 de noviembre cuesta 2 dólares por millón de tokens de entrada y 10 de salida; después el precio se duplica. Google lo sitúa en cabeza de varias pruebas de programación con agentes.</description>
+</item>
+<item>
+<title>[IA] Anthropic estrena Claude Sheets y Claude Whiteboards en beta y convierte Dashboards en Claude Data</title>
+<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
+<guid isPermaLink="false">2026-11-10-claude-sheets-whiteboards-data</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Claude ya puede crear hojas de cálculo con pestañas, fórmulas y desplegables que se editan en equipo, y pizarras donde un plan hablado se convierte en un tablero con fechas y responsables; ambas llegan en beta. Lo que antes era Claude Dashboards pasa a estar disponible para todos como Claude Data, con consultas certificadas por el equipo de datos. Además, los conectores interactivos permiten abrir herramientas como Adobe, Atlassian o Box dentro de la propia conversación.</description>
+</item>
+<item>
+<title>[IA] OpenAI presenta Control Room, un sistema para frenar en segundos sus propios experimentos de investigación</title>
+<link>https://openai.com/index/control-room/</link>
+<guid isPermaLink="false">2026-11-10-openai-control-room</guid>
+<pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha contado cómo vigila internamente las cargas de trabajo de investigación, como el entrenamiento por refuerzo, las evaluaciones o los agentes en pruebas. Según la empresa, Control Room puede cortar la salida de un modelo unos 35 segundos después de decidir intervenir y, si se cae, bloquea por defecto en lugar de dejar pasar. No se aplica a ChatGPT ni a la API, solo a la investigación interna.</description>
+</item>
 <item>
 <title>[IA] Anthropic retira el rango de precios de su salida a bolsa que había enviado a los bancos, según Reuters</title>
 <link>https://cyprus-mail.com/2026/11/10/anthropic-retracts-70-billion-ipo-details</link>
@@ -15,6 +55,14 @@
 <pubDate>Tue, 10 Nov 2026 07:12:00 +0100</pubDate>
 <category>IA</category>
 <description>Un documento enviado a los bancos colocadores fijaba entre 70 y 80 dólares el precio de unos 867 millones de acciones, lo que habría supuesto captar hasta 69.300 millones, pero Anthropic avisó después de que esos datos eran incorrectos y que mandaría otros. La copia retirada incluía además 26.000 millones en colocaciones privadas de Alphabet, Nvidia, AMD, Microsoft y TSMC, entre otros. Reuters espera que la ronda con inversores empiece este martes y que el precio se fije la semana que viene; Anthropic no ha querido comentar.</description>
+</item>
+<item>
+<title>[IA] Australia creará un regulador específico para la IA tras el acceso de un agente de OpenAI al portal de Medicare</title>
+<link>https://www.thenewdaily.com.au/news/2026/11/10/ai-safety-regulator</link>
+<guid isPermaLink="false">2026-11-10-australia-regulador-ia</guid>
+<pubDate>Tue, 10 Nov 2026 05:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El primer ministro Anthony Albanese ha anunciado un organismo de seguridad de la IA con capacidad para imponer sanciones importantes, además de la obligación de que las empresas de modelos punteros notifiquen incidentes. El Gobierno estudia también cambios en el código penal para exigir responsabilidades. La decisión llega meses después de que un agente de OpenAI entrara sin permiso en un portal de estadísticas de Medicare; la ley se presentará el año que viene.</description>
 </item>
 <item>
 <title>[IA] Anthropic lanza Claude Fable 5.2 y Claude Mythos 5.2 y abarata Fable antes de salir a bolsa</title>
@@ -271,126 +319,6 @@
 <pubDate>Wed, 04 Nov 2026 13:20:00 +0100</pubDate>
 <category>IA</category>
 <description>OpenAI ha acordado adquirir Pierre Computer, una empresa de herramientas para desarrolladores conocida por Code Storage, un sistema para alojar repositorios a gran escala. La idea es integrarlo en Codex, cuyos agentes necesitan leer y escribir código en paralelo en muchos repositorios. No se han revelado las condiciones.</description>
-</item>
-<item>
-<title>[IA] Los clientes chinos de Nvidia solo recibirán por ahora un 1% de los 70.000 millones en chips RTX que han pedido, según Bloomberg</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered</link>
-<guid isPermaLink="false">2026-11-04-nvidia-china-rtx-1-por-ciento</guid>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Las grandes tecnológicas chinas han encargado unos 70.000 millones de dólares en RTX Pro 5500, la tarjeta que Nvidia puede vender en China sin incumplir las restricciones de exportación. Sin embargo, la falta de suministro hará que de momento solo reciban en torno al 1% de ese volumen, según fuentes citadas por Bloomberg.</description>
-</item>
-<item>
-<title>[IA] Apple advierte en su informe anual de que los agentes de IA pueden actuar de forma imprevisible</title>
-<link>https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html</link>
-<guid isPermaLink="false">2026-11-03-apple-10k-riesgo-agentes-ia</guid>
-<pubDate>Tue, 03 Nov 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Entre los factores de riesgo de su nuevo informe anual ante la SEC, Apple incluye por primera vez a los agentes autónomos: podrían comportarse de manera no prevista, ir más allá de los permisos concedidos o no seguir instrucciones. La compañía avisa de que eso podría acarrearle demandas y daños a su reputación.</description>
-</item>
-<item>
-<title>[IA] Anthropic presenta FlashProve, un sistema abierto para demostrar qué modelo generó cada respuesta</title>
-<link>https://www.anthropic.com/research/provable-inference</link>
-<guid isPermaLink="false">2026-11-03-anthropic-flashprove-inferencia-verificable</guid>
-<pubDate>Tue, 03 Nov 2026 21:10:00 +0100</pubDate>
-<category>IA</category>
-<description>Investigadores de Anthropic han publicado FlashProve, una propuesta de «inferencia demostrable»: cada laboratorio publicaría una huella de su modelo y cualquiera podría comprobar criptográficamente que una respuesta salió de él, sin revelar los pesos. Serviría, por ejemplo, para detectar si un proveedor cambia en secreto un modelo por otro más barato. Han liberado la especificación y el código, aunque lo presentan como un avance intermedio sin planes de desplegarlo todavía.</description>
-</item>
-<item>
-<title>[IA] OpenAI contrata a Cathedral, la startup de antiguos miembros de DOGE que logró entrar en sistemas de Anthropic, para atacar sus defensas</title>
-<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/</link>
-<guid isPermaLink="false">2026-11-03-openai-cathedral-seguridad</guid>
-<pubDate>Tue, 03 Nov 2026 21:00:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha encargado a Cathedral Systems que ponga a prueba su seguridad usando los propios modelos de OpenAI, y además sube las recompensas de su programa de caza de fallos. Cathedral ya accedió a partes de los sistemas internos de Anthropic en una prueba anterior; Anthropic discrepa de cómo se hizo y asegura que ni los pesos de sus modelos ni las conversaciones de Claude se vieron afectados.</description>
-</item>
-<item>
-<title>[IA] OpenAI calcula que las búsquedas en ChatGPT ya equivalen a cerca del 20% de las de Google</title>
-<link>https://www.bigtechnology.com/p/openai-chatgpt-search-is-about-20</link>
-<guid isPermaLink="false">2026-11-03-chatgpt-busquedas-20-google</guid>
-<pubDate>Tue, 03 Nov 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Un directivo de OpenAI, Adam Fry, explicó a Big Technology que las consultas de tipo búsqueda en ChatGPT suman ya alrededor de una quinta parte del volumen de Google, y que el chatbot tiene unos 1.200 millones de usuarios semanales. La cifra es una estimación de la propia OpenAI y no se ha verificado de forma independiente.</description>
-</item>
-<item>
-<title>[IA] OpenAI cuenta que GPT-6 Astra diseñó en menos de una semana un prototipo de dispositivo para hablar con Codex</title>
-<link>https://openai.com/index/accelerating-engineering-for-the-physical-world/</link>
-<guid isPermaLink="false">2026-11-03-openai-astra-diseña-dispositivo-codex</guid>
-<pubDate>Tue, 03 Nov 2026 19:56:00 +0100</pubDate>
-<category>IA</category>
-<description>Dos empleados de OpenAI usaron GPT-6 Astra como proyecto paralelo y el modelo se encargó de la carcasa, la placa de circuito, la interfaz y el software del aparato. La empresa reconoce que fabricarlo exigió varias rondas de revisión, y aprovecha para mostrar cómo ChatGPT y Codex ayudan en diseño mecánico, electrónica y simulación.</description>
-</item>
-<item>
-<title>[IA] Cat Wu, responsable de producto de Claude Code, deja Anthropic antes de su salida a bolsa</title>
-<link>https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11</link>
-<guid isPermaLink="false">2026-11-03-cat-wu-deja-anthropic</guid>
-<pubDate>Tue, 03 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Cat Wu, una de las caras más visibles de Claude Code, ha abandonado Anthropic tras unos dos años al frente del producto, según Business Insider. No se han dado motivos públicos de su marcha, que llega en plena preparación de la salida a bolsa de la empresa.</description>
-</item>
-<item>
-<title>[IA] Empleados de OpenAI llevaban años advirtiendo de fallos de seguridad operativa, según Reuters</title>
-<link>https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03/</link>
-<guid isPermaLink="false">2026-11-03-reuters-openai-fallos-seguridad</guid>
-<pubDate>Tue, 03 Nov 2026 17:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Una investigación de Reuters basada en cinco fuentes asegura que trabajadores de OpenAI alertaron durante años de deficiencias en la protección interna de la empresa, algunas desde antes del lanzamiento de ChatGPT en 2022. OpenAI rechaza haber descuidado la seguridad.</description>
-</item>
-<item>
-<title>[IA] Claude Code deja de recrear videojuegos existentes tras una ola de clones hechos con IA</title>
-<link>https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games</link>
-<guid isPermaLink="false">2026-11-03-claude-code-bloquea-clones-videojuegos</guid>
-<pubDate>Tue, 03 Nov 2026 15:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic ha añadido a las instrucciones internas de Claude Code una norma que le impide reproducir juegos concretos ya existentes, después de la aparición de numerosas copias generadas con IA. Algunos desarrolladores se quejan de que la restricción también frena trabajos legítimos, como tareas de ingeniería inversa.</description>
-</item>
-<item>
-<title>[IA] Empleados de Google DeepMind piden eliminar las cláusulas que les impiden criticar a la empresa de por vida</title>
-<link>https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/</link>
-<guid isPermaLink="false">2026-11-03-deepmind-clausulas-no-critica</guid>
-<pubDate>Tue, 03 Nov 2026 15:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según The Washington Post, parte de la plantilla de DeepMind se ha movilizado contra unas condiciones de contrato que podrían disuadirles de hablar públicamente sobre los riesgos de la IA incluso después de dejar la empresa. Google responde que no aplica restricciones tras el fin del empleo y que ha quitado esa cláusula de los contratos nuevos.</description>
-</item>
-<item>
-<title>[IA] Revolut recorta cerca de un 90% su gasto en asistentes de programación al pasar a modelos GLM en sus propios servidores</title>
-<link>https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345</link>
-<guid isPermaLink="false">2026-11-03-revolut-glm-autoalojado</guid>
-<pubDate>Tue, 03 Nov 2026 13:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El banco digital británico ha cambiado la herramienta de programación por defecto de sus ingenieros: en lugar de modelos comerciales como Claude, usa ahora modelos abiertos GLM alojados en su propia infraestructura. Dice que así el coste baja unas diez veces, aunque mantiene el acceso a modelos comerciales cuando hacen falta.</description>
-</item>
-<item>
-<title>[IA] Nvidia pide a sus clientes de centros de datos que limiten su negocio con empresas chinas, según el FT</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says</link>
-<guid isPermaLink="false">2026-11-03-nvidia-limite-clientes-chinos-centros-datos</guid>
-<pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según el Financial Times, Nvidia ha indicado a los operadores de centros de datos a los que suministra chips que reduzcan su exposición a clientes chinos, con un tope de alrededor del 49% de su negocio. La medida busca cerrar la vía por la que empresas chinas acceden a chips estadounidenses de IA alquilando capacidad fuera de China. Nvidia no lo ha anunciado públicamente.</description>
-</item>
-<item>
-<title>[IA] Drax propone un centro de datos de 20.000 millones de libras junto a su central de biomasa en Yorkshire</title>
-<link>https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237</link>
-<guid isPermaLink="false">2026-11-03-drax-centro-datos-20000-millones</guid>
-<pubDate>Tue, 03 Nov 2026 11:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La eléctrica británica plantea, con Brookfield y Radiant como socios, un campus de IA en su central de North Yorkshire que podría superar 1 gigavatio de capacidad de cómputo. El proyecto aún depende de permisos urbanísticos, aprobaciones regulatorias y de cerrar clientes.</description>
-</item>
-<item>
-<title>[IA] Los reguladores británicos avisan de que la ley actual ya se aplica a los agentes de IA personales</title>
-<link>https://www.drcf.org.uk/siteassets/drcf/pdf-files/drcf-joint-statement-protecting-people-and-businesses-in-and-agentic-economy2.pdf</link>
-<guid isPermaLink="false">2026-11-03-reino-unido-reguladores-agentes-ia</guid>
-<pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La autoridad de competencia (CMA), el supervisor financiero (FCA), el de protección de datos (ICO) y Ofcom han firmado una declaración conjunta: que un agente actúe de forma autónoma no reduce las obligaciones de la empresa que lo ofrece. No crean normas nuevas, pero advierten de que usarán sus poderes si detectan daños a consumidores o negocios.</description>
-</item>
-<item>
-<title>[IA] Un alto regulador financiero chino alerta de que la inversión en IA se está concentrando en exceso</title>
-<link>https://www.reuters.com/business/finance/ai-investment-is-becoming-overly-concentrated-chinese-official-says-2026-11-03/</link>
-<guid isPermaLink="false">2026-11-03-china-regulador-inversion-ia-concentrada</guid>
-<pubDate>Tue, 03 Nov 2026 09:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Xiao Yuanqi, vicedirector de la Administración Nacional de Regulación Financiera de China, advirtió de que el dinero que fluye hacia la IA está demasiado concentrado. Según él, esto podría encarecer el crédito para las industrias tradicionales.</description>
 </item>
 
 </channel>

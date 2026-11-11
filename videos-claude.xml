@@ -6,8 +6,24 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 10 Nov 2026 07:56:32 +0100</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 07:56:23 +0100</lastBuildDate>
 
+<item>
+<title>Introducing Claude Whiteboards, Sheets, and Data (0:58)</title>
+<link>https://www.youtube.com/watch?v=YewAJPawE7I</link>
+<guid isPermaLink="false">yt-YewAJPawE7I</guid>
+<pubDate>Tue, 10 Nov 2026 18:01:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YewAJPawE7I" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=YewAJPawE7I"><img src="https://i.ytimg.com/vi/YewAJPawE7I/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de las pizarras y las hojas de cálculo de Claude, ambas en beta, y de Claude Data, la nueva versión de Dashboards ya disponible para todos. Muestra cómo convertir un plan hablado en un tablero con fechas y cómo pedir a Claude un presupuesto con fórmulas para trabajarlo en equipo.</p><p>Duración: 0:58 · <a href="https://www.youtube.com/watch?v=YewAJPawE7I">Ver en YouTube</a></p>]]></description>
+</item>
+<item>
+<title>Your apps have moved into Claude (1:00)</title>
+<link>https://www.youtube.com/watch?v=Gy1jSeSzAhk</link>
+<guid isPermaLink="false">yt-Gy1jSeSzAhk</guid>
+<pubDate>Tue, 10 Nov 2026 18:00:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gy1jSeSzAhk" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=Gy1jSeSzAhk"><img src="https://i.ytimg.com/vi/Gy1jSeSzAhk/hqdefault.jpg" alt="Miniatura"/></a></p><p>Los conectores interactivos permiten abrir Adobe, Atlassian o Box dentro de Claude y trabajar en ellos junto a la conversación. En el vídeo, Claude resume un plan en Confluence, edita una foto en Adobe y revisa un plano guardado en Box.</p><p>Duración: 1:00 · <a href="https://www.youtube.com/watch?v=Gy1jSeSzAhk">Ver en YouTube</a></p>]]></description>
+</item>
 <item>
 <title>Claude Fable 5.2 designs a working voice-assistant hub (0:48)</title>
 <link>https://www.youtube.com/watch?v=vdYynH177h0</link>
@@ -151,22 +167,6 @@
 <pubDate>Thu, 01 Oct 2026 20:07:41 +0200</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bVXiNb9RyyI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=bVXiNb9RyyI"><img src="https://i.ytimg.com/vi/bVXiNb9RyyI/hqdefault.jpg" alt="Miniatura"/></a></p><p>De nota de voz a presentación: un diseñador de Anthropic graba sus ideas paseando y luego las convierte en diapositivas con Claude Slides.</p><p>Duración: 1:45 · <a href="https://www.youtube.com/watch?v=bVXiNb9RyyI">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Getting started with Claude Tag (3:00)</title>
-<link>https://www.youtube.com/watch?v=_f_rtbW_uFM</link>
-<guid isPermaLink="false">yt-_f_rtbW_uFM</guid>
-<pubDate>Tue, 29 Sep 2026 22:07:36 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_f_rtbW_uFM" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=_f_rtbW_uFM"><img src="https://i.ytimg.com/vi/_f_rtbW_uFM/hqdefault.jpg" alt="Miniatura"/></a></p><p>Primeros pasos con Claude Tag: añades a Claude a un canal de Slack y sigue la conversación del equipo en tiempo real, sin copiar y pegar contexto.</p><p>Duración: 3:00 · <a href="https://www.youtube.com/watch?v=_f_rtbW_uFM">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Introducing Claude Sonnet 5.5 (0:14)</title>
-<link>https://www.youtube.com/watch?v=s5nkj-L2vAw</link>
-<guid isPermaLink="false">yt-s5nkj-L2vAw</guid>
-<pubDate>Mon, 28 Sep 2026 20:04:19 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/s5nkj-L2vAw" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=s5nkj-L2vAw"><img src="https://i.ytimg.com/vi/s5nkj-L2vAw/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de Sonnet 5.5: más de un 30% más rápido que Sonnet 5 y con mejor redacción, pensado para tareas cotidianas bien acotadas.</p><p>Duración: 0:14 · <a href="https://www.youtube.com/watch?v=s5nkj-L2vAw">Ver en YouTube</a></p>]]></description>
 </item>
 
 </channel>
