@@ -6,8 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 11 Nov 2026 07:56:23 +0100</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:56:30 +0100</lastBuildDate>
 
+<item>
+<title>[IA] La salida a bolsa de Anthropic recibe varias veces más demanda de la que ofrece al arrancar la ronda con inversores</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed</link>
+<guid isPermaLink="false">2026-11-11-anthropic-ipo-sobresuscrita</guid>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Según Bloomberg, que cita a personas conocedoras de la operación, las peticiones de compra ya multiplican las acciones disponibles nada más empezar la presentación a inversores. Anthropic ha fijado un rango de 70 a 78 dólares por acción para cotizar en el Nasdaq con el símbolo ANT, y prevé estrenarse en bolsa hacia el 19 de noviembre. En lo alto del rango, la oferta rondaría los 64.400 millones de dólares.</description>
+</item>
 <item>
 <title>[IA] El folleto corregido de Anthropic revela que su contrato de 35.000 millones con Lambda ya se puede cancelar</title>
 <link>https://mlq.ai/news/anthropics-amended-s-1-says-its-35-billion-lambda-compute-deal-can-now-be-cancelled-and-raises-its-microsoft-commitment/</link>
@@ -17,12 +25,68 @@
 <description>En la versión modificada de su documento de salida a bolsa, Anthropic explica que Lambda no cumplió un plazo del arrendamiento del campus de Beacon Point (Texas), por lo que cualquiera de las dos partes puede poner fin al acuerdo de computación. Anthropic asegura que no tiene intención de abandonarlo. El documento también recoge un aumento de lo que se compromete a gastar en la nube de Microsoft.</description>
 </item>
 <item>
+<title>[IA] Anthropic lleva Claude a Google Meet para que haga tareas durante las reuniones</title>
+<link>https://www.reuters.com/technology/anthropic-brings-claude-google-meet-tackle-tasks-live-2026-11-10/</link>
+<guid isPermaLink="false">2026-11-10-claude-meetings-google-meet</guid>
+<pubDate>Tue, 10 Nov 2026 23:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Claude Meetings, en beta para los planes Team y Enterprise, permite que Claude participe en videollamadas y se ocupe de encargos mientras la reunión sigue en marcha. De momento empieza solo con Google Meet. Llega el mismo día que las hojas de cálculo, pizarras y conectores interactivos de Claude.</description>
+</item>
+<item>
+<title>[IA] Las conexiones de Jensen Huang habrían facilitado ventas de chips de Nvidia a China por 7.500 millones, según The Information</title>
+<link>https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</link>
+<guid isPermaLink="false">2026-11-10-nvidia-the-information-7500-millones-china</guid>
+<pubDate>Tue, 10 Nov 2026 22:45:00 +0100</pubDate>
+<category>IA</category>
+<description>The Information publica que la relación de Alice Huang con el consejero delegado de Nvidia ayudó a que llegaran a empresas chinas, desde 2023, unos 240.000 chips restringidos por valor de al menos 7.500 millones de dólares. Son acusaciones periodísticas aún no confirmadas; Nvidia responde que vende a través de socios y vigila el cumplimiento de los controles de exportación. Las acciones de la compañía cayeron alrededor de un 5% el martes, tras otra bajada el lunes.</description>
+</item>
+<item>
+<title>[IA] OpenAI compra Odessia, la startup de agentes de viaje del fundador de Sonder</title>
+<link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
+<guid isPermaLink="false">2026-11-10-openai-compra-odessia</guid>
+<pubDate>Tue, 10 Nov 2026 22:08:00 +0100</pubDate>
+<category>IA</category>
+<description>OpenAI ha adquirido Odessia, una empresa que desarrollaba un agente de IA para organizar viajes, y su fundador Francis Davidson, antiguo consejero delegado de Sonder, se incorpora a la compañía. No se han hecho públicas las condiciones. La operación encaja con el impulso de OpenAI para que ChatGPT gestione compras y reservas, aunque no ha detallado sus planes en viajes.</description>
+</item>
+<item>
 <title>[IA] OpenAI lanza Businesses in ChatGPT: perfiles verificados de empresas y agentes que atienden a los clientes</title>
 <link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
 <guid isPermaLink="false">2026-11-10-openai-businesses-in-chatgpt</guid>
 <pubDate>Tue, 10 Nov 2026 22:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Las empresas podrán tener un perfil verificado dentro de ChatGPT, consultar estadísticas desde un Business Hub y poner un agente que responda preguntas sobre sus productos. De momento está en beta y limitado a comercios electrónicos y servicios en línea de EE. UU., con conexión a Shopify. Es un paso más de OpenAI para que ChatGPT funcione como escaparate entre marcas y usuarios.</description>
+</item>
+<item>
+<title>[IA] Un ataque a Railway acaba en 740.000 dólares de uso fraudulento de IA con claves robadas</title>
+<link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
+<guid isPermaLink="false">2026-11-10-railway-brecha-cargos-ia</guid>
+<pubDate>Tue, 10 Nov 2026 21:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La plataforma de alojamiento Railway reconoce que los atacantes obtuvieron secretos de sus clientes y que hasta 100.000 espacios de trabajo podrían estar expuestos, aunque esa es la cifra máxima y no el número de afectados confirmados. Con las credenciales robadas se consumieron servicios de IA por unos 740.000 dólares. Es un ejemplo más del llamado «LLMjacking», el robo de claves para usar modelos a costa de otros.</description>
+</item>
+<item>
+<title>[IA] OpenAI retirará el 11 de diciembre los modos de voz Avanzado y Estándar de ChatGPT</title>
+<link>https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt</link>
+<guid isPermaLink="false">2026-11-10-chatgpt-retira-voz-avanzada-estandar</guid>
+<pubDate>Tue, 10 Nov 2026 20:30:00 +0100</pubDate>
+<category>IA</category>
+<description>A partir del 11 de diciembre, quienes usen la voz en ChatGPT pasarán a Live Voice, el nuevo modo de conversación. El vídeo y la pantalla compartida seguirán funcionando con el modo antiguo hasta que el nuevo los admita. La última vez que OpenAI intentó quitar la voz Estándar tuvo que dar marcha atrás por las quejas de los usuarios.</description>
+</item>
+<item>
+<title>[IA] Google DeepMind presenta AlphaProof Code, que verificó formalmente el núcleo criptográfico de Signal en cuatro semanas</title>
+<link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+<guid isPermaLink="false">2026-11-10-deepmind-alphaproof-code-signal</guid>
+<pubDate>Tue, 10 Nov 2026 20:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El nuevo sistema de agentes de DeepMind demostró matemáticamente varias propiedades de seguridad del protocolo de cifrado de Signal, un trabajo que a mano habría llevado años. La verificación cubre las propiedades y el código especificados, no toda la aplicación ni cualquier ataque posible. También comprobó que el sistema rechaza versiones antiguas con fallos conocidos.</description>
+</item>
+<item>
+<title>[IA] Nueva York pone en marcha el primer programa estatal para evaluar de forma independiente modelos de IA</title>
+<link>https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713</link>
+<guid isPermaLink="false">2026-11-10-nueva-york-programa-evaluacion-ia</guid>
+<pubDate>Tue, 10 Nov 2026 19:30:00 +0100</pubDate>
+<category>IA</category>
+<description>La gobernadora Kathy Hochul ha anunciado un programa para probar los riesgos de los modelos de IA, con un nuevo centro de investigación en la Universidad de Binghamton que usará capacidad de cálculo pagada por el estado. Una de sus limitaciones es que no tendrá acceso garantizado a los sistemas que aún no se han lanzado.</description>
 </item>
 <item>
 <title>[IA] Google abre Gemini 4 Carbon en su API de pago con un precio de lanzamiento rebajado</title>
@@ -303,22 +367,6 @@
 <pubDate>Thu, 05 Nov 2026 11:37:00 +0100</pubDate>
 <category>IA</category>
 <description>Anthropic habría cerrado poco antes de las elecciones de mitad de mandato un acuerdo para usar datos y noticias de AP, lo que explica que Claude mostrara resultados electorales atribuidos a la agencia. Es la primera licencia de este tipo para Anthropic, mientras OpenAI ya tiene más de una docena. La información procede de fuentes anónimas; ninguna de las dos empresas lo ha confirmado ni se conocen las condiciones.</description>
-</item>
-<item>
-<title>[IA] Microsoft renuncia a duplicar su contrato con Nscale para un centro de datos en Texas</title>
-<link>https://www.spokesman.com/stories/2026/nov/04/microsoft-declines-option-to-expand-texas-data-cen/</link>
-<guid isPermaLink="false">2026-11-04-microsoft-nscale-texas</guid>
-<pubDate>Wed, 04 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Microsoft no ejercerá la opción de ampliar a más del doble su acuerdo con Nscale en Texas, una extensión de decenas de miles de millones, según adelantó el FT y confirmó Reuters con una fuente. La decisión se habría tomado hace meses y el contrato actual sigue en pie, pero llega mientras Nscale prepara una salida a bolsa de unos 35.000 millones.</description>
-</item>
-<item>
-<title>[IA] OpenAI comprará Pierre Computer para reforzar la infraestructura de código de Codex</title>
-<link>https://www.axios.com/2026/11/04/openai-pierre-computer-github</link>
-<guid isPermaLink="false">2026-11-04-openai-compra-pierre-computer</guid>
-<pubDate>Wed, 04 Nov 2026 13:20:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha acordado adquirir Pierre Computer, una empresa de herramientas para desarrolladores conocida por Code Storage, un sistema para alojar repositorios a gran escala. La idea es integrarlo en Codex, cuyos agentes necesitan leer y escribir código en paralelo en muchos repositorios. No se han revelado las condiciones.</description>
 </item>
 
 </channel>

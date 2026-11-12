@@ -6,8 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 11 Nov 2026 07:56:23 +0100</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 07:56:30 +0100</lastBuildDate>
 
+<item>
+<title>Fable 5.2 or Opus? When to use each model in Claude Code (3:28)</title>
+<link>https://www.youtube.com/watch?v=C33hJGt-ySg</link>
+<guid isPermaLink="false">yt-C33hJGt-ySg</guid>
+<pubDate>Wed, 11 Nov 2026 18:00:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C33hJGt-ySg" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=C33hJGt-ySg"><img src="https://i.ytimg.com/vi/C33hJGt-ySg/hqdefault.jpg" alt="Miniatura"/></a></p><p>Guía para elegir modelo en Claude Code: cuándo empezar con Opus 5.5, cuándo subir a Fable 5.2 para trabajos técnicos ambiciosos y cuándo bajar a Sonnet o Haiku para tareas acotadas y más baratas. También explica cómo repartir un mismo trabajo entre varios modelos.</p><p>Duración: 3:28 · <a href="https://www.youtube.com/watch?v=C33hJGt-ySg">Ver en YouTube</a></p>]]></description>
+</item>
 <item>
 <title>Introducing Claude Whiteboards, Sheets, and Data (0:58)</title>
 <link>https://www.youtube.com/watch?v=YewAJPawE7I</link>
@@ -159,14 +167,6 @@
 <pubDate>Fri, 02 Oct 2026 21:44:06 +0200</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/COJAZQM1aeQ" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=COJAZQM1aeQ"><img src="https://i.ytimg.com/vi/COJAZQM1aeQ/hqdefault.jpg" alt="Miniatura"/></a></p><p>Un diseñador de Anthropic usa Claude Design dentro de Claude Code para pasar el onboarding de su proyecto personal de idea a prototipo funcional, comentando las propuestas y retocando detalles a mano.</p><p>Duración: 1:43 · <a href="https://www.youtube.com/watch?v=COJAZQM1aeQ">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>How an Anthropic designer uses Claude Slides (1:45)</title>
-<link>https://www.youtube.com/watch?v=bVXiNb9RyyI</link>
-<guid isPermaLink="false">yt-bVXiNb9RyyI</guid>
-<pubDate>Thu, 01 Oct 2026 20:07:41 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bVXiNb9RyyI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=bVXiNb9RyyI"><img src="https://i.ytimg.com/vi/bVXiNb9RyyI/hqdefault.jpg" alt="Miniatura"/></a></p><p>De nota de voz a presentación: un diseñador de Anthropic graba sus ideas paseando y luego las convierte en diapositivas con Claude Slides.</p><p>Duración: 1:45 · <a href="https://www.youtube.com/watch?v=bVXiNb9RyyI">Ver en YouTube</a></p>]]></description>
 </item>
 
 </channel>
