@@ -6,8 +6,24 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 12 Nov 2026 07:56:30 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 07:57:35 +0100</lastBuildDate>
 
+<item>
+<title>Introducing Claude Meetings (1:03)</title>
+<link>https://www.youtube.com/watch?v=YUYeHMsqbmY</link>
+<guid isPermaLink="false">yt-YUYeHMsqbmY</guid>
+<pubDate>Thu, 12 Nov 2026 21:15:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YUYeHMsqbmY" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=YUYeHMsqbmY"><img src="https://i.ytimg.com/vi/YUYeHMsqbmY/hqdefault.jpg" alt="Miniatura"/></a></p><p>Presentación de Claude Meetings: Claude entra en la videollamada del equipo y va creando documentos, pizarras y otros artefactos mientras se habla. Empieza en beta para los planes Team y Enterprise, de momento con Google Meet.</p><p>Duración: 1:03 · <a href="https://www.youtube.com/watch?v=YUYeHMsqbmY">Ver en YouTube</a></p>]]></description>
+</item>
+<item>
+<title>Mariko Mori's world of radiant light (1:59)</title>
+<link>https://www.youtube.com/watch?v=2_z9c-6AOSc</link>
+<guid isPermaLink="false">yt-2_z9c-6AOSc</guid>
+<pubDate>Thu, 12 Nov 2026 01:05:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2_z9c-6AOSc" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=2_z9c-6AOSc"><img src="https://i.ytimg.com/vi/2_z9c-6AOSc/hqdefault.jpg" alt="Miniatura"/></a></p><p>Retrato de la artista japonesa Mariko Mori, que para su retrospectiva «All That Shines» usó Claude para programar una animación generada por ordenador convertida en nueva videoinstalación.</p><p>Duración: 1:59 · <a href="https://www.youtube.com/watch?v=2_z9c-6AOSc">Ver en YouTube</a></p>]]></description>
+</item>
 <item>
 <title>Fable 5.2 or Opus? When to use each model in Claude Code (3:28)</title>
 <link>https://www.youtube.com/watch?v=C33hJGt-ySg</link>
@@ -151,22 +167,6 @@
 <pubDate>Tue, 06 Oct 2026 19:02:37 +0200</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/idJQMJwHtyM" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=idJQMJwHtyM"><img src="https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg" alt="Miniatura"/></a></p><p>Claude dentro de Google Docs, Sheets y Slides con una sola instalación: lee el archivo que tienes abierto y lo edita directamente. En beta para planes de pago.</p><p>Duración: 1:00 · <a href="https://www.youtube.com/watch?v=idJQMJwHtyM">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Mods in Claude Code: change how Claude Code works (3:21)</title>
-<link>https://www.youtube.com/watch?v=yUuFvL1lK4k</link>
-<guid isPermaLink="false">yt-yUuFvL1lK4k</guid>
-<pubDate>Mon, 05 Oct 2026 21:18:43 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yUuFvL1lK4k" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=yUuFvL1lK4k"><img src="https://i.ytimg.com/vi/yUuFvL1lK4k/hqdefault.jpg" alt="Miniatura"/></a></p><p>Los mods de Claude Code permiten cambiar lo que muestra, lo que entra en el prompt y las herramientas que usa. Una ingeniera de Anthropic enseña tres que ha hecho y construye uno en directo.</p><p>Duración: 3:21 · <a href="https://www.youtube.com/watch?v=yUuFvL1lK4k">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Build an App With Claude Design (1:43)</title>
-<link>https://www.youtube.com/watch?v=COJAZQM1aeQ</link>
-<guid isPermaLink="false">yt-COJAZQM1aeQ</guid>
-<pubDate>Fri, 02 Oct 2026 21:44:06 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/COJAZQM1aeQ" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=COJAZQM1aeQ"><img src="https://i.ytimg.com/vi/COJAZQM1aeQ/hqdefault.jpg" alt="Miniatura"/></a></p><p>Un diseñador de Anthropic usa Claude Design dentro de Claude Code para pasar el onboarding de su proyecto personal de idea a prototipo funcional, comentando las propuestas y retocando detalles a mano.</p><p>Duración: 1:43 · <a href="https://www.youtube.com/watch?v=COJAZQM1aeQ">Ver en YouTube</a></p>]]></description>
 </item>
 
 </channel>

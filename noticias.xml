@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 12 Nov 2026 07:56:30 +0100</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 07:57:35 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Cerebras supera previsiones en su tercer trimestre y eleva lo que espera ingresar en 2026</title>
+<link>https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm</link>
+<guid isPermaLink="false">2026-11-12-cerebras-resultados-t3</guid>
+<pubDate>Thu, 12 Nov 2026 22:05:00 +0100</pubDate>
+<category>IA</category>
+<description>El fabricante de chips para IA ingresó 230,9 millones de dólares en su negocio principal entre julio y septiembre, un 70% más que un año antes, con un fuerte tirón de sus servicios en la nube, aunque perdió 161 millones. Ahora calcula entre 940 y 960 millones de ingresos principales para todo 2026. Además, tiene contratados 700 MW de capacidad de centros de datos que se entregarán hasta finales de 2027.</description>
+</item>
+<item>
+<title>[IA] Google lanza Gemini 4 Hydrogen, un modelo rápido y barato pensado para agentes</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+<guid isPermaLink="false">2026-11-12-google-gemini-4-hydrogen</guid>
+<pubDate>Thu, 12 Nov 2026 19:00:00 +0100</pubDate>
+<category>IA</category>
+<description>Google estrena Gemini 4 Hydrogen, que ocupa el hueco de la gama Flash y cuesta 1,50 dólares por millón de tokens de entrada y 7,50 por millón de salida, con un contexto de un millón de tokens. Según las pruebas de la propia Google, supera ligeramente a Gemini 4 Argon en el índice de Artificial Analysis y triplica a Gemini 3.8 Flash en Terminal-Bench. Ya está disponible en la API, AI Studio, la app de Gemini, el buscador y Antigravity.</description>
+</item>
+<item>
+<title>[IA] Anthropic declara en su folleto de salida a bolsa que ya ha alcanzado su umbral de investigación acelerada por IA</title>
+<link>https://thenextweb.com/news/anthropic-ai-research-threshold-metr-ipo-filing</link>
+<guid isPermaLink="false">2026-11-12-anthropic-umbral-investigacion-acelerada</guid>
+<pubDate>Thu, 12 Nov 2026 18:15:00 +0100</pubDate>
+<category>IA</category>
+<description>La versión corregida del documento que Anthropic ha presentado ante el regulador bursátil afirma que la empresa considera cumplido el umbral de su política de escalado responsable que se refiere a que la IA acelere de forma drástica su propia investigación. La decisión se basa en lo que espera de sus próximos modelos, no de los actuales. Los fundadores advierten a los inversores de que podrían frenar el desarrollo aunque eso les cueste ventaja competitiva.</description>
+</item>
+<item>
+<title>[IA] Empresas chinas de IA se apresuran a alquilar GPU de Nvidia fuera de China antes de una posible nueva norma de EE. UU.</title>
+<link>https://www.forbes.com/sites/jonmarkman/2026/11/12/chinese-ai-firms-rush-to-rent-nvidia-chips-abroad-before-a-new-us-rule/</link>
+<guid isPermaLink="false">2026-11-12-china-alquila-gpu-nvidia-extranjero</guid>
+<pubDate>Thu, 12 Nov 2026 15:39:00 +0100</pubDate>
+<category>IA</category>
+<description>Según Reuters, que cita a fuentes anónimas, varias compañías chinas están reservando capacidad de cálculo en centros de datos de otros países por miedo a que el escándalo de Huang acelere nuevas restricciones. The Information informa, sin confirmación oficial, de que el Departamento de Comercio prepara una norma para impedir ese acceso remoto en países como Singapur, Malasia o Brasil. Los centros de datos de empresas estadounidenses quedarían exentos si bloquean el acceso desde China y Rusia.</description>
+</item>
+<item>
+<title>[IA] Jensen Huang dimite como consejero delegado de Nvidia; Colette Kress asume el cargo de forma interina</title>
+<link>https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm</link>
+<guid isPermaLink="false">2026-11-12-nvidia-huang-dimite-kress-interina</guid>
+<pubDate>Thu, 12 Nov 2026 14:00:00 +0100</pubDate>
+<category>IA</category>
+<description>El consejo de Nvidia ha comunicado que Jensen Huang deja con efecto inmediato la presidencia ejecutiva, el puesto de consejero delegado y su asiento en el consejo, tras el escándalo por sus relaciones personales y los presuntos vínculos de una de ellas con el espionaje chino. La directora financiera, Colette Kress, dirigirá la empresa de forma interina sin dejar su puesto mientras se busca un sustituto, y Harvey C. Jones, antiguo jefe de Synopsys, pasa a ser el primer presidente del consejo. Nvidia mantiene la presentación de sus resultados trimestrales para el 17 de noviembre.</description>
+</item>
 <item>
 <title>[IA] La salida a bolsa de Anthropic recibe varias veces más demanda de la que ofrece al arrancar la ronda con inversores</title>
 <link>https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed</link>
@@ -15,6 +55,14 @@
 <pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Según Bloomberg, que cita a personas conocedoras de la operación, las peticiones de compra ya multiplican las acciones disponibles nada más empezar la presentación a inversores. Anthropic ha fijado un rango de 70 a 78 dólares por acción para cotizar en el Nasdaq con el símbolo ANT, y prevé estrenarse en bolsa hacia el 19 de noviembre. En lo alto del rango, la oferta rondaría los 64.400 millones de dólares.</description>
+</item>
+<item>
+<title>[IA] Google DeepMind presenta AlphaGenome 2, que predice el efecto de las mutaciones según el tipo de célula</title>
+<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
+<guid isPermaLink="false">2026-11-11-deepmind-alphagenome-2</guid>
+<pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
+<category>IA</category>
+<description>La nueva versión del modelo de ADN recibe como entrada un tejido, tipo o estado celular concreto y calcula cómo afecta una variante genética en ese contexto. DeepMind asegura que localiza casi el doble de variantes que alteran la expresión de genes que el mejor modelo anterior, tras entrenarse con más de 100 millones de perfiles de células individuales. Se ofrece gratis para investigación no comercial a través de su API y no está validado para uso clínico.</description>
 </item>
 <item>
 <title>[IA] El folleto corregido de Anthropic revela que su contrato de 35.000 millones con Lambda ya se puede cancelar</title>
@@ -271,102 +319,6 @@
 <pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Baidu ha liberado los pesos de ERNIE 5.5 Flash Base, un modelo de mezcla de expertos con 280.000 millones de parámetros y unos 14.000 millones activos por token. Es la versión base, sin ajuste para seguir instrucciones, para que los desarrolladores la adapten a sus necesidades.</description>
-</item>
-<item>
-<title>[IA] Perplexity presenta Teammates, agentes que trabajan de forma continua en tareas de empresa</title>
-<link>https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/</link>
-<guid isPermaLink="false">2026-11-06-perplexity-teammates</guid>
-<pubDate>Fri, 06 Nov 2026 01:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Perplexity estrena Teammates, agentes siempre activos que pueden llevar varios encargos a la vez, vigilar cambios y colaborar entre sí usando los proyectos y permisos de Perplexity Computer. El usuario puede revisar lo que hacen y reconducirlos. De momento solo están en la web para el plan Max, de 200 dólares al mes.</description>
-</item>
-<item>
-<title>[IA] Airbnb lanzará un agente de viajes con IA en el primer semestre de 2027</title>
-<link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
-<guid isPermaLink="false">2026-11-05-airbnb-agente-viajes-ia-2027</guid>
-<pubDate>Thu, 05 Nov 2026 23:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Brian Chesky ha anunciado al presentar resultados que Airbnb tendrá un agente de IA que, en lugar de limitarse a responder por chat, montará mapas, fotos y comparativas a partir de lo que pida el usuario. También servirá para cambiar reservas o resolver problemas durante la estancia.</description>
-</item>
-<item>
-<title>[IA] METR calcula que Anthropic avanza en IA al doble de ritmo que antes, pero tacha casi todas sus pruebas</title>
-<link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
-<guid isPermaLink="false">2026-11-05-metr-anthropic-ritmo-doble</guid>
-<pubDate>Thu, 05 Nov 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El evaluador independiente METR ha publicado un informe tras revisar datos internos de Anthropic entre agosto y finales de octubre, y estima que la compañía progresa aproximadamente el doble de rápido que antes, en buena parte porque sus propias herramientas de IA ayudan a programar y analizar experimentos. La mayor parte de las pruebas que METR consideraba más reveladoras aparecen censuradas; Anthropic lo justifica para no dar pistas a la competencia.</description>
-</item>
-<item>
-<title>[IA] Google invertirá 17.000 millones en su primer centro de datos en Wyoming, alimentado con pilas de combustible y captura de carbono</title>
-<link>https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html</link>
-<guid isPermaLink="false">2026-11-05-google-wyoming-17000-millones</guid>
-<pubDate>Thu, 05 Nov 2026 21:45:00 +0100</pubDate>
-<category>IA</category>
-<description>Google ha anunciado un campus de centros de datos de 17.000 millones de dólares en el condado de Laramie, el primero que tendrá en Wyoming. La energía vendrá en buena parte de una planta de pilas de combustible de Bloom Energy con captura de carbono, y la empresa asegura que pagará su electricidad y las mejoras de la red. Llega justo cuando crecen en EE. UU. las amenazas de poner límites a estas instalaciones.</description>
-</item>
-<item>
-<title>[IA] Unos 600.000 chips H200 de Nvidia se acumulan en Hong Kong porque Pekín no autoriza su entrada, según Reuters</title>
-<link>https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/</link>
-<guid isPermaLink="false">2026-11-05-nvidia-h200-hong-kong-pekin</guid>
-<pubDate>Thu, 05 Nov 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Aunque Washington permite vender el H200 a clientes chinos aprobados, Pekín no ha dado el visto bueno para importarlos a gran escala y unos 600.000 están almacenados en Hong Kong, según dos fuentes citadas por Reuters. ByteDance y Tencent solo habrían recibido unos 10.000 cada una, y los reguladores han pedido a las empresas que dejen la mayor parte allí. Mientras, el precio de un servidor H200 en China se ha triplicado en un año.</description>
-</item>
-<item>
-<title>[IA] Anthropic lanza Personal Finance: Claude podrá consultar tus cuentas bancarias en modo solo lectura</title>
-<link>https://claude.com/resources/articles/introducing-personal-finance-in-claude</link>
-<guid isPermaLink="false">2026-11-05-claude-personal-finance</guid>
-<pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic ha abierto en beta una sección de finanzas personales en Claude que se conecta a bancos y tarjetas a través de Plaid para explicar gastos, recibos y saldos. El acceso es solo de lectura: Claude ve saldos, límites y hasta dos años de movimientos, pero no puede mover ni invertir dinero, y esas conversaciones no se usan para entrenar. De momento llega poco a poco a los planes Pro, Max y Ultra en Estados Unidos.</description>
-</item>
-<item>
-<title>[IA] Thinking Machines lanza Inkling 2 Small, un modelo de 594.000 millones de parámetros pensado para agentes</title>
-<link>https://thinkingmachines.ai/news/inkling-2-small/</link>
-<guid isPermaLink="false">2026-11-05-thinking-machines-inkling-2-small</guid>
-<pubDate>Thu, 05 Nov 2026 19:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El laboratorio de Mira Murati presenta Inkling 2 Small, un modelo de mezcla de expertos con 594.000 millones de parámetros, de los que solo unos 17.000 millones se activan en cada petición, orientado a programación, tareas visuales y trabajo autónomo. Por ahora solo se puede usar a través de su plataforma Tinker; los pesos descargables llegarán cuando terminen más pruebas de seguridad.</description>
-</item>
-<item>
-<title>[IA] OpenAI presenta GPT-6 Cyber, un modelo para investigar vulnerabilidades reservado a equipos de seguridad aprobados</title>
-<link>https://openai.com/index/introducing-gpt-6-cyber/</link>
-<guid isPermaLink="false">2026-11-05-openai-gpt-6-cyber</guid>
-<pubDate>Thu, 05 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha lanzado GPT-6 Cyber, una variante de GPT-6 Astra para buscar y explotar fallos de software que solo podrán usar los miembros de su programa Daybreak Red. Según la empresa, en sus pruebas encontró 81 vulnerabilidades graves desconocidas en Firefox y creó exploits funcionales para 948 fallos del núcleo de Linux, ya comunicados a sus responsables. OpenAI lo clasifica con riesgo «crítico» en su marco de preparación y dice que casi nunca se sale del objetivo autorizado.</description>
-</item>
-<item>
-<title>[IA] Google lanza Gemini Omni 1.2 Flash: vídeos de hasta 15 segundos y un 30% más baratos</title>
-<link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-<guid isPermaLink="false">2026-11-05-gemini-omni-1-2-flash</guid>
-<pubDate>Thu, 05 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La nueva versión del modelo de vídeo de Google alarga los clips de 10 a 15 segundos y permite retocarlos con instrucciones sucesivas. También mejora la coherencia de personajes e imágenes de referencia y rebaja el precio un 30%, hasta 0,07 dólares por segundo de vídeo en 720p.</description>
-</item>
-<item>
-<title>[IA] Los chips de IA se desploman en bolsa por el miedo a una regulación más dura tras las elecciones en EE. UU.</title>
-<link>https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/</link>
-<guid isPermaLink="false">2026-11-05-chips-ia-caida-bolsa-midterms</guid>
-<pubDate>Thu, 05 Nov 2026 16:46:00 +0100</pubDate>
-<category>IA</category>
-<description>AMD llegó a caer un 13%, Intel un 8%, Nvidia un 7% y Broadcom un 6% en las primeras horas de la sesión del jueves. Los inversores temen que el nuevo Congreso, con mayoría demócrata en ambas cámaras, endurezca las normas sobre la IA y frene la construcción de centros de datos. La caída llegó pese a que AMD acababa de presentar los mejores resultados trimestrales de su historia.</description>
-</item>
-<item>
-<title>[IA] OpenAI promete pagar toda la electricidad de sus centros de datos y dejar de pedir confidencialidad a los cargos públicos</title>
-<link>https://www.androidheadlines.com/2026/11/openai-data-center-policy-community-compact.html</link>
-<guid isPermaLink="false">2026-11-05-openai-community-compact-centros-datos</guid>
-<pubDate>Thu, 05 Nov 2026 16:35:00 +0100</pubDate>
-<category>IA</category>
-<description>Tras el rechazo a los centros de datos en varias votaciones locales de las elecciones de esta semana, OpenAI ha publicado un «pacto comunitario» nacional. Se compromete a cubrir el coste completo de la energía y de las mejoras de red de las instalaciones que gestione, para que no lo paguen los vecinos, y a no firmar más acuerdos de confidencialidad con alcaldes y concejales que revisan los proyectos.</description>
-</item>
-<item>
-<title>[IA] Anthropic firma con Associated Press su primer acuerdo de licencia con un medio, según Adweek</title>
-<link>https://dataconomy.com/2026/11/05/anthropic-signs-first-content-licensing-deal-with/</link>
-<guid isPermaLink="false">2026-11-05-anthropic-acuerdo-associated-press</guid>
-<pubDate>Thu, 05 Nov 2026 11:37:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic habría cerrado poco antes de las elecciones de mitad de mandato un acuerdo para usar datos y noticias de AP, lo que explica que Claude mostrara resultados electorales atribuidos a la agencia. Es la primera licencia de este tipo para Anthropic, mientras OpenAI ya tiene más de una docena. La información procede de fuentes anónimas; ninguna de las dos empresas lo ha confirmado ni se conocen las condiciones.</description>
 </item>
 
 </channel>
