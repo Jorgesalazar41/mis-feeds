@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 13 Nov 2026 07:57:35 +0100</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 07:53:49 +0100</lastBuildDate>
 
+<item>
+<title>[IA] La FAA investiga si un nuevo sistema de IA contribuyó a la parada de vuelos en todo EE. UU.</title>
+<link>https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/</link>
+<guid isPermaLink="false">2026-11-13-faa-ia-parada-vuelos</guid>
+<pubDate>Fri, 13 Nov 2026 22:57:00 +0000</pubDate>
+<category>IA</category>
+<description>Un fallo de comunicaciones en los centros de control aéreo obligó el viernes a detener los despegues en aeropuertos de todo el país. Las autoridades estudian si tuvo algo que ver SMART, una herramienta de la FAA que usa datos en tiempo real para ajustar rutas y que empezó a desplegarse en septiembre. El secretario de Seguridad Nacional, Markwayne Mullin, lo describió como un problema de telecomunicaciones sin amenaza para el público; no está confirmado que la IA fuera la causa.</description>
+</item>
+<item>
+<title>[IA] Un análisis apunta a que los mejores modelos abiertos chinos se entrenaron con chips Blackwell de Nvidia prohibidos para China</title>
+<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
+<guid isPermaLink="false">2026-11-13-chips-blackwell-modelos-chinos</guid>
+<pubDate>Fri, 13 Nov 2026 18:40:00 +0000</pubDate>
+<category>IA</category>
+<description>Will DePue, de la organización Unemployment Labs, estudió los pesos de modelos abiertos de DeepSeek, Moonshot, MiniMax y Ant Group y encontró señales de que Kimi K3 y DeepSeek V4 se entrenaron con chips Blackwell, cuya venta a China está vetada. No prueba que se infringiera la ley, porque pudieron usarse centros de datos fuera de China. A la vez, Bloomberg informa de que una empresa vinculada a Alice Huang habría llevado chips prohibidos a un centro de datos de Shanghái, algo que TechCrunch no ha verificado por su cuenta.</description>
+</item>
+<item>
+<title>[IA] EE. UU. se prepara para cerrar la vía por la que China alquila chips de Nvidia en centros de datos de otros países</title>
+<link>https://www.digitimes.com/news/a20261113VL214/ai-chip-data-center-usa-policy-nvidia-2027.html</link>
+<guid isPermaLink="false">2026-11-13-eeuu-acceso-remoto-chips</guid>
+<pubDate>Fri, 13 Nov 2026 10:04:00 +0800</pubDate>
+<category>IA</category>
+<description>Tras la victoria demócrata en ambas cámaras en las elecciones del 3 de noviembre, el Congreso y el Departamento de Comercio quieren endurecer los controles de exportación y centrarse en el acceso remoto a chips. Comercio trabaja para cerrar su propia norma sobre este tipo de alquiler. Según el Institute for Progress, el acceso remoto supone cerca de la mitad de la capacidad de cómputo estadounidense que Washington aún podría negar a China hasta finales de 2027.</description>
+</item>
 <item>
 <title>[IA] Cerebras supera previsiones en su tercer trimestre y eleva lo que espera ingresar en 2026</title>
 <link>https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm</link>
@@ -15,6 +39,22 @@
 <pubDate>Thu, 12 Nov 2026 22:05:00 +0100</pubDate>
 <category>IA</category>
 <description>El fabricante de chips para IA ingresó 230,9 millones de dólares en su negocio principal entre julio y septiembre, un 70% más que un año antes, con un fuerte tirón de sus servicios en la nube, aunque perdió 161 millones. Ahora calcula entre 940 y 960 millones de ingresos principales para todo 2026. Además, tiene contratados 700 MW de capacidad de centros de datos que se entregarán hasta finales de 2027.</description>
+</item>
+<item>
+<title>[IA] Notion confirma que el ataque a Fireworks AI expuso conversaciones de IA de menos del 1% de sus espacios de trabajo</title>
+<link>https://notion.com/help/security-incident-involving-a-third-party-ai-vendor</link>
+<guid isPermaLink="false">2026-11-12-notion-fireworks-brecha</guid>
+<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Unos atacantes que entraron en Fireworks AI, un proveedor de inferencia, pudieron acceder a transcripciones de chats de IA que Notion usaba en su función Insights. Notion calcula que afecta a menos del 1% de los espacios de trabajo, ha desactivado Insights y ha cortado su relación con Fireworks.</description>
+</item>
+<item>
+<title>[IA] Cuatro organizaciones demandan a OpenAI, Google, Anthropic, Meta y SpaceX para frenar sus próximos modelos de IA</title>
+<link>https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development</link>
+<guid isPermaLink="false">2026-11-12-demanda-ong-frenar-modelos-frontera</guid>
+<pubDate>Thu, 12 Nov 2026 19:55:00 +0000</pubDate>
+<category>IA</category>
+<description>Irreplaceable, Public Citizen, Heat Initiative y Alliance for Secure AI han presentado una demanda civil en un tribunal de San Francisco contra cinco grandes empresas de IA. Piden una orden urgente que paralice los modelos de próxima generación hasta que las compañías demuestren que pueden mantenerlos bajo control humano, y argumentan que vulneran la ley californiana de competencia desleal. Por ahora son solo acusaciones de los demandantes; ningún juez se ha pronunciado.</description>
 </item>
 <item>
 <title>[IA] Google lanza Gemini 4 Hydrogen, un modelo rápido y barato pensado para agentes</title>
@@ -39,6 +79,14 @@
 <pubDate>Thu, 12 Nov 2026 15:39:00 +0100</pubDate>
 <category>IA</category>
 <description>Según Reuters, que cita a fuentes anónimas, varias compañías chinas están reservando capacidad de cálculo en centros de datos de otros países por miedo a que el escándalo de Huang acelere nuevas restricciones. The Information informa, sin confirmación oficial, de que el Departamento de Comercio prepara una norma para impedir ese acceso remoto en países como Singapur, Malasia o Brasil. Los centros de datos de empresas estadounidenses quedarían exentos si bloquean el acceso desde China y Rusia.</description>
+</item>
+<item>
+<title>[IA] AMD amplía su familia Instinct MI400 con el MI430X, una GPU para supercomputación que no llegará hasta 2027</title>
+<link>https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/</link>
+<guid isPermaLink="false">2026-11-12-amd-instinct-mi430x</guid>
+<pubDate>Thu, 12 Nov 2026 06:00:00 -0800</pubDate>
+<category>IA</category>
+<description>AMD presenta el Instinct MI430X, con 432 GB de memoria HBM4 y orientado a la computación científica de doble precisión, que la empresa presenta como la GPU más rápida en FP64. También ha dado resultados de inferencia del MI455X en su sistema de rack Helios que, según la propia AMD, superan los últimos datos publicados por Nvidia; Nvidia no los ha confirmado. El MI430X no estará a la venta hasta 2027.</description>
 </item>
 <item>
 <title>[IA] Jensen Huang dimite como consejero delegado de Nvidia; Colette Kress asume el cargo de forma interina</title>
@@ -255,70 +303,6 @@
 <pubDate>Sat, 07 Nov 2026 10:00:00 +0100</pubDate>
 <category>IA</category>
 <description>El consejero delegado de Microchip, Steve Sanghi, explicó que la demanda de IA está ocupando las fábricas externas de montaje y prueba de chips, lo que retrasa los pedidos de otros clientes y alarga mucho los plazos de entrega. Las acciones de la empresa cayeron en torno a un 10% tras sus comentarios.</description>
-</item>
-<item>
-<title>[IA] Los dueños de la música de Elvis y la editorial de Eminem demandan a Suno por clonar voces con IA</title>
-<link>https://variety.com/2026/music/news/elvis-eminem-sue-suno-ai-music-generator-1236941798/</link>
-<guid isPermaLink="false">2026-11-06-suno-demanda-elvis-eminem</guid>
-<pubDate>Fri, 06 Nov 2026 21:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Los titulares de los derechos de Elvis Presley y la editorial musical de Eminem han presentado demandas en un tribunal federal de California contra el generador de canciones Suno. Le acusan de imitar las voces y las obras de los artistas sin permiso; la demanda de Presley se apoya además en la ley ELVIS de Tennessee, que protege la voz frente a la clonación.</description>
-</item>
-<item>
-<title>[IA] Google DeepMind usa agentes de IA para encontrar dos debilidades en el cifrado RSA de 1024 bits</title>
-<link>https://officechai.com/ai/google-deepmind-says-it-has-used-ai-agents-to-break-legacy-rsa-1024-encryption-faster-than-anyone-thought-possible/</link>
-<guid isPermaLink="false">2026-11-06-deepmind-agentes-rsa-1024</guid>
-<pubDate>Fri, 06 Nov 2026 19:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Trabajando con los criptógrafos Nadia Heninger y Emmanuel Thomé, los agentes de DeepMind hallaron dos formas de atacar con mucho menos coste el RSA de 1024 bits, un estándar antiguo que todavía sigue en uso en algunos sistemas. Según la compañía, el RSA de 2048 bits no se ve afectado, y el trabajo sirve para mostrar cómo la IA puede acelerar las pruebas de resistencia de la criptografía.</description>
-</item>
-<item>
-<title>[IA] El Departamento de Justicia de EE. UU. crea un grupo especial contra el mal uso de la IA avanzada</title>
-<link>https://www.nextgov.com/artificial-intelligence/2026/11/department-justice-forms-ai-task-force/417074/</link>
-<guid isPermaLink="false">2026-11-06-doj-super-intelligence-task-force</guid>
-<pubDate>Fri, 06 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El fiscal general Todd Blanche ha anunciado la Super Intelligence Task Force, que perseguirá a Estados extranjeros, redes criminales y empresas que usen la IA avanzada de forma indebida. Absorbe la sección de litigios sobre IA que ya existía y el departamento pide a las compañías que mantengan salvaguardas contra el abuso de sus modelos.</description>
-</item>
-<item>
-<title>[IA] OpenAI seguirá construyendo centros de datos en EE. UU. pese al rechazo en las elecciones de mitad de mandato</title>
-<link>https://www.reuters.com/business/retail-consumer/openai-press-ahead-data-center-expansion-despite-midterm-sweep-cfo-tells-cnbc-2026-11-06/</link>
-<guid isPermaLink="false">2026-11-06-openai-friar-centros-datos-midterms</guid>
-<pubDate>Fri, 06 Nov 2026 17:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La directora financiera de OpenAI, Sarah Friar, dijo en CNBC que la empresa mantendrá su plan de centros de datos en EE. UU. aunque los votantes hayan respaldado límites a estas instalaciones en muchas consultas locales. También negó que OpenAI busque apoyo del Gobierno para financiar su infraestructura y aseguró que dejará de firmar acuerdos de confidencialidad con autoridades locales al elegir ubicaciones.</description>
-</item>
-<item>
-<title>[IA] Mistral convierte Studio en una plataforma de agentes gestionados para empresas</title>
-<link>https://x.com/MistralAI/status/2118370229466153299</link>
-<guid isPermaLink="false">2026-11-06-mistral-studio-agentes-gestionados</guid>
-<pubDate>Fri, 06 Nov 2026 15:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La empresa francesa abre en vista previa pública los agentes gestionados de Mistral Studio, con un SDK de agentes, un editor visual de flujos de trabajo y una herramienta de línea de comandos para apps. Los agentes se conectan a los sistemas de la empresa y se pueden supervisar; las versiones para nube privada e instalación local llegarán a finales de noviembre.</description>
-</item>
-<item>
-<title>[IA] Más de un centenar de activistas irrumpen en la obra de un centro de datos de Microsoft en Ámsterdam</title>
-<link>https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam</link>
-<guid isPermaLink="false">2026-11-06-microsoft-amsterdam-protesta-centro-datos</guid>
-<pubDate>Fri, 06 Nov 2026 14:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Los manifestantes entraron en el solar donde Microsoft construye un centro de datos en la zona de Sloterdijk, dentro de una jornada de protestas coordinadas en varios países europeos contra el consumo de agua y energía de estas instalaciones. La policía neerlandesa detuvo a numerosos participantes; las cifras varían según la fuente.</description>
-</item>
-<item>
-<title>[IA] Northampton (Massachusetts) aprueba por unanimidad una moratoria de un año a los centros de datos de IA</title>
-<link>https://gazettenet.com/2026/11/06/northampton-city-council-unanimously-approves-yearlong-moratorium-on-ai-data-centers/</link>
-<guid isPermaLink="false">2026-11-06-northampton-moratoria-centros-datos</guid>
-<pubDate>Fri, 06 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El consejo municipal votó sin ningún voto en contra frenar durante un año los nuevos centros de datos de IA y de servidores, y rechazó una excepción para instalaciones pequeñas. Es una más de las limitaciones locales que se están multiplicando en EE. UU. tras las elecciones de esta semana.</description>
-</item>
-<item>
-<title>[IA] Baidu publica en abierto ERNIE 5.5 Flash Base, un modelo de 280.000 millones de parámetros</title>
-<link>https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/</link>
-<guid isPermaLink="false">2026-11-06-baidu-ernie-5-5-flash-base</guid>
-<pubDate>Fri, 06 Nov 2026 10:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Baidu ha liberado los pesos de ERNIE 5.5 Flash Base, un modelo de mezcla de expertos con 280.000 millones de parámetros y unos 14.000 millones activos por token. Es la versión base, sin ajuste para seguir instrucciones, para que los desarrolladores la adapten a sus necesidades.</description>
 </item>
 
 </channel>
