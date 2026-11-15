@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 14 Nov 2026 07:53:49 +0100</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 07:57:20 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia readmita a Jensen Huang</title>
+<link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
+<guid isPermaLink="false">2026-11-14-peticion-readmitir-huang</guid>
+<pubDate>Sat, 14 Nov 2026 21:41:00 +0000</pubDate>
+<category>IA</category>
+<description>Una petición en internet reclama a la junta de Nvidia que devuelva el puesto a Huang mientras la investigación independiente aclara los hechos, porque considera que salió sin garantías suficientes. El sábado superaba las 115.000 firmas; entre los apoyos conocidos están Elon Musk, Amjad Masad (Replit) y Tim Sweeney (Epic Games). El desglose de empleados y accionistas que la firman lo da la propia web de la petición y no está verificado.</description>
+</item>
+<item>
+<title>[IA] Gobiernos asiáticos reaccionan a la salida de Jensen Huang: Corea dice que Nvidia mantiene su envío de 260.000 GPU</title>
+<link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+<guid isPermaLink="false">2026-11-14-asia-reacciona-salida-huang</guid>
+<pubDate>Sat, 14 Nov 2026 16:34:00 +0000</pubDate>
+<category>IA</category>
+<description>Corea del Sur asegura que Nvidia le ha confirmado el suministro previsto de 260.000 GPU avanzadas, Taiwán cree que la marcha de Huang no frenará al sector y mantiene en pie la futura sede de la empresa en Taipéi, y Japón vigilará la situación. Singapur sigue investigando a Megaspeed y a otras seis personas, mientras China rechaza las acusaciones de espionaje. Según una revisión de Reuters, proyectos chinos de IA por más de 3.000 millones que dependen de chips restringidos quedan en el aire.</description>
+</item>
+<item>
+<title>[IA] La Casa Blanca no piensa sacar el escándalo de Nvidia en la cumbre de Trump con Xi, pese a la presión del Congreso</title>
+<link>https://abcnews.com/US/wireStory/nvidia-scandal-heightening-americas-ai-rivalry-china-ahead-138135792</link>
+<guid isPermaLink="false">2026-11-14-nvidia-escandalo-cumbre-trump-xi</guid>
+<pubDate>Sat, 14 Nov 2026 05:17:00 +0000</pubDate>
+<category>IA</category>
+<description>Trump viaja la semana que viene a China para reunirse con Xi Jinping y, según altos cargos citados por AP, no tiene previsto plantearle el caso Nvidia. Mientras, varios congresistas demócratas han pedido explicaciones al secretario de Comercio, Howard Lutnick, y que se paren de inmediato las exportaciones de chips avanzados a China. La versión del Senado de la ley de defensa incluye que el Congreso revise las licencias de venta de estos chips.</description>
+</item>
 <item>
 <title>[IA] La FAA investiga si un nuevo sistema de IA contribuyó a la parada de vuelos en todo EE. UU.</title>
 <link>https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/</link>
@@ -23,6 +47,30 @@
 <pubDate>Fri, 13 Nov 2026 18:40:00 +0000</pubDate>
 <category>IA</category>
 <description>Will DePue, de la organización Unemployment Labs, estudió los pesos de modelos abiertos de DeepSeek, Moonshot, MiniMax y Ant Group y encontró señales de que Kimi K3 y DeepSeek V4 se entrenaron con chips Blackwell, cuya venta a China está vetada. No prueba que se infringiera la ley, porque pudieron usarse centros de datos fuera de China. A la vez, Bloomberg informa de que una empresa vinculada a Alice Huang habría llevado chips prohibidos a un centro de datos de Shanghái, algo que TechCrunch no ha verificado por su cuenta.</description>
+</item>
+<item>
+<title>[IA] LangChain recauda 300 millones de dólares y triplica su valoración hasta 3.000 millones</title>
+<link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+<guid isPermaLink="false">2026-11-13-langchain-serie-c</guid>
+<pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La empresa de herramientas para crear y supervisar agentes de IA ha cerrado una ronda Serie C liderada por CapitalG, el fondo de crecimiento de Alphabet, con entrada de GIC, Salesforce Ventures y MongoDB Ventures, entre otros. Hace algo más de un año valía 1.250 millones. Dice que más de 7.000 organizaciones usan su plataforma LangSmith.</description>
+</item>
+<item>
+<title>[IA] OpenAI disuelve su equipo independiente de robótica y reparte a sus investigadores, según Fortune</title>
+<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/</link>
+<guid isPermaLink="false">2026-11-13-openai-disuelve-equipo-robotica</guid>
+<pubDate>Fri, 13 Nov 2026 17:05:00 +0000</pubDate>
+<category>IA</category>
+<description>Según una exclusiva de Fortune, la investigación en robótica pasa a depender del director de investigación, Mark Chen, y los grupos aplicados y de hardware se integran en la división que dirige Greg Brockman. No ha habido despidos y OpenAI sostiene que la robótica sigue siendo parte central de su visión a largo plazo, porque sus modelos generales ya empiezan a controlar robots.</description>
+</item>
+<item>
+<title>[IA] OpenAI lanza ChatGPT Wallet para que sus agentes compren por el usuario</title>
+<link>https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html</link>
+<guid isPermaLink="false">2026-11-13-chatgpt-wallet</guid>
+<pubDate>Fri, 13 Nov 2026 16:46:00 +0000</pubDate>
+<category>IA</category>
+<description>Los agentes «dots» de ChatGPT ya pueden pagar compras con tarjetas American Express, Mastercard y Visa, usando un token en lugar del número real de la tarjeta. Cada compra la confirma el usuario con huella o Face ID. De momento solo está disponible para suscriptores Pro mayores de edad en EE. UU., y OpenAI avisa de que algunas tiendas pueden bloquear a los agentes.</description>
 </item>
 <item>
 <title>[IA] EE. UU. se prepara para cerrar la vía por la que China alquila chips de Nvidia en centros de datos de otros países</title>
@@ -287,22 +335,6 @@
 <pubDate>Sun, 08 Nov 2026 11:00:00 +0100</pubDate>
 <category>IA</category>
 <description>Es un rumor: según Mark Gurman, de Bloomberg, John Ternus impulsa dentro de Apple una Siri capaz de encargarse de tareas completas por su cuenta, que podría llegar ya el año que viene. Apple no ha confirmado nada.</description>
-</item>
-<item>
-<title>[IA] EE. UU. dio licencias para chips H200 de Nvidia a empresas chinas con oficinas vacías, según The New York Times</title>
-<link>https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</link>
-<guid isPermaLink="false">2026-11-07-nyt-h200-empresas-oficinas-vacias</guid>
-<pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Una investigación de The New York Times revela que varias de las empresas chinas a las que el Departamento de Comercio autorizó a recibir chips H200 tienen oficinas sin actividad o vínculos con compañías vetadas por Washington, como New Matrix en Pekín. El reportaje ha llevado a legisladores de ambos partidos a pedir que se revise cómo se conceden estas licencias.</description>
-</item>
-<item>
-<title>[IA] Microchip avisa de que los clientes de IA están acaparando la capacidad de encapsulado y prueba de chips</title>
-<link>https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/</link>
-<guid isPermaLink="false">2026-11-07-microchip-ia-acapara-encapsulado</guid>
-<pubDate>Sat, 07 Nov 2026 10:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El consejero delegado de Microchip, Steve Sanghi, explicó que la demanda de IA está ocupando las fábricas externas de montaje y prueba de chips, lo que retrasa los pedidos de otros clientes y alarga mucho los plazos de entrega. Las acciones de la empresa cayeron en torno a un 10% tras sus comentarios.</description>
 </item>
 
 </channel>
