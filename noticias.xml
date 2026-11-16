@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 15 Nov 2026 07:57:20 +0100</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 07:55:19 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Jensen Huang tantea con sus aliados volver como consejero delegado de Nvidia, según el Financial Times</title>
+<link>https://thenextweb.com/news/jensen-huang-is-discussing-a-return-to-nvidia-ft-reports</link>
+<guid isPermaLink="false">2026-11-15-huang-tantea-regreso-nvidia</guid>
+<pubDate>Sun, 15 Nov 2026 20:22:00 +0000</pubDate>
+<category>IA</category>
+<description>Rumor: según fuentes del Financial Times, Huang ha hablado con personas de su confianza sobre un posible regreso al cargo pocos días después de su salida; ni él ni Nvidia lo han confirmado. Dos inversores de la compañía, Brad Gerstner (Altimeter) y Gavin Baker (Atreides), han pedido por carta a la junta una búsqueda de sucesor pausada que no descarte su vuelta. Nvidia presenta resultados este martes con Colette Kress como consejera delegada interina.</description>
+</item>
+<item>
+<title>[IA] EE. UU. y nueve países firman la Declaración de San Francisco para proteger la cadena de suministro de la IA</title>
+<link>https://www.tribuneindia.com/news/usa-news/us-india-and-8-other-nations-sign-san-francisco-declaration-to-secure-super-intelligence-supply-chains-ahead-of-quad-summit</link>
+<guid isPermaLink="false">2026-11-15-declaracion-san-francisco-pax-silica</guid>
+<pubDate>Sun, 15 Nov 2026 20:00:00 +0000</pubDate>
+<category>IA</category>
+<description>El acuerdo se firmó el domingo en un encuentro de la iniciativa Pax Silica organizado por el Departamento de Estado, con Australia, India, Israel, Japón, Corea del Sur, Catar, Singapur, Emiratos y Reino Unido junto a EE. UU. Busca reforzar la seguridad de tecnologías sensibles e infraestructuras como redes, puertos, energía y plataformas digitales, y plantea crear cinco grupos de trabajo. Llega justo antes del viaje de Trump a China.</description>
+</item>
+<item>
+<title>[IA] Bessent pide una «sacudida drástica» en Nvidia y un consejero delegado de fuera</title>
+<link>https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/</link>
+<guid isPermaLink="false">2026-11-15-bessent-sacudida-nvidia</guid>
+<pubDate>Sun, 15 Nov 2026 19:51:00 +0000</pubDate>
+<category>IA</category>
+<description>El secretario del Tesoro dijo en Fox News que, si Nvidia fuera un banco, muchos de sus directivos ya habrían sido apartados, y que la junta debería buscar al nuevo jefe fuera de la empresa. Puso el foco en si Nvidia tenía una cultura de cumplimiento de los controles de exportación, más que en el papel de Alice Huang. También recordó que el Tesoro llevaba meses a favor de vetar a Megaspeed, una decisión que corresponde a Comercio; Nvidia no respondió a Fortune.</description>
+</item>
+<item>
+<title>[IA] El New York Times vincula la postura de Lutnick sobre los chips de Nvidia con clientes de Cantor Fitzgerald</title>
+<link>https://shiftdelete.net/en/howard-lutnick-chip-rules</link>
+<guid isPermaLink="false">2026-11-15-nyt-lutnick-cantor-chips</guid>
+<pubDate>Sun, 15 Nov 2026 19:18:00 +0000</pubDate>
+<category>IA</category>
+<description>Según una investigación del NYT, el secretario de Comercio defendió reglas más suaves para los centros de datos fuera de China que alquilan potencia de cálculo a empresas chinas, y algunos de esos operadores, como Bitdeer, son clientes de Cantor, la firma que dirigió antes de cedérsela a sus hijos. El diario no encontró pruebas de que esos negocios influyeran en sus decisiones, y Comercio asegura que Lutnick ha cumplido sus compromisos éticos. Que el centro de Bitdeer en Malasia vaya a dar servicio a Tencent se apoya en una sola fuente anónima.</description>
+</item>
 <item>
 <title>[IA] Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia readmita a Jensen Huang</title>
 <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
@@ -23,6 +55,14 @@
 <pubDate>Sat, 14 Nov 2026 16:34:00 +0000</pubDate>
 <category>IA</category>
 <description>Corea del Sur asegura que Nvidia le ha confirmado el suministro previsto de 260.000 GPU avanzadas, Taiwán cree que la marcha de Huang no frenará al sector y mantiene en pie la futura sede de la empresa en Taipéi, y Japón vigilará la situación. Singapur sigue investigando a Megaspeed y a otras seis personas, mientras China rechaza las acusaciones de espionaje. Según una revisión de Reuters, proyectos chinos de IA por más de 3.000 millones que dependen de chips restringidos quedan en el aire.</description>
+</item>
+<item>
+<title>[IA] Stanford presenta Memorilla, una memoria que resume colecciones enteras de documentos en 16 tokens</title>
+<link>https://memory.stanford.edu/</link>
+<guid isPermaLink="false">2026-11-14-stanford-memorilla</guid>
+<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Investigadores de Stanford y otros centros han publicado un módulo que lee todos los documentos y le pasa a un modelo congelado, Qwen3-8B, solo 16 tokens de memoria por pregunta. Según sus autores, logra la mejor media en ocho pruebas usando cientos de veces menos texto que el contexto completo y respondiendo mucho más rápido. Es un trabajo aún sin revisión por pares, y reconocen que puede perder nombres exactos y que hay que entrenarlo para cada modelo.</description>
 </item>
 <item>
 <title>[IA] La Casa Blanca no piensa sacar el escándalo de Nvidia en la cumbre de Trump con Xi, pese a la presión del Congreso</title>
@@ -295,46 +335,6 @@
 <pubDate>Mon, 09 Nov 2026 08:54:00 +0100</pubDate>
 <category>IA</category>
 <description>Las tres compañías firmaron en Seúl un memorando para que los procesadores neuronales R200 de la surcoreana Rebellions funcionen junto a las GPU de Nvidia, conectados mediante NVLink Fusion y montados en racks con el estándar MGX. El objetivo es tener el sistema en uso comercial en 2028. Que Samsung o SK hynix suministren la memoria del nuevo chip es por ahora solo un rumor del sector.</description>
-</item>
-<item>
-<title>[IA] La junta de Nvidia abre una investigación independiente tras admitir Jensen Huang una relación extramatrimonial</title>
-<link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-<guid isPermaLink="false">2026-11-08-nvidia-junta-investiga-huang</guid>
-<pubDate>Sun, 08 Nov 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Jensen Huang reconoció en una carta a la plantilla que fue infiel a su mujer, después de que se publicara que la inteligencia de EE. UU. cree que tuvo una relación con una exdirectiva de Megaspeed presuntamente captada por el espionaje chino; esa parte sigue sin confirmarse. Un comité de consejeros independientes, con abogados externos, revisará el caso, y la junta dice que no tiene motivos para pensar que se hayan filtrado secretos de Nvidia ni de seguridad nacional.</description>
-</item>
-<item>
-<title>[IA] Anthropic, a punto de salir a bolsa, sigue adelante con la presentación a inversores aunque tenga que aceptar una valoración menor, según el FT</title>
-<link>https://seekingalpha.com/article/4964841-wall-street-brunch-anthropic-ipo-goes-on-the-road</link>
-<guid isPermaLink="false">2026-11-08-anthropic-roadshow-ipo-ft</guid>
-<pubDate>Sun, 08 Nov 2026 17:50:00 +0100</pubDate>
-<category>IA</category>
-<description>Según el Financial Times, Anthropic mantiene esta semana el inicio de su ronda de presentaciones a inversores pese a la caída de las tecnológicas, con la idea de debutar antes de Acción de Gracias y captar entre 80.000 y 100.000 millones de dólares. La horquilla de valoración que se maneja va de 1,25 a 1,75 billones, lejos de los 2 billones que se esperaban hace un mes.</description>
-</item>
-<item>
-<title>[IA] Anthropic se asegura generadores de gas por 3.400 millones de dólares para alimentar sus centros de datos, según el FT</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says</link>
-<guid isPermaLink="false">2026-11-08-anthropic-generadores-gas-3400-millones</guid>
-<pubDate>Sun, 08 Nov 2026 13:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic ha cerrado un acuerdo de unos 3.400 millones de dólares para hacerse con 1,7 GW de generadores de gas de Caterpillar, aprovechando el turno de entrega que tenía reservado OnePWR, según adelantó el Financial Times. La compra refleja la carrera de las empresas de IA por conseguir electricidad propia en sus centros de datos sin esperar a la red.</description>
-</item>
-<item>
-<title>[IA] Amazon forma un nuevo equipo de robots domésticos en torno a Sprout, el humanoide de Fauna</title>
-<link>https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html</link>
-<guid isPermaLink="false">2026-11-08-amazon-robot-domestico-sprout</guid>
-<pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Cinco años después de Astro, que apenas llegó a unos miles de hogares, Amazon está contratando para un grupo de robótica personal construido alrededor de Sprout, el pequeño humanoide de Fauna Robotics, empresa que compró en marzo. La compañía no ha dado detalles del producto ni fechas, según CNBC.</description>
-</item>
-<item>
-<title>[IA] Rumor: Apple quiere que Siri funcione como un agente de IA autónomo a partir de 2027</title>
-<link>https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/</link>
-<guid isPermaLink="false">2026-11-08-rumor-siri-agente-2027</guid>
-<pubDate>Sun, 08 Nov 2026 11:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Es un rumor: según Mark Gurman, de Bloomberg, John Ternus impulsa dentro de Apple una Siri capaz de encargarse de tareas completas por su cuenta, que podría llegar ya el año que viene. Apple no ha confirmado nada.</description>
 </item>
 
 </channel>
