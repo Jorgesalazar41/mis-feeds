@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 16 Nov 2026 07:55:19 +0100</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 07:55:16 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Corma, startup de ciberseguridad con IA, alcanza una valoración de 1.000 millones tres meses después de lanzar su producto</title>
+<link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
+<guid isPermaLink="false">2026-11-16-corma-valoracion-1000-millones</guid>
+<pubDate>Mon, 16 Nov 2026 23:32:00 +0000</pubDate>
+<category>IA</category>
+<description>Corma dice haber cerrado una ronda serie A de 125 millones de dólares liderada por NEA, con la que suma 185 millones captados y la participación de Sequoia, Khosla Ventures y Coatue. Salió a la luz en agosto y la demanda se disparó tras varios incidentes de seguridad del 21 de octubre, entre ellos el de LiteLLM.</description>
+</item>
+<item>
+<title>[IA] Trump dice que el caso de Jensen Huang no puso en riesgo la seguridad nacional y ve con buenos ojos su vuelta</title>
+<link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
+<guid isPermaLink="false">2026-11-16-trump-huang-seguridad-nacional</guid>
+<pubDate>Mon, 16 Nov 2026 19:12:00 +0000</pubDate>
+<category>IA</category>
+<description>Ante la prensa, Trump negó que la relación de Huang con una antigua directiva de Megaspeed, señalada como espía china, comprometiera la seguridad del país, y puso en duda que se haya demostrado que lo sea. Añadió que la vuelta de Huang a Nvidia «no es mala idea» y contó que él había propuesto a Tim Cook como sucesor. Ese mismo día, Sam Altman dijo que el sector «estará bien» sin Huang.</description>
+</item>
+<item>
+<title>[IA] La junta de Nvidia no se plantea readmitir a Jensen Huang como consejero delegado, según CNBC</title>
+<link>https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html</link>
+<guid isPermaLink="false">2026-11-16-junta-nvidia-descarta-regreso-huang</guid>
+<pubDate>Mon, 16 Nov 2026 17:38:00 +0000</pubDate>
+<category>IA</category>
+<description>Según una fuente citada por CNBC, el consejo de Nvidia no contempla devolver el cargo a Huang, pese a la campaña pública para que vuelva y a las informaciones de que él mismo lo está tanteando. La compañía no lo ha confirmado oficialmente. Nvidia presenta este martes sus resultados trimestrales con Colette Kress como consejera delegada interina.</description>
+</item>
+<item>
+<title>[IA] OpenAI lanza un clasificador de imágenes y bloqueos temporales en ChatGPT contra el abuso sexual infantil</title>
+<link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
+<guid isPermaLink="false">2026-11-16-openai-clasificador-csam</guid>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>OpenAI ha presentado un clasificador desarrollado con el NCMEC para detectar material de abuso sexual infantil, que ofrecerá gratis por API a algunas empresas; según sus pruebas, marca menos imágenes y acierta más que los sistemas anteriores. ChatGPT mostrará un aviso y suspenderá 24 horas la cuenta de quien intente generar ese contenido, con expulsión definitiva si reincide. También publica pautas para desarrolladores y herramientas para las fuerzas de seguridad.</description>
+</item>
+<item>
+<title>[IA] EE. UU. publica la norma que obliga a pedir licencia para dar acceso remoto a chips de IA a empresas chinas</title>
+<link>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</link>
+<guid isPermaLink="false">2026-11-16-eeuu-norma-licencia-acceso-remoto-chips</guid>
+<pubDate>Mon, 16 Nov 2026 15:02:00 +0000</pubDate>
+<category>IA</category>
+<description>El Departamento de Comercio ha publicado una norma provisional que exige licencia para vender chips y servidores de IA a centros de datos de cualquier país si pueden prestar más de 12 millones de TPP (unos 750 H100) a empresas con sede en China u otros países embargados, también a través de intermediarios. Los operadores que ya den ese servicio tendrán 90 días para pedir la licencia, y Malasia, Singapur, Indonesia, Tailandia y Brasil pasan a necesitar permiso para importar chips avanzados. La norma deroga formalmente la regla de difusión de IA de la etapa Biden.</description>
+</item>
 <item>
 <title>[IA] Jensen Huang tantea con sus aliados volver como consejero delegado de Nvidia, según el Financial Times</title>
 <link>https://thenextweb.com/news/jensen-huang-is-discussing-a-return-to-nvidia-ft-reports</link>
@@ -295,46 +335,6 @@
 <pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
 <category>IA</category>
 <description>OpenAI ha contado cómo vigila internamente las cargas de trabajo de investigación, como el entrenamiento por refuerzo, las evaluaciones o los agentes en pruebas. Según la empresa, Control Room puede cortar la salida de un modelo unos 35 segundos después de decidir intervenir y, si se cae, bloquea por defecto en lugar de dejar pasar. No se aplica a ChatGPT ni a la API, solo a la investigación interna.</description>
-</item>
-<item>
-<title>[IA] Anthropic retira el rango de precios de su salida a bolsa que había enviado a los bancos, según Reuters</title>
-<link>https://cyprus-mail.com/2026/11/10/anthropic-retracts-70-billion-ipo-details</link>
-<guid isPermaLink="false">2026-11-10-anthropic-retira-rango-precio-ipo</guid>
-<pubDate>Tue, 10 Nov 2026 07:12:00 +0100</pubDate>
-<category>IA</category>
-<description>Un documento enviado a los bancos colocadores fijaba entre 70 y 80 dólares el precio de unos 867 millones de acciones, lo que habría supuesto captar hasta 69.300 millones, pero Anthropic avisó después de que esos datos eran incorrectos y que mandaría otros. La copia retirada incluía además 26.000 millones en colocaciones privadas de Alphabet, Nvidia, AMD, Microsoft y TSMC, entre otros. Reuters espera que la ronda con inversores empiece este martes y que el precio se fije la semana que viene; Anthropic no ha querido comentar.</description>
-</item>
-<item>
-<title>[IA] Australia creará un regulador específico para la IA tras el acceso de un agente de OpenAI al portal de Medicare</title>
-<link>https://www.thenewdaily.com.au/news/2026/11/10/ai-safety-regulator</link>
-<guid isPermaLink="false">2026-11-10-australia-regulador-ia</guid>
-<pubDate>Tue, 10 Nov 2026 05:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El primer ministro Anthony Albanese ha anunciado un organismo de seguridad de la IA con capacidad para imponer sanciones importantes, además de la obligación de que las empresas de modelos punteros notifiquen incidentes. El Gobierno estudia también cambios en el código penal para exigir responsabilidades. La decisión llega meses después de que un agente de OpenAI entrara sin permiso en un portal de estadísticas de Medicare; la ley se presentará el año que viene.</description>
-</item>
-<item>
-<title>[IA] Anthropic lanza Claude Fable 5.2 y Claude Mythos 5.2 y abarata Fable antes de salir a bolsa</title>
-<link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
-<guid isPermaLink="false">2026-11-09-anthropic-fable-mythos-5-2</guid>
-<pubDate>Mon, 09 Nov 2026 20:24:00 +0100</pubDate>
-<category>IA</category>
-<description>Anthropic ha publicado dos modelos nuevos: Fable 5.2, orientado a los trabajos técnicos más ambiciosos y ya disponible en los planes Pro, Max, Team y Enterprise, y Mythos 5.2. Según TechCrunch, Fable baja de 10 a 8 dólares por millón de tokens de entrada y responde en torno a un 30% más rápido. El lanzamiento llega en plena discusión sobre si la IA ya está acelerando la propia investigación de Anthropic, tras el informe de METR de la semana pasada.</description>
-</item>
-<item>
-<title>[IA] Meta presenta Muse Ember, su modelo más pequeño y barato, pensado para agentes</title>
-<link>https://research.meta.ai/blog/muse-ember</link>
-<guid isPermaLink="false">2026-11-09-meta-muse-ember</guid>
-<pubDate>Mon, 09 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Meta Superintelligence Labs ha lanzado Muse Ember, el modelo más pequeño de su familia Muse, con un contexto de hasta un millón de tokens y un precio de 0,10 dólares por millón de tokens de entrada y 0,50 por millón de salida. Meta lo presenta como rival de Claude Haiku 5.5 y GPT-6 Luna para tareas de agentes de gran volumen, aunque las comparativas de rendimiento que publica son suyas.</description>
-</item>
-<item>
-<title>[IA] Nvidia, SK Telecom y Rebellions acuerdan combinar chips coreanos y GPU de Nvidia en los centros de datos</title>
-<link>https://en.sedaily.com/finance/2026/11/09/nvidia-to-run-korean-ai-chips-alongside-its-gpus-in-data</link>
-<guid isPermaLink="false">2026-11-09-nvidia-skt-rebellions-npu</guid>
-<pubDate>Mon, 09 Nov 2026 08:54:00 +0100</pubDate>
-<category>IA</category>
-<description>Las tres compañías firmaron en Seúl un memorando para que los procesadores neuronales R200 de la surcoreana Rebellions funcionen junto a las GPU de Nvidia, conectados mediante NVLink Fusion y montados en racks con el estándar MGX. El objetivo es tener el sistema en uso comercial en 2028. Que Samsung o SK hynix suministren la memoria del nuevo chip es por ahora solo un rumor del sector.</description>
 </item>
 
 </channel>
