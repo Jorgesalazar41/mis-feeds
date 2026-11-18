@@ -6,8 +6,16 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/videos-claude.xml" rel="self" type="application/rss+xml"/>
 <description>Vídeos recientes de menos de 15 minutos del canal de YouTube de Claude (sin Shorts), con resumen en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 13 Nov 2026 07:57:35 +0100</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:54:20 +0100</lastBuildDate>
 
+<item>
+<title>A season on the farm with AI (3:12)</title>
+<link>https://www.youtube.com/watch?v=RRj07Hc3ikU</link>
+<guid isPermaLink="false">yt-RRj07Hc3ikU</guid>
+<pubDate>Tue, 17 Nov 2026 19:43:00 +0100</pubDate>
+<category>Claude</category>
+<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRj07Hc3ikU" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=RRj07Hc3ikU"><img src="https://i.ytimg.com/vi/RRj07Hc3ikU/hqdefault.jpg" alt="Miniatura"/></a></p><p>Martina Wanis, bióloga vienesa que cultiva boniatos en Eslovenia, cuenta cómo se apoyó en Claude durante toda una temporada en el campo.</p><p>Duración: 3:12 · <a href="https://www.youtube.com/watch?v=RRj07Hc3ikU">Ver en YouTube</a></p>]]></description>
+</item>
 <item>
 <title>Introducing Claude Meetings (1:03)</title>
 <link>https://www.youtube.com/watch?v=YUYeHMsqbmY</link>
@@ -159,14 +167,6 @@
 <pubDate>Wed, 07 Oct 2026 17:41:05 +0200</pubDate>
 <category>Claude</category>
 <description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ICGS7LlRfpI" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=ICGS7LlRfpI"><img src="https://i.ytimg.com/vi/ICGS7LlRfpI/hqdefault.jpg" alt="Miniatura"/></a></p><p>Resumen de las novedades de septiembre: el chat y Cowork pasan a ser un solo Claude, llegan documentos, presentaciones y diseños dentro de la conversación, el trabajo sigue en la nube con el portátil cerrado y salen los modelos 5.5.</p><p>Duración: 2:38 · <a href="https://www.youtube.com/watch?v=ICGS7LlRfpI">Ver en YouTube</a></p>]]></description>
-</item>
-<item>
-<title>Claude for Google Workspace™ (1:00)</title>
-<link>https://www.youtube.com/watch?v=idJQMJwHtyM</link>
-<guid isPermaLink="false">yt-idJQMJwHtyM</guid>
-<pubDate>Tue, 06 Oct 2026 19:02:37 +0200</pubDate>
-<category>Claude</category>
-<description><![CDATA[<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/idJQMJwHtyM" frameborder="0" allowfullscreen></iframe></p><p><a href="https://www.youtube.com/watch?v=idJQMJwHtyM"><img src="https://i.ytimg.com/vi/idJQMJwHtyM/hqdefault.jpg" alt="Miniatura"/></a></p><p>Claude dentro de Google Docs, Sheets y Slides con una sola instalación: lee el archivo que tienes abierto y lo edita directamente. En beta para planes de pago.</p><p>Duración: 1:00 · <a href="https://www.youtube.com/watch?v=idJQMJwHtyM">Ver en YouTube</a></p>]]></description>
 </item>
 
 </channel>

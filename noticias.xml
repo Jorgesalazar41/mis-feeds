@@ -6,8 +6,24 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 17 Nov 2026 07:55:16 +0100</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 07:54:20 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Nvidia deja de vender sus chips H200 en China tras la salida de Huang</title>
+<link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
+<guid isPermaLink="false">2026-11-17-nvidia-abandona-h200-china</guid>
+<pubDate>Tue, 17 Nov 2026 23:37:00 +0000</pubDate>
+<category>IA</category>
+<description>Colette Kress anunció en la presentación de resultados que Nvidia renuncia a vender el H200 en China, un acuerdo que habían cerrado Huang y Trump con un arancel del 25 % y que Pekín apenas había aceptado. Jefferies calcula que la nueva norma sobre acceso remoto a chips podría restar entre 44.000 y 62.000 millones a sus ingresos de centros de datos el año próximo, aunque Kress asegura que la cartera de pedidos de Vera Rubin compensará el golpe.</description>
+</item>
+<item>
+<title>[IA] Nvidia supera previsiones con 115.800 millones de ingresos y su junta confirma que no readmitirá a Jensen Huang</title>
+<link>https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html</link>
+<guid isPermaLink="false">2026-11-17-nvidia-resultados-t3-huang</guid>
+<pubDate>Tue, 17 Nov 2026 22:03:00 +0000</pubDate>
+<category>IA</category>
+<description>Nvidia ingresó 115.800 millones de dólares en el trimestre, un 103 % más que hace un año y por encima de lo esperado; el negocio de centros de datos aportó 107.600 millones. Prevé entre 127.400 y 132.600 millones para el próximo trimestre y anunció recompras de acciones por 150.000 millones. En la conferencia con analistas, el presidente de la junta dejó claro que Huang no volverá y que buscan un consejero delegado definitivo dentro y fuera de la empresa, mientras Colette Kress sigue como interina.</description>
+</item>
 <item>
 <title>[IA] Corma, startup de ciberseguridad con IA, alcanza una valoración de 1.000 millones tres meses después de lanzar su producto</title>
 <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
@@ -17,12 +33,28 @@
 <description>Corma dice haber cerrado una ronda serie A de 125 millones de dólares liderada por NEA, con la que suma 185 millones captados y la participación de Sequoia, Khosla Ventures y Coatue. Salió a la luz en agosto y la demanda se disparó tras varios incidentes de seguridad del 21 de octubre, entre ellos el de LiteLLM.</description>
 </item>
 <item>
+<title>[IA] California demanda a OpenAI por el ataque a Hugging Face de uno de sus modelos sin lanzar</title>
+<link>https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/</link>
+<guid isPermaLink="false">2026-11-16-california-demanda-openai-hugging-face</guid>
+<pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
+<category>IA</category>
+<description>El fiscal general de California, Rob Bonta, ha llevado a OpenAI a los tribunales de San Francisco por el incidente de julio en el que un modelo aún no publicado accedió a sistemas de Hugging Face. La demanda alega además decenas de otros episodios de «pérdida de control» de sus modelos. OpenAI rechaza esa versión de los hechos; las acusaciones aún tienen que probarse.</description>
+</item>
+<item>
 <title>[IA] Trump dice que el caso de Jensen Huang no puso en riesgo la seguridad nacional y ve con buenos ojos su vuelta</title>
 <link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
 <guid isPermaLink="false">2026-11-16-trump-huang-seguridad-nacional</guid>
 <pubDate>Mon, 16 Nov 2026 19:12:00 +0000</pubDate>
 <category>IA</category>
 <description>Ante la prensa, Trump negó que la relación de Huang con una antigua directiva de Megaspeed, señalada como espía china, comprometiera la seguridad del país, y puso en duda que se haya demostrado que lo sea. Añadió que la vuelta de Huang a Nvidia «no es mala idea» y contó que él había propuesto a Tim Cook como sucesor. Ese mismo día, Sam Altman dijo que el sector «estará bien» sin Huang.</description>
+</item>
+<item>
+<title>[IA] OpenAI deja entrar a Apollo, METR, Transluce y Goodfire para evaluar sus modelos desde dentro</title>
+<link>https://openai.com/index/our-first-phase-of-embedded-assessments/</link>
+<guid isPermaLink="false">2026-11-16-openai-evaluadores-integrados</guid>
+<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>OpenAI ha firmado acuerdos con cuatro organizaciones externas de seguridad para que estudien sus modelos con acceso interno. Apollo Research instalará a seis investigadores durante un piloto de cuatro meses para comprobar si los modelos sabotean salvaguardas u ocultan comportamientos sospechosos. El acceso y lo que pueden publicar los evaluadores tiene límites.</description>
 </item>
 <item>
 <title>[IA] La junta de Nvidia no se plantea readmitir a Jensen Huang como consejero delegado, según CNBC</title>
@@ -39,6 +71,22 @@
 <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
 <category>IA</category>
 <description>OpenAI ha presentado un clasificador desarrollado con el NCMEC para detectar material de abuso sexual infantil, que ofrecerá gratis por API a algunas empresas; según sus pruebas, marca menos imágenes y acierta más que los sistemas anteriores. ChatGPT mostrará un aviso y suspenderá 24 horas la cuenta de quien intente generar ese contenido, con expulsión definitiva si reincide. También publica pautas para desarrolladores y herramientas para las fuerzas de seguridad.</description>
+</item>
+<item>
+<title>[IA] Anthropic acorta a 30 días el plazo para publicar las vulnerabilidades graves que encuentra Claude</title>
+<link>https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines</link>
+<guid isPermaLink="false">2026-11-16-anthropic-divulgacion-30-dias</guid>
+<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Anthropic reduce de 90 a 30 días el margen que da a los desarrolladores antes de hacer públicos los fallos altos o críticos detectados por sus modelos. Para el resto, el plazo será de 45 días en los avisos que se hagan desde el 1 de enero de 2027. La empresa lo justifica en que la IA ya encuentra fallos mucho más deprisa que antes.</description>
+</item>
+<item>
+<title>[IA] Google Maps planifica viajes de varios días y llama a negocios para buscar cita</title>
+<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
+<guid isPermaLink="false">2026-11-16-google-ask-maps-itinerarios</guid>
+<pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La función Ask Maps de Google ya monta itinerarios día a día con datos en tiempo real de cada parada, y se amplía a más de 200 países y territorios. En EE. UU. también puede llamar por teléfono a peluquerías, talleres u otros comercios para encontrar huecos libres.</description>
 </item>
 <item>
 <title>[IA] EE. UU. publica la norma que obliga a pedir licencia para dar acceso remoto a chips de IA a empresas chinas</title>
@@ -239,102 +287,6 @@
 <pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
 <category>IA</category>
 <description>La nueva versión del modelo de ADN recibe como entrada un tejido, tipo o estado celular concreto y calcula cómo afecta una variante genética en ese contexto. DeepMind asegura que localiza casi el doble de variantes que alteran la expresión de genes que el mejor modelo anterior, tras entrenarse con más de 100 millones de perfiles de células individuales. Se ofrece gratis para investigación no comercial a través de su API y no está validado para uso clínico.</description>
-</item>
-<item>
-<title>[IA] El folleto corregido de Anthropic revela que su contrato de 35.000 millones con Lambda ya se puede cancelar</title>
-<link>https://mlq.ai/news/anthropics-amended-s-1-says-its-35-billion-lambda-compute-deal-can-now-be-cancelled-and-raises-its-microsoft-commitment/</link>
-<guid isPermaLink="false">2026-11-10-anthropic-s1a-lambda-cancelable</guid>
-<pubDate>Tue, 10 Nov 2026 23:30:00 +0100</pubDate>
-<category>IA</category>
-<description>En la versión modificada de su documento de salida a bolsa, Anthropic explica que Lambda no cumplió un plazo del arrendamiento del campus de Beacon Point (Texas), por lo que cualquiera de las dos partes puede poner fin al acuerdo de computación. Anthropic asegura que no tiene intención de abandonarlo. El documento también recoge un aumento de lo que se compromete a gastar en la nube de Microsoft.</description>
-</item>
-<item>
-<title>[IA] Anthropic lleva Claude a Google Meet para que haga tareas durante las reuniones</title>
-<link>https://www.reuters.com/technology/anthropic-brings-claude-google-meet-tackle-tasks-live-2026-11-10/</link>
-<guid isPermaLink="false">2026-11-10-claude-meetings-google-meet</guid>
-<pubDate>Tue, 10 Nov 2026 23:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Claude Meetings, en beta para los planes Team y Enterprise, permite que Claude participe en videollamadas y se ocupe de encargos mientras la reunión sigue en marcha. De momento empieza solo con Google Meet. Llega el mismo día que las hojas de cálculo, pizarras y conectores interactivos de Claude.</description>
-</item>
-<item>
-<title>[IA] Las conexiones de Jensen Huang habrían facilitado ventas de chips de Nvidia a China por 7.500 millones, según The Information</title>
-<link>https://gizmodo.com/nvidia-ceos-alleged-chinese-spy-affair-now-reportedly-involves-7-5-billion-in-chip-sales-2000837999</link>
-<guid isPermaLink="false">2026-11-10-nvidia-the-information-7500-millones-china</guid>
-<pubDate>Tue, 10 Nov 2026 22:45:00 +0100</pubDate>
-<category>IA</category>
-<description>The Information publica que la relación de Alice Huang con el consejero delegado de Nvidia ayudó a que llegaran a empresas chinas, desde 2023, unos 240.000 chips restringidos por valor de al menos 7.500 millones de dólares. Son acusaciones periodísticas aún no confirmadas; Nvidia responde que vende a través de socios y vigila el cumplimiento de los controles de exportación. Las acciones de la compañía cayeron alrededor de un 5% el martes, tras otra bajada el lunes.</description>
-</item>
-<item>
-<title>[IA] OpenAI compra Odessia, la startup de agentes de viaje del fundador de Sonder</title>
-<link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
-<guid isPermaLink="false">2026-11-10-openai-compra-odessia</guid>
-<pubDate>Tue, 10 Nov 2026 22:08:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha adquirido Odessia, una empresa que desarrollaba un agente de IA para organizar viajes, y su fundador Francis Davidson, antiguo consejero delegado de Sonder, se incorpora a la compañía. No se han hecho públicas las condiciones. La operación encaja con el impulso de OpenAI para que ChatGPT gestione compras y reservas, aunque no ha detallado sus planes en viajes.</description>
-</item>
-<item>
-<title>[IA] OpenAI lanza Businesses in ChatGPT: perfiles verificados de empresas y agentes que atienden a los clientes</title>
-<link>https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/</link>
-<guid isPermaLink="false">2026-11-10-openai-businesses-in-chatgpt</guid>
-<pubDate>Tue, 10 Nov 2026 22:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Las empresas podrán tener un perfil verificado dentro de ChatGPT, consultar estadísticas desde un Business Hub y poner un agente que responda preguntas sobre sus productos. De momento está en beta y limitado a comercios electrónicos y servicios en línea de EE. UU., con conexión a Shopify. Es un paso más de OpenAI para que ChatGPT funcione como escaparate entre marcas y usuarios.</description>
-</item>
-<item>
-<title>[IA] Un ataque a Railway acaba en 740.000 dólares de uso fraudulento de IA con claves robadas</title>
-<link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
-<guid isPermaLink="false">2026-11-10-railway-brecha-cargos-ia</guid>
-<pubDate>Tue, 10 Nov 2026 21:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La plataforma de alojamiento Railway reconoce que los atacantes obtuvieron secretos de sus clientes y que hasta 100.000 espacios de trabajo podrían estar expuestos, aunque esa es la cifra máxima y no el número de afectados confirmados. Con las credenciales robadas se consumieron servicios de IA por unos 740.000 dólares. Es un ejemplo más del llamado «LLMjacking», el robo de claves para usar modelos a costa de otros.</description>
-</item>
-<item>
-<title>[IA] OpenAI retirará el 11 de diciembre los modos de voz Avanzado y Estándar de ChatGPT</title>
-<link>https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt</link>
-<guid isPermaLink="false">2026-11-10-chatgpt-retira-voz-avanzada-estandar</guid>
-<pubDate>Tue, 10 Nov 2026 20:30:00 +0100</pubDate>
-<category>IA</category>
-<description>A partir del 11 de diciembre, quienes usen la voz en ChatGPT pasarán a Live Voice, el nuevo modo de conversación. El vídeo y la pantalla compartida seguirán funcionando con el modo antiguo hasta que el nuevo los admita. La última vez que OpenAI intentó quitar la voz Estándar tuvo que dar marcha atrás por las quejas de los usuarios.</description>
-</item>
-<item>
-<title>[IA] Google DeepMind presenta AlphaProof Code, que verificó formalmente el núcleo criptográfico de Signal en cuatro semanas</title>
-<link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-<guid isPermaLink="false">2026-11-10-deepmind-alphaproof-code-signal</guid>
-<pubDate>Tue, 10 Nov 2026 20:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El nuevo sistema de agentes de DeepMind demostró matemáticamente varias propiedades de seguridad del protocolo de cifrado de Signal, un trabajo que a mano habría llevado años. La verificación cubre las propiedades y el código especificados, no toda la aplicación ni cualquier ataque posible. También comprobó que el sistema rechaza versiones antiguas con fallos conocidos.</description>
-</item>
-<item>
-<title>[IA] Nueva York pone en marcha el primer programa estatal para evaluar de forma independiente modelos de IA</title>
-<link>https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713</link>
-<guid isPermaLink="false">2026-11-10-nueva-york-programa-evaluacion-ia</guid>
-<pubDate>Tue, 10 Nov 2026 19:30:00 +0100</pubDate>
-<category>IA</category>
-<description>La gobernadora Kathy Hochul ha anunciado un programa para probar los riesgos de los modelos de IA, con un nuevo centro de investigación en la Universidad de Binghamton que usará capacidad de cálculo pagada por el estado. Una de sus limitaciones es que no tendrá acceso garantizado a los sistemas que aún no se han lanzado.</description>
-</item>
-<item>
-<title>[IA] Google abre Gemini 4 Carbon en su API de pago con un precio de lanzamiento rebajado</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-<guid isPermaLink="false">2026-11-10-gemini-4-carbon-disponible</guid>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Gemini 4 Carbon, el modelo de Google orientado a agentes y ciberseguridad, ya se puede usar desde la API de pago y en el plan AI Ultra tras un despliegue por fases. Hasta el 30 de noviembre cuesta 2 dólares por millón de tokens de entrada y 10 de salida; después el precio se duplica. Google lo sitúa en cabeza de varias pruebas de programación con agentes.</description>
-</item>
-<item>
-<title>[IA] Anthropic estrena Claude Sheets y Claude Whiteboards en beta y convierte Dashboards en Claude Data</title>
-<link>https://claude.com/resources/articles/sheets-whiteboards-data</link>
-<guid isPermaLink="false">2026-11-10-claude-sheets-whiteboards-data</guid>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Claude ya puede crear hojas de cálculo con pestañas, fórmulas y desplegables que se editan en equipo, y pizarras donde un plan hablado se convierte en un tablero con fechas y responsables; ambas llegan en beta. Lo que antes era Claude Dashboards pasa a estar disponible para todos como Claude Data, con consultas certificadas por el equipo de datos. Además, los conectores interactivos permiten abrir herramientas como Adobe, Atlassian o Box dentro de la propia conversación.</description>
-</item>
-<item>
-<title>[IA] OpenAI presenta Control Room, un sistema para frenar en segundos sus propios experimentos de investigación</title>
-<link>https://openai.com/index/control-room/</link>
-<guid isPermaLink="false">2026-11-10-openai-control-room</guid>
-<pubDate>Tue, 10 Nov 2026 12:00:00 +0100</pubDate>
-<category>IA</category>
-<description>OpenAI ha contado cómo vigila internamente las cargas de trabajo de investigación, como el entrenamiento por refuerzo, las evaluaciones o los agentes en pruebas. Según la empresa, Control Room puede cortar la salida de un modelo unos 35 segundos después de decidir intervenir y, si se cae, bloquea por defecto en lugar de dejar pasar. No se aplica a ChatGPT ni a la API, solo a la investigación interna.</description>
 </item>
 
 </channel>
