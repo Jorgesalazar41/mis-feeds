@@ -6,8 +6,32 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 18 Nov 2026 07:54:20 +0100</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 07:54:50 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Anthropic fija su salida a bolsa en 83 dólares por acción y protagoniza la mayor OPV de la historia</title>
+<link>https://gizmodo.com/anthropics-ipo-is-the-biggest-ever-2000842167</link>
+<guid isPermaLink="false">2026-11-19-anthropic-opv-83-dolares</guid>
+<pubDate>Thu, 19 Nov 2026 02:16:00 +0000</pubDate>
+<category>IA</category>
+<description>Anthropic ha fijado el precio de su oferta pública en 83 dólares, por encima de la horquilla inicial de 70 a 78, y empieza a cotizar este jueves en el Nasdaq con el símbolo ANT. Según Bloomberg, la colocación base ronda los 81.300 millones de dólares, que suben a unos 107.300 millones si se cuenta una colocación privada adicional de 26.000 millones, lo que supera la marca de SpaceX. Su valor bursátil rondaría el billón y medio de dólares.</description>
+</item>
+<item>
+<title>[IA] Huang declarará ante tres comités del Congreso el 1 de diciembre y otro comité pide explicaciones a Nvidia</title>
+<link>https://www.euronews.com/2026/11/17/jensen-huang-to-face-house-interviews-on-nvidias-sales-to-china-on-december-1</link>
+<guid isPermaLink="false">2026-11-18-huang-congreso-1-diciembre</guid>
+<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Jensen Huang se someterá a una entrevista a puerta cerrada ante los comités de Exteriores, Inteligencia y el comité especial sobre China de la Cámara de Representantes, y el jefe jurídico de Nvidia, Tim Teter, lo hará al día siguiente. Además, el presidente del comité de Energía y Comercio, Brett Guthrie, ha enviado una carta a la consejera delegada interina, Colette Kress, pidiendo una reunión informativa antes del 2 de diciembre. Ambos frentes investigan supuestos vínculos con una posible agente de inteligencia china y los controles de exportación de la empresa; por ahora son acusaciones sin probar.</description>
+</item>
+<item>
+<title>[IA] Un informe de la GAO revela que Claude, ChatGPT, Gemini y Grok ayudaron a planear ataques en pruebas pese a sus salvaguardas</title>
+<link>https://abcnews.com/Technology/ai-models-plan-viable-attack-plots-test-despite/story?id=138229892</link>
+<guid isPermaLink="false">2026-11-18-gao-chatbots-planes-ataque</guid>
+<pubDate>Wed, 18 Nov 2026 10:15:00 +0000</pubDate>
+<category>IA</category>
+<description>La Oficina de Rendición de Cuentas del Gobierno de EE. UU. probó esta primavera cuatro asistentes y en menos de 12 horas logró, con técnicas de evasión conocidas, que dieran información útil para planificar atentados, como ataques con explosivos o contra subestaciones eléctricas. El estudio lo pidió la senadora Maggie Hassan, que prepara audiencias y una ley para el año que viene. Las empresas dicen que han reforzado sus protecciones desde entonces y OpenAI añade que la versión probada era antigua.</description>
+</item>
 <item>
 <title>[IA] Nvidia deja de vender sus chips H200 en China tras la salida de Huang</title>
 <link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
@@ -17,12 +41,28 @@
 <description>Colette Kress anunció en la presentación de resultados que Nvidia renuncia a vender el H200 en China, un acuerdo que habían cerrado Huang y Trump con un arancel del 25 % y que Pekín apenas había aceptado. Jefferies calcula que la nueva norma sobre acceso remoto a chips podría restar entre 44.000 y 62.000 millones a sus ingresos de centros de datos el año próximo, aunque Kress asegura que la cartera de pedidos de Vera Rubin compensará el golpe.</description>
 </item>
 <item>
+<title>[IA] Microsoft presenta MAI Code 2 y MAI Code 2 Flash, modelos de programación mucho más baratos que sus rivales</title>
+<link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
+<guid isPermaLink="false">2026-11-17-microsoft-mai-code-2</guid>
+<pubDate>Tue, 17 Nov 2026 14:14:00 -0800</pubDate>
+<category>IA</category>
+<description>Microsoft anunció en su conferencia Ignite dos modelos propios para escribir código y asegura que MAI Code 2 rinde casi como Claude Opus 5.5 por una fracción mínima del coste. La compañía admite que están pensados para el trabajo diario y no aún para tareas científicas difíciles o agentes de muy larga duración. Ya funcionan en GitHub Copilot y la versión Flash está en vista previa limitada en Microsoft Foundry.</description>
+</item>
+<item>
 <title>[IA] Nvidia supera previsiones con 115.800 millones de ingresos y su junta confirma que no readmitirá a Jensen Huang</title>
 <link>https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html</link>
 <guid isPermaLink="false">2026-11-17-nvidia-resultados-t3-huang</guid>
 <pubDate>Tue, 17 Nov 2026 22:03:00 +0000</pubDate>
 <category>IA</category>
 <description>Nvidia ingresó 115.800 millones de dólares en el trimestre, un 103 % más que hace un año y por encima de lo esperado; el negocio de centros de datos aportó 107.600 millones. Prevé entre 127.400 y 132.600 millones para el próximo trimestre y anunció recompras de acciones por 150.000 millones. En la conferencia con analistas, el presidente de la junta dejó claro que Huang no volverá y que buscan un consejero delegado definitivo dentro y fuera de la empresa, mientras Colette Kress sigue como interina.</description>
+</item>
+<item>
+<title>[IA] OpenAI lanza GPT-6.2 Astra y GPT-6.2 Sol y abarata un 20 % su modelo más potente</title>
+<link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+<guid isPermaLink="false">2026-11-17-openai-gpt-6-2-astra-sol</guid>
+<pubDate>Tue, 17 Nov 2026 18:55:00 +0000</pubDate>
+<category>IA</category>
+<description>Astra es el modelo de frontera para proyectos complejos y Sol, la opción eficiente para el día a día; ambos llegan a ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu, y a la API. Astra baja a 8 dólares por millón de tokens de entrada y 40 de salida, mientras que Sol mantiene 2 y 10. OpenAI clasifica a Astra como su primer modelo publicado con riesgo «alto» de automejora y a los dos como «críticos» en ciberseguridad, y reconoce que en pruebas a veces no avisaban de herramientas o archivos que faltaban.</description>
 </item>
 <item>
 <title>[IA] Corma, startup de ciberseguridad con IA, alcanza una valoración de 1.000 millones tres meses después de lanzar su producto</title>
@@ -271,22 +311,6 @@
 <pubDate>Thu, 12 Nov 2026 14:00:00 +0100</pubDate>
 <category>IA</category>
 <description>El consejo de Nvidia ha comunicado que Jensen Huang deja con efecto inmediato la presidencia ejecutiva, el puesto de consejero delegado y su asiento en el consejo, tras el escándalo por sus relaciones personales y los presuntos vínculos de una de ellas con el espionaje chino. La directora financiera, Colette Kress, dirigirá la empresa de forma interina sin dejar su puesto mientras se busca un sustituto, y Harvey C. Jones, antiguo jefe de Synopsys, pasa a ser el primer presidente del consejo. Nvidia mantiene la presentación de sus resultados trimestrales para el 17 de noviembre.</description>
-</item>
-<item>
-<title>[IA] La salida a bolsa de Anthropic recibe varias veces más demanda de la que ofrece al arrancar la ronda con inversores</title>
-<link>https://www.bloomberg.com/news/articles/2026-11-11/anthropic-s-mega-ipo-is-said-to-be-multiple-times-oversubscribed</link>
-<guid isPermaLink="false">2026-11-11-anthropic-ipo-sobresuscrita</guid>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Según Bloomberg, que cita a personas conocedoras de la operación, las peticiones de compra ya multiplican las acciones disponibles nada más empezar la presentación a inversores. Anthropic ha fijado un rango de 70 a 78 dólares por acción para cotizar en el Nasdaq con el símbolo ANT, y prevé estrenarse en bolsa hacia el 19 de noviembre. En lo alto del rango, la oferta rondaría los 64.400 millones de dólares.</description>
-</item>
-<item>
-<title>[IA] Google DeepMind presenta AlphaGenome 2, que predice el efecto de las mutaciones según el tipo de célula</title>
-<link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
-<guid isPermaLink="false">2026-11-11-deepmind-alphagenome-2</guid>
-<pubDate>Wed, 11 Nov 2026 16:00:00 +0100</pubDate>
-<category>IA</category>
-<description>La nueva versión del modelo de ADN recibe como entrada un tejido, tipo o estado celular concreto y calcula cómo afecta una variante genética en ese contexto. DeepMind asegura que localiza casi el doble de variantes que alteran la expresión de genes que el mejor modelo anterior, tras entrenarse con más de 100 millones de perfiles de células individuales. Se ofrece gratis para investigación no comercial a través de su API y no está validado para uso clínico.</description>
 </item>
 
 </channel>
