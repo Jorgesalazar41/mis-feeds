@@ -6,8 +6,80 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 19 Nov 2026 07:54:50 +0100</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 07:56:54 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Nvidia cae un 3,3 % en bolsa pese a sus resultados récord por la incertidumbre tras la marcha de Huang</title>
+<link>https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/</link>
+<guid isPermaLink="false">2026-11-19-nvidia-cae-bolsa-transicion</guid>
+<pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Las acciones de Nvidia cerraron el jueves a 145,98 dólares, un 3,3 % menos y muy cerca de su mínimo de las últimas 52 semanas, con casi el doble del volumen habitual. Los inversores sopesan la falta de un sucesor para Jensen Huang frente a unos resultados trimestrales muy fuertes; Morgan Stanley rebajó su precio objetivo a 260 dólares, aunque mantiene la recomendación de compra. AMD se dejó más de un 7 % en una sesión de caídas generalizadas en el sector.</description>
+</item>
+<item>
+<title>[IA] Anthropic se dispara más de un 17 % en su estreno en bolsa y cierra a 97 dólares</title>
+<link>https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-as-record-stock-debut-could-open-25-higher/</link>
+<guid isPermaLink="false">2026-11-19-anthropic-estreno-bolsa-97</guid>
+<pubDate>Thu, 19 Nov 2026 21:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Las acciones de Anthropic empezaron a negociarse el jueves en el Nasdaq con el símbolo ANT, ya entrada la sesión, y terminaron el día en torno a 97 dólares, más de un 17 % por encima del precio de salida de 83. Es la mayor salida a bolsa de la historia, por delante de la de SpaceX, y llegó en una jornada en la que el Nasdaq cayó más de un 2 %.</description>
+</item>
+<item>
+<title>[IA] Apple estaría desarrollando un agente de IA capaz de manejar el ordenador, según Bloomberg (rumor)</title>
+<link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
+<guid isPermaLink="false">2026-11-19-apple-agente-ia-rumor</guid>
+<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Rumor: según Bloomberg, Apple trabaja en un agente de IA propio que podría usar aplicaciones, navegar por la web y programar en nombre del usuario. El proyecto estaría en una fase temprana y Apple no lo ha confirmado.</description>
+</item>
+<item>
+<title>[IA] Gemini aprende a manejar el Mac: abre apps, ordena archivos y rellena formularios</title>
+<link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
+<guid isPermaLink="false">2026-11-19-gemini-controla-mac</guid>
+<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La app de Gemini para macOS ya puede tomar el control del ordenador para hacer tareas por el usuario, como usar aplicaciones, organizar archivos locales o completar formularios. De momento solo funciona en inglés, en Estados Unidos y para los suscriptores de Google AI Plus, Pro y Ultra.</description>
+</item>
+<item>
+<title>[IA] Muse, el agente de IA de Meta, mezcla conversaciones y deja ver datos privados de otros usuarios, según un informe</title>
+<link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
+<guid isPermaLink="false">2026-11-19-meta-muse-mezcla-conversaciones</guid>
+<pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Empleados de Meta han detectado que Muse confunde conversaciones entre cuentas y ha llegado a mostrar a otras personas mensajes sobre cuidado de niños, recordatorios o saldos bancarios. Meta sostiene que los casos se dieron en versiones de prueba internas con funciones que el público no tiene.</description>
+</item>
+<item>
+<title>[IA] OpenAI usa sus propios modelos para diseñar chips, incluido su procesador Jalapeño</title>
+<link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
+<guid isPermaLink="false">2026-11-19-openai-modelos-diseno-chips</guid>
+<pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+<category>IA</category>
+<description>OpenAI explica que sus modelos ya participan en el diseño de su chip propio, Jalapeño, y en trabajo conjunto con AMD, donde han propuesto rediseños de circuitos que reducen el área ocupada y aceleran cálculos. La empresa colabora también con Synopsys para llevar estas herramientas al diseño de semiconductores.</description>
+</item>
+<item>
+<title>[IA] Cuatro senadores proponen obligar a las empresas cotizadas a informar más sobre su uso de la IA</title>
+<link>https://www.semafor.com/article/11/19/2026/anthropic-ipo-heightens-washingtons-tech-scrutiny</link>
+<guid isPermaLink="false">2026-11-19-senado-ley-transparencia-ia</guid>
+<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Coincidiendo con el estreno en bolsa de Anthropic, un grupo bipartidista de cuatro senadores estadounidenses ha presentado un proyecto de ley que exigiría a las empresas cotizadas dar más información sobre la IA que usan y sus riesgos. La propuesta refleja el creciente escrutinio de Washington sobre las grandes tecnológicas.</description>
+</item>
+<item>
+<title>[IA] Un ciberataque apoyado en IA deja días sin servicio sistemas internos de la Comisión Europea</title>
+<link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
+<guid isPermaLink="false">2026-11-19-comision-europea-ciberataque-ia</guid>
+<pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La Comisión Europea ha confirmado un ciberataque que interrumpió durante días servicios internos como las nóminas y el reembolso de gastos médicos de su personal. Los investigadores creen que los atacantes usaron una herramienta de pruebas de seguridad con IA de libre acceso, y no se descarta que se hayan expuesto datos de empleados.</description>
+</item>
+<item>
+<title>[IA] El nuevo presidente de Nvidia acusa a Huang de «falta de franqueza» y Kress tranquiliza a la plantilla sobre sus sueldos</title>
+<link>https://gizmodo.com/nvidia-reportedly-just-briefed-employees-on-what-will-happen-in-the-near-future-2000842222</link>
+<guid isPermaLink="false">2026-11-19-nvidia-reunion-plantilla-kress</guid>
+<pubDate>Thu, 19 Nov 2026 05:25:00 +0000</pubDate>
+<category>IA</category>
+<description>En la primera reunión general de Nvidia tras la dimisión de Huang, el presidente del consejo, Harvey Jones, habría dicho que el exconsejero delegado no fue franco con la junta y que su sucesor no será una copia suya, sin prisas en la búsqueda. La consejera delegada interina, Colette Kress, pidió a los empleados que no se preocupen por su remuneración. Lo cuenta Wired a partir de grabaciones de la reunión que ha revisado.</description>
+</item>
 <item>
 <title>[IA] Anthropic fija su salida a bolsa en 83 dólares por acción y protagoniza la mayor OPV de la historia</title>
 <link>https://gizmodo.com/anthropics-ipo-is-the-biggest-ever-2000842167</link>
@@ -15,6 +87,14 @@
 <pubDate>Thu, 19 Nov 2026 02:16:00 +0000</pubDate>
 <category>IA</category>
 <description>Anthropic ha fijado el precio de su oferta pública en 83 dólares, por encima de la horquilla inicial de 70 a 78, y empieza a cotizar este jueves en el Nasdaq con el símbolo ANT. Según Bloomberg, la colocación base ronda los 81.300 millones de dólares, que suben a unos 107.300 millones si se cuenta una colocación privada adicional de 26.000 millones, lo que supera la marca de SpaceX. Su valor bursátil rondaría el billón y medio de dólares.</description>
+</item>
+<item>
+<title>[IA] Google lanza Gemini 4 Neon, su modelo intermedio para programación y análisis complejo</title>
+<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+<guid isPermaLink="false">2026-11-18-google-gemini-4-neon</guid>
+<pubDate>Wed, 18 Nov 2026 21:35:00 +0000</pubDate>
+<category>IA</category>
+<description>Google ha presentado Gemini 4 Neon, un modelo de gama media de la familia Gemini 4 orientado a programación, ciencia y tareas de empresa, con un contexto de un millón de tokens. Cuesta 3 dólares por millón de tokens de entrada y 15 por millón de salida, y Google asegura que encabeza el índice de agentes de programación de Artificial Analysis. Ya está disponible en la API de Gemini y para suscriptores de pago.</description>
 </item>
 <item>
 <title>[IA] Huang declarará ante tres comités del Congreso el 1 de diciembre y otro comité pide explicaciones a Nvidia</title>
@@ -239,78 +319,6 @@
 <pubDate>Fri, 13 Nov 2026 16:46:00 +0000</pubDate>
 <category>IA</category>
 <description>Los agentes «dots» de ChatGPT ya pueden pagar compras con tarjetas American Express, Mastercard y Visa, usando un token en lugar del número real de la tarjeta. Cada compra la confirma el usuario con huella o Face ID. De momento solo está disponible para suscriptores Pro mayores de edad en EE. UU., y OpenAI avisa de que algunas tiendas pueden bloquear a los agentes.</description>
-</item>
-<item>
-<title>[IA] EE. UU. se prepara para cerrar la vía por la que China alquila chips de Nvidia en centros de datos de otros países</title>
-<link>https://www.digitimes.com/news/a20261113VL214/ai-chip-data-center-usa-policy-nvidia-2027.html</link>
-<guid isPermaLink="false">2026-11-13-eeuu-acceso-remoto-chips</guid>
-<pubDate>Fri, 13 Nov 2026 10:04:00 +0800</pubDate>
-<category>IA</category>
-<description>Tras la victoria demócrata en ambas cámaras en las elecciones del 3 de noviembre, el Congreso y el Departamento de Comercio quieren endurecer los controles de exportación y centrarse en el acceso remoto a chips. Comercio trabaja para cerrar su propia norma sobre este tipo de alquiler. Según el Institute for Progress, el acceso remoto supone cerca de la mitad de la capacidad de cómputo estadounidense que Washington aún podría negar a China hasta finales de 2027.</description>
-</item>
-<item>
-<title>[IA] Cerebras supera previsiones en su tercer trimestre y eleva lo que espera ingresar en 2026</title>
-<link>https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm</link>
-<guid isPermaLink="false">2026-11-12-cerebras-resultados-t3</guid>
-<pubDate>Thu, 12 Nov 2026 22:05:00 +0100</pubDate>
-<category>IA</category>
-<description>El fabricante de chips para IA ingresó 230,9 millones de dólares en su negocio principal entre julio y septiembre, un 70% más que un año antes, con un fuerte tirón de sus servicios en la nube, aunque perdió 161 millones. Ahora calcula entre 940 y 960 millones de ingresos principales para todo 2026. Además, tiene contratados 700 MW de capacidad de centros de datos que se entregarán hasta finales de 2027.</description>
-</item>
-<item>
-<title>[IA] Notion confirma que el ataque a Fireworks AI expuso conversaciones de IA de menos del 1% de sus espacios de trabajo</title>
-<link>https://notion.com/help/security-incident-involving-a-third-party-ai-vendor</link>
-<guid isPermaLink="false">2026-11-12-notion-fireworks-brecha</guid>
-<pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Unos atacantes que entraron en Fireworks AI, un proveedor de inferencia, pudieron acceder a transcripciones de chats de IA que Notion usaba en su función Insights. Notion calcula que afecta a menos del 1% de los espacios de trabajo, ha desactivado Insights y ha cortado su relación con Fireworks.</description>
-</item>
-<item>
-<title>[IA] Cuatro organizaciones demandan a OpenAI, Google, Anthropic, Meta y SpaceX para frenar sus próximos modelos de IA</title>
-<link>https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development</link>
-<guid isPermaLink="false">2026-11-12-demanda-ong-frenar-modelos-frontera</guid>
-<pubDate>Thu, 12 Nov 2026 19:55:00 +0000</pubDate>
-<category>IA</category>
-<description>Irreplaceable, Public Citizen, Heat Initiative y Alliance for Secure AI han presentado una demanda civil en un tribunal de San Francisco contra cinco grandes empresas de IA. Piden una orden urgente que paralice los modelos de próxima generación hasta que las compañías demuestren que pueden mantenerlos bajo control humano, y argumentan que vulneran la ley californiana de competencia desleal. Por ahora son solo acusaciones de los demandantes; ningún juez se ha pronunciado.</description>
-</item>
-<item>
-<title>[IA] Google lanza Gemini 4 Hydrogen, un modelo rápido y barato pensado para agentes</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-<guid isPermaLink="false">2026-11-12-google-gemini-4-hydrogen</guid>
-<pubDate>Thu, 12 Nov 2026 19:00:00 +0100</pubDate>
-<category>IA</category>
-<description>Google estrena Gemini 4 Hydrogen, que ocupa el hueco de la gama Flash y cuesta 1,50 dólares por millón de tokens de entrada y 7,50 por millón de salida, con un contexto de un millón de tokens. Según las pruebas de la propia Google, supera ligeramente a Gemini 4 Argon en el índice de Artificial Analysis y triplica a Gemini 3.8 Flash en Terminal-Bench. Ya está disponible en la API, AI Studio, la app de Gemini, el buscador y Antigravity.</description>
-</item>
-<item>
-<title>[IA] Anthropic declara en su folleto de salida a bolsa que ya ha alcanzado su umbral de investigación acelerada por IA</title>
-<link>https://thenextweb.com/news/anthropic-ai-research-threshold-metr-ipo-filing</link>
-<guid isPermaLink="false">2026-11-12-anthropic-umbral-investigacion-acelerada</guid>
-<pubDate>Thu, 12 Nov 2026 18:15:00 +0100</pubDate>
-<category>IA</category>
-<description>La versión corregida del documento que Anthropic ha presentado ante el regulador bursátil afirma que la empresa considera cumplido el umbral de su política de escalado responsable que se refiere a que la IA acelere de forma drástica su propia investigación. La decisión se basa en lo que espera de sus próximos modelos, no de los actuales. Los fundadores advierten a los inversores de que podrían frenar el desarrollo aunque eso les cueste ventaja competitiva.</description>
-</item>
-<item>
-<title>[IA] Empresas chinas de IA se apresuran a alquilar GPU de Nvidia fuera de China antes de una posible nueva norma de EE. UU.</title>
-<link>https://www.forbes.com/sites/jonmarkman/2026/11/12/chinese-ai-firms-rush-to-rent-nvidia-chips-abroad-before-a-new-us-rule/</link>
-<guid isPermaLink="false">2026-11-12-china-alquila-gpu-nvidia-extranjero</guid>
-<pubDate>Thu, 12 Nov 2026 15:39:00 +0100</pubDate>
-<category>IA</category>
-<description>Según Reuters, que cita a fuentes anónimas, varias compañías chinas están reservando capacidad de cálculo en centros de datos de otros países por miedo a que el escándalo de Huang acelere nuevas restricciones. The Information informa, sin confirmación oficial, de que el Departamento de Comercio prepara una norma para impedir ese acceso remoto en países como Singapur, Malasia o Brasil. Los centros de datos de empresas estadounidenses quedarían exentos si bloquean el acceso desde China y Rusia.</description>
-</item>
-<item>
-<title>[IA] AMD amplía su familia Instinct MI400 con el MI430X, una GPU para supercomputación que no llegará hasta 2027</title>
-<link>https://newsroom.amd.com/news/amd-advances-instinct-mi400-series-ai-scientific-computing/</link>
-<guid isPermaLink="false">2026-11-12-amd-instinct-mi430x</guid>
-<pubDate>Thu, 12 Nov 2026 06:00:00 -0800</pubDate>
-<category>IA</category>
-<description>AMD presenta el Instinct MI430X, con 432 GB de memoria HBM4 y orientado a la computación científica de doble precisión, que la empresa presenta como la GPU más rápida en FP64. También ha dado resultados de inferencia del MI455X en su sistema de rack Helios que, según la propia AMD, superan los últimos datos publicados por Nvidia; Nvidia no los ha confirmado. El MI430X no estará a la venta hasta 2027.</description>
-</item>
-<item>
-<title>[IA] Jensen Huang dimite como consejero delegado de Nvidia; Colette Kress asume el cargo de forma interina</title>
-<link>https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm</link>
-<guid isPermaLink="false">2026-11-12-nvidia-huang-dimite-kress-interina</guid>
-<pubDate>Thu, 12 Nov 2026 14:00:00 +0100</pubDate>
-<category>IA</category>
-<description>El consejo de Nvidia ha comunicado que Jensen Huang deja con efecto inmediato la presidencia ejecutiva, el puesto de consejero delegado y su asiento en el consejo, tras el escándalo por sus relaciones personales y los presuntos vínculos de una de ellas con el espionaje chino. La directora financiera, Colette Kress, dirigirá la empresa de forma interina sin dejar su puesto mientras se busca un sustituto, y Harvey C. Jones, antiguo jefe de Synopsys, pasa a ser el primer presidente del consejo. Nvidia mantiene la presentación de sus resultados trimestrales para el 17 de noviembre.</description>
 </item>
 
 </channel>
