@@ -6,8 +6,72 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 20 Nov 2026 07:56:54 +0100</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:57:17 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Amazon detalla cómo unos agentes de IA de atacantes encontraron por sí solos un fallo desconocido y tomaron un servidor universitario</title>
+<link>https://securityonline.info/monai-label-zero-day-cve-2026-133968/</link>
+<guid isPermaLink="false">2026-11-20-amazon-cairn-zero-day-monai</guid>
+<pubDate>Sat, 21 Nov 2026 01:32:00 +0000</pubDate>
+<category>IA</category>
+<description>Según Amazon, un grupo que atribuye a China usó el marco abierto de agentes Cairn para descubrir y explotar una vulnerabilidad grave en MONAI Label, una aplicación de imagen médica. En unos 11 minutos los agentes pasaron de explorar la API a escribir archivos en el servidor, y después un humano saltó a la red de otra universidad. El ataque ocurrió en septiembre y el fallo ya está corregido.</description>
+</item>
+<item>
+<title>[IA] Bessent descarta endurecer las restricciones a la venta de chips de Nvidia a China</title>
+<link>https://abcnews.com/Technology/wireStory/treasury-secretary-restrictions-needed-nvidia-chip-exports-china-138332241</link>
+<guid isPermaLink="false">2026-11-20-bessent-sin-mas-restricciones-nvidia-china</guid>
+<pubDate>Fri, 20 Nov 2026 22:36:00 +0000</pubDate>
+<category>IA</category>
+<description>El secretario del Tesoro, Scott Bessent, aseguró en CNBC que los controles actuales sobre los chips más antiguos de Nvidia son suficientes y que el acceso remoto desde China ya se ha recortado. Lo dijo después de que un informe de la Cámara revelara que Comercio aprobó licencias para casi 880.000 chips destinados a empresas chinas como Alibaba, Tencent o Baidu; Nvidia insiste en que sus envíos de H200 fueron legales.</description>
+</item>
+<item>
+<title>[IA] Trump amenaza con un «impuesto tremendo» a las empresas de EE. UU. que construyan centros de datos en el extranjero</title>
+<link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
+<guid isPermaLink="false">2026-11-20-trump-impuesto-centros-datos-extranjero</guid>
+<pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
+<category>IA</category>
+<description>En una rueda de prensa en la Casa Blanca, Donald Trump dijo que no permitirá que las compañías estadounidenses levanten centros de datos fuera del país y que quien lo haga pagará un impuesto muy alto. No dio cifras, plazos ni un texto legal, así que por ahora es solo una advertencia; el aviso afecta de lleno a proyectos como el de Google en Finlandia.</description>
+</item>
+<item>
+<title>[IA] El Senado aprueba por 62 a 33 una reforma de permisos energéticos que hace pagar a los grandes centros de datos la mejora de la red</title>
+<link>https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html</link>
+<guid isPermaLink="false">2026-11-20-senado-reforma-permisos-centros-datos</guid>
+<pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
+<category>IA</category>
+<description>El Senado de EE. UU. ha aprobado con apoyo de ambos partidos una ley que acelera los permisos para infraestructuras energéticas, una demanda clave del sector de la IA. El texto impide además que los centros de datos de hiperescala trasladen a los consumidores el coste de reforzar la red eléctrica. Ahora tiene que pasar por la Cámara de Representantes.</description>
+</item>
+<item>
+<title>[IA] Cursor dice al Congreso que estudia dejar de usar modelos de IA chinos por el riesgo geopolítico</title>
+<link>https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html</link>
+<guid isPermaLink="false">2026-11-20-cursor-modelos-chinos-congreso</guid>
+<pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Cursor, el editor de código con IA que ahora pertenece a SpaceX, ha comunicado a comités de la Cámara de Representantes que se plantea retirar progresivamente los modelos de pesos abiertos desarrollados en China. Su modelo Composer 2 se construyó sobre Kimi, de la china Moonshot AI. De momento no hay una decisión tomada.</description>
+</item>
+<item>
+<title>[IA] Thinking Machines lanza Inkling 2 Mini, un modelo abierto de 26.400 millones de parámetros que cabe en un portátil</title>
+<link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
+<guid isPermaLink="false">2026-11-20-thinking-machines-inkling-2-mini</guid>
+<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>El laboratorio de Mira Murati ha publicado con pesos abiertos Inkling 2 Mini, un modelo que usa solo 3.400 millones de parámetros activos por token y repite capas en bucle para razonar más sin crecer. Según sus propias pruebas, es el mejor modelo abierto de menos de 100.000 millones de parámetros en tareas de programación como DeepSWE, y puede ejecutarse en un Mac con suficiente memoria.</description>
+</item>
+<item>
+<title>[IA] Anthropic eleva a 93.500 millones lo recaudado en su OPV tras ejercer los bancos la opción de sobreasignación</title>
+<link>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</link>
+<guid isPermaLink="false">2026-11-20-anthropic-greenshoe-93500</guid>
+<pubDate>Fri, 20 Nov 2026 13:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Los bancos colocadores de la salida a bolsa de Anthropic han ejercido el llamado «greenshoe», que les permite vender acciones adicionales al precio de salida de 83 dólares. Con ello la operación suma unos 12.000 millones más y el total captado pasa de 81.300 a 93.500 millones de dólares, ampliando el récord de la mayor OPV de la historia.</description>
+</item>
+<item>
+<title>[IA] Signal bloquea por defecto las capturas de pantalla para que los agentes de IA no lean los chats</title>
+<link>https://cybernews.com/privacy/signal-restricts-screenshots/</link>
+<guid isPermaLink="false">2026-11-20-signal-bloquea-capturas-agentes-ia</guid>
+<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Signal impedirá por defecto en los móviles que el sistema capture la pantalla de sus conversaciones, para que los asistentes de IA del sistema operativo no puedan leer los mensajes cifrados. La propia app admite que la protección es incompleta y pide a Apple, Google y Microsoft vías claras para excluirse. El cambio llega días después de que se supiera que el agente Muse de Meta podía leer chats de Signal.</description>
+</item>
 <item>
 <title>[IA] Nvidia cae un 3,3 % en bolsa pese a sus resultados récord por la incertidumbre tras la marcha de Huang</title>
 <link>https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/</link>
@@ -15,6 +79,14 @@
 <pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
 <category>IA</category>
 <description>Las acciones de Nvidia cerraron el jueves a 145,98 dólares, un 3,3 % menos y muy cerca de su mínimo de las últimas 52 semanas, con casi el doble del volumen habitual. Los inversores sopesan la falta de un sucesor para Jensen Huang frente a unos resultados trimestrales muy fuertes; Morgan Stanley rebajó su precio objetivo a 260 dólares, aunque mantiene la recomendación de compra. AMD se dejó más de un 7 % en una sesión de caídas generalizadas en el sector.</description>
+</item>
+<item>
+<title>[IA] Google contrata a Blue Origin para lanzar en 2029 sus satélites con servidores de IA</title>
+<link>https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/</link>
+<guid isPermaLink="false">2026-11-19-google-blue-origin-suncatcher</guid>
+<pubDate>Thu, 19 Nov 2026 21:20:00 +0000</pubDate>
+<category>IA</category>
+<description>Google lanzará su Project Suncatcher, satélites solares con chips TPU, en un cohete New Glenn de Blue Origin previsto para el primer trimestre de 2029. Cada satélite tendría aproximadamente la capacidad de un rack de centro de datos, aunque no se ha dicho cuántos se enviarán. Google lo presenta como un proyecto de investigación a largo plazo.</description>
 </item>
 <item>
 <title>[IA] Anthropic se dispara más de un 17 % en su estreno en bolsa y cierra a 97 dólares</title>
@@ -271,54 +343,6 @@
 <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
 <category>IA</category>
 <description>Investigadores de Stanford y otros centros han publicado un módulo que lee todos los documentos y le pasa a un modelo congelado, Qwen3-8B, solo 16 tokens de memoria por pregunta. Según sus autores, logra la mejor media en ocho pruebas usando cientos de veces menos texto que el contexto completo y respondiendo mucho más rápido. Es un trabajo aún sin revisión por pares, y reconocen que puede perder nombres exactos y que hay que entrenarlo para cada modelo.</description>
-</item>
-<item>
-<title>[IA] La Casa Blanca no piensa sacar el escándalo de Nvidia en la cumbre de Trump con Xi, pese a la presión del Congreso</title>
-<link>https://abcnews.com/US/wireStory/nvidia-scandal-heightening-americas-ai-rivalry-china-ahead-138135792</link>
-<guid isPermaLink="false">2026-11-14-nvidia-escandalo-cumbre-trump-xi</guid>
-<pubDate>Sat, 14 Nov 2026 05:17:00 +0000</pubDate>
-<category>IA</category>
-<description>Trump viaja la semana que viene a China para reunirse con Xi Jinping y, según altos cargos citados por AP, no tiene previsto plantearle el caso Nvidia. Mientras, varios congresistas demócratas han pedido explicaciones al secretario de Comercio, Howard Lutnick, y que se paren de inmediato las exportaciones de chips avanzados a China. La versión del Senado de la ley de defensa incluye que el Congreso revise las licencias de venta de estos chips.</description>
-</item>
-<item>
-<title>[IA] La FAA investiga si un nuevo sistema de IA contribuyó a la parada de vuelos en todo EE. UU.</title>
-<link>https://www.click2houston.com/news/local/2026/11/13/faa-investigating-whether-new-ai-technology-contributed-to-nationwide-ground-stop/</link>
-<guid isPermaLink="false">2026-11-13-faa-ia-parada-vuelos</guid>
-<pubDate>Fri, 13 Nov 2026 22:57:00 +0000</pubDate>
-<category>IA</category>
-<description>Un fallo de comunicaciones en los centros de control aéreo obligó el viernes a detener los despegues en aeropuertos de todo el país. Las autoridades estudian si tuvo algo que ver SMART, una herramienta de la FAA que usa datos en tiempo real para ajustar rutas y que empezó a desplegarse en septiembre. El secretario de Seguridad Nacional, Markwayne Mullin, lo describió como un problema de telecomunicaciones sin amenaza para el público; no está confirmado que la IA fuera la causa.</description>
-</item>
-<item>
-<title>[IA] Un análisis apunta a que los mejores modelos abiertos chinos se entrenaron con chips Blackwell de Nvidia prohibidos para China</title>
-<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
-<guid isPermaLink="false">2026-11-13-chips-blackwell-modelos-chinos</guid>
-<pubDate>Fri, 13 Nov 2026 18:40:00 +0000</pubDate>
-<category>IA</category>
-<description>Will DePue, de la organización Unemployment Labs, estudió los pesos de modelos abiertos de DeepSeek, Moonshot, MiniMax y Ant Group y encontró señales de que Kimi K3 y DeepSeek V4 se entrenaron con chips Blackwell, cuya venta a China está vetada. No prueba que se infringiera la ley, porque pudieron usarse centros de datos fuera de China. A la vez, Bloomberg informa de que una empresa vinculada a Alice Huang habría llevado chips prohibidos a un centro de datos de Shanghái, algo que TechCrunch no ha verificado por su cuenta.</description>
-</item>
-<item>
-<title>[IA] LangChain recauda 300 millones de dólares y triplica su valoración hasta 3.000 millones</title>
-<link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
-<guid isPermaLink="false">2026-11-13-langchain-serie-c</guid>
-<pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
-<category>IA</category>
-<description>La empresa de herramientas para crear y supervisar agentes de IA ha cerrado una ronda Serie C liderada por CapitalG, el fondo de crecimiento de Alphabet, con entrada de GIC, Salesforce Ventures y MongoDB Ventures, entre otros. Hace algo más de un año valía 1.250 millones. Dice que más de 7.000 organizaciones usan su plataforma LangSmith.</description>
-</item>
-<item>
-<title>[IA] OpenAI disuelve su equipo independiente de robótica y reparte a sus investigadores, según Fortune</title>
-<link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/</link>
-<guid isPermaLink="false">2026-11-13-openai-disuelve-equipo-robotica</guid>
-<pubDate>Fri, 13 Nov 2026 17:05:00 +0000</pubDate>
-<category>IA</category>
-<description>Según una exclusiva de Fortune, la investigación en robótica pasa a depender del director de investigación, Mark Chen, y los grupos aplicados y de hardware se integran en la división que dirige Greg Brockman. No ha habido despidos y OpenAI sostiene que la robótica sigue siendo parte central de su visión a largo plazo, porque sus modelos generales ya empiezan a controlar robots.</description>
-</item>
-<item>
-<title>[IA] OpenAI lanza ChatGPT Wallet para que sus agentes compren por el usuario</title>
-<link>https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html</link>
-<guid isPermaLink="false">2026-11-13-chatgpt-wallet</guid>
-<pubDate>Fri, 13 Nov 2026 16:46:00 +0000</pubDate>
-<category>IA</category>
-<description>Los agentes «dots» de ChatGPT ya pueden pagar compras con tarjetas American Express, Mastercard y Visa, usando un token en lugar del número real de la tarjeta. Cada compra la confirma el usuario con huella o Face ID. De momento solo está disponible para suscriptores Pro mayores de edad en EE. UU., y OpenAI avisa de que algunas tiendas pueden bloquear a los agentes.</description>
 </item>
 
 </channel>
