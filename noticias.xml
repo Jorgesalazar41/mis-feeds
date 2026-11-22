@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sat, 21 Nov 2026 07:57:17 +0100</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 07:56:17 +0100</lastBuildDate>
 
+<item>
+<title>[IA] El jefe del espionaje australiano avisa de que los centros de datos y la IA abren la puerta a la injerencia extranjera</title>
+<link>https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/australia-spy-chief-warns-of-data-centre-ai-risks-age</link>
+<guid isPermaLink="false">2026-11-22-asio-centros-datos-injerencia</guid>
+<pubDate>Sun, 22 Nov 2026 05:44:00 +0000</pubDate>
+<category>IA</category>
+<description>Mike Burgess, director de la ASIO, advirtió en una entrevista con The Age de que la propiedad encubierta de centros de datos y la expansión de la IA pueden dar a estados hostiles una vía para interferir en Australia. El vice primer ministro, Richard Marles, coincidió en que la construcción de centros de datos crea un nuevo frente de riesgo, y el Gobierno laborista prevé presentar antes de fin de año un borrador de ley para el sector.</description>
+</item>
+<item>
+<title>[IA] OpenRouter expulsa a tres proveedores de inferencia tras descubrirse que robaban o filtraban prompts de sus clientes</title>
+<link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
+<guid isPermaLink="false">2026-11-22-openrouter-expulsa-proveedores-prompts</guid>
+<pubDate>Sun, 22 Nov 2026 05:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La firma de ciberseguridad Dragos sembró unos dos millones de prompts con enlaces y credenciales trampa entre julio y noviembre y detectó que atacantes llevaban meses sacando datos de tres empresas que alojan modelos de IA. OpenRouter retiró a tres proveedores, quitó 125 endpoints de su modalidad sin retención de datos y avisó a los clientes afectados; asegura que su propia plataforma no fue vulnerada.</description>
+</item>
+<item>
+<title>[IA] La bolsa vive su peor semana desde 2020 por las dudas sobre la IA y Anthropic vuelve casi a su precio de salida</title>
+<link>https://mprnews.org/story/2026/11/21/npr-ai-stock-markets-anthropic-nvidia</link>
+<guid isPermaLink="false">2026-11-21-peor-semana-bolsa-ia</guid>
+<pubDate>Sat, 21 Nov 2026 13:00:00 +0000</pubDate>
+<category>IA</category>
+<description>El Nasdaq cayó un 10 % en la semana, su peor registro desde marzo de 2020, y el S&amp;P 500 y el Dow Jones entraron en corrección al cierre del viernes. Las acciones de Anthropic, que subieron un 17 % en su estreno, perdieron más de un 8 % el viernes y cerraron cerca de los 83 dólares de la OPV. Los analistas citados por NPR apuntan a la subida de tipos, el giro del Congreso hacia más regulación y la financiación circular entre empresas como Nvidia, Anthropic y CoreWeave.</description>
+</item>
+<item>
+<title>[IA] La ONU cierra sus conversaciones sobre «robots asesinos» sin normas vinculantes y aplaza el debate hasta 2028</title>
+<link>https://www.kiro7.com/news/technology/nations-un-talks-ai/KPESIT54IE2Y7I6ZK5KTRTWRCI/</link>
+<guid isPermaLink="false">2026-11-21-onu-robots-asesinos-2028</guid>
+<pubDate>Sat, 21 Nov 2026 07:26:00 +0000</pubDate>
+<category>IA</category>
+<description>La conferencia de la Convención sobre Ciertas Armas Convencionales terminó en Ginebra con un acuerdo para seguir «elaborando» un posible pacto sobre armas autónomas letales hasta 2028, sin reglas obligatorias. La propuesta de siete países encabezados por Brasil para abrir ya negociaciones no salió adelante, pese a que Guterres pedía lanzarlas este mismo año.</description>
+</item>
 <item>
 <title>[IA] Amazon detalla cómo unos agentes de IA de atacantes encontraron por sí solos un fallo desconocido y tomaron un servidor universitario</title>
 <link>https://securityonline.info/monai-label-zero-day-cve-2026-133968/</link>
@@ -319,30 +351,6 @@
 <pubDate>Sun, 15 Nov 2026 19:18:00 +0000</pubDate>
 <category>IA</category>
 <description>Según una investigación del NYT, el secretario de Comercio defendió reglas más suaves para los centros de datos fuera de China que alquilan potencia de cálculo a empresas chinas, y algunos de esos operadores, como Bitdeer, son clientes de Cantor, la firma que dirigió antes de cedérsela a sus hijos. El diario no encontró pruebas de que esos negocios influyeran en sus decisiones, y Comercio asegura que Lutnick ha cumplido sus compromisos éticos. Que el centro de Bitdeer en Malasia vaya a dar servicio a Tencent se apoya en una sola fuente anónima.</description>
-</item>
-<item>
-<title>[IA] Más de 115.000 firmas, entre ellas la de Elon Musk, piden que Nvidia readmita a Jensen Huang</title>
-<link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-<guid isPermaLink="false">2026-11-14-peticion-readmitir-huang</guid>
-<pubDate>Sat, 14 Nov 2026 21:41:00 +0000</pubDate>
-<category>IA</category>
-<description>Una petición en internet reclama a la junta de Nvidia que devuelva el puesto a Huang mientras la investigación independiente aclara los hechos, porque considera que salió sin garantías suficientes. El sábado superaba las 115.000 firmas; entre los apoyos conocidos están Elon Musk, Amjad Masad (Replit) y Tim Sweeney (Epic Games). El desglose de empleados y accionistas que la firman lo da la propia web de la petición y no está verificado.</description>
-</item>
-<item>
-<title>[IA] Gobiernos asiáticos reaccionan a la salida de Jensen Huang: Corea dice que Nvidia mantiene su envío de 260.000 GPU</title>
-<link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
-<guid isPermaLink="false">2026-11-14-asia-reacciona-salida-huang</guid>
-<pubDate>Sat, 14 Nov 2026 16:34:00 +0000</pubDate>
-<category>IA</category>
-<description>Corea del Sur asegura que Nvidia le ha confirmado el suministro previsto de 260.000 GPU avanzadas, Taiwán cree que la marcha de Huang no frenará al sector y mantiene en pie la futura sede de la empresa en Taipéi, y Japón vigilará la situación. Singapur sigue investigando a Megaspeed y a otras seis personas, mientras China rechaza las acusaciones de espionaje. Según una revisión de Reuters, proyectos chinos de IA por más de 3.000 millones que dependen de chips restringidos quedan en el aire.</description>
-</item>
-<item>
-<title>[IA] Stanford presenta Memorilla, una memoria que resume colecciones enteras de documentos en 16 tokens</title>
-<link>https://memory.stanford.edu/</link>
-<guid isPermaLink="false">2026-11-14-stanford-memorilla</guid>
-<pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Investigadores de Stanford y otros centros han publicado un módulo que lee todos los documentos y le pasa a un modelo congelado, Qwen3-8B, solo 16 tokens de memoria por pregunta. Según sus autores, logra la mejor media en ocho pruebas usando cientos de veces menos texto que el contexto completo y respondiendo mucho más rápido. Es un trabajo aún sin revisión por pares, y reconocen que puede perder nombres exactos y que hay que entrenarlo para cada modelo.</description>
 </item>
 
 </channel>
