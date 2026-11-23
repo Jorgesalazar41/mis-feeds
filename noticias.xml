@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Sun, 22 Nov 2026 07:56:17 +0100</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 07:58:32 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Los futuros de Wall Street rebotan entre un 2 % y un 3 % tras la peor semana del Nasdaq desde 2020</title>
+<link>https://news.sbs.co.kr/english/article.do?news_id=N1008859282</link>
+<guid isPermaLink="false">2026-11-23-futuros-rebotan-tras-venta-ia</guid>
+<pubDate>Mon, 23 Nov 2026 06:42:00 +0000</pubDate>
+<category>IA</category>
+<description>Los futuros de los principales índices de EE. UU. subían entre un 2 % y un 3 % en la madrugada del lunes, después de que la oleada de ventas de valores ligados a la IA dejara al S&amp;P 500 con un 8,6 % de caída semanal y al Nasdaq con un 10 %. El S&amp;P 500 encadenó el viernes su séptima sesión a la baja, la racha más larga desde febrero de 2020. Habrá que ver si el rebote se mantiene con la apertura.</description>
+</item>
+<item>
+<title>[IA] Gurman: los despidos en Siri afectaron al equipo del asistente antiguo y el agente avanzado de Apple no llegaría antes de finales de 2027</title>
+<link>https://www.macrumors.com/2026/11/22/siri-layoffs-spared-newer-ai-systems/</link>
+<guid isPermaLink="false">2026-11-22-gurman-despidos-siri-agente-2027</guid>
+<pubDate>Sun, 22 Nov 2026 20:29:43 +0000</pubDate>
+<category>IA</category>
+<description>Rumor: según el boletín de Mark Gurman en Bloomberg, recogido por MacRumors, los recientes recortes en Siri tocaron a quienes mantenían la infraestructura vieja del asistente y no a los equipos de los sistemas de IA nuevos. Gurman cree que el rígido calendario interno de lanzamientos de Apple frena su reacción ante la competencia y no espera un agente de IA más capaz hasta finales de 2027; Apple no lo ha confirmado.</description>
+</item>
+<item>
+<title>[IA] Musk confirma que los coches de Tesla seguirán con el ordenador AI4 y que el chip AI5 irá a los robots Optimus</title>
+<link>https://teslanorth.com/2026/11/22/tesla-ai4-ai5-optimus/</link>
+<guid isPermaLink="false">2026-11-22-tesla-ai5-optimus-coches-ai4</guid>
+<pubDate>Sun, 22 Nov 2026 16:44:05 +0000</pubDate>
+<category>IA</category>
+<description>En varias respuestas en X, Elon Musk explicó que los coches de Tesla se quedarán con el AI4, que a su juicio basta para conducir mejor que una persona, mientras que el nuevo AI5, con unas 12 veces más capacidad de cálculo, se reserva para el robot humanoide Optimus. También afirmó que el AI4 cuesta ahora el doble de fabricar por la subida de precios de la memoria y el almacenamiento.</description>
+</item>
+<item>
+<title>[IA] La demanda eléctrica de los centros de datos crece un 19 % al año, mientras la red de EE. UU. solo lo hace un 2 %</title>
+<link>https://fortune.com/2026/11/22/ai-data-centers-power-grid-capacity/</link>
+<guid isPermaLink="false">2026-11-22-demanda-electrica-centros-datos-red</guid>
+<pubDate>Sun, 22 Nov 2026 16:34:00 +0000</pubDate>
+<category>IA</category>
+<description>Un análisis de la correduría de seguros Howden, publicado por Fortune, calcula que el consumo de los centros de datos ha crecido de media un 19 % anual desde 2000, frente a un 2 % de la capacidad de la red estadounidense. Para mantener su cuota actual de la red hasta 2030 harían falta unos 110 GW de generación propia, algo que la propia Howden ve poco probable; el Laboratorio Lawrence Berkeley prevé que lleguen al 12 % de la electricidad del país en 2028.</description>
+</item>
 <item>
 <title>[IA] El jefe del espionaje australiano avisa de que los centros de datos y la IA abren la puerta a la injerencia extranjera</title>
 <link>https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/22/australia-spy-chief-warns-of-data-centre-ai-risks-age</link>
@@ -319,38 +351,6 @@
 <pubDate>Mon, 16 Nov 2026 15:02:00 +0000</pubDate>
 <category>IA</category>
 <description>El Departamento de Comercio ha publicado una norma provisional que exige licencia para vender chips y servidores de IA a centros de datos de cualquier país si pueden prestar más de 12 millones de TPP (unos 750 H100) a empresas con sede en China u otros países embargados, también a través de intermediarios. Los operadores que ya den ese servicio tendrán 90 días para pedir la licencia, y Malasia, Singapur, Indonesia, Tailandia y Brasil pasan a necesitar permiso para importar chips avanzados. La norma deroga formalmente la regla de difusión de IA de la etapa Biden.</description>
-</item>
-<item>
-<title>[IA] Jensen Huang tantea con sus aliados volver como consejero delegado de Nvidia, según el Financial Times</title>
-<link>https://thenextweb.com/news/jensen-huang-is-discussing-a-return-to-nvidia-ft-reports</link>
-<guid isPermaLink="false">2026-11-15-huang-tantea-regreso-nvidia</guid>
-<pubDate>Sun, 15 Nov 2026 20:22:00 +0000</pubDate>
-<category>IA</category>
-<description>Rumor: según fuentes del Financial Times, Huang ha hablado con personas de su confianza sobre un posible regreso al cargo pocos días después de su salida; ni él ni Nvidia lo han confirmado. Dos inversores de la compañía, Brad Gerstner (Altimeter) y Gavin Baker (Atreides), han pedido por carta a la junta una búsqueda de sucesor pausada que no descarte su vuelta. Nvidia presenta resultados este martes con Colette Kress como consejera delegada interina.</description>
-</item>
-<item>
-<title>[IA] EE. UU. y nueve países firman la Declaración de San Francisco para proteger la cadena de suministro de la IA</title>
-<link>https://www.tribuneindia.com/news/usa-news/us-india-and-8-other-nations-sign-san-francisco-declaration-to-secure-super-intelligence-supply-chains-ahead-of-quad-summit</link>
-<guid isPermaLink="false">2026-11-15-declaracion-san-francisco-pax-silica</guid>
-<pubDate>Sun, 15 Nov 2026 20:00:00 +0000</pubDate>
-<category>IA</category>
-<description>El acuerdo se firmó el domingo en un encuentro de la iniciativa Pax Silica organizado por el Departamento de Estado, con Australia, India, Israel, Japón, Corea del Sur, Catar, Singapur, Emiratos y Reino Unido junto a EE. UU. Busca reforzar la seguridad de tecnologías sensibles e infraestructuras como redes, puertos, energía y plataformas digitales, y plantea crear cinco grupos de trabajo. Llega justo antes del viaje de Trump a China.</description>
-</item>
-<item>
-<title>[IA] Bessent pide una «sacudida drástica» en Nvidia y un consejero delegado de fuera</title>
-<link>https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/</link>
-<guid isPermaLink="false">2026-11-15-bessent-sacudida-nvidia</guid>
-<pubDate>Sun, 15 Nov 2026 19:51:00 +0000</pubDate>
-<category>IA</category>
-<description>El secretario del Tesoro dijo en Fox News que, si Nvidia fuera un banco, muchos de sus directivos ya habrían sido apartados, y que la junta debería buscar al nuevo jefe fuera de la empresa. Puso el foco en si Nvidia tenía una cultura de cumplimiento de los controles de exportación, más que en el papel de Alice Huang. También recordó que el Tesoro llevaba meses a favor de vetar a Megaspeed, una decisión que corresponde a Comercio; Nvidia no respondió a Fortune.</description>
-</item>
-<item>
-<title>[IA] El New York Times vincula la postura de Lutnick sobre los chips de Nvidia con clientes de Cantor Fitzgerald</title>
-<link>https://shiftdelete.net/en/howard-lutnick-chip-rules</link>
-<guid isPermaLink="false">2026-11-15-nyt-lutnick-cantor-chips</guid>
-<pubDate>Sun, 15 Nov 2026 19:18:00 +0000</pubDate>
-<category>IA</category>
-<description>Según una investigación del NYT, el secretario de Comercio defendió reglas más suaves para los centros de datos fuera de China que alquilan potencia de cálculo a empresas chinas, y algunos de esos operadores, como Bitdeer, son clientes de Cantor, la firma que dirigió antes de cedérsela a sus hijos. El diario no encontró pruebas de que esos negocios influyeran en sus decisiones, y Comercio asegura que Lutnick ha cumplido sus compromisos éticos. Que el centro de Bitdeer en Malasia vaya a dar servicio a Tencent se apoya en una sola fuente anónima.</description>
 </item>
 
 </channel>
