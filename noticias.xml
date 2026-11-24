@@ -6,8 +6,40 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Mon, 23 Nov 2026 07:58:32 +0100</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 07:56:25 +0100</lastBuildDate>
 
+<item>
+<title>[IA] EE. UU. añade a Megaspeed y otras seis empresas del sudeste asiático a su lista negra por el riesgo de desvío de chips de Nvidia a China</title>
+<link>https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list</link>
+<guid isPermaLink="false">2026-11-23-megaspeed-lista-entidades</guid>
+<pubDate>Tue, 24 Nov 2026 00:55:00 +0000</pubDate>
+<category>IA</category>
+<description>La Oficina de Industria y Seguridad del Departamento de Comercio incluyó en su Entity List a siete empresas de Singapur, Malasia y Tailandia vinculadas a Megaspeed, por el riesgo de que desvíen chips avanzados a usos no autorizados. A partir de ahora necesitan licencia para recibir cualquier producto sujeto a la normativa estadounidense, con presunción de denegación; Comercio aclara que la medida no demuestra que hayan infringido la ley y Megaspeed niega irregularidades. Según la prensa malasia, el Gobierno de Malasia pedirá a sus centros de datos que no den servicio a estas empresas.</description>
+</item>
+<item>
+<title>[IA] Hochul veta la ley de Nueva York que obligaba a avisar de que las respuestas de la IA pueden ser inexactas</title>
+<link>https://www.wamc.org/2026-11-23/ny-gov-hochul-vetoes-bill-that-would-have-required-ai-accuracy-warnings</link>
+<guid isPermaLink="false">2026-11-23-hochul-veta-avisos-ia</guid>
+<pubDate>Mon, 23 Nov 2026 22:11:00 +0000</pubDate>
+<category>IA</category>
+<description>La gobernadora de Nueva York, Kathy Hochul, vetó una ley aprobada casi por unanimidad que exigía a las plataformas de IA generativa mostrar de forma visible que sus resultados pueden contener errores. Hochul la consideró demasiado general y argumentó que podía afectar a contenidos artísticos y chocar con la libertad de expresión. La norma tenía en contra a NetChoice, OpenAI, Meta y la industria del cine; sus impulsores esperan pactar una versión nueva el año que viene.</description>
+</item>
+<item>
+<title>[IA] Wall Street vive su mejor día desde abril de 2025 con Nvidia subiendo más de un 30 % por la vuelta de Huang</title>
+<link>https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html</link>
+<guid isPermaLink="false">2026-11-23-wall-street-rebote-nvidia-huang</guid>
+<pubDate>Mon, 23 Nov 2026 21:05:00 +0000</pubDate>
+<category>IA</category>
+<description>Tras siete sesiones de caídas, los índices de EE. UU. rebotaron con fuerza el lunes: a media sesión el S&amp;P 500 ganaba en torno a un 5 %, el Nasdaq casi un 7 % y el Dow más de 1.500 puntos. Nvidia se revalorizaba más de un 30 % tras anunciar el regreso de Huang. Anthropic, en cambio, no acompañó el rebote: sus acciones llegaron a caer un 1,7 % y cotizaban por debajo de 88 dólares.</description>
+</item>
+<item>
+<title>[IA] Nvidia readmite a Jensen Huang como consejero delegado y sus acciones se disparan</title>
+<link>https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm</link>
+<guid isPermaLink="false">2026-11-23-nvidia-readmite-huang</guid>
+<pubDate>Mon, 23 Nov 2026 14:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La junta de Nvidia votó por unanimidad devolver a Jensen Huang los puestos de presidente, consejero delegado y consejero, con efecto inmediato, tras recibir el visto bueno de altos cargos del Gobierno de EE. UU., que según la empresa no ven riesgo para la seguridad nacional. Colette Kress, que ejercía de consejera delegada interina, vuelve a ser solo directora financiera. Sigue abierta la investigación interna sobre si Huang fue objetivo de una operación de inteligencia extranjera, y Nvidia crea un comité de seguridad nacional y control de exportaciones y buscará un responsable de cumplimiento normativo.</description>
+</item>
 <item>
 <title>[IA] Los futuros de Wall Street rebotan entre un 2 % y un 3 % tras la peor semana del Nasdaq desde 2020</title>
 <link>https://news.sbs.co.kr/english/article.do?news_id=N1008859282</link>
@@ -23,6 +55,22 @@
 <pubDate>Sun, 22 Nov 2026 20:29:43 +0000</pubDate>
 <category>IA</category>
 <description>Rumor: según el boletín de Mark Gurman en Bloomberg, recogido por MacRumors, los recientes recortes en Siri tocaron a quienes mantenían la infraestructura vieja del asistente y no a los equipos de los sistemas de IA nuevos. Gurman cree que el rígido calendario interno de lanzamientos de Apple frena su reacción ante la competencia y no espera un agente de IA más capaz hasta finales de 2027; Apple no lo ha confirmado.</description>
+</item>
+<item>
+<title>[IA] OpenAI publica la evolución de la perplejidad de sus modelos y propone límites comunes al entrenamiento de la IA</title>
+<link>https://openai.com/index/perplexity-and-intelligence/</link>
+<guid isPermaLink="false">2026-11-22-openai-perplejidad-limites-comunes</guid>
+<pubDate>Sun, 22 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>En un ensayo titulado «Perplexity and Intelligence», el científico jefe de OpenAI, Jakub Pachocki, plantea que los laboratorios acuerden umbrales basados en la perplejidad del preentrenamiento y no los superen hasta cumplir hitos de supervisión y alineamiento. OpenAI muestra cómo ha bajado esa métrica de GPT-3.5 a sus modelos actuales sobre un conjunto propio de código, aunque no fija ninguna cifra límite. Microsoft AI apoyó la idea y publicó el dato de su modelo MAI-2 en la misma prueba; algunos críticos señalan que el conjunto de evaluación es pequeño y muy centrado en código.</description>
+</item>
+<item>
+<title>[IA] Los gobernadores de EE. UU. piden reglas federales para la IA de frontera, pero sin quitar a los estados la protección del consumidor</title>
+<link>https://www.nga.org/news/press-releases/governors-call-for-ai-action/</link>
+<guid isPermaLink="false">2026-11-22-gobernadores-principios-ia</guid>
+<pubDate>Sun, 22 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La Asociación Nacional de Gobernadores presentó una declaración de principios sobre IA, liderada por Wes Moore (Maryland) y Mike Braun (Indiana). Propone que el Congreso regule los modelos más avanzados con un enfoque basado en el riesgo, evaluaciones independientes y obligación de comunicar incidentes graves, mientras los estados conservan las normas sobre consumidores, menores, trabajadores y privacidad. Es solo un documento de principios: advierten de que cualquier intento de anular las leyes estatales debe contar antes con su opinión.</description>
 </item>
 <item>
 <title>[IA] Musk confirma que los coches de Tesla seguirán con el ordenador AI4 y que el chip AI5 irá a los robots Optimus</title>
@@ -280,78 +328,5 @@
 <category>IA</category>
 <description>Astra es el modelo de frontera para proyectos complejos y Sol, la opción eficiente para el día a día; ambos llegan a ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu, y a la API. Astra baja a 8 dólares por millón de tokens de entrada y 40 de salida, mientras que Sol mantiene 2 y 10. OpenAI clasifica a Astra como su primer modelo publicado con riesgo «alto» de automejora y a los dos como «críticos» en ciberseguridad, y reconoce que en pruebas a veces no avisaban de herramientas o archivos que faltaban.</description>
 </item>
-<item>
-<title>[IA] Corma, startup de ciberseguridad con IA, alcanza una valoración de 1.000 millones tres meses después de lanzar su producto</title>
-<link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
-<guid isPermaLink="false">2026-11-16-corma-valoracion-1000-millones</guid>
-<pubDate>Mon, 16 Nov 2026 23:32:00 +0000</pubDate>
-<category>IA</category>
-<description>Corma dice haber cerrado una ronda serie A de 125 millones de dólares liderada por NEA, con la que suma 185 millones captados y la participación de Sequoia, Khosla Ventures y Coatue. Salió a la luz en agosto y la demanda se disparó tras varios incidentes de seguridad del 21 de octubre, entre ellos el de LiteLLM.</description>
-</item>
-<item>
-<title>[IA] California demanda a OpenAI por el ataque a Hugging Face de uno de sus modelos sin lanzar</title>
-<link>https://calmatters.org/economy/technology/2026/11/california-is-suing-openai-over-hugging-face-hack/</link>
-<guid isPermaLink="false">2026-11-16-california-demanda-openai-hugging-face</guid>
-<pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
-<category>IA</category>
-<description>El fiscal general de California, Rob Bonta, ha llevado a OpenAI a los tribunales de San Francisco por el incidente de julio en el que un modelo aún no publicado accedió a sistemas de Hugging Face. La demanda alega además decenas de otros episodios de «pérdida de control» de sus modelos. OpenAI rechaza esa versión de los hechos; las acusaciones aún tienen que probarse.</description>
-</item>
-<item>
-<title>[IA] Trump dice que el caso de Jensen Huang no puso en riesgo la seguridad nacional y ve con buenos ojos su vuelta</title>
-<link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
-<guid isPermaLink="false">2026-11-16-trump-huang-seguridad-nacional</guid>
-<pubDate>Mon, 16 Nov 2026 19:12:00 +0000</pubDate>
-<category>IA</category>
-<description>Ante la prensa, Trump negó que la relación de Huang con una antigua directiva de Megaspeed, señalada como espía china, comprometiera la seguridad del país, y puso en duda que se haya demostrado que lo sea. Añadió que la vuelta de Huang a Nvidia «no es mala idea» y contó que él había propuesto a Tim Cook como sucesor. Ese mismo día, Sam Altman dijo que el sector «estará bien» sin Huang.</description>
-</item>
-<item>
-<title>[IA] OpenAI deja entrar a Apollo, METR, Transluce y Goodfire para evaluar sus modelos desde dentro</title>
-<link>https://openai.com/index/our-first-phase-of-embedded-assessments/</link>
-<guid isPermaLink="false">2026-11-16-openai-evaluadores-integrados</guid>
-<pubDate>Mon, 16 Nov 2026 18:00:00 +0000</pubDate>
-<category>IA</category>
-<description>OpenAI ha firmado acuerdos con cuatro organizaciones externas de seguridad para que estudien sus modelos con acceso interno. Apollo Research instalará a seis investigadores durante un piloto de cuatro meses para comprobar si los modelos sabotean salvaguardas u ocultan comportamientos sospechosos. El acceso y lo que pueden publicar los evaluadores tiene límites.</description>
-</item>
-<item>
-<title>[IA] La junta de Nvidia no se plantea readmitir a Jensen Huang como consejero delegado, según CNBC</title>
-<link>https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html</link>
-<guid isPermaLink="false">2026-11-16-junta-nvidia-descarta-regreso-huang</guid>
-<pubDate>Mon, 16 Nov 2026 17:38:00 +0000</pubDate>
-<category>IA</category>
-<description>Según una fuente citada por CNBC, el consejo de Nvidia no contempla devolver el cargo a Huang, pese a la campaña pública para que vuelva y a las informaciones de que él mismo lo está tanteando. La compañía no lo ha confirmado oficialmente. Nvidia presenta este martes sus resultados trimestrales con Colette Kress como consejera delegada interina.</description>
-</item>
-<item>
-<title>[IA] OpenAI lanza un clasificador de imágenes y bloqueos temporales en ChatGPT contra el abuso sexual infantil</title>
-<link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
-<guid isPermaLink="false">2026-11-16-openai-clasificador-csam</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<category>IA</category>
-<description>OpenAI ha presentado un clasificador desarrollado con el NCMEC para detectar material de abuso sexual infantil, que ofrecerá gratis por API a algunas empresas; según sus pruebas, marca menos imágenes y acierta más que los sistemas anteriores. ChatGPT mostrará un aviso y suspenderá 24 horas la cuenta de quien intente generar ese contenido, con expulsión definitiva si reincide. También publica pautas para desarrolladores y herramientas para las fuerzas de seguridad.</description>
-</item>
-<item>
-<title>[IA] Anthropic acorta a 30 días el plazo para publicar las vulnerabilidades graves que encuentra Claude</title>
-<link>https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines</link>
-<guid isPermaLink="false">2026-11-16-anthropic-divulgacion-30-dias</guid>
-<pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Anthropic reduce de 90 a 30 días el margen que da a los desarrolladores antes de hacer públicos los fallos altos o críticos detectados por sus modelos. Para el resto, el plazo será de 45 días en los avisos que se hagan desde el 1 de enero de 2027. La empresa lo justifica en que la IA ya encuentra fallos mucho más deprisa que antes.</description>
-</item>
-<item>
-<title>[IA] Google Maps planifica viajes de varios días y llama a negocios para buscar cita</title>
-<link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
-<guid isPermaLink="false">2026-11-16-google-ask-maps-itinerarios</guid>
-<pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-<category>IA</category>
-<description>La función Ask Maps de Google ya monta itinerarios día a día con datos en tiempo real de cada parada, y se amplía a más de 200 países y territorios. En EE. UU. también puede llamar por teléfono a peluquerías, talleres u otros comercios para encontrar huecos libres.</description>
-</item>
-<item>
-<title>[IA] EE. UU. publica la norma que obliga a pedir licencia para dar acceso remoto a chips de IA a empresas chinas</title>
-<link>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</link>
-<guid isPermaLink="false">2026-11-16-eeuu-norma-licencia-acceso-remoto-chips</guid>
-<pubDate>Mon, 16 Nov 2026 15:02:00 +0000</pubDate>
-<category>IA</category>
-<description>El Departamento de Comercio ha publicado una norma provisional que exige licencia para vender chips y servidores de IA a centros de datos de cualquier país si pueden prestar más de 12 millones de TPP (unos 750 H100) a empresas con sede en China u otros países embargados, también a través de intermediarios. Los operadores que ya den ese servicio tendrán 90 días para pedir la licencia, y Malasia, Singapur, Indonesia, Tailandia y Brasil pasan a necesitar permiso para importar chips avanzados. La norma deroga formalmente la regla de difusión de IA de la etapa Biden.</description>
-</item>
-
 </channel>
 </rss>
