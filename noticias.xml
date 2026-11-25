@@ -6,8 +6,80 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Tue, 24 Nov 2026 07:56:25 +0100</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 07:55:45 +0100</lastBuildDate>
 
+<item>
+<title>[IA] La bolsa de Tokio se hunde: SoftBank cae un 10 % y Advantest y Tokyo Electron más de un 10 % tras el bajón de Nvidia</title>
+<link>https://en.sedaily.com/world/2026/11/25/softbank-falls-10-percent-as-asian-tech-stocks-tumble-on</link>
+<guid isPermaLink="false">2026-11-25-asia-tecnologicas-caen-softbank</guid>
+<pubDate>Wed, 25 Nov 2026 02:16:00 +0000</pubDate>
+<category>IA</category>
+<description>El efecto del regreso de Huang a Nvidia duró apenas un día: las tecnológicas asiáticas se desplomaron el miércoles después de que Nvidia cerrara con una caída cercana al 6 % y el Nasdaq perdiera casi un 1,5 %. En Japón, SoftBank cedió un 10 %, Advantest un 12 % y Tokyo Electron casi un 11 %, mientras el índice de Taiwán abrió por debajo de los 40.000 puntos con TSMC bajando más de un 6 %.</description>
+</item>
+<item>
+<title>[IA] Trump dice que indultar a Jensen Huang es «siempre una opción», aunque no cree que haga falta</title>
+<link>https://gizmodo.com/trump-says-pardoning-jensen-huang-is-always-an-option-2000845079</link>
+<guid isPermaLink="false">2026-11-24-trump-indulto-huang</guid>
+<pubDate>Wed, 25 Nov 2026 01:49:00 +0000</pubDate>
+<category>IA</category>
+<description>En declaraciones al New York Post, el presidente dejó abierta la puerta a un indulto para el consejero delegado de Nvidia, que no está acusado de ningún delito. Huang comparecerá ante el Congreso el 1 de diciembre, y el senador Chuck Schumer le ha acusado de saltarse la ley de control de exportaciones; según la prensa, la SEC también estaría investigando a Nvidia.</description>
+</item>
+<item>
+<title>[IA] Jensen Huang pide perdón a la plantilla de Nvidia en su primera reunión tras volver y niega que Trump forzara su regreso</title>
+<link>https://www.yahoo.com/news/politics/articles/huang-apologizes-nvidia-employees-says-221351916.html</link>
+<guid isPermaLink="false">2026-11-24-huang-disculpa-plantilla-nvidia</guid>
+<pubDate>Tue, 24 Nov 2026 22:13:00 +0000</pubDate>
+<category>IA</category>
+<description>En su primera reunión con todos los empleados desde que la junta lo readmitió, Huang reconoció haber cometido errores graves y contó que va a terapia a diario, según The New York Times y Wired. También calificó de falso que el Gobierno de Trump interviniera en su vuelta, pese a que el propio presidente dijo haber hablado con la junta. Las informaciones sobre sus relaciones personales que motivaron su salida siguen sin confirmarse oficialmente.</description>
+</item>
+<item>
+<title>[IA] OpenAI asegura que GPT-6 diseña proteínas que se unen a sus dianas en el laboratorio sin herramientas específicas de biología</title>
+<link>https://www.unite.ai/openai-reports-gpt-6-designs-proteins-with-reasoning-and-code/</link>
+<guid isPermaLink="false">2026-11-24-openai-gpt6-diseno-proteinas</guid>
+<pubDate>Tue, 24 Nov 2026 21:36:00 +0000</pubDate>
+<category>IA</category>
+<description>OpenAI afirma que sus modelos GPT-6 pueden diseñar proteínas solo razonando y escribiendo código. En pruebas de laboratorio con la empresa Onava, 35 de 322 miniproteínas diseñadas (el 10,9 %) se unieron a su objetivo, y el 70 % de los rediseños de bucles de anticuerpos mantuvieron la unión. Son resultados de la propia OpenAI: la unión es solo una primera señal y el modelo sigue lejos de las herramientas especializadas para predecir estructuras completas.</description>
+</item>
+<item>
+<title>[IA] Dell dobla sus ingresos con 22.000 millones en servidores de IA y eleva su previsión anual a 202.000 millones</title>
+<link>https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000050/exhibit991earnings8kq3fy27.htm</link>
+<guid isPermaLink="false">2026-11-24-dell-resultados-servidores-ia</guid>
+<pubDate>Tue, 24 Nov 2026 21:05:00 +0000</pubDate>
+<category>IA</category>
+<description>Dell facturó 54.900 millones de dólares en su tercer trimestre fiscal, un 103 % más que hace un año, impulsada por unos servidores de IA que casi se cuadruplicaron hasta 22.000 millones. Registró pedidos de IA por 60.200 millones y su cartera pendiente marca un récord de 132.300 millones. Sube su previsión de ingresos para el año fiscal a 202.000 millones y aprueba recompras de acciones por otros 25.000 millones.</description>
+</item>
+<item>
+<title>[IA] Las acciones de Anthropic caen por debajo del precio de su OPV a los pocos días de estrenarse en bolsa</title>
+<link>https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/</link>
+<guid isPermaLink="false">2026-11-24-anthropic-bajo-precio-opv</guid>
+<pubDate>Tue, 24 Nov 2026 18:30:00 +0000</pubDate>
+<category>IA</category>
+<description>Los títulos de Anthropic llegaron a cotizar a 76 dólares el martes, casi un 12 % menos que el lunes y por debajo de los 83 dólares a los que salió a bolsa, cuando menos de una semana antes abrieron a más de 111. Nvidia también devolvió parte de la subida de más del 30 % que vivió tras el regreso de Jensen Huang. TechCrunch lo ve como una mala señal para las demás startups de IA que preparan su salida a bolsa.</description>
+</item>
+<item>
+<title>[IA] Una investigación de ABC acusa a la app china Talkie de enganchar a menores y exponerlos a chats abusivos; Apple la retira</title>
+<link>https://www.abc.net.au/news/2026-11-25/chinese-ai-companion-app-talkie-child-harm-allegations/107416128</link>
+<guid isPermaLink="false">2026-11-25-talkie-menores-australia</guid>
+<pubDate>Tue, 24 Nov 2026 18:00:00 +0000</pubDate>
+<category>IA</category>
+<description>Según ABC News y The Bureau of Investigative Journalism, unos 50.000 niños australianos de 10 a 17 años han usado Talkie, una app de compañía con IA de una filial de la china MiniMax, pese a estar calificada para mayores de 18. Varias madres describen conversaciones abusivas, y Apple retiró la app de su tienda tras las preguntas de los periodistas. MiniMax no respondió; las acusaciones aún no se han probado.</description>
+</item>
+<item>
+<title>[IA] Nueva York prohíbe durante cinco años los juguetes con chatbots de IA</title>
+<link>https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot</link>
+<guid isPermaLink="false">2026-11-24-nueva-york-prohibe-juguetes-chatbot</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>La gobernadora Kathy Hochul ha firmado una moratoria de cinco años que impide fabricar, distribuir o vender en el estado juguetes que lleven integrado un chatbot de IA. Entrará en vigor 90 días después de la firma, así que no afecta a esta campaña navideña, y la fiscal general podrá multar con hasta 15.000 dólares por día e infracción. La medida llega después de que pruebas de un grupo de consumidores detectaran conversaciones sexuales y controles parentales débiles en juguetes para niños de 3 a 12 años.</description>
+</item>
+<item>
+<title>[IA] Tidal empezará a borrar el 9 de diciembre todas las canciones generadas por completo con IA</title>
+<link>https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/</link>
+<guid isPermaLink="false">2026-11-24-tidal-borra-canciones-ia</guid>
+<pubDate>Tue, 24 Nov 2026 16:46:00 +0000</pubDate>
+<category>IA</category>
+<description>El servicio de música en streaming eliminará más de 29 millones de pistas hechas íntegramente con IA antes de final de año y rechazará entre 80.000 y 85.000 subidas de este tipo cada día. Según sus propios datos, más del 43 % de lo subido en los últimos 90 días era música generada por IA, aunque casi ninguna de esas pistas tenía reproducciones. Las canciones creadas con ayuda de la IA seguirán siendo aceptadas.</description>
+</item>
 <item>
 <title>[IA] EE. UU. añade a Megaspeed y otras seis empresas del sudeste asiático a su lista negra por el riesgo de desvío de chips de Nvidia a China</title>
 <link>https://www.federalregister.gov/public-inspection/2026-23999/additions-to-the-entity-list</link>
@@ -295,38 +367,6 @@
 <pubDate>Wed, 18 Nov 2026 10:15:00 +0000</pubDate>
 <category>IA</category>
 <description>La Oficina de Rendición de Cuentas del Gobierno de EE. UU. probó esta primavera cuatro asistentes y en menos de 12 horas logró, con técnicas de evasión conocidas, que dieran información útil para planificar atentados, como ataques con explosivos o contra subestaciones eléctricas. El estudio lo pidió la senadora Maggie Hassan, que prepara audiencias y una ley para el año que viene. Las empresas dicen que han reforzado sus protecciones desde entonces y OpenAI añade que la versión probada era antigua.</description>
-</item>
-<item>
-<title>[IA] Nvidia deja de vender sus chips H200 en China tras la salida de Huang</title>
-<link>https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/</link>
-<guid isPermaLink="false">2026-11-17-nvidia-abandona-h200-china</guid>
-<pubDate>Tue, 17 Nov 2026 23:37:00 +0000</pubDate>
-<category>IA</category>
-<description>Colette Kress anunció en la presentación de resultados que Nvidia renuncia a vender el H200 en China, un acuerdo que habían cerrado Huang y Trump con un arancel del 25 % y que Pekín apenas había aceptado. Jefferies calcula que la nueva norma sobre acceso remoto a chips podría restar entre 44.000 y 62.000 millones a sus ingresos de centros de datos el año próximo, aunque Kress asegura que la cartera de pedidos de Vera Rubin compensará el golpe.</description>
-</item>
-<item>
-<title>[IA] Microsoft presenta MAI Code 2 y MAI Code 2 Flash, modelos de programación mucho más baratos que sus rivales</title>
-<link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/</link>
-<guid isPermaLink="false">2026-11-17-microsoft-mai-code-2</guid>
-<pubDate>Tue, 17 Nov 2026 14:14:00 -0800</pubDate>
-<category>IA</category>
-<description>Microsoft anunció en su conferencia Ignite dos modelos propios para escribir código y asegura que MAI Code 2 rinde casi como Claude Opus 5.5 por una fracción mínima del coste. La compañía admite que están pensados para el trabajo diario y no aún para tareas científicas difíciles o agentes de muy larga duración. Ya funcionan en GitHub Copilot y la versión Flash está en vista previa limitada en Microsoft Foundry.</description>
-</item>
-<item>
-<title>[IA] Nvidia supera previsiones con 115.800 millones de ingresos y su junta confirma que no readmitirá a Jensen Huang</title>
-<link>https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html</link>
-<guid isPermaLink="false">2026-11-17-nvidia-resultados-t3-huang</guid>
-<pubDate>Tue, 17 Nov 2026 22:03:00 +0000</pubDate>
-<category>IA</category>
-<description>Nvidia ingresó 115.800 millones de dólares en el trimestre, un 103 % más que hace un año y por encima de lo esperado; el negocio de centros de datos aportó 107.600 millones. Prevé entre 127.400 y 132.600 millones para el próximo trimestre y anunció recompras de acciones por 150.000 millones. En la conferencia con analistas, el presidente de la junta dejó claro que Huang no volverá y que buscan un consejero delegado definitivo dentro y fuera de la empresa, mientras Colette Kress sigue como interina.</description>
-</item>
-<item>
-<title>[IA] OpenAI lanza GPT-6.2 Astra y GPT-6.2 Sol y abarata un 20 % su modelo más potente</title>
-<link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
-<guid isPermaLink="false">2026-11-17-openai-gpt-6-2-astra-sol</guid>
-<pubDate>Tue, 17 Nov 2026 18:55:00 +0000</pubDate>
-<category>IA</category>
-<description>Astra es el modelo de frontera para proyectos complejos y Sol, la opción eficiente para el día a día; ambos llegan a ChatGPT Work y Codex para los planes Plus, Pro, Enterprise y Edu, y a la API. Astra baja a 8 dólares por millón de tokens de entrada y 40 de salida, mientras que Sol mantiene 2 y 10. OpenAI clasifica a Astra como su primer modelo publicado con riesgo «alto» de automejora y a los dos como «críticos» en ciberseguridad, y reconoce que en pruebas a veces no avisaban de herramientas o archivos que faltaban.</description>
 </item>
 </channel>
 </rss>
