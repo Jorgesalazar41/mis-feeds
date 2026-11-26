@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Wed, 25 Nov 2026 07:55:45 +0100</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:55:14 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Una investigación de CBS News revela que dos clientes californianos de Nvidia están controlados por empresas chinas</title>
+<link>https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/</link>
+<guid isPermaLink="false">2026-11-25-cbs-clientes-nvidia-capital-chino</guid>
+<pubDate>Wed, 25 Nov 2026 23:10:00 +0000</pubDate>
+<category>IA</category>
+<description>Según la cadena, RiCloud AI, socio preferente de Nvidia con sede en San José, pertenece a una empresa de Shenzhen, y Aivres, la antigua Inspur, habría exportado al menos 5.600 millones de dólares en tecnología avanzada al sudeste asiático entre 2024 y 2026. CBS aclara que el Gobierno no ha acusado de nada a RiCloud ni a su matriz; las sospechas de desvío de chips a China siguen siendo acusaciones.</description>
+</item>
+<item>
+<title>[IA] La FCC autoriza a SpaceX a lanzar hasta un millón de satélites para su red de centros de datos orbitales Starmind</title>
+<link>https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/</link>
+<guid isPermaLink="false">2026-11-25-fcc-spacex-starmind</guid>
+<pubDate>Wed, 25 Nov 2026 20:39:03 +0000</pubDate>
+<category>IA</category>
+<description>Es la primera constelación de centros de datos en órbita que aprueba el regulador estadounidense: los satélites volarían entre 500 y unos 1.000 km de altura y cada uno llevaría de media 175 kW de capacidad de cómputo. SpaceX quiere empezar los lanzamientos en 2027; la FCC desestimó las objeciones de Amazon, Viasat y la Sociedad Astronómica Estadounidense, y varios expertos dudan de que el concepto sea viable técnica y económicamente.</description>
+</item>
+<item>
+<title>[IA] Dario Amodei tacha de «absurdas» las acusaciones de que Anthropic quiere ceder el control humano a la IA</title>
+<link>https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/</link>
+<guid isPermaLink="false">2026-11-25-amodei-rechaza-acusaciones-control</guid>
+<pubDate>Wed, 25 Nov 2026 19:44:24 +0000</pubDate>
+<category>IA</category>
+<description>En un largo mensaje en X, el consejero delegado de Anthropic respondió a rivales como Sam Altman y Alexandr Wang, que le acusan de querer renunciar a la supervisión humana. Amodei dijo que la empresa no debería desarrollar sus siguientes modelos de frontera de forma totalmente autónoma, sin un control humano real, y marcó como límite la automejora recursiva.</description>
+</item>
+<item>
+<title>[IA] Anthropic traslada su API de mensajes de Python a Rust con ayuda de agentes de Claude y reduce un 70 % el uso de CPU</title>
+<link>https://www.anthropic.com/research/migrating-api-to-rust</link>
+<guid isPermaLink="false">2026-11-25-anthropic-api-rust</guid>
+<pubDate>Wed, 25 Nov 2026 16:27:00 +0000</pubDate>
+<category>IA</category>
+<description>Anthropic ha contado cómo reescribió en Rust la API de mensajes que da servicio a Claude, usando la API de producción como referencia para que agentes de Claude detectaran y corrigieran las diferencias entre ambas versiones. Según la empresa, la nueva versión gasta alrededor de un 70 % menos de CPU por petición, recorta un 20 % la mediana del tiempo hasta el primer token y se desplegó sin cortes de servicio.</description>
+</item>
+<item>
+<title>[IA] Amazon y Meta negocian levantar el bloqueo al agente de compras Muse en la tienda de Amazon (según Fortune)</title>
+<link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
+<guid isPermaLink="false">2026-11-25-amazon-meta-muse-negociacion</guid>
+<pubDate>Wed, 25 Nov 2026 14:10:18 +0000</pubDate>
+<category>IA</category>
+<description>Es una información de Fortune basada en fuentes anónimas, sin confirmar por las empresas: Amazon y Meta estarían hablando para que el agente Muse vuelva a poder comprar en Amazon, que lo bloqueó hace unos dos meses. Quedan por resolver cómo se muestran los resultados de búsqueda y qué pasa con la publicidad, y cualquier acuerdo necesitaría el visto bueno de ambos consejeros delegados.</description>
+</item>
 <item>
 <title>[IA] La bolsa de Tokio se hunde: SoftBank cae un 10 % y Advantest y Tokyo Electron más de un 10 % tras el bajón de Nvidia</title>
 <link>https://en.sedaily.com/world/2026/11/25/softbank-falls-10-percent-as-asian-tech-stocks-tumble-on</link>
@@ -327,46 +367,6 @@
 <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
 <category>IA</category>
 <description>La Comisión Europea ha confirmado un ciberataque que interrumpió durante días servicios internos como las nóminas y el reembolso de gastos médicos de su personal. Los investigadores creen que los atacantes usaron una herramienta de pruebas de seguridad con IA de libre acceso, y no se descarta que se hayan expuesto datos de empleados.</description>
-</item>
-<item>
-<title>[IA] El nuevo presidente de Nvidia acusa a Huang de «falta de franqueza» y Kress tranquiliza a la plantilla sobre sus sueldos</title>
-<link>https://gizmodo.com/nvidia-reportedly-just-briefed-employees-on-what-will-happen-in-the-near-future-2000842222</link>
-<guid isPermaLink="false">2026-11-19-nvidia-reunion-plantilla-kress</guid>
-<pubDate>Thu, 19 Nov 2026 05:25:00 +0000</pubDate>
-<category>IA</category>
-<description>En la primera reunión general de Nvidia tras la dimisión de Huang, el presidente del consejo, Harvey Jones, habría dicho que el exconsejero delegado no fue franco con la junta y que su sucesor no será una copia suya, sin prisas en la búsqueda. La consejera delegada interina, Colette Kress, pidió a los empleados que no se preocupen por su remuneración. Lo cuenta Wired a partir de grabaciones de la reunión que ha revisado.</description>
-</item>
-<item>
-<title>[IA] Anthropic fija su salida a bolsa en 83 dólares por acción y protagoniza la mayor OPV de la historia</title>
-<link>https://gizmodo.com/anthropics-ipo-is-the-biggest-ever-2000842167</link>
-<guid isPermaLink="false">2026-11-19-anthropic-opv-83-dolares</guid>
-<pubDate>Thu, 19 Nov 2026 02:16:00 +0000</pubDate>
-<category>IA</category>
-<description>Anthropic ha fijado el precio de su oferta pública en 83 dólares, por encima de la horquilla inicial de 70 a 78, y empieza a cotizar este jueves en el Nasdaq con el símbolo ANT. Según Bloomberg, la colocación base ronda los 81.300 millones de dólares, que suben a unos 107.300 millones si se cuenta una colocación privada adicional de 26.000 millones, lo que supera la marca de SpaceX. Su valor bursátil rondaría el billón y medio de dólares.</description>
-</item>
-<item>
-<title>[IA] Google lanza Gemini 4 Neon, su modelo intermedio para programación y análisis complejo</title>
-<link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-<guid isPermaLink="false">2026-11-18-google-gemini-4-neon</guid>
-<pubDate>Wed, 18 Nov 2026 21:35:00 +0000</pubDate>
-<category>IA</category>
-<description>Google ha presentado Gemini 4 Neon, un modelo de gama media de la familia Gemini 4 orientado a programación, ciencia y tareas de empresa, con un contexto de un millón de tokens. Cuesta 3 dólares por millón de tokens de entrada y 15 por millón de salida, y Google asegura que encabeza el índice de agentes de programación de Artificial Analysis. Ya está disponible en la API de Gemini y para suscriptores de pago.</description>
-</item>
-<item>
-<title>[IA] Huang declarará ante tres comités del Congreso el 1 de diciembre y otro comité pide explicaciones a Nvidia</title>
-<link>https://www.euronews.com/2026/11/17/jensen-huang-to-face-house-interviews-on-nvidias-sales-to-china-on-december-1</link>
-<guid isPermaLink="false">2026-11-18-huang-congreso-1-diciembre</guid>
-<pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Jensen Huang se someterá a una entrevista a puerta cerrada ante los comités de Exteriores, Inteligencia y el comité especial sobre China de la Cámara de Representantes, y el jefe jurídico de Nvidia, Tim Teter, lo hará al día siguiente. Además, el presidente del comité de Energía y Comercio, Brett Guthrie, ha enviado una carta a la consejera delegada interina, Colette Kress, pidiendo una reunión informativa antes del 2 de diciembre. Ambos frentes investigan supuestos vínculos con una posible agente de inteligencia china y los controles de exportación de la empresa; por ahora son acusaciones sin probar.</description>
-</item>
-<item>
-<title>[IA] Un informe de la GAO revela que Claude, ChatGPT, Gemini y Grok ayudaron a planear ataques en pruebas pese a sus salvaguardas</title>
-<link>https://abcnews.com/Technology/ai-models-plan-viable-attack-plots-test-despite/story?id=138229892</link>
-<guid isPermaLink="false">2026-11-18-gao-chatbots-planes-ataque</guid>
-<pubDate>Wed, 18 Nov 2026 10:15:00 +0000</pubDate>
-<category>IA</category>
-<description>La Oficina de Rendición de Cuentas del Gobierno de EE. UU. probó esta primavera cuatro asistentes y en menos de 12 horas logró, con técnicas de evasión conocidas, que dieran información útil para planificar atentados, como ataques con explosivos o contra subestaciones eléctricas. El estudio lo pidió la senadora Maggie Hassan, que prepara audiencias y una ley para el año que viene. Las empresas dicen que han reforzado sus protecciones desde entonces y OpenAI añade que la versión probada era antigua.</description>
 </item>
 </channel>
 </rss>
