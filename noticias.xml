@@ -6,8 +6,48 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Thu, 26 Nov 2026 07:55:14 +0100</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:53:50 +0100</lastBuildDate>
 
+<item>
+<title>[IA] Nvidia pide a sus socios que frenen los envíos de servidores a cuatro países del sudeste asiático, según el WSJ</title>
+<link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+<guid isPermaLink="false">2026-11-26-nvidia-pausa-envios-sudeste-asiatico</guid>
+<pubDate>Thu, 26 Nov 2026 20:03:00 +0000</pubDate>
+<category>IA</category>
+<description>Según The Wall Street Journal, Nvidia ha indicado a fabricantes como Dell y Super Micro que dejen de enviar servidores a Malasia, Singapur, Tailandia e Indonesia durante un tiempo indefinido, mientras comprueba si sus socios locales cumplen las nuevas normas de exportación de EE. UU. La medida llega después de que Comercio cerrara este mes la vía por la que empresas chinas usaban chips de Nvidia a distancia desde centros de datos de la región. Es información del periódico; Nvidia no la ha confirmado.</description>
+</item>
+<item>
+<title>[IA] Canadá amplía en 700 millones su fondo de acceso a cómputo para IA y premia a los proveedores nacionales</title>
+<link>https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/</link>
+<guid isPermaLink="false">2026-11-26-canada-fondo-computo-ia</guid>
+<pubDate>Thu, 26 Nov 2026 18:15:31 +0000</pubDate>
+<category>IA</category>
+<description>El ministro de IA, Evan Solomon, anunció en Toronto que el fondo llega a 1.000 millones de dólares canadienses y que el Gobierno pagará hasta el 80 % del cómputo que las empresas contraten a proveedores soberanos, frente a un máximo del 50 % en otras nubes. El programa, pensado para pymes, recibió unas 1.500 solicitudes y ya ha comprometido más de 118 millones para 89 empresas.</description>
+</item>
+<item>
+<title>[IA] Suiza detecta cinco ciberataques con agentes de IA en pocos días, cuatro de ellos con éxito</title>
+<link>https://www.reuters.com/legal/litigation/ai-agents-used-five-cyber-attacks-switzerland-government-says-2026-11-26/</link>
+<guid isPermaLink="false">2026-11-26-suiza-ciberataques-agentes-ia</guid>
+<pubDate>Thu, 26 Nov 2026 12:25:00 +0000</pubDate>
+<category>IA</category>
+<description>La Oficina Federal de Ciberseguridad (BACS) informó de que empresas y operadores de infraestructuras críticas han sufrido ataques en los que se usaron agentes de IA; en cuatro de los cinco casos los atacantes lograron comprometer sistemas. Tres de los objetivos eran proveedores de electricidad, agua y telecomunicaciones, según la radiotelevisión SRF. El organismo no ha señalado a ningún responsable.</description>
+</item>
+<item>
+<title>[IA] Microsoft detalla cómo grupos de hackers chinos y norcoreanos automatizan ataques con el marco de agentes ARTEX</title>
+<link>https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/</link>
+<guid isPermaLink="false">2026-11-26-microsoft-artex-hackers-estatales</guid>
+<pubDate>Thu, 26 Nov 2026 11:30:06 +0000</pubDate>
+<category>IA</category>
+<description>El equipo de inteligencia de amenazas de Microsoft explica que ARTEX, una herramienta publicada en GitHub en julio, reparte las fases de un ataque entre agentes especializados y puede pasar del reconocimiento al acceso privilegiado en minutos; en un caso, de unas credenciales expuestas a datos de Azure Key Vault en cinco. Entre sus usuarios cita a Salt Typhoon y a grupos norcoreanos, y recomienda defensas de engaño como honeypots y señuelos. Su posible uso en una intrusión en agencias de inteligencia de EE. UU. no está confirmado.</description>
+</item>
+<item>
+<title>[IA] Las restricciones de EE. UU. retrasan los próximos modelos insignia de Z.AI y Moonshot, según Reuters</title>
+<link>https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/</link>
+<guid isPermaLink="false">2026-11-26-zai-moonshot-retrasos-restricciones</guid>
+<pubDate>Thu, 26 Nov 2026 09:42:00 +0000</pubDate>
+<category>IA</category>
+<description>Fuentes citadas por Reuters aseguran que GLM-5.5, el gran modelo de Z.AI previsto para este mes, podría irse al primer trimestre de 2027, y que Moonshot teme que el hueco entre sus lanzamientos pase de unos seis meses a un año si pierde el cómputo que alquila fuera de China. Las causas serían la nueva norma de licencias de EE. UU. para centros de datos en el extranjero y las medidas contra la destilación de modelos estadounidenses. Ninguna de las dos empresas lo ha confirmado.</description>
+</item>
 <item>
 <title>[IA] Una investigación de CBS News revela que dos clientes californianos de Nvidia están controlados por empresas chinas</title>
 <link>https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/</link>
@@ -295,78 +335,6 @@
 <pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
 <category>IA</category>
 <description>Signal impedirá por defecto en los móviles que el sistema capture la pantalla de sus conversaciones, para que los asistentes de IA del sistema operativo no puedan leer los mensajes cifrados. La propia app admite que la protección es incompleta y pide a Apple, Google y Microsoft vías claras para excluirse. El cambio llega días después de que se supiera que el agente Muse de Meta podía leer chats de Signal.</description>
-</item>
-<item>
-<title>[IA] Nvidia cae un 3,3 % en bolsa pese a sus resultados récord por la incertidumbre tras la marcha de Huang</title>
-<link>https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-nvidia-slides-as-investors-weigh-ceo-transition-fallout-despite-strong-q3-results/</link>
-<guid isPermaLink="false">2026-11-19-nvidia-cae-bolsa-transicion</guid>
-<pubDate>Thu, 19 Nov 2026 22:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Las acciones de Nvidia cerraron el jueves a 145,98 dólares, un 3,3 % menos y muy cerca de su mínimo de las últimas 52 semanas, con casi el doble del volumen habitual. Los inversores sopesan la falta de un sucesor para Jensen Huang frente a unos resultados trimestrales muy fuertes; Morgan Stanley rebajó su precio objetivo a 260 dólares, aunque mantiene la recomendación de compra. AMD se dejó más de un 7 % en una sesión de caídas generalizadas en el sector.</description>
-</item>
-<item>
-<title>[IA] Google contrata a Blue Origin para lanzar en 2029 sus satélites con servidores de IA</title>
-<link>https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/</link>
-<guid isPermaLink="false">2026-11-19-google-blue-origin-suncatcher</guid>
-<pubDate>Thu, 19 Nov 2026 21:20:00 +0000</pubDate>
-<category>IA</category>
-<description>Google lanzará su Project Suncatcher, satélites solares con chips TPU, en un cohete New Glenn de Blue Origin previsto para el primer trimestre de 2029. Cada satélite tendría aproximadamente la capacidad de un rack de centro de datos, aunque no se ha dicho cuántos se enviarán. Google lo presenta como un proyecto de investigación a largo plazo.</description>
-</item>
-<item>
-<title>[IA] Anthropic se dispara más de un 17 % en su estreno en bolsa y cierra a 97 dólares</title>
-<link>https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-as-record-stock-debut-could-open-25-higher/</link>
-<guid isPermaLink="false">2026-11-19-anthropic-estreno-bolsa-97</guid>
-<pubDate>Thu, 19 Nov 2026 21:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Las acciones de Anthropic empezaron a negociarse el jueves en el Nasdaq con el símbolo ANT, ya entrada la sesión, y terminaron el día en torno a 97 dólares, más de un 17 % por encima del precio de salida de 83. Es la mayor salida a bolsa de la historia, por delante de la de SpaceX, y llegó en una jornada en la que el Nasdaq cayó más de un 2 %.</description>
-</item>
-<item>
-<title>[IA] Apple estaría desarrollando un agente de IA capaz de manejar el ordenador, según Bloomberg (rumor)</title>
-<link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/</link>
-<guid isPermaLink="false">2026-11-19-apple-agente-ia-rumor</guid>
-<pubDate>Thu, 19 Nov 2026 18:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Rumor: según Bloomberg, Apple trabaja en un agente de IA propio que podría usar aplicaciones, navegar por la web y programar en nombre del usuario. El proyecto estaría en una fase temprana y Apple no lo ha confirmado.</description>
-</item>
-<item>
-<title>[IA] Gemini aprende a manejar el Mac: abre apps, ordena archivos y rellena formularios</title>
-<link>https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/</link>
-<guid isPermaLink="false">2026-11-19-gemini-controla-mac</guid>
-<pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
-<category>IA</category>
-<description>La app de Gemini para macOS ya puede tomar el control del ordenador para hacer tareas por el usuario, como usar aplicaciones, organizar archivos locales o completar formularios. De momento solo funciona en inglés, en Estados Unidos y para los suscriptores de Google AI Plus, Pro y Ultra.</description>
-</item>
-<item>
-<title>[IA] Muse, el agente de IA de Meta, mezcla conversaciones y deja ver datos privados de otros usuarios, según un informe</title>
-<link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
-<guid isPermaLink="false">2026-11-19-meta-muse-mezcla-conversaciones</guid>
-<pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Empleados de Meta han detectado que Muse confunde conversaciones entre cuentas y ha llegado a mostrar a otras personas mensajes sobre cuidado de niños, recordatorios o saldos bancarios. Meta sostiene que los casos se dieron en versiones de prueba internas con funciones que el público no tiene.</description>
-</item>
-<item>
-<title>[IA] OpenAI usa sus propios modelos para diseñar chips, incluido su procesador Jalapeño</title>
-<link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
-<guid isPermaLink="false">2026-11-19-openai-modelos-diseno-chips</guid>
-<pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
-<category>IA</category>
-<description>OpenAI explica que sus modelos ya participan en el diseño de su chip propio, Jalapeño, y en trabajo conjunto con AMD, donde han propuesto rediseños de circuitos que reducen el área ocupada y aceleran cálculos. La empresa colabora también con Synopsys para llevar estas herramientas al diseño de semiconductores.</description>
-</item>
-<item>
-<title>[IA] Cuatro senadores proponen obligar a las empresas cotizadas a informar más sobre su uso de la IA</title>
-<link>https://www.semafor.com/article/11/19/2026/anthropic-ipo-heightens-washingtons-tech-scrutiny</link>
-<guid isPermaLink="false">2026-11-19-senado-ley-transparencia-ia</guid>
-<pubDate>Thu, 19 Nov 2026 14:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Coincidiendo con el estreno en bolsa de Anthropic, un grupo bipartidista de cuatro senadores estadounidenses ha presentado un proyecto de ley que exigiría a las empresas cotizadas dar más información sobre la IA que usan y sus riesgos. La propuesta refleja el creciente escrutinio de Washington sobre las grandes tecnológicas.</description>
-</item>
-<item>
-<title>[IA] Un ciberataque apoyado en IA deja días sin servicio sistemas internos de la Comisión Europea</title>
-<link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
-<guid isPermaLink="false">2026-11-19-comision-europea-ciberataque-ia</guid>
-<pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
-<category>IA</category>
-<description>La Comisión Europea ha confirmado un ciberataque que interrumpió durante días servicios internos como las nóminas y el reembolso de gastos médicos de su personal. Los investigadores creen que los atacantes usaron una herramienta de pruebas de seguridad con IA de libre acceso, y no se descarta que se hayan expuesto datos de empleados.</description>
 </item>
 </channel>
 </rss>
