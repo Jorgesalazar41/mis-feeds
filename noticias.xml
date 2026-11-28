@@ -6,8 +6,56 @@
 <atom:link href="https://raw.githubusercontent.com/Jorgesalazar41/mis-feeds/main/noticias.xml" rel="self" type="application/rss+xml"/>
 <description>Feed curado a mano: noticias de inteligencia artificial resumidas en español</description>
 <language>es-es</language>
-<lastBuildDate>Fri, 27 Nov 2026 07:53:50 +0100</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 07:55:13 +0100</lastBuildDate>
 
+<item>
+<title>[IA] El distrito escolar de Los Ángeles bloquea los resúmenes con IA de Google en los portátiles de sus alumnos</title>
+<link>https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search</link>
+<guid isPermaLink="false">2026-11-27-lausd-bloquea-ia-google</guid>
+<pubDate>Fri, 27 Nov 2026 19:29:48 -0800</pubDate>
+<category>IA</category>
+<description>El distrito escolar de Los Ángeles (LAUSD) ha confirmado que ha suspendido de forma temporal las AI Overviews de Google en los dispositivos de los estudiantes mediante un filtro de una empresa externa, sin anuncio público. Lo hace pese a que Google ha dicho que no dará a los colegios una forma de desactivar esos resúmenes, una política que entra en vigor a principios del año que viene. El distrito mantiene este curso una moratoria sobre el uso de IA por parte de los alumnos.</description>
+</item>
+<item>
+<title>[IA] Las acciones de Anthropic suben un 11 % y recuperan el precio de su salida a bolsa</title>
+<link>https://www.fool.com/coverage/stock-market-today/2026/11/27/stock-market-today-nov-27-anthropic-jumps-11-reclaiming-its-usd83-ipo-price-as-wall-street-rallies/</link>
+<guid isPermaLink="false">2026-11-27-anthropic-acciones-recuperan-opv</guid>
+<pubDate>Fri, 27 Nov 2026 21:51:03 +0000</pubDate>
+<category>IA</category>
+<description>Tras una primera semana muy movida en el Nasdaq, las acciones de Anthropic cerraron el viernes a 91,88 dólares, casi un 11 % más, y volvieron a superar los 83 dólares a los que salieron a bolsa. La subida coincidió con una jornada de rebote general, en la que el Nasdaq ganó más de un 2 % en una semana recortada por el festivo de Acción de Gracias.</description>
+</item>
+<item>
+<title>[IA] Polonia firma con Palantir un contrato de 300 millones de dólares para su sistema militar de IA Maven</title>
+<link>https://notesfrompoland.com/2026/11/27/poland-signs-300m-deal-with-palantir-for-ai-powered-battlefield-software-platform/</link>
+<guid isPermaLink="false">2026-11-27-polonia-palantir-maven</guid>
+<pubDate>Fri, 27 Nov 2026 19:52:24 +0000</pubDate>
+<category>IA</category>
+<description>El Ministerio de Defensa polaco ha firmado un contrato de cinco años y unos 1.200 millones de eslotis con Palantir para usar Maven Smart System, la plataforma de análisis del campo de batalla con IA que ya emplean el ejército de EE. UU. y la OTAN. El ministro Władysław Kosiniak-Kamysz asegura que los servidores y los datos quedarán bajo control de las Fuerzas Armadas polacas. Al acto asistió el consejero delegado de Palantir, Alex Karp.</description>
+</item>
+<item>
+<title>[IA] OpenAI contraataca y demanda a Apple por robo de secretos y presiones a proveedores</title>
+<link>https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/</link>
+<guid isPermaLink="false">2026-11-27-openai-contrademanda-apple</guid>
+<pubDate>Fri, 27 Nov 2026 17:00:00 +0000</pubDate>
+<category>IA</category>
+<description>OpenAI ha presentado en un tribunal de California una contrademanda contra Apple en la que la acusa de robarle secretos comerciales y de presionar a los fabricantes que trabajan en sus futuros dispositivos para que no colaboren con ella. Es su respuesta a la demanda que Apple interpuso en julio contra OpenAI y su filial io por llevarse información confidencial a través de antiguos empleados. Son acusaciones de OpenAI que tendrá que probar; el juicio del caso de Apple está previsto para julio de 2027.</description>
+</item>
+<item>
+<title>[IA] Alemania propone que las empresas de IA paguen a los autores cuando lo que generan compita con obras humanas</title>
+<link>https://www.tokenpost.com/news/regulation/63566</link>
+<guid isPermaLink="false">2026-11-27-alemania-remuneracion-ia-derechos-autor</guid>
+<pubDate>Fri, 27 Nov 2026 12:30:10 +0000</pubDate>
+<category>IA</category>
+<description>El Gobierno alemán ha enviado a la consulta de la Comisión Europea sobre derechos de autor e IA generativa un modelo en el que los proveedores pagarían a los titulares de derechos, a través de entidades de gestión, cuando sus textos, música o vídeos compitan directamente con obras humanas, no por el entrenamiento en sí. También pide que las empresas demuestren que cumplen el derecho de autor europeo antes de vender sus modelos en la UE. Es una propuesta: no detalla cómo se calcularía la tarifa, y se espera que Bruselas presente su proyecto en la primera mitad de 2027.</description>
+</item>
+<item>
+<title>[IA] SAP confirma un ciberataque y la prensa alemana apunta a que se copió y alteró código fuente en GitHub</title>
+<link>https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/</link>
+<guid isPermaLink="false">2026-11-27-sap-ciberataque-github</guid>
+<pubDate>Fri, 27 Nov 2026 07:36:14 +0000</pubDate>
+<category>IA</category>
+<description>SAP ha confirmado que investiga un incidente de seguridad tras detectar actividad sospechosa en su infraestructura de desarrollo, y asegura que no hay indicios de acceso a datos de negocio de sus clientes. Según Der Spiegel, los atacantes usaron tokens robados a empleados para copiar y modificar código en GitHub, y Handelsblatt cuenta que la empresa cambió sus claves de firma y paró su desarrollo automatizado. Algunas fuentes sugieren que se usaron agentes de IA en el ataque, pero eso no está confirmado.</description>
+</item>
 <item>
 <title>[IA] Nvidia pide a sus socios que frenen los envíos de servidores a cuatro países del sudeste asiático, según el WSJ</title>
 <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
@@ -271,70 +319,6 @@
 <pubDate>Sat, 21 Nov 2026 07:26:00 +0000</pubDate>
 <category>IA</category>
 <description>La conferencia de la Convención sobre Ciertas Armas Convencionales terminó en Ginebra con un acuerdo para seguir «elaborando» un posible pacto sobre armas autónomas letales hasta 2028, sin reglas obligatorias. La propuesta de siete países encabezados por Brasil para abrir ya negociaciones no salió adelante, pese a que Guterres pedía lanzarlas este mismo año.</description>
-</item>
-<item>
-<title>[IA] Amazon detalla cómo unos agentes de IA de atacantes encontraron por sí solos un fallo desconocido y tomaron un servidor universitario</title>
-<link>https://securityonline.info/monai-label-zero-day-cve-2026-133968/</link>
-<guid isPermaLink="false">2026-11-20-amazon-cairn-zero-day-monai</guid>
-<pubDate>Sat, 21 Nov 2026 01:32:00 +0000</pubDate>
-<category>IA</category>
-<description>Según Amazon, un grupo que atribuye a China usó el marco abierto de agentes Cairn para descubrir y explotar una vulnerabilidad grave en MONAI Label, una aplicación de imagen médica. En unos 11 minutos los agentes pasaron de explorar la API a escribir archivos en el servidor, y después un humano saltó a la red de otra universidad. El ataque ocurrió en septiembre y el fallo ya está corregido.</description>
-</item>
-<item>
-<title>[IA] Bessent descarta endurecer las restricciones a la venta de chips de Nvidia a China</title>
-<link>https://abcnews.com/Technology/wireStory/treasury-secretary-restrictions-needed-nvidia-chip-exports-china-138332241</link>
-<guid isPermaLink="false">2026-11-20-bessent-sin-mas-restricciones-nvidia-china</guid>
-<pubDate>Fri, 20 Nov 2026 22:36:00 +0000</pubDate>
-<category>IA</category>
-<description>El secretario del Tesoro, Scott Bessent, aseguró en CNBC que los controles actuales sobre los chips más antiguos de Nvidia son suficientes y que el acceso remoto desde China ya se ha recortado. Lo dijo después de que un informe de la Cámara revelara que Comercio aprobó licencias para casi 880.000 chips destinados a empresas chinas como Alibaba, Tencent o Baidu; Nvidia insiste en que sus envíos de H200 fueron legales.</description>
-</item>
-<item>
-<title>[IA] Trump amenaza con un «impuesto tremendo» a las empresas de EE. UU. que construyan centros de datos en el extranjero</title>
-<link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
-<guid isPermaLink="false">2026-11-20-trump-impuesto-centros-datos-extranjero</guid>
-<pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
-<category>IA</category>
-<description>En una rueda de prensa en la Casa Blanca, Donald Trump dijo que no permitirá que las compañías estadounidenses levanten centros de datos fuera del país y que quien lo haga pagará un impuesto muy alto. No dio cifras, plazos ni un texto legal, así que por ahora es solo una advertencia; el aviso afecta de lleno a proyectos como el de Google en Finlandia.</description>
-</item>
-<item>
-<title>[IA] El Senado aprueba por 62 a 33 una reforma de permisos energéticos que hace pagar a los grandes centros de datos la mejora de la red</title>
-<link>https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html</link>
-<guid isPermaLink="false">2026-11-20-senado-reforma-permisos-centros-datos</guid>
-<pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
-<category>IA</category>
-<description>El Senado de EE. UU. ha aprobado con apoyo de ambos partidos una ley que acelera los permisos para infraestructuras energéticas, una demanda clave del sector de la IA. El texto impide además que los centros de datos de hiperescala trasladen a los consumidores el coste de reforzar la red eléctrica. Ahora tiene que pasar por la Cámara de Representantes.</description>
-</item>
-<item>
-<title>[IA] Cursor dice al Congreso que estudia dejar de usar modelos de IA chinos por el riesgo geopolítico</title>
-<link>https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html</link>
-<guid isPermaLink="false">2026-11-20-cursor-modelos-chinos-congreso</guid>
-<pubDate>Fri, 20 Nov 2026 19:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Cursor, el editor de código con IA que ahora pertenece a SpaceX, ha comunicado a comités de la Cámara de Representantes que se plantea retirar progresivamente los modelos de pesos abiertos desarrollados en China. Su modelo Composer 2 se construyó sobre Kimi, de la china Moonshot AI. De momento no hay una decisión tomada.</description>
-</item>
-<item>
-<title>[IA] Thinking Machines lanza Inkling 2 Mini, un modelo abierto de 26.400 millones de parámetros que cabe en un portátil</title>
-<link>https://thinkingmachines.ai/news/inkling-2-mini/</link>
-<guid isPermaLink="false">2026-11-20-thinking-machines-inkling-2-mini</guid>
-<pubDate>Fri, 20 Nov 2026 18:00:00 +0000</pubDate>
-<category>IA</category>
-<description>El laboratorio de Mira Murati ha publicado con pesos abiertos Inkling 2 Mini, un modelo que usa solo 3.400 millones de parámetros activos por token y repite capas en bucle para razonar más sin crecer. Según sus propias pruebas, es el mejor modelo abierto de menos de 100.000 millones de parámetros en tareas de programación como DeepSWE, y puede ejecutarse en un Mac con suficiente memoria.</description>
-</item>
-<item>
-<title>[IA] Anthropic eleva a 93.500 millones lo recaudado en su OPV tras ejercer los bancos la opción de sobreasignación</title>
-<link>https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html</link>
-<guid isPermaLink="false">2026-11-20-anthropic-greenshoe-93500</guid>
-<pubDate>Fri, 20 Nov 2026 13:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Los bancos colocadores de la salida a bolsa de Anthropic han ejercido el llamado «greenshoe», que les permite vender acciones adicionales al precio de salida de 83 dólares. Con ello la operación suma unos 12.000 millones más y el total captado pasa de 81.300 a 93.500 millones de dólares, ampliando el récord de la mayor OPV de la historia.</description>
-</item>
-<item>
-<title>[IA] Signal bloquea por defecto las capturas de pantalla para que los agentes de IA no lean los chats</title>
-<link>https://cybernews.com/privacy/signal-restricts-screenshots/</link>
-<guid isPermaLink="false">2026-11-20-signal-bloquea-capturas-agentes-ia</guid>
-<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
-<category>IA</category>
-<description>Signal impedirá por defecto en los móviles que el sistema capture la pantalla de sus conversaciones, para que los asistentes de IA del sistema operativo no puedan leer los mensajes cifrados. La propia app admite que la protección es incompleta y pide a Apple, Google y Microsoft vías claras para excluirse. El cambio llega días después de que se supiera que el agente Muse de Meta podía leer chats de Signal.</description>
 </item>
 </channel>
 </rss>
